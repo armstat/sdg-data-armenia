@@ -1,13 +1,13 @@
-Year,Units,Education type,Category,Value
-2015,%,,,42.0
-2016,%,,,41.9
-2017,%,,,41.0
-2015,%,Education,,8.7
-2016,%,Education,,8.4
-2017,%,Education,,8.3
-2015,%,,Health,6.1
-2016,%,,Health,6.1
-2017,%,,Health,5.5
-2015,%,,Social protection,27.2
-2016,%,,Social protection,27.4
-2017,%,,Social protection,27.2
+Year,Units,Category,Value
+2015,%,Total,42.0
+2016,%,Total,41.9
+2017,%,Total,41.0
+2015,%,Education,8.7
+2016,%,Education,8.4
+2017,%,Education,8.3
+2015,%,Health,6.1
+2016,%,Health,6.1
+2017,%,Health,5.5
+2015,%,Social protection,27.2
+2016,%,Social protection,27.4
+2017,%,Social protection,27.2
