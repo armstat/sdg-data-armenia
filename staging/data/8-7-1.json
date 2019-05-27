@@ -1,1 +1,1 @@
-{"Year":[2015,2015,2015,2015,2015,2015],"Units":["number","number","number","number","number","number"],"Sex":[null,"Male","Female",null,null,null],"Age":[null,null,null,"5-11 age","12-15 age","16-17 age"],"Value":[39311.4,27300.0,12000.0,11200.0,14000.0,14100.0]}
+{"Year":[2015,2015,2015,2015,2015,2015,2015],"Units":["number","%","number","number","number","number","number"],"Sex":[null,null,"male","female",null,null,null],"Age":[null,null,null,null,"5-11 age","12-15 age","16-17 age"],"Value":[39311.4,8.7,27300.0,12000.0,11200.0,14000.0,14100.0]}
