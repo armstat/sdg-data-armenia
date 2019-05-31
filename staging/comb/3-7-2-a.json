@@ -1,1 +1,1 @@
-{"data":{"Year":[2015,2016,2017],"Units":["per 1,000 women","per 1,000 women","per 1,000 women"],"Value":[5.8,5.4,4.8]},"edges":[]}
+{"data":{"Year":[2015,2016,2017,2015,2016,2015,2016],"Units":["per 1,000 women","per 1,000 women","per 1,000 women","%","%","%","%"],"Location":[null,null,null,"urban","urban","rural","rural"],"Value":[5.8,5.4,4.8,5.0,4.4,7.0,7.0]},"edges":[]}
