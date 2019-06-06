@@ -1,1 +1,1 @@
-{"data":{"Year":[2015,2015,2015],"Units":["%","%","%"],"Category":[null,null,null],"Location":[null,"urban","rural"],"Value":[76.6,96.1,48.6]},"edges":[]}
+{"data":{"Year":[2015,2016,2015,2015,2015],"Units":["%","%","%","%","%"],"Category":[null,null,"6.2.1 Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water",null,null],"Location":[null,null,null,"Urban","Rural"],"Value":[69.9,69.7,76.6,96.1,48.6]},"edges":[]}
