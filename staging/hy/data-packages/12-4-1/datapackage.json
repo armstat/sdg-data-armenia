@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-4-1",
+  "title": "Վտանգավոր և այլ քիմիական նյութերի և թափոնների վերաբերյալ միջազգային բազմակողմ բնապահպանական համաձայնագրերի կողմերի թիվը, որոնք կատարում են տեղեկությունների հաղորդման իրենց հանձնառություններն ու պարտավորությունները, ինչպես դա պահանջվում է յուրաքանչյուր համապատասխան համաձայնագրով"
+}

@@ -1,0 +1,57 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Վտանգավոր թափոնների գոյացումը",
+                "Տրվել է այլ կազմակերպությունների",
+                "Վնասազերծվել և ոչնչացվել են կազմակերպությունների կողմից",
+                "Օգտագործվել են կազմակերպությունների կողմից",
+                "Կազմակերպությունների միջոցներով տեղափոխվել են տեղադրման վայրեր",
+                ""
+              ]
+            },
+            "title": "Տեսակ"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "կգ մեկ շնչի հաշվով",
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-4-2",
+  "title": "Վտանգավոր թափոնների գոյացումը ըստ առաջացումը մեկ շնչի հաշվով և աղտազերծված թափոնների համամասնությունը՝ ըստ աղտազերծման տեսակների"
+}

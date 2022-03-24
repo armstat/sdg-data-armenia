@@ -1,0 +1,82 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Access to servises",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "household access to centralized sewerage system",
+                "household access to centralized water supply",
+                "household access to garbage disposal (garbage collector system and/or disposal by truck,  garbage piled up for disposal)",
+                "internet accessibility for household",
+                "internet accessibility for household members",
+                "proportion of households with primary reliance on clean fuels and technology",
+                "share of households with electricity supply"
+              ]
+            },
+            "title": "Access to servises"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "rural",
+                "urban"
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "female",
+                "male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "%"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-4-1",
+  "title": "Proportion of population living in households with access to basic services"
+}

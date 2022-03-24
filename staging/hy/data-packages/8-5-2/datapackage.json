@@ -1,0 +1,91 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ընդամենը",
+                "հաշմանդամությամբ",
+                ""
+              ]
+            },
+            "title": "Տեսակ"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-75 տարեկան",
+                "15-74 age",
+                "15+ age",
+                "15-24 տարեկան",
+                ""
+              ]
+            },
+            "title": "Տարիք"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "արական",
+                "իգական",
+                ""
+              ]
+            },
+            "title": "Սեռ"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "քաղաք",
+                "գյուղ",
+                ""
+              ]
+            },
+            "title": "Տարածք"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-5-2",
+  "title": "Գործազրկության մակարդակն ըստ սեռի, տարիքային խմբերի և հաշմանդամություն ունենալու հանգամանքի"
+}

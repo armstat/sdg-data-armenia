@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "7-b-1",
+  "title": "Էներգիայի արդյունավետության բնագավառում ներդրումները, որպես ՀՆԱ¬ի տոկոս, և ֆինանսական փոխանցումների մեջ արտաքին ուղիղ ներդրումների քանակը կայուն զարգացման ծառայությունների ենթակառուցվածքների ու տեխնոլոգիայի համար"
+}

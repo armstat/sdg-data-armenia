@@ -1,0 +1,53 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ֆիզիկական բռնություն",
+                "սեռական բռնություն",
+                ""
+              ]
+            },
+            "title": "Տեսակ"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-2-1",
+  "title": "Երբևէ զուգընկեր ունեցած 15 տարեկան և ավելի բարձր տարիքի կանանց և աղջիկների համամասնությունը, ովքեր ենթարկվել են ֆիզիկական, սեռական կամ հոգեբանական բռնության ներկա կամ նախկին զուգընկերոջ կողմից վերջին 12 ամիսների ընթացքում, ըստ բռնության ձևի և ըստ տարիքի"
+}

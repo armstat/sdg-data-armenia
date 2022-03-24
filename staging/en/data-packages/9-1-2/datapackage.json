@@ -1,0 +1,70 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "freight volumes",
+                "passenger volume"
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Transportation type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "air transport",
+                "electricity transport",
+                "of which  passenger taxi",
+                "pipelines",
+                "railway transport",
+                "road transport"
+              ]
+            },
+            "title": "transportation type"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1,000 people",
+                "1,000 tons"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-1-2",
+  "title": "Passenger and freight volumes, by mode of transport"
+}

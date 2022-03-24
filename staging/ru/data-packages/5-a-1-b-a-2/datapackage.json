@@ -1,0 +1,54 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "самостоятельно",
+                "совместно с кем-то еще",
+                "самостоятельно и совместно с кем-то еще",
+                ""
+              ]
+            },
+            "title": "Категория"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-a-1-b-a-2",
+  "title": "Доля мужчин в возрасте 15-49 лет, имеющих право собственности (самостоятельно, совместно с кем-либо или вместе или совместно, с кем-либо еще) на сельскохозяйственные или несельскохозяйственные земли, у которых есть титул на право собственности и их имя указано в титуле"
+}

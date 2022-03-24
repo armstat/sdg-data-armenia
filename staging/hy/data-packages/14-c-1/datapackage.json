@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "14-c-1",
+  "title": "Համաձայն Ծովային իրավունքի ՄԱԿ-ի կոնվենցիայի օվկիանոսների և նրանց պաշարների պահպանության ու կայուն օգտագործման սկզբունքի միջազգային իրավունքի իրագործման միջոցով իրավական, քաղաքականության և ինստիտուցիոնալ շրջանակների, օվկիանոսների հետ առնչություն ունեցող իրավական գործիքների վավերացման, ընդունման ու կատարման մեջ առաջընթաց գրանցած երկրների թիվը"
+}

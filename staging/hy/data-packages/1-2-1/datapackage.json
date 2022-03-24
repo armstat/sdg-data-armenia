@@ -1,0 +1,90 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "քաղաք",
+                "գյուղ",
+                ""
+              ]
+            },
+            "title": "Տարածք"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "իգական",
+                "արական",
+                ""
+              ]
+            },
+            "title": "Սեռ"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-5 տարեկան",
+                "6-17 տարեկան",
+                "18-64 տարեկան",
+                "65 և բարձր տարիքի",
+                ""
+              ]
+            },
+            "title": "Տարիք"
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "հաշմանդամներ",
+                ""
+              ]
+            },
+            "title": "Տեսակ"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-2-1",
+  "title": "Աղքատության ազգային շեմից ցած ապրող բնակչության համամասնությունը՝ ըստ սեռի և տարիքային խմբի"
+}

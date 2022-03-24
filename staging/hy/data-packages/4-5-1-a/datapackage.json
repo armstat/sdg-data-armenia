@@ -1,0 +1,59 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Education type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "տարրական",
+                "հիմնական",
+                "ավագ",
+                "միջնակարգ",
+                "նախնական մասնագիտական",
+                "միջին մասնագիտական",
+                "բարձրագույն կրթության առաջին աստիճան",
+                "բարձրագույն կրթության երկրորդ աստիճան",
+                ""
+              ]
+            },
+            "title": "Կրթության տեսակ"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-5-1-a",
+  "title": "Սեռային հավասարության ցուցանիշ"
+}

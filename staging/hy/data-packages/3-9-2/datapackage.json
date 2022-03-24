@@ -1,0 +1,52 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "100,000  բնակչի հաշվով",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "վարակիչ և մակաբուծական հիվանդություններ",
+                ""
+              ]
+            },
+            "title": "Տեսակ"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-9-2",
+  "title": "Աղտոտված ջրի, անապահով սանիտարական պայմանների ու հիգիենայի իսպառ բացակայության պատճառով մահացությունների թիվը (անապահով «Ջուր և սանիտարահիգիենիկ պայմաններ բոլորի համար» (WASH) ծառայություններին ենթարկված լինելը)"
+}

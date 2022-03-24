@@ -1,0 +1,51 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Services",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ջրամատակարարում",
+                "կոյուղի",
+                "աղբի հավաքում",
+                "հեռախոս ստացիոնար",
+                "էլեկտրաէներգիայի մատակարարում",
+                "փոստ",
+                "բանկերի աշխատանք",
+                "ոռոգում",
+                "առողջապահություն",
+                "կրթություն",
+                "հասարակական տրանսպորտ",
+                ""
+              ]
+            },
+            "title": "Ծառայություններ"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-6-2",
+  "title": "Հանրային ծառայություններից վերջին անգամ օգտվելիս բավարարված բնակչության համամասնությունը"
+}

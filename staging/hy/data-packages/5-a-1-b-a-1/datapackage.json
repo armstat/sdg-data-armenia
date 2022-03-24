@@ -1,0 +1,54 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "միայնակ",
+                "մեկ ուրիշի հետ համատեղ",
+                "միայնակ և մեկ ուրիշի հետ համատեղ",
+                ""
+              ]
+            },
+            "title": "Տեսակ"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-a-1-b-a-1",
+  "title": "Գյուղատնտեսական  կամ ոչ գյուղատնտեսական հողերի նկատմամբ սեփականության իրավունք (միայնակ, մեկ ուրիշի հետ համատեղ կամ միայնակ և մեկ ուրիշի հետ համատեղ) ունեցող 15-49  տարեկան կանանց մասնաբաժինը, որոնք ունեն սեփականության իրավունքը հաստատող փաստաթուղթ և նրանց անունը նշված է փաստաթղթում"
+}

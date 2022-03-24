@@ -1,0 +1,65 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1,000 people",
+                "1,000 tons",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "passenger volume",
+                "freight volumes",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Transportation type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "railway transport",
+                "road transport",
+                "of which  passenger taxi",
+                "air transport",
+                "electricity transport",
+                "pipelines",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-1-2",
+  "title": "global_indicators.9-1-2-title"
+}

@@ -1,0 +1,69 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Acute  respiratory infections in young children  (estimated under 5 years of age)",
+                "Cerebrovascular (stroke) in adults (estimated above 25 years)",
+                "Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years)",
+                "Ischaemic heart diseases (IHD) in adults (estimated above 25 years)",
+                "Lung cancer in adults (estimated above 25 years)"
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male",
+                "Total"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "per 100000 population"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-9-1",
+  "title": "Mortality rate attributed to household and ambient air pollution"
+}
