@@ -1,0 +1,65 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "արական",
+                "իգական",
+                ""
+              ]
+            },
+            "title": "Սեռ"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "թերսնուցում",
+                "հավելյալ քաշ",
+                ""
+              ]
+            },
+            "title": "Տեսակ"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-2-2",
+  "title": "Թերսնուցման տարածվածություն (քաշ-հասակային հարաբերակցության գործակցի >+2 կամ <2 ստանդարտ շեղում ԱՀԿ երեխայի աճի չափորոշիչների միջնարժեքից (մեդիան) մինչև 5 տարեկան երեխաների շրջանում՝ ըստ տեսակի (սուր թերսնուցում և գերքաշություն)"
+}

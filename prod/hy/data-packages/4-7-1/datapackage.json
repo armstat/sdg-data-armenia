@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-7-1",
+  "title": "Թե ինչ չափով են (i) գլոբալ քաղաքացիության կրթությունն ու (ii) կրթություն հանուն կայուն զարգացման առարկաները՝ ներառյալ գենդերային հավասարության ու մարդու իրավունքների ներգծումը բոլոր մակարդակներում ընդգրկված (ա) ազգային կրթության ռազմավարության, (բ) առարկայացանկի, (գ) ուսուցիչների վերապատրաստման, (դ) աշակերտների գնահատման մեջ"
+}

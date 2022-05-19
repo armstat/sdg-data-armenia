@@ -1,0 +1,109 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "արական",
+                "իգական",
+                ""
+              ]
+            },
+            "title": "Սեռ"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "քաղաք",
+                "գյուղ",
+                ""
+              ]
+            },
+            "title": "Տարածք"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17 տարեկան",
+                "18-66 տարեկան",
+                ""
+              ]
+            },
+            "title": "Տարիք"
+          },
+          {
+            "name": "Employment status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "տնտեսապես ակտիվ բնակչություն",
+                "զբաղվածներ",
+                "վարձու աշխատողներ",
+                "ինքնազբաղված",
+                "այլ զբաղվածներ",
+                "գործազուրկներ",
+                "տնտեսապես ոչ ակտիվ բնակչություն",
+                "economically inactive population",
+                "թոշակառուներ",
+                "ուսանողներ",
+                "այլ ոչ ակտիվ բնակչություն",
+                ""
+              ]
+            },
+            "title": "Զբաղվածության կարգավիճակ"
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "հաշմանդամներ",
+                ""
+              ]
+            },
+            "title": "Տեսակ"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-1-1",
+  "title": "Աղքատության միջազգային շեմից ցած ապրող բնակչության համամասնությունը՝ ըստ սեռի, տարիքային խմբի, զբաղվածության կարգավիճակի և աշխարհագրական վայրի (քաղաքային/գյուղական)"
+}

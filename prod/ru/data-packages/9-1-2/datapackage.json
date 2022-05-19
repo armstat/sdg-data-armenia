@@ -1,0 +1,70 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1,000 человек",
+                "1,000 тонна",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "объем  пассажироперевозок",
+                "объем грузоперевозок",
+                ""
+              ]
+            },
+            "title": "Категория"
+          },
+          {
+            "name": "Transportation type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "железнодорожный транспорт",
+                "автомобильный транспорт",
+                "из коих- легковой  таксомоторный",
+                "воздушный  транспорт",
+                "электротранспорт",
+                "магистральный трубопроводный транспорт",
+                ""
+              ]
+            },
+            "title": "вид транспорта"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-1-2",
+  "title": "Объем пассажирских и грузовых перевозок в разбивке по видам транспорта"
+}

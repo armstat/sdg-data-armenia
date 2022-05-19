@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-2-2",
+  "title": "15 տարեկան և ավելի բարձր տարիքի կանանց և աղջիկների համամասնությունը, ովքեր ենթարկվել են սեռական բռնության զուգընկեր չհանդիսացող անձանց կողմից վերջին 12 ամիսների ընթացքում, ըստ տարիքային խմբի և բռնության կատարման վայրի"
+}

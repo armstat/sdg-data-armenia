@@ -1,0 +1,53 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "տնային տնտեսությունների ծախսերի կամ մեկ շնչին ընկնող եկամտի աճի ցուցանիշները բնակչության ստորին 40 տոկոսի շրջանում",
+                "տնային տնտեսությունների ծախսերի կամ մեկ շնչին ընկնող եկամտի աճի ցուցանիշները ամբողջ բնակչության շրջանում",
+                ""
+              ]
+            },
+            "title": "Տեսակ"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-1-1",
+  "title": "Տնային տնտեսությունների ծախսերի կամ մեկ շնչին ընկնող եկամտի աճի ցուցանիշները բնակչության ստորին 40 տոկոսի և ամբողջ բնակչության շրջանում"
+}

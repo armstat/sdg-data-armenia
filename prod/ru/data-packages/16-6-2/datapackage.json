@@ -1,0 +1,51 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Services",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "водоснабжение",
+                "канализация",
+                "сбор мусора",
+                "телефон стационарный",
+                "блок питания",
+                "почта",
+                "банковские работы",
+                "орошение",
+                "здравоохранение",
+                "образование",
+                "общественный транспорт",
+                ""
+              ]
+            },
+            "title": "Сервисы"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-6-2",
+  "title": "Доля  населения, удовлетворенного последним опытом использования государственных услуг"
+}
