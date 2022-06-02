@@ -125,3 +125,6 @@ Year,Units,Sex,Age,Value
 2018,person,female,aged 16-17 years,2
 2019,person,female,aged 16-17 years,0
 2020,person,female,aged 16-17 years,0
+2021,person,,,17
+2021,person,male,,8
+2021,person,female,,9
