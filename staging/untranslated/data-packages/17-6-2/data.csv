@@ -17,3 +17,6 @@ Year,Units,Category,Value
 2018,%,equal to or greater than 10 Mbit/s,5.6
 2019,%,equal to or greater than 10 Mbit/s,7.1
 2020,%,equal to or greater than 10 Mbit/s,8.8
+2021,%,equal to or greater than 256 kbit/s and less than 2 Mbit/s,0.04
+2021,%,equal to or greater than 2 Mbit/s and less than 10 Mbit/s,4.6
+2021,%,equal to or greater than 10 Mbit/s,11.1
