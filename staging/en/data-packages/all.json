@@ -31,7 +31,7 @@
               "enum": [
                 "",
                 "economically active population",
-                "economically inactive population",
+                "economically inactive  population",
                 "economically inactive population",
                 "employed",
                 "other employed",
@@ -1157,7 +1157,7 @@
                 "",
                 "household access to centralized sewerage system",
                 "household access to centralized water supply",
-                "household access to garbage disposal (garbage collector system and/or disposal by truck,  garbage piled up for disposal)",
+                "household access to garbage disposal",
                 "internet accessibility for household",
                 "internet accessibility for household members",
                 "proportion of households with primary reliance on clean fuels and technology",
@@ -1272,7 +1272,7 @@
                 "social-biological disaster"
               ]
             },
-            "title": "disaster type"
+            "title": "Disaster type"
           },
           {
             "name": "Units",
@@ -2273,7 +2273,7 @@
                 "social-biological disaster"
               ]
             },
-            "title": "disaster type"
+            "title": "Disaster type"
           },
           {
             "name": "Units",
@@ -3209,7 +3209,7 @@
                 "social-biological disaster"
               ]
             },
-            "title": "disaster type"
+            "title": "Disaster type"
           },
           {
             "name": "Units",
@@ -4388,7 +4388,7 @@
                 "high plant species registered in the Red Book of RA"
               ]
             },
-            "title": "education type"
+            "title": "Education type"
           },
           {
             "name": "Units",
@@ -8418,7 +8418,7 @@
               "enum": [
                 "",
                 "any contraceptive method",
-                "modern  contraceptive methods"
+                "modern contraceptive methods"
               ]
             },
             "title": "Category"
@@ -9634,7 +9634,7 @@
                 "specialized secondary education"
               ]
             },
-            "title": "education type"
+            "title": "Education type"
           },
           {
             "name": "Sex",
@@ -9806,7 +9806,7 @@
                 "secondary"
               ]
             },
-            "title": "education type"
+            "title": "Education type"
           },
           {
             "name": "Units",
@@ -10399,8 +10399,8 @@
             "constraints": {
               "enum": [
                 "",
-                "b) local governments",
-                "a) national parliaments"
+                "local governments",
+                "national parliaments"
               ]
             },
             "title": "Category"
@@ -12792,7 +12792,7 @@
                 "road transport"
               ]
             },
-            "title": "transportation type"
+            "title": "Transportation type"
           },
           {
             "name": "Units",
