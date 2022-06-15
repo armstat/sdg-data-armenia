@@ -31,68 +31,68 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17 տարեկան",
-                "18-66 տարեկան",
+                "aged 0-17 years",
+                "aged 18-66 years",
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Employment status",
             "type": "string",
             "constraints": {
               "enum": [
-                "տնտեսապես ակտիվ բնակչություն",
-                "զբաղվածներ",
-                "վարձու աշխատողներ",
-                "ինքնազբաղված",
-                "այլ զբաղվածներ",
-                "գործազուրկներ",
-                "տնտեսապես ոչ ակտիվ բնակչություն",
+                "economically active population",
+                "employed",
+                "wage employed",
+                "self-employed",
+                "other employed",
+                "unemployment",
+                "economically inactive  population",
                 "economically inactive population",
-                "թոշակառուներ",
-                "ուսանողներ",
-                "այլ ոչ ակտիվ բնակչություն",
+                "pensioners",
+                "students",
+                "other inactive population",
                 ""
               ]
             },
-            "title": "Զբաղվածության կարգավիճակ"
+            "title": "Employment status"
           },
           {
             "name": "Type",
             "type": "string",
             "constraints": {
               "enum": [
-                "հաշմանդամներ",
+                "disabled",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Type"
           },
           {
             "name": "Value",

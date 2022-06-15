@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 հա",
+                "1,000 ha",
                 ""
               ]
             },
@@ -31,13 +31,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "վարելահողեր",
-                "բազմամյա տնկարկներ",
-                "ցանքատարածություններ",
+                "arable land",
+                "perennial plants",
+                "sown areas",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",

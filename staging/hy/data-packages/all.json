@@ -33,68 +33,68 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17 տարեկան",
-                "18-66 տարեկան",
+                "aged 0-17 years",
+                "aged 18-66 years",
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Employment status",
             "type": "string",
             "constraints": {
               "enum": [
-                "տնտեսապես ակտիվ բնակչություն",
-                "զբաղվածներ",
-                "վարձու աշխատողներ",
-                "ինքնազբաղված",
-                "այլ զբաղվածներ",
-                "գործազուրկներ",
-                "տնտեսապես ոչ ակտիվ բնակչություն",
+                "economically active population",
+                "employed",
+                "wage employed",
+                "self-employed",
+                "other employed",
+                "unemployment",
+                "economically inactive  population",
                 "economically inactive population",
-                "թոշակառուներ",
-                "ուսանողներ",
-                "այլ ոչ ակտիվ բնակչություն",
+                "pensioners",
+                "students",
+                "other inactive population",
                 ""
               ]
             },
-            "title": "Զբաղվածության կարգավիճակ"
+            "title": "Employment status"
           },
           {
             "name": "Type",
             "type": "string",
             "constraints": {
               "enum": [
-                "հաշմանդամներ",
+                "disabled",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Type"
           },
           {
             "name": "Value",
@@ -136,49 +136,49 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "իգական",
-                "արական",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-5 տարեկան",
-                "6-17 տարեկան",
-                "18-64 տարեկան",
-                "65 և բարձր տարիքի",
+                "aged 0-5 years",
+                "aged 6-17 years",
+                "aged 18-64 years",
+                "aged 65 and older",
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Type",
             "type": "string",
             "constraints": {
               "enum": [
-                "հաշմանդամներ",
+                "disabled",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Type"
           },
           {
             "name": "Value",
@@ -221,37 +221,37 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "երեխաներ",
+                "children",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-5 տարեկան",
-                "6-17 տարեկան",
-                "18-64 տարեկան",
-                "65 և բարձր տարիքի",
+                "aged 0-5 years",
+                "aged 6-17 years",
+                "aged 18-64 years",
+                "aged 65 and older",
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -293,38 +293,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17 տարեկան",
-                "18-39 տարեկան",
-                "40-62 տարեկան",
-                "63 և բարձր տարիքի",
+                "aged 0-17 years",
+                "aged 18-39 years",
+                "aged 40-62 years",
+                "aged 63 and older",
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -366,38 +366,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-4 տարեկան",
-                "5-9 տարեկան",
-                "10-14 տարեկան",
-                "15 տարեկան",
-                "16-17 տարեկան",
+                "aged 0-4 years",
+                "aged 5-9 years",
+                "aged 10-14 years",
+                "aged 15 years",
+                "aged 16-17 years",
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "ընդամենը՝ հաշմանդամություն ունեցող երեխաների (0-17 տարեկան) ընդհանուր թվաքանակից",
+                "total to the total number of children with disabilities (aged 0-17 years)",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -439,44 +439,44 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "տարիքային",
-                "արտոնյալ պայմաններով",
-                "երկարամյա ծառայության",
-                "մասնակի",
-                "հաշմանդամության",
-                "կերակրողին կորցնելու դեպքում",
-                "այլ օրենքներով սահմանված",
-                "զինծառայության հետ կապված",
+                "age-related",
+                "on privileged terms",
+                "long-term service",
+                "partially",
+                "disability",
+                "in case of losing a breadwinner",
+                "by other laws",
+                "related to military service",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "մինչև 51 տարեկան",
-                "51-55 տարեկան",
-                "56-62 տարեկան",
-                "63 և բարձր տարիքի",
+                "up to 51 years old",
+                "aged 51 - 55 years",
+                "aged 56 - 62 years",
+                "aged 63 and older",
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -518,12 +518,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -635,39 +635,39 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "ծերության",
-                "հաշմանդամության",
-                "կերակրողին կորցնելու դեպքում",
+                "old age",
+                "disability",
+                "in case of losing a breadwinner",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "մինչև 51 տարեկան",
-                "51-55 տարեկան",
-                "56-62 տարեկան",
-                "63 և բարձր տարիքի",
+                "up to 51 years old",
+                "aged 51 - 55 years",
+                "aged 56 - 62 years",
+                "aged 63 and older",
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -698,7 +698,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "մարդ",
+                "person",
                 "%",
                 ""
               ]
@@ -710,38 +710,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "մինչև 1 տարեկան",
-                "1-6 տարեկան",
-                "7-9 տարեկան",
-                "10-15 տարեկան",
-                "16-17 տարեկան",
+                "up to 1 year old",
+                "aged 1-6 years",
+                "aged 7-9 years",
+                "aged 10-15 years",
+                "aged 16-17 years",
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "ընդամենը՝ համապատասխանն տարիքի բնակչությունից",
+                "total to the population of respective age",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -772,7 +772,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "մարդ",
+                "person",
                 ""
               ]
             },
@@ -783,27 +783,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "մինչև 1 տարեկան",
-                "1-6 տարեկան",
-                "7-9 տարեկան",
-                "10-15 տարեկան",
-                "16-17 տարեկան",
+                "up to 1 year old",
+                "aged 1-6 years",
+                "aged 7-9 years",
+                "aged 10-15 years",
+                "aged 16-17 years",
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -834,7 +834,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "մարդ",
+                "person",
                 "%",
                 ""
               ]
@@ -846,23 +846,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "ընդամենը՝ հաշմանդամություն ունեցող 0-17 տարեկան երեխաներից",
+                "total to children aged 0-17 years with disabilities",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -893,7 +893,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "մարդ",
+                "person",
                 ""
               ]
             },
@@ -904,28 +904,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "մինչև 6 ամսական",
-                "6 ամսականից մինչև 1 տարեկան",
-                "1-5 տարեկան",
-                "6-9 տարեկան",
-                "10-15 տարեկան",
-                "16-17 տարեկան",
+                "up to 6 months",
+                "from 6 months to 1 year",
+                "aged 1-5 years",
+                "aged 6-9 years",
+                "aged 10-15 years",
+                "aged 16-17 years",
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -956,7 +956,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "մարդ",
+                "person",
                 "%",
                 ""
               ]
@@ -968,26 +968,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "երկու ծնող ունեցող երեխա",
-                "միայնակ մոր երեխա",
-                "մնացել է առանց ծնողական խնամքի",
-                "այլ",
+                "child with two parents",
+                "single mother child",
+                "left without parental care",
+                "other",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -1018,7 +1018,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "մարդ",
+                "person",
                 ""
               ]
             },
@@ -1159,13 +1159,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "տնային տնտեսությունների հասանելիությունը կենտրոնացված ջրամատակարարմանը",
-                "տնային տնտեսությունների հասանելիությունը կենտրոնացված  ջրահեռացմանը",
-                "տնային տնտեսությունների հասանելիությունը կենտրոնացված աղբահանությանը  (աղբամուղ և/կամ հավաքվում է բեռնատարով. թափվում է աղբակույտի մեջ)",
-                "ինտերնետային կապի հասանելիությունը տնային տնտեսությանը",
-                "ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին",
-                "էլեկտրաէներգիա ունեցող տնային տնտեսությունների մասնաբաժինը",
-                "մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների",
+                "household access to centralized water supply",
+                "household access to centralized sewerage system",
+                "household access to garbage disposal",
+                "internet accessibility for household",
+                "internet accessibility for household members",
+                "share of households with electricity supply",
+                "proportion of households with primary reliance on clean fuels and technology",
                 ""
               ]
             },
@@ -1187,24 +1187,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -1271,7 +1271,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "100,000  բնակչի հաշվով",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -1282,13 +1282,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "տարերային աղետներ",
-                "տեխնածին աղետներ",
-                "սոցիալ-կենսաբանական աղետներ",
+                "natural disaster",
+                "man-made disaster",
+                "social-biological disaster",
                 ""
               ]
             },
-            "title": "Աղետի տեսակ"
+            "title": "Disaster type"
           },
           {
             "name": "Value",
@@ -1474,13 +1474,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "կրթություն",
-                "առողջապահություն",
-                "սոցիալական պաշտպանություն",
+                "education",
+                "health",
+                "social protection",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -1594,12 +1594,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "տնային տնտեսությունների ծախսերի կամ մեկ շնչին ընկնող եկամտի աճի ցուցանիշները բնակչության ստորին 40 տոկոսի շրջանում",
-                "տնային տնտեսությունների ծախսերի կամ մեկ շնչին ընկնող եկամտի աճի ցուցանիշները ամբողջ բնակչության շրջանում",
+                "growth rates of household expenditure or income per capita among the bottom 40 per cent of the population",
+                "growth rates of household expenditure or income per capita among the total population",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -2094,7 +2094,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "100,000  բնակչի հաշվով",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -2272,7 +2272,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "100,000  բնակչի հաշվով",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -2283,13 +2283,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "տարերային աղետներ",
-                "տեխնածին աղետներ",
-                "սոցիալ-կենսաբանական աղետներ",
+                "natural disaster",
+                "man-made disaster",
+                "social-biological disaster",
                 ""
               ]
             },
-            "title": "Աղետի տեսակ"
+            "title": "Disaster type"
           },
           {
             "name": "Value",
@@ -2570,7 +2570,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "այո=1, ոչ=0",
+                "yes=1, no=0",
                 ""
               ]
             },
@@ -2677,7 +2677,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "այո=1, ոչ=0",
+                "yes=1, no=0",
                 ""
               ]
             },
@@ -2748,8 +2748,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "մլն. դրամ",
-                "դրամ",
+                "mln. dram",
+                "dram",
                 "%",
                 ""
               ]
@@ -2761,13 +2761,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "նյութական սպառումը",
-                "մեկ շնչի հաշվով ներքին նյութական սպառումը",
-                "ՀՆԱ-ի հաշվով ներքին նյութական սպառումը",
+                "domestic material consumption",
+                "domestic material consumption per capita",
+                "domestic material consumption per GDP",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -2798,7 +2798,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 տոննա",
+                "1,000 tons",
                 ""
               ]
             },
@@ -2905,22 +2905,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Վտանգավոր թափոնների գոյացումը",
-                "Տրվել է այլ կազմակերպությունների",
-                "Վնասազերծվել և ոչնչացվել են կազմակերպությունների կողմից",
-                "Օգտագործվել են կազմակերպությունների կողմից",
-                "Կազմակերպությունների միջոցներով տեղափոխվել են տեղադրման վայրեր",
+                "Hazardous waste generated",
+                "Waste transmitted to other organizations",
+                "Treated and destructed by organizations",
+                "Waste used by organizations",
+                "Transported to landfills by means of organizations",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Type"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "կգ մեկ շնչի հաշվով",
+                "kg per capita",
                 "%",
                 ""
               ]
@@ -3208,7 +3208,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "100,000  բնակչի հաշվով",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -3219,13 +3219,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "տարերային աղետներ",
-                "տեխնածին աղետներ",
-                "սոցիալ-կենսաբանական աղետներ",
+                "natural disaster",
+                "man-made disaster",
+                "social-biological disaster",
                 ""
               ]
             },
-            "title": "Աղետի տեսակ"
+            "title": "Disaster type"
           },
           {
             "name": "Value",
@@ -3615,7 +3615,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "մոլ- H - իոն/լիտր",
+                "mole - H - ion/liter",
                 ""
               ]
             },
@@ -3866,7 +3866,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "մլն. դրամ",
+                "mln. dram",
                 ""
               ]
             },
@@ -4045,7 +4045,7 @@
             "constraints": {
               "enum": [
                 "%",
-                "միավոր",
+                "unit",
                 ""
               ]
             },
@@ -4056,18 +4056,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Հատուկ պահպանվող տարածքների ընդհանուր մակերեսը %-ով երկրի տարածքի նկատմամբ",
-                "Պետական արգելոցների (կատեգորիա Ib) ընդհանուր քանակը",
-                "Պետական արգելոցների (կատեգորիա Ib)  ընդհանուր մակերեսը %-ով երկրի տարածքի նկատմամբ",
-                "Ազգային պարկերի (կատեգորիա II) ընդհանուր քանակը",
-                "Ազգային պարկերի (կատեգորիա II)  ընդհանուր մակերեսը %-ով երկրի տարածքի նկատմամբ",
-                "Պետական արգելավայրերի (կատեգորիա IV) ընդհանուր քանակը",
-                "Պետական արգելավայրերի (կատեգորիա IV) ընդհանուր մակերեսը %-ով երկրի տարածքի նկատմամբ",
-                "Բնության հուշարձանների(կատեգորիա III) ընդհանուր քանակը",
+                "Share of total areas under protection in the total area of the country",
+                "State reserves(Category Ib), quantity",
+                "Share of State reserves(Category Ib) in the total area of the country",
+                "National parks (Category II ), quantity",
+                "Share of National parks (Category II ) in the total area of the country",
+                "State preserves (Category IV), quantity",
+                "Share of State preserves (Category IV) in the total area of the country",
+                "Monuments of Nature(Category III), quantity",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Type"
           },
           {
             "name": "Value",
@@ -4099,7 +4099,7 @@
             "constraints": {
               "enum": [
                 "%",
-                "միավոր",
+                "unit",
                 ""
               ]
             },
@@ -4110,18 +4110,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Հատուկ պահպանվող տարածքների ընդհանուր մակերեսը %-ով երկրի տարածքի նկատմամբ",
-                "Պետական արգելոցների (կատեգորիա Ib) ընդհանուր քանակը",
-                "Պետական արգելոցների (կատեգորիա Ib)  ընդհանուր մակերեսը %-ով երկրի տարածքի նկատմամբ",
-                "Ազգային պարկերի (կատեգորիա II) ընդհանուր քանակը",
-                "Ազգային պարկերի (կատեգորիա II)  ընդհանուր մակերեսը %-ով երկրի տարածքի նկատմամբ",
-                "Պետական արգելավայրերի (կատեգորիա IV) ընդհանուր քանակը",
-                "Պետական արգելավայրերի (կատեգորիա IV) ընդհանուր մակերեսը %-ով երկրի տարածքի նկատմամբ",
-                "Բնության հուշարձանների(կատեգորիա III) ընդհանուր քանակը",
+                "Share of total areas under protection in the total area of the country",
+                "State reserves(Category Ib), quantity",
+                "Share of State reserves(Category Ib) in the total area of the country",
+                "National parks (Category II ), quantity",
+                "Share of National parks (Category II ) in the total area of the country",
+                "State preserves (Category IV), quantity",
+                "Share of State preserves (Category IV) in the total area of the country",
+                "Monuments of Nature(Category III), quantity",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Type"
           },
           {
             "name": "Value",
@@ -4331,7 +4331,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "միավոր",
+                "unit",
                 ""
               ]
             },
@@ -4342,12 +4342,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "գրանցված ՀՀ Կարմիր գրքում",
-                "ներառված են բնության հատուկ պահպանվող տարածքներում",
+                "registered in the Red Book of RA",
+                "included in the specially protected natural areas",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -4378,7 +4378,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "միավոր",
+                "unit",
                 ""
               ]
             },
@@ -4389,22 +4389,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ՀՀ Կարմիր գրքում գրանցված բարձրակարգ բուսատեսակներ",
+                "high plant species registered in the Red Book of RA",
                 ""
               ]
             },
-            "title": "Կրթության տեսակ"
+            "title": "Education type"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "ներառված են բնության հատուկ պահպանվող տարածքներում",
+                "included in the specially protected natural areas",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -4726,7 +4726,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "100,000  բնակչի հաշվով",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -4988,12 +4988,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -5381,21 +5381,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ջրամատակարարում",
-                "կոյուղի",
-                "աղբի հավաքում",
-                "հեռախոս ստացիոնար",
-                "էլեկտրաէներգիայի մատակարարում",
-                "փոստ",
-                "բանկերի աշխատանք",
-                "ոռոգում",
-                "առողջապահություն",
-                "կրթություն",
-                "հասարակական տրանսպորտ",
+                "water supply",
+                "sewerage",
+                "garbage disposal",
+                "landline telephone",
+                "electricity supply",
+                "postal service",
+                "bank services",
+                "irrigation",
+                "healthcare",
+                "education",
+                "public transportation",
                 ""
               ]
             },
-            "title": "Ծառայություններ"
+            "title": "Services"
           },
           {
             "name": "Value",
@@ -5545,12 +5545,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -5581,7 +5581,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "այո=1, ոչ=0",
+                "yes=1, no=0",
                 ""
               ]
             },
@@ -5663,13 +5663,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "հարկային եկամուտներ և տուրքեր",
-                "այլ եկամուտներ",
-                "պաշտոնական դրամաշնորհներ",
+                "tax incomes and duties",
+                "other incomes",
+                "official grants",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -6093,7 +6093,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "այո=1, ոչ=0",
+                "yes=1, no=0",
                 ""
               ]
             },
@@ -6128,7 +6128,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "այո=1, ոչ=0",
+                "yes=1, no=0",
                 ""
               ]
             },
@@ -6163,7 +6163,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1000 ԱՄՆ դոլար",
+                "1000 USD",
                 ""
               ]
             },
@@ -6198,7 +6198,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "այո=1, ոչ=0",
+                "yes=1, no=0",
                 "%",
                 ""
               ]
@@ -6210,13 +6210,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "վերջին 10 տարիների ընթացքում անցկացրել է առնվազն մեկ բնակչության և մեկ տնային մարդահամար,",
-                "հասել է ծնունդների գրանցման 100 տոկոսին",
-                "հասել  մահվան դեպքերի գրանցման 80 տոկոսին",
+                "have conducted at least one population and housing census in the last 10 years",
+                "have achieved 100 per cent birth registration",
+                "have achieved 80 per cent death registration",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -6247,7 +6247,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "մարդ",
+                "person",
                 ""
               ]
             },
@@ -6258,12 +6258,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -6590,13 +6590,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "հավասար է կամ գերազանցում է 256 Կբիթ/վրկ արագությունը և պակաս է 2 Մբիթ/վրկ-ից",
-                "հավասար է կամ գերազանցում է 2 Մբիթ/վրկ արագությունը և պակաս է 10 Մբիթ/վրկ-ից",
-                "հավասար է կամ գերազանցում է  10 Մբիթ/վրկ արագությունը",
+                "equal to or greater than 256 kbit/s and less than 2 Mbit/s",
+                "equal to or greater than 2 Mbit/s and less than 10 Mbit/s",
+                "equal to or greater than 10 Mbit/s",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -6674,26 +6674,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-5 տարեկան",
-                "5-14 տարեկան",
-                "15-24 տարեկան",
-                "25 և բարձր տարիքի",
+                "aged 0-5 years",
+                "aged 5-14 years",
+                "aged 15-24 years",
+                "aged 25 and older",
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -6738,19 +6738,19 @@
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -6898,12 +6898,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -6945,24 +6945,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "թերսնուցում",
-                "հավելյալ քաշ",
+                "wasting",
+                "overweight",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -7065,7 +7065,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 հա",
+                "1,000 ha",
                 ""
               ]
             },
@@ -7076,13 +7076,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "վարելահողեր",
-                "բազմամյա տնկարկներ",
-                "ցանքատարածություններ",
+                "arable land",
+                "perennial plants",
+                "sown areas",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -7113,7 +7113,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 հա",
+                "1,000 ha",
                 ""
               ]
             },
@@ -7124,13 +7124,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "վարելահողեր",
-                "ցանքատարածություններ",
-                "բազմամյա տնկարկներ",
+                "arable land",
+                "sown areas",
+                "perennial plants",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -7412,7 +7412,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "100,000 կենդանածնի հաշվով",
+                "per 100,000 live births",
                 ""
               ]
             },
@@ -7447,7 +7447,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "100,000 կենդանածնի հաշվով",
+                "per 100,000 live births",
                 ""
               ]
             },
@@ -7517,7 +7517,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 կենդանածնի հաշվով",
+                "per 1,000 life births",
                 ""
               ]
             },
@@ -7552,7 +7552,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 կենդանածնի հաշվով",
+                "per 1,000 life births",
                 ""
               ]
             },
@@ -7587,7 +7587,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 կենդանածնի հաշվով",
+                "per 1,000 life births",
                 ""
               ]
             },
@@ -7598,11 +7598,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0-28 օր",
+                "0-28 days",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -7808,7 +7808,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "100,000  բնակչի հաշվով",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -7843,7 +7843,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "100,000  բնակչի հաշվով",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -7878,7 +7878,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "դեպք",
+                "case",
                 ""
               ]
             },
@@ -7913,7 +7913,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 բնակչի հաշվով",
+                "per 1,000 population",
                 ""
               ]
             },
@@ -7948,7 +7948,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "100,000  բնակչի հաշվով",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -8018,7 +8018,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "100,000  բնակչի հաշվով",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -8053,7 +8053,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "մարդ",
+                "person",
                 ""
               ]
             },
@@ -8088,7 +8088,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "դեպք",
+                "case",
                 ""
               ]
             },
@@ -8159,7 +8159,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "100,000  բնակչի հաշվով",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -8170,14 +8170,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "սրտանոթային հիվանդություն",
-                "քաղցկեղ",
-                "շաքարախտ",
-                "քրոնիկ շնչառական հիվանդություն",
+                "cardiovascular disease",
+                "cancer",
+                "diabetes",
+                "chronic respiratory disease",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -8208,7 +8208,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "100,000  բնակչի հաշվով",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -8243,7 +8243,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "100,000  բնակչի հաշվով",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -8314,7 +8314,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "լիտր",
+                "liter",
                 ""
               ]
             },
@@ -8385,8 +8385,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "100,000  բնակչի հաշվով",
-                "մարդ",
+                "per 100,000 population",
+                "person",
                 ""
               ]
             },
@@ -8432,12 +8432,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ցանկացած հակաբեղմնավորման մեթոդ",
-                "ժամանակակից հակաբեղմնավորման մեթոդներ",
+                "any contraceptive method",
+                "modern contraceptive methods",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -8468,7 +8468,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 կնոջ հաշվով",
+                "per 1,000 women",
                 ""
               ]
             },
@@ -8479,12 +8479,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -8515,7 +8515,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 կնոջ հաշվով",
+                "per 1,000 women",
                 ""
               ]
             },
@@ -8526,12 +8526,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "10-14 տարեկան",
-                "15-19 տարեկան",
+                "aged 10-14 years",
+                "aged 15-19 years",
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Location",
@@ -8539,12 +8539,12 @@
             "constraints": {
               "enum": [
                 "Total",
-                "քաղաք",
-                "գյուղ",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -8762,24 +8762,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "տնային տնտեսությունների ամենօրյա սպառման 10% - ը (մեկ շնչի հաշվով) (%)",
-                "տնային տնտեսությունների ամենօրյա սպառման 25% - ը (մեկ շնչի հաշվով) (%)",
+                "10% of daily per capita total household consumption",
+                "25% of daily per capita total household consumption",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Type"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "գյուղ",
-                "քաղաք",
+                "rural",
+                "urban",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -8810,7 +8810,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "100,000  բնակչի հաշվով",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -8862,7 +8862,7 @@
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Category",
@@ -8877,7 +8877,7 @@
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -8908,7 +8908,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "100,000  բնակչի հաշվով",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -8919,11 +8919,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "վարակիչ և մակաբուծական հիվանդություններ",
+                "infectious and parasitic diseases",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -8954,8 +8954,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "100,000  բնակչի հաշվով",
-                "դեպք",
+                "per 100,000 population",
+                "case",
                 ""
               ]
             },
@@ -9001,12 +9001,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -9153,12 +9153,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -9261,7 +9261,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "10,000 բնակչի հաշվով",
+                "per 10,000 population",
                 ""
               ]
             },
@@ -9296,7 +9296,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 բնակչի հաշվով",
+                "per 1,000 population",
                 ""
               ]
             },
@@ -9307,13 +9307,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "բժիշկներ",
-                "միջին բժշկական անձնակազմ",
-                "կրտսեր բժշկական անձնակազմ",
+                "physicians",
+                "paramedical personnel",
+                "junior medical personnel",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -9344,7 +9344,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "միավոր",
+                "unit",
                 ""
               ]
             },
@@ -9426,12 +9426,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -9473,12 +9473,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -9556,12 +9556,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -9639,30 +9639,30 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "միջնակարգ",
-                "տարրական",
-                "հիմնական",
-                "ավագ",
-                "նախնական մասնագիտական (արհեստագործական)",
-                "միջին մասնագիտական",
+                "secondary",
+                "primary",
+                "lower secondary",
+                "high",
+                "pre-specialized (vocational) education",
+                "specialized secondary education",
                 "specialized high education, first stage (bachelor's Degree)",
                 "post-graduate education, second stage (master's Degree)",
                 ""
               ]
             },
-            "title": "Կրթության տեսակ"
+            "title": "Education type"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -9729,7 +9729,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "մարդ",
+                "person",
                 ""
               ]
             },
@@ -9811,18 +9811,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "տարրական",
-                "հիմնական",
-                "ավագ",
-                "միջնակարգ",
-                "նախնական մասնագիտական",
-                "միջին մասնագիտական",
-                "բարձրագույն կրթության առաջին աստիճան",
-                "բարձրագույն կրթության երկրորդ աստիճան",
+                "primary",
+                "lower secondary",
+                "high",
+                "secondary",
+                "preliminary vocational",
+                "middle vocational",
+                "bachelor",
+                "master",
                 ""
               ]
             },
-            "title": "Կրթության տեսակ"
+            "title": "Education type"
           },
           {
             "name": "Value",
@@ -9900,12 +9900,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -10019,15 +10019,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "էլեկտրականություն",
-                "համացանցին միացված դպրոցների համամասնությունը",
-                "ուսուցիչների թվաքանակը մեկ համակարգչի հաշվով",
-                "ջրամատակարարում",
-                "կոյուղի",
+                "electricity",
+                "proportion of schools connected to the Internet",
+                "number of teachers per computer",
+                "water supply",
+                "sewerage",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -10212,12 +10212,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ֆիզիկական բռնություն",
-                "սեռական բռնություն",
+                "physical violence",
+                "sexual violence",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -10295,12 +10295,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "մինչև 15 տարեկան",
-                "մինչև 18 տարեկան",
+                "before age 15",
+                "before age 18",
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -10414,12 +10414,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ա) ազգային խորհրդարաններ",
-                "բ) տեղական իշխանությունները",
+                "national parliaments",
+                "local governments",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -10465,19 +10465,19 @@
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -10626,12 +10626,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -10673,13 +10673,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "միայնակ",
-                "մեկ ուրիշի հետ համատեղ",
-                "միայնակ և մեկ ուրիշի հետ համատեղ",
+                "alone",
+                "jointly with someone else",
+                "alone and jointly with someone else",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -10721,13 +10721,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "միայնակ",
-                "մեկ ուրիշի հետ համատեղ",
-                "միայնակ և մեկ ուրիշի հետ համատեղ",
+                "alone",
+                "jointly with someone else",
+                "alone and jointly with someone else",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -10841,12 +10841,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -10888,12 +10888,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -10971,12 +10971,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -11018,12 +11018,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -11173,19 +11173,19 @@
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -11583,12 +11583,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -11630,12 +11630,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -11677,12 +11677,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -11724,12 +11724,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -11984,12 +11984,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -12070,19 +12070,19 @@
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -12149,8 +12149,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "մլն. դրամ",
-                "դրամ",
+                "mln. dram",
+                "dram",
                 "%",
                 ""
               ]
@@ -12162,13 +12162,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "նյութական սպառումը",
-                "մեկ շնչի հաշվով ներքին նյութական սպառումը",
-                "ՀՆԱ-ի հաշվով ներքին նյութական սպառումը",
+                "domestic material consumption",
+                "domestic material consumption per capita",
+                "domestic material consumption per GDP",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -12199,7 +12199,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "դրամ",
+                "dram",
                 ""
               ]
             },
@@ -12210,12 +12210,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -12293,50 +12293,50 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ընդամենը",
-                "հաշմանդամությամբ",
+                "total",
+                "with disabilities",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "15-75 տարեկան",
+                "15-75 age",
                 "15-74 age",
                 "15+ age",
-                "15-24 տարեկան",
+                "15-24 age",
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -12378,50 +12378,50 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ընդամենը",
+                "total",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "15-29 տարեկան",
-                "15-19 տարեկան",
-                "20-24 տարեկան",
-                "15-24 տարեկան",
-                "25-29 տարեկան",
+                "15-29 age",
+                "15-19 age",
+                "20-24 age",
+                "15-24 age",
+                "25-29 age",
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -12452,7 +12452,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "թվաքանակ",
+                "number",
                 "%",
                 ""
               ]
@@ -12464,25 +12464,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "5-11 տարեկան",
-                "12-15 տարեկան",
-                "16-17 տարեկան",
+                "aged 5-11 years",
+                "aged 12-15 years",
+                "aged 16-17 years",
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -12513,7 +12513,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "մարդ",
+                "person",
                 ""
               ]
             },
@@ -12524,12 +12524,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -12776,8 +12776,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 մարդ",
-                "1,000 տոննա",
+                "1,000 people",
+                "1,000 tons",
                 ""
               ]
             },
@@ -12788,28 +12788,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ուղևորների ծավալը՝",
-                "բեռների ծավալները՝",
+                "passenger volume",
+                "freight volumes",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Transportation type",
             "type": "string",
             "constraints": {
               "enum": [
-                "երկաթուղային տրանսպորտ",
-                "ավտոմոբիլային տրանսպորտ",
-                "որից՝ թեթև մարդատար տաքսի",
-                "օդային տրանսպորտ",
-                "էլեկտրատրանսպորտ",
-                "խողովակաշարային",
+                "railway transport",
+                "road transport",
+                "of which  passenger taxi",
+                "air transport",
+                "electricity transport",
+                "pipelines",
                 ""
               ]
             },
-            "title": "Տրանսպորտային տեսակ"
+            "title": "Transportation type"
           },
           {
             "name": "Value",
@@ -12841,7 +12841,7 @@
             "constraints": {
               "enum": [
                 "%",
-                "դրամ",
+                "dram",
                 ""
               ]
             },
@@ -12852,12 +12852,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ՀՆԱ-ի համամասնությունը",
-                "մեկ շնչի հաշվով",
+                "proportion of GDP",
+                "per capita",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -12902,32 +12902,32 @@
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "ընդամենը",
-                "արական",
-                "իգական",
+                "total",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -13100,7 +13100,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "մեկ մլն. բնակչի հաշվով",
+                "per million population",
                 ""
               ]
             },

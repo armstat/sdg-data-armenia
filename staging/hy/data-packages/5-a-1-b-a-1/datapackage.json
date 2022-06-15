@@ -31,13 +31,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "միայնակ",
-                "մեկ ուրիշի հետ համատեղ",
-                "միայնակ և մեկ ուրիշի հետ համատեղ",
+                "alone",
+                "jointly with someone else",
+                "alone and jointly with someone else",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",

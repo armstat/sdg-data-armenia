@@ -31,15 +31,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "էլեկտրականություն",
-                "համացանցին միացված դպրոցների համամասնությունը",
-                "ուսուցիչների թվաքանակը մեկ համակարգչի հաշվով",
-                "ջրամատակարարում",
-                "կոյուղի",
+                "electricity",
+                "proportion of schools connected to the Internet",
+                "number of teachers per computer",
+                "water supply",
+                "sewerage",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",

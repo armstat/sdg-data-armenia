@@ -31,24 +31,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "տնային տնտեսությունների ամենօրյա սպառման 10% - ը (մեկ շնչի հաշվով) (%)",
-                "տնային տնտեսությունների ամենօրյա սպառման 25% - ը (մեկ շնչի հաշվով) (%)",
+                "10% of daily per capita total household consumption",
+                "25% of daily per capita total household consumption",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Type"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "գյուղ",
-                "քաղաք",
+                "rural",
+                "urban",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Value",

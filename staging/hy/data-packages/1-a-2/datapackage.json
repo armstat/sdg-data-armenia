@@ -31,13 +31,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "կրթություն",
-                "առողջապահություն",
-                "սոցիալական պաշտպանություն",
+                "education",
+                "health",
+                "social protection",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",

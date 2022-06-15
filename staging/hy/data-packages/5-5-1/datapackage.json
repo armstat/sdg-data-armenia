@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ա) ազգային խորհրդարաններ",
-                "բ) տեղական իշխանությունները",
+                "national parliaments",
+                "local governments",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",

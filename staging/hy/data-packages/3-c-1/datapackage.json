@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 բնակչի հաշվով",
+                "per 1,000 population",
                 ""
               ]
             },
@@ -31,13 +31,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "բժիշկներ",
-                "միջին բժշկական անձնակազմ",
-                "կրտսեր բժշկական անձնակազմ",
+                "physicians",
+                "paramedical personnel",
+                "junior medical personnel",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",

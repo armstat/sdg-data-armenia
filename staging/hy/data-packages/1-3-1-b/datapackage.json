@@ -31,38 +31,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-4 տարեկան",
-                "5-9 տարեկան",
-                "10-14 տարեկան",
-                "15 տարեկան",
-                "16-17 տարեկան",
+                "aged 0-4 years",
+                "aged 5-9 years",
+                "aged 10-14 years",
+                "aged 15 years",
+                "aged 16-17 years",
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "ընդամենը՝ հաշմանդամություն ունեցող երեխաների (0-17 տարեկան) ընդհանուր թվաքանակից",
+                "total to the total number of children with disabilities (aged 0-17 years)",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",

@@ -31,13 +31,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "հարկային եկամուտներ և տուրքեր",
-                "այլ եկամուտներ",
-                "պաշտոնական դրամաշնորհներ",
+                "tax incomes and duties",
+                "other incomes",
+                "official grants",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",

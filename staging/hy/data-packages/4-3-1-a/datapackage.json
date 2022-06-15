@@ -31,30 +31,30 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "միջնակարգ",
-                "տարրական",
-                "հիմնական",
-                "ավագ",
-                "նախնական մասնագիտական (արհեստագործական)",
-                "միջին մասնագիտական",
+                "secondary",
+                "primary",
+                "lower secondary",
+                "high",
+                "pre-specialized (vocational) education",
+                "specialized secondary education",
                 "specialized high education, first stage (bachelor's Degree)",
                 "post-graduate education, second stage (master's Degree)",
                 ""
               ]
             },
-            "title": "Կրթության տեսակ"
+            "title": "Education type"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Value",

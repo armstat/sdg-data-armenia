@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "մարդ",
+                "person",
                 "%",
                 ""
               ]
@@ -32,26 +32,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "երկու ծնող ունեցող երեխա",
-                "միայնակ մոր երեխա",
-                "մնացել է առանց ծնողական խնամքի",
-                "այլ",
+                "child with two parents",
+                "single mother child",
+                "left without parental care",
+                "other",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Value",

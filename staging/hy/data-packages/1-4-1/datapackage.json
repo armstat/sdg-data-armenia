@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "տնային տնտեսությունների հասանելիությունը կենտրոնացված ջրամատակարարմանը",
-                "տնային տնտեսությունների հասանելիությունը կենտրոնացված  ջրահեռացմանը",
-                "տնային տնտեսությունների հասանելիությունը կենտրոնացված աղբահանությանը  (աղբամուղ և/կամ հավաքվում է բեռնատարով. թափվում է աղբակույտի մեջ)",
-                "ինտերնետային կապի հասանելիությունը տնային տնտեսությանը",
-                "ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին",
-                "էլեկտրաէներգիա ունեցող տնային տնտեսությունների մասնաբաժինը",
-                "մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների",
+                "household access to centralized water supply",
+                "household access to centralized sewerage system",
+                "household access to garbage disposal",
+                "internet accessibility for household",
+                "internet accessibility for household members",
+                "share of households with electricity supply",
+                "proportion of households with primary reliance on clean fuels and technology",
                 ""
               ]
             },
@@ -48,24 +48,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Value",

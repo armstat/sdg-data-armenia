@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "մարդ",
+                "person",
                 "%",
                 ""
               ]
@@ -32,23 +32,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "ընդամենը՝ հաշմանդամություն ունեցող 0-17 տարեկան երեխաներից",
+                "total to children aged 0-17 years with disabilities",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",

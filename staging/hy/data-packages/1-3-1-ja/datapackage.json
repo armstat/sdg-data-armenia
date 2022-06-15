@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "մարդ",
+                "person",
                 ""
               ]
             },
@@ -31,28 +31,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "մինչև 6 ամսական",
-                "6 ամսականից մինչև 1 տարեկան",
-                "1-5 տարեկան",
-                "6-9 տարեկան",
-                "10-15 տարեկան",
-                "16-17 տարեկան",
+                "up to 6 months",
+                "from 6 months to 1 year",
+                "aged 1-5 years",
+                "aged 6-9 years",
+                "aged 10-15 years",
+                "aged 16-17 years",
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Value",

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "100,000  բնակչի հաշվով",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -31,14 +31,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "սրտանոթային հիվանդություն",
-                "քաղցկեղ",
-                "շաքարախտ",
-                "քրոնիկ շնչառական հիվանդություն",
+                "cardiovascular disease",
+                "cancer",
+                "diabetes",
+                "chronic respiratory disease",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",

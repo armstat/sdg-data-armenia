@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "միավոր",
+                "unit",
                 ""
               ]
             },
@@ -31,22 +31,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ՀՀ Կարմիր գրքում գրանցված բարձրակարգ բուսատեսակներ",
+                "high plant species registered in the Red Book of RA",
                 ""
               ]
             },
-            "title": "Կրթության տեսակ"
+            "title": "Education type"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "ներառված են բնության հատուկ պահպանվող տարածքներում",
+                "included in the specially protected natural areas",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
