@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 человек",
-                "1,000 тонна",
+                "1,000 people",
+                "1,000 tons",
                 ""
               ]
             },
@@ -32,28 +32,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "объем  пассажироперевозок",
-                "объем грузоперевозок",
+                "passenger volume",
+                "freight volumes",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Transportation type",
             "type": "string",
             "constraints": {
               "enum": [
-                "железнодорожный транспорт",
-                "автомобильный транспорт",
-                "из коих- легковой  таксомоторный",
-                "воздушный  транспорт",
-                "электротранспорт",
-                "магистральный трубопроводный транспорт",
+                "railway transport",
+                "road transport",
+                "of which  passenger taxi",
+                "air transport",
+                "electricity transport",
+                "pipelines",
                 ""
               ]
             },
-            "title": "вид транспорта"
+            "title": "Transportation type"
           },
           {
             "name": "Value",

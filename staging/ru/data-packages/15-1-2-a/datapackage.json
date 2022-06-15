@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "%",
-                "единица",
+                "unit",
                 ""
               ]
             },
@@ -32,18 +32,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Доля общих охраняемых территорий от общей площади страны",
-                "Государственные заповедники (категория Ib), количество",
-                "Доля государственных заповедников (категория Ib) в общей площади страны",
-                "Национальные парки (категория II), количество",
-                "Доля национальных парков (категория II) в общей площади страны",
-                "Государственные заказники (категория IV), количество",
-                "Доля государственных заказников (категория IV) в общей площади страны",
-                "Памятники природы (категория III), количество",
+                "Share of total areas under protection in the total area of the country",
+                "State reserves(Category Ib), quantity",
+                "Share of State reserves(Category Ib) in the total area of the country",
+                "National parks (Category II ), quantity",
+                "Share of National parks (Category II ) in the total area of the country",
+                "State preserves (Category IV), quantity",
+                "Share of State preserves (Category IV) in the total area of the country",
+                "Monuments of Nature(Category III), quantity",
                 ""
               ]
             },
-            "title": "Тип"
+            "title": "Type"
           },
           {
             "name": "Value",

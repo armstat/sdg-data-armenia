@@ -31,24 +31,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "недоедание",
-                "переедание",
+                "wasting",
+                "overweight",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",

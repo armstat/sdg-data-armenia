@@ -31,13 +31,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "самостоятельно",
-                "совместно с кем-то еще",
-                "самостоятельно и совместно с кем-то еще",
+                "alone",
+                "jointly with someone else",
+                "alone and jointly with someone else",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",

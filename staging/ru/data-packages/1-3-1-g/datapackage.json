@@ -31,39 +31,39 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "по старости",
-                "по инвалидности",
-                "в случае потери кормильца",
+                "old age",
+                "disability",
+                "in case of losing a breadwinner",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "до 51 лет",
-                "51-55 лет",
-                "56-62 лет",
-                "63 и более лет",
+                "up to 51 years old",
+                "aged 51 - 55 years",
+                "aged 56 - 62 years",
+                "aged 63 and older",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Value",

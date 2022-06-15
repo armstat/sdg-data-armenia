@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "до 15 лет",
-                "до 18 лет",
+                "before age 15",
+                "before age 18",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Value",

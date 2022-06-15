@@ -31,38 +31,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-4 лет",
-                "5-9 лет",
-                "10-14 лет",
-                "15 лет",
-                "16-17 лет",
+                "aged 0-4 years",
+                "aged 5-9 years",
+                "aged 10-14 years",
+                "aged 15 years",
+                "aged 16-17 years",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "Всего  количеству детей с ограниченными возможностями (в возрасте 0-17 лет)?",
+                "total to the total number of children with disabilities (aged 0-17 years)",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",

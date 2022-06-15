@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "млн. драм",
-                "драм",
+                "mln. dram",
+                "dram",
                 "%",
                 ""
               ]
@@ -33,13 +33,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "материальное потребление",
-                "внутреннее материальное потребление на душу населения",
-                "внутреннее материальное потребление к ВВП",
+                "domestic material consumption",
+                "domestic material consumption per capita",
+                "domestic material consumption per GDP",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",

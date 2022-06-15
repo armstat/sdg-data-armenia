@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "человек",
+                "person",
                 ""
               ]
             },
@@ -31,28 +31,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "до 6 месяцов",
-                "с 6 месяцев до 1 года",
-                "1-5 лет",
-                "6-9 лет",
-                "10-15 лет",
-                "16-17 лет",
+                "up to 6 months",
+                "from 6 months to 1 year",
+                "aged 1-5 years",
+                "aged 6-9 years",
+                "aged 10-15 years",
+                "aged 16-17 years",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Value",

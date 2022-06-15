@@ -31,44 +31,44 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "возрастные",
-                "на льготных условиях",
-                "за выслугу лет",
-                "частичные",
-                "по инвалидности",
-                "в случае потери кормильца",
-                "установленные по другим законам",
-                "связанная с военной службой",
+                "age-related",
+                "on privileged terms",
+                "long-term service",
+                "partially",
+                "disability",
+                "in case of losing a breadwinner",
+                "by other laws",
+                "related to military service",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "до 51 лет",
-                "51-55 лет",
-                "56-62 лет",
-                "63 и более лет",
+                "up to 51 years old",
+                "aged 51 - 55 years",
+                "aged 56 - 62 years",
+                "aged 63 and older",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Value",

@@ -31,68 +31,68 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17 лет",
-                "18-66 лет",
+                "aged 0-17 years",
+                "aged 18-66 years",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Employment status",
             "type": "string",
             "constraints": {
               "enum": [
-                "экономически активное население",
-                "занятые",
-                "наемные работники",
-                "самозанятые",
-                "другие занятые",
-                "безработные",
-                "экономически не активное население",
+                "economically active population",
+                "employed",
+                "wage employed",
+                "self-employed",
+                "other employed",
+                "unemployment",
+                "economically inactive  population",
                 "economically inactive population",
-                "пенсионеры",
-                "студенты",
-                "другое не активное население",
+                "pensioners",
+                "students",
+                "other inactive population",
                 ""
               ]
             },
-            "title": "Статус занятости"
+            "title": "Employment status"
           },
           {
             "name": "Type",
             "type": "string",
             "constraints": {
               "enum": [
-                "инвалиды",
+                "disabled",
                 ""
               ]
             },
-            "title": "Тип"
+            "title": "Type"
           },
           {
             "name": "Value",

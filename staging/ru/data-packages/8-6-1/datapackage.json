@@ -31,50 +31,50 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "всего",
+                "total",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "15-29 лет",
-                "15-29 лет",
-                "20-24 лет",
-                "15-24 лет",
-                "25-29 лет",
+                "15-29 age",
+                "15-19 age",
+                "20-24 age",
+                "15-24 age",
+                "25-29 age",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Value",

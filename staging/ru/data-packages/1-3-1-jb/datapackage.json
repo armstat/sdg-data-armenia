@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "человек",
+                "person",
                 "%",
                 ""
               ]
@@ -32,26 +32,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ребенок, имеющий обоих родителей",
-                "ребенок матери одиночки",
-                "ребенок, лишенный родительской опеки",
-                "другие",
+                "child with two parents",
+                "single mother child",
+                "left without parental care",
+                "other",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 1,000 женщин",
+                "per 1,000 women",
                 ""
               ]
             },
@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Value",

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мол-H - ион/литр",
+                "mole - H - ion/liter",
                 ""
               ]
             },

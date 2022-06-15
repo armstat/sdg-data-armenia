@@ -31,30 +31,30 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "среднее",
-                "начальная",
-                "основная",
-                "высшее",
-                "Начальное профессиональное (ремесленное)",
-                "среднепрофессиональное",
+                "secondary",
+                "primary",
+                "lower secondary",
+                "high",
+                "pre-specialized (vocational) education",
+                "specialized secondary education",
                 "specialized high education, first stage (bachelor's Degree)",
                 "post-graduate education, second stage (master's Degree)",
                 ""
               ]
             },
-            "title": "тип образования"
+            "title": "Education type"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",

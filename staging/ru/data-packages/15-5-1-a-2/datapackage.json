@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "единица",
+                "unit",
                 ""
               ]
             },
@@ -31,22 +31,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "высшие виды растений, занесенные в Красную книгу РА",
+                "high plant species registered in the Red Book of RA",
                 ""
               ]
             },
-            "title": "тип образования"
+            "title": "Education type"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "включены в особо охраняемые природные территории",
+                "included in the specially protected natural areas",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
