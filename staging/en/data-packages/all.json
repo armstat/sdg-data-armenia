@@ -5633,54 +5633,6 @@
       "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
     },
     {
-      "path": "17-1-1-a/data.csv",
-      "name": "17-1-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "official grants",
-                "other incomes",
-                "tax incomes and duties"
-              ]
-            },
-            "title": "Category"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "17-1-1-a"
-    },
-    {
       "path": "17-1-1/data.csv",
       "name": "17-1-1",
       "profile": "tabular-data-resource",
