@@ -79,7 +79,6 @@ name-15-5-1-a-1: Registered vertebrate and invertebrate species, of which
 name-15-5-1-a-2: Registered high and low plant species, of which
 name-16-1-1-a: Number of homicide cases per 100,000 population
 name-16-2-2-a: "The number of cases of human trafficking or exploitation "
-name-17-1-1-a: Total central government revenue as a proportion of GDP
 name-17-3-1-a: Foreign direct investments (FDI)
 name-17-4-1-a: External public debt service as a proportion of exports of goods and services
 name-17-8-1-a: Proportion of individuals using the Internet by sex and age groups 
@@ -144,7 +143,6 @@ comments-7-1-2-a: " The main source of information is a Integrated Living Condit
 description-17-8-1-a: "Dividing the number of people using the Internet during the last 3 months by the total number of people. "
 calculations-17-8-1-a: "The indicator is calculated by dividing the number of people using the Internet (from anywhere) during the last 3 months by the total number of people. "
 comments-17-8-1-a: " The main source of information is a Integrated Living Conditions Survey (ILCS) (https://www.armstat.am/en/?nid=82&id=2217)"
-description-17-1-1-a: " The indicator is calculated as a percentage of Central Government revenues to Gross Domestic Product (indicator for the reporting year)."
 description-17-4-1-a: " The indicator provides an opportunity to assess the problems related to the country's foreign debt service. The source of information is the references provided by the Ministry of Finance of the Republic of Armenia on the external public debt of the Republic of Armenia, which is considered as an administrative register, including the external public debt of the Republic of Armenia formed by credit-loan agreements, debt service, foreign loan receipts."
 definitions-17-4-1-a: " External public debt is the sum of debt obligations assumed on behalf of the Republic of Armenia and on behalf of the Central Bank to non-residents of the Republic of Armenia and to foreign states, and existing debt liabilities at a certain point.“Exports of goods and services” data concepts correspond to the sixth edition of the Balance of Payments and International Investment Position Manual (BPM6)."
 calculations-17-4-1-a: " External public debt service as a proportion of exports of goods and services is calculated as a ratio of External public debt service to Exports of goods and services in percent."
