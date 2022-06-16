@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "случаи",
+                "case",
                 ""
               ]
             },
@@ -37,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "3-3-5-b",
-  "title": "Случаи смерти от лейшманиоза"
+  "title": "meta.name-3-3-5-b"
 }

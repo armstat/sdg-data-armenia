@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "любой метод контрацепции",
-                "современные методы контрацепции",
+                "any contraceptive method",
+                "modern contraceptive methods",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",

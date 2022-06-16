@@ -31,49 +31,49 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "իգական",
-                "արական",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-5 տարեկան",
-                "6-17 տարեկան",
-                "18-64 տարեկան",
-                "65 և բարձր տարիքի",
+                "aged 0-5 years",
+                "aged 6-17 years",
+                "aged 18-64 years",
+                "aged 65 and older",
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Type",
             "type": "string",
             "constraints": {
               "enum": [
-                "հաշմանդամներ",
+                "disabled",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Type"
           },
           {
             "name": "Value",

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 կնոջ հաշվով",
+                "per 1,000 women",
                 ""
               ]
             },
@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -49,5 +49,5 @@
   ],
   "profile": "data-package",
   "name": "3-7-2-a",
-  "title": "Դեռահասների (15-17 տարեկան) ծնելիությունը տվյալ տարիքային խմբի 1 000 կնոջ հաշվով"
+  "title": "meta.name-3-7-2-a"
 }

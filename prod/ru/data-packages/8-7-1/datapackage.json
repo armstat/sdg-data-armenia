@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "чесло",
+                "number",
                 "%",
                 ""
               ]
@@ -32,25 +32,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "5-11 лет",
-                "12-15 лет",
-                "16-17 лет",
+                "aged 5-11 years",
+                "aged 12-15 years",
+                "aged 16-17 years",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Value",

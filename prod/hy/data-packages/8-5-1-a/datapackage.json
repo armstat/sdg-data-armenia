@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "դրամ",
+                "dram",
                 ""
               ]
             },
@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -49,5 +49,5 @@
   ],
   "profile": "data-package",
   "name": "8-5-1-a",
-  "title": "Միջին ամսական անվանական աշխատավարձն ըստ սեռի"
+  "title": "meta.name-8-5-1-a"
 }

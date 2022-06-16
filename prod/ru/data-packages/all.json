@@ -33,68 +33,68 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17 лет",
-                "18-66 лет",
+                "aged 0-17 years",
+                "aged 18-66 years",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Employment status",
             "type": "string",
             "constraints": {
               "enum": [
-                "экономически активное население",
-                "занятые",
-                "наемные работники",
-                "самозанятые",
-                "другие занятые",
-                "безработные",
-                "экономически не активное население",
+                "economically active population",
+                "employed",
+                "wage employed",
+                "self-employed",
+                "other employed",
+                "unemployment",
+                "economically inactive  population",
                 "economically inactive population",
-                "пенсионеры",
-                "студенты",
-                "другое не активное население",
+                "pensioners",
+                "students",
+                "other inactive population",
                 ""
               ]
             },
-            "title": "Статус занятости"
+            "title": "Employment status"
           },
           {
             "name": "Type",
             "type": "string",
             "constraints": {
               "enum": [
-                "инвалиды",
+                "disabled",
                 ""
               ]
             },
-            "title": "Тип"
+            "title": "Type"
           },
           {
             "name": "Value",
@@ -136,49 +136,49 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "женщина",
-                "мужчина",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-5 лет",
-                "6-17 лет",
-                "18-64 лет",
-                "65 и более лет",
+                "aged 0-5 years",
+                "aged 6-17 years",
+                "aged 18-64 years",
+                "aged 65 and older",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Type",
             "type": "string",
             "constraints": {
               "enum": [
-                "инвалиды",
+                "disabled",
                 ""
               ]
             },
-            "title": "Тип"
+            "title": "Type"
           },
           {
             "name": "Value",
@@ -221,37 +221,37 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "дети",
+                "children",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-5 лет",
-                "6-17 лет",
-                "18-64 лет",
-                "65 и более лет",
+                "aged 0-5 years",
+                "aged 6-17 years",
+                "aged 18-64 years",
+                "aged 65 and older",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -293,38 +293,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17 лет",
-                "18-39 лет",
-                "40-62 лет",
-                "63 и более лет",
+                "aged 0-17 years",
+                "aged 18-39 years",
+                "aged 40-62 years",
+                "aged 63 and older",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -333,7 +333,7 @@
           }
         ]
       },
-      "title": "Доля зарегистрированных людей с инвалидносью в общей численности населения на конец года"
+      "title": "meta.name-1-3-1-a"
     },
     {
       "path": "1-3-1-b/data.csv",
@@ -366,38 +366,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-4 лет",
-                "5-9 лет",
-                "10-14 лет",
-                "15 лет",
-                "16-17 лет",
+                "aged 0-4 years",
+                "aged 5-9 years",
+                "aged 10-14 years",
+                "aged 15 years",
+                "aged 16-17 years",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "Всего  количеству детей с ограниченными возможностями (в возрасте 0-17 лет)?",
+                "total to the total number of children with disabilities (aged 0-17 years)",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -406,7 +406,7 @@
           }
         ]
       },
-      "title": "Дети с инвалидностью от болезней (в возрасте 0-17 лет)"
+      "title": "meta.name-1-3-1-b"
     },
     {
       "path": "1-3-1-c/data.csv",
@@ -439,44 +439,44 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "возрастные",
-                "на льготных условиях",
-                "за выслугу лет",
-                "частичные",
-                "по инвалидности",
-                "в случае потери кормильца",
-                "установленные по другим законам",
-                "связанная с военной службой",
+                "age-related",
+                "on privileged terms",
+                "long-term service",
+                "partially",
+                "disability",
+                "in case of losing a breadwinner",
+                "by other laws",
+                "related to military service",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "до 51 лет",
-                "51-55 лет",
-                "56-62 лет",
-                "63 и более лет",
+                "up to 51 years old",
+                "aged 51 - 55 years",
+                "aged 56 - 62 years",
+                "aged 63 and older",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -485,7 +485,7 @@
           }
         ]
       },
-      "title": "Доля пенсионеров в общей численности населения на конец года"
+      "title": "meta.name-1-3-1-c"
     },
     {
       "path": "1-3-1-d/data.csv",
@@ -518,12 +518,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -532,7 +532,7 @@
           }
         ]
       },
-      "title": "Соотношение пожилых пенсионеров. Соотношение пенсионеров по возрасту и пенсионного возраста, установленных законом, и по возрасту населения"
+      "title": "meta.name-1-3-1-d"
     },
     {
       "path": "1-3-1-e/data.csv",
@@ -567,7 +567,7 @@
           }
         ]
       },
-      "title": "Доля семей, получающих семейные пособия от общего числа домохозяйств"
+      "title": "meta.name-1-3-1-e"
     },
     {
       "path": "1-3-1-f/data.csv",
@@ -602,7 +602,7 @@
           }
         ]
       },
-      "title": "Доля семей, получающих социальные пособия от общего числа домохозяйств"
+      "title": "meta.name-1-3-1-f"
     },
     {
       "path": "1-3-1-g/data.csv",
@@ -635,39 +635,39 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "по старости",
-                "по инвалидности",
-                "в случае потери кормильца",
+                "old age",
+                "disability",
+                "in case of losing a breadwinner",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "до 51 лет",
-                "51-55 лет",
-                "56-62 лет",
-                "63 и более лет",
+                "up to 51 years old",
+                "aged 51 - 55 years",
+                "aged 56 - 62 years",
+                "aged 63 and older",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -676,7 +676,7 @@
           }
         ]
       },
-      "title": "Доля получателей пенсии по старости, инвалидности и в случае потери кормильца от общей численности населения на конец года"
+      "title": "meta.name-1-3-1-g"
     },
     {
       "path": "1-3-1-h/data.csv",
@@ -698,7 +698,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "человек",
+                "person",
                 "%",
                 ""
               ]
@@ -710,38 +710,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "до 1 года",
-                "1-6 лет",
-                "7-9 лет",
-                "10-15 лет",
-                "16-17 лет",
+                "up to 1 year old",
+                "aged 1-6 years",
+                "aged 7-9 years",
+                "aged 10-15 years",
+                "aged 16-17 years",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "всего для населения соответствующего возраста?",
+                "total to the population of respective age",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -750,7 +750,7 @@
           }
         ]
       },
-      "title": "Дети в детских домах (в возрасте 0-17 лет) на конец года"
+      "title": "meta.name-1-3-1-h"
     },
     {
       "path": "1-3-1-i/data.csv",
@@ -772,7 +772,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "человек",
+                "person",
                 ""
               ]
             },
@@ -783,27 +783,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "до 1 года",
-                "1-6 лет",
-                "7-9 лет",
-                "10-15 лет",
-                "16-17 лет",
+                "up to 1 year old",
+                "aged 1-6 years",
+                "aged 7-9 years",
+                "aged 10-15 years",
+                "aged 16-17 years",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -812,7 +812,7 @@
           }
         ]
       },
-      "title": "Дети, которые возвращаются к родственникам из детских домов (в возрасте 0-17 лет)"
+      "title": "meta.name-1-3-1-i"
     },
     {
       "path": "1-3-1-j/data.csv",
@@ -834,7 +834,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "человек",
+                "person",
                 "%",
                 ""
               ]
@@ -846,23 +846,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "тотально детей в возрасте 0-17 лет с ограниченными возможностями?",
+                "total to children aged 0-17 years with disabilities",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -871,7 +871,7 @@
           }
         ]
       },
-      "title": "Дети-инвалиды, проживающие в детских домах (в возрасте 0–17 лет) на конец года"
+      "title": "meta.name-1-3-1-j"
     },
     {
       "path": "1-3-1-ja/data.csv",
@@ -893,7 +893,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "человек",
+                "person",
                 ""
               ]
             },
@@ -904,28 +904,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "до 6 месяцов",
-                "с 6 месяцев до 1 года",
-                "1-5 лет",
-                "6-9 лет",
-                "10-15 лет",
-                "16-17 лет",
+                "up to 6 months",
+                "from 6 months to 1 year",
+                "aged 1-5 years",
+                "aged 6-9 years",
+                "aged 10-15 years",
+                "aged 16-17 years",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -934,7 +934,7 @@
           }
         ]
       },
-      "title": "Усыновленные дети (в возрасте 0-17 лет)"
+      "title": "meta.name-1-3-1-ja"
     },
     {
       "path": "1-3-1-jb/data.csv",
@@ -956,7 +956,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "человек",
+                "person",
                 "%",
                 ""
               ]
@@ -968,26 +968,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ребенок, имеющий обоих родителей",
-                "ребенок матери одиночки",
-                "ребенок, лишенный родительской опеки",
-                "другие",
+                "child with two parents",
+                "single mother child",
+                "left without parental care",
+                "other",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -996,7 +996,7 @@
           }
         ]
       },
-      "title": "Усыновленные дети по социальным группам (в возрасте 0-17 лет)"
+      "title": "meta.name-1-3-1-jb"
     },
     {
       "path": "1-3-1-jc/data.csv",
@@ -1018,7 +1018,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "человек",
+                "person",
                 ""
               ]
             },
@@ -1031,7 +1031,7 @@
           }
         ]
       },
-      "title": "Количество бенефициаров, получающих пособия по материнству, предоставленные неработающим женщинам на конец года"
+      "title": "meta.name-1-3-1-jc"
     },
     {
       "path": "1-3-1-ka/data.csv",
@@ -1066,7 +1066,7 @@
           }
         ]
       },
-      "title": "Доля бедных, получающих семейные пособия"
+      "title": "meta.name-1-3-1-ka"
     },
     {
       "path": "1-3-1-kb/data.csv",
@@ -1101,7 +1101,7 @@
           }
         ]
       },
-      "title": "Доля бедных, получающих социальную помощь (включая семейное пособие)"
+      "title": "meta.name-1-3-1-kb"
     },
     {
       "path": "1-3-1/data.csv",
@@ -1159,13 +1159,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "доступ домашних хозяйств к централизованному водоснабжению",
-                "доступ домашних хозяйств к централизованной канализации",
-                "доступ домашних хозяйств  к  централизованного вывоза мусора (система сбора мусора и / или утилизация на грузовике; свалка на свалке)",
-                "доступ  домашнего хозяйства к интернету",
-                "доступ членов домашнего хозяйства к интернету",
-                "доля домашних хозяйств с электроснабжением",
-                "доля домохозяйств, которые в первую очередь полагаются на чистое топливо и технологии",
+                "household access to centralized water supply",
+                "household access to centralized sewerage system",
+                "household access to garbage disposal",
+                "internet accessibility for household",
+                "internet accessibility for household members",
+                "share of households with electricity supply",
+                "proportion of households with primary reliance on clean fuels and technology",
                 ""
               ]
             },
@@ -1187,24 +1187,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -1271,7 +1271,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 100,000 населения",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -1282,13 +1282,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "стихийные бедствия",
-                "техногенные бедствия",
-                "социально-биологические бедствия",
+                "natural disaster",
+                "man-made disaster",
+                "social-biological disaster",
                 ""
               ]
             },
-            "title": "тип бедствия"
+            "title": "Disaster type"
           },
           {
             "name": "Value",
@@ -1474,13 +1474,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "образование",
-                "здравоохранение",
-                "социальная защита",
+                "education",
+                "health",
+                "social protection",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -1594,12 +1594,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Расходы домохозяйств или рост доходов на душу населения среди самых низких 40 процентов населения",
-                "Расходы домохозяйств или рост доходов на душу населения среди всего населения",
+                "growth rates of household expenditure or income per capita among the bottom 40 per cent of the population",
+                "growth rates of household expenditure or income per capita among the total population",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -1858,7 +1858,7 @@
           }
         ]
       },
-      "title": "Процент возвратившихся мигрантов, которые взялись за оплачиваемую работу в течение последних 7 дней"
+      "title": "meta.name-10-7-2-a"
     },
     {
       "path": "10-7-2-b/data.csv",
@@ -1893,7 +1893,7 @@
           }
         ]
       },
-      "title": "Доля индивидуальных заявлений о предоставлении убежища"
+      "title": "meta.name-10-7-2-b"
     },
     {
       "path": "10-7-2/data.csv",
@@ -2072,7 +2072,7 @@
           }
         ]
       },
-      "title": "Доля городских домохозяйств, чьи жилые единицы представляют собой коттедж / временное жилье, жилище совместного проживания, общежитие, другое строение приспособленное для жилья или являются бездомными"
+      "title": "meta.name-11-1-1-a"
     },
     {
       "path": "11-1-1/data.csv",
@@ -2094,7 +2094,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 100,000 населения",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -2272,7 +2272,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 100,000 населения",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -2283,13 +2283,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "стихийные бедствия",
-                "техногенные бедствия",
-                "социально-биологические бедствия",
+                "natural disaster",
+                "man-made disaster",
+                "social-biological disaster",
                 ""
               ]
             },
-            "title": "тип бедствия"
+            "title": "Disaster type"
           },
           {
             "name": "Value",
@@ -2369,7 +2369,7 @@
           }
         ]
       },
-      "title": "Твердыe бытовые отходы, которые регулярно собираются и удаляются надлежащим образом"
+      "title": "meta.name-11-6-1-a"
     },
     {
       "path": "11-6-1/data.csv",
@@ -2570,7 +2570,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "да=1, нет=0",
+                "yes=1, no=0",
                 ""
               ]
             },
@@ -2677,7 +2677,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "да=1, нет=0",
+                "yes=1, no=0",
                 ""
               ]
             },
@@ -2748,8 +2748,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "млн. драм",
-                "драм",
+                "mln. dram",
+                "dram",
                 "%",
                 ""
               ]
@@ -2761,13 +2761,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "материальное потребление",
-                "внутреннее материальное потребление на душу населения",
-                "внутреннее материальное потребление к ВВП",
+                "domestic material consumption",
+                "domestic material consumption per capita",
+                "domestic material consumption per GDP",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -2798,7 +2798,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 тонна",
+                "1,000 tons",
                 ""
               ]
             },
@@ -2811,7 +2811,7 @@
           }
         ]
       },
-      "title": "Потеря продуктов питания"
+      "title": "meta.name-12-3-1-a"
     },
     {
       "path": "12-3-1/data.csv",
@@ -2905,22 +2905,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Образование опасных отходов",
-                "Передано другим организациям",
-                "Обезврежено и уничтожено организациями",
-                "Использовано организациями",
-                "Размещено в местах накопления отходов средствами организаций",
+                "Hazardous waste generated",
+                "Waste transmitted to other organizations",
+                "Treated and destructed by organizations",
+                "Waste used by organizations",
+                "Transported to landfills by means of organizations",
                 ""
               ]
             },
-            "title": "Тип"
+            "title": "Type"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "кг на душу населения",
+                "kg per capita",
                 "%",
                 ""
               ]
@@ -3208,7 +3208,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 100,000 населения",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -3219,13 +3219,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "стихийные бедствия",
-                "техногенные бедствия",
-                "социально-биологические бедствия",
+                "natural disaster",
+                "man-made disaster",
+                "social-biological disaster",
                 ""
               ]
             },
-            "title": "тип бедствия"
+            "title": "Disaster type"
           },
           {
             "name": "Value",
@@ -3615,7 +3615,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мол-H - ион/литр",
+                "mole - H - ion/liter",
                 ""
               ]
             },
@@ -3628,7 +3628,7 @@
           }
         ]
       },
-      "title": "Средняя кислотность (pH) озера Севан, измеренная на согласованном наборе репрезентативных станций отбора проб"
+      "title": "meta.name-14-3-1-a"
     },
     {
       "path": "14-3-1/data.csv",
@@ -3736,7 +3736,7 @@
           }
         ]
       },
-      "title": "Охват охраняемых акваторий по отношению к озерам и водохранилищам."
+      "title": "meta.name-14-5-1-a"
     },
     {
       "path": "14-5-1/data.csv",
@@ -3866,7 +3866,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "млн. драм",
+                "mln. dram",
                 ""
               ]
             },
@@ -3879,7 +3879,7 @@
           }
         ]
       },
-      "title": "Бюджет, выделенный на исследования и комплексную защиту озера Севан"
+      "title": "meta.name-14-a-1-a"
     },
     {
       "path": "14-a-1/data.csv",
@@ -4045,7 +4045,7 @@
             "constraints": {
               "enum": [
                 "%",
-                "единица",
+                "unit",
                 ""
               ]
             },
@@ -4056,18 +4056,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Доля общих охраняемых территорий от общей площади страны",
-                "Государственные заповедники (категория Ib), количество",
-                "Доля государственных заповедников (категория Ib) в общей площади страны",
-                "Национальные парки (категория II), количество",
-                "Доля национальных парков (категория II) в общей площади страны",
-                "Государственные заказники (категория IV), количество",
-                "Доля государственных заказников (категория IV) в общей площади страны",
-                "Памятники природы (категория III), количество",
+                "Share of total areas under protection in the total area of the country",
+                "State reserves(Category Ib), quantity",
+                "Share of State reserves(Category Ib) in the total area of the country",
+                "National parks (Category II ), quantity",
+                "Share of National parks (Category II ) in the total area of the country",
+                "State preserves (Category IV), quantity",
+                "Share of State preserves (Category IV) in the total area of the country",
+                "Monuments of Nature(Category III), quantity",
                 ""
               ]
             },
-            "title": "Тип"
+            "title": "Type"
           },
           {
             "name": "Value",
@@ -4076,7 +4076,7 @@
           }
         ]
       },
-      "title": "Количество и доля охраняемых территорий в стране по категориям"
+      "title": "meta.name-15-1-2-a"
     },
     {
       "path": "15-1-2/data.csv",
@@ -4099,7 +4099,7 @@
             "constraints": {
               "enum": [
                 "%",
-                "единица",
+                "unit",
                 ""
               ]
             },
@@ -4110,18 +4110,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Доля общих охраняемых территорий от общей площади страны",
-                "Государственные заповедники (категория Ib), количество",
-                "Доля государственных заповедников (категория Ib) в общей площади страны",
-                "Национальные парки (категория II), количество",
-                "Доля национальных парков (категория II) в общей площади страны",
-                "Государственные заказники (категория IV), количество",
-                "Доля государственных заказников (категория IV) в общей площади страны",
-                "Памятники природы (категория III), количество",
+                "Share of total areas under protection in the total area of the country",
+                "State reserves(Category Ib), quantity",
+                "Share of State reserves(Category Ib) in the total area of the country",
+                "National parks (Category II ), quantity",
+                "Share of National parks (Category II ) in the total area of the country",
+                "State preserves (Category IV), quantity",
+                "Share of State preserves (Category IV) in the total area of the country",
+                "Monuments of Nature(Category III), quantity",
                 ""
               ]
             },
-            "title": "Тип"
+            "title": "Type"
           },
           {
             "name": "Value",
@@ -4201,7 +4201,7 @@
           }
         ]
       },
-      "title": "Доля земель, нуждающиеся в улучшении, по отношению к общей площади"
+      "title": "meta.name-15-3-1-a"
     },
     {
       "path": "15-3-1/data.csv",
@@ -4331,7 +4331,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "единица",
+                "unit",
                 ""
               ]
             },
@@ -4342,12 +4342,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "занесенные в Красную книгу РА",
-                "включены в особо охраняемые природные территории",
+                "registered in the Red Book of RA",
+                "included in the specially protected natural areas",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -4356,7 +4356,7 @@
           }
         ]
       },
-      "title": "Зарегистрированные виды позвоночных и беспозвоночных, из которых"
+      "title": "meta.name-15-5-1-a-1"
     },
     {
       "path": "15-5-1-a-2/data.csv",
@@ -4378,7 +4378,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "единица",
+                "unit",
                 ""
               ]
             },
@@ -4389,22 +4389,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "высшие виды растений, занесенные в Красную книгу РА",
+                "high plant species registered in the Red Book of RA",
                 ""
               ]
             },
-            "title": "тип образования"
+            "title": "Education type"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "включены в особо охраняемые природные территории",
+                "included in the specially protected natural areas",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -4413,7 +4413,7 @@
           }
         ]
       },
-      "title": "Зарегистрированы высокие и низкие виды растений, из которых"
+      "title": "meta.name-15-5-1-a-2"
     },
     {
       "path": "15-5-1/data.csv",
@@ -4726,7 +4726,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 100,000 населения",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -4739,7 +4739,7 @@
           }
         ]
       },
-      "title": "Количество убийств на 100 000 населения"
+      "title": "meta.name-16-1-1-a"
     },
     {
       "path": "16-1-1/data.csv",
@@ -4988,12 +4988,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -5036,7 +5036,7 @@
           }
         ]
       },
-      "title": "Количество случаев подвержения  людей траффикингу или эксплутации (труда)"
+      "title": "meta.name-16-2-2-a"
     },
     {
       "path": "16-2-2/data.csv",
@@ -5381,21 +5381,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "водоснабжение",
-                "канализация",
-                "сбор мусора",
-                "телефон стационарный",
-                "блок питания",
-                "почта",
-                "банковские работы",
-                "орошение",
-                "здравоохранение",
-                "образование",
-                "общественный транспорт",
+                "water supply",
+                "sewerage",
+                "garbage disposal",
+                "landline telephone",
+                "electricity supply",
+                "postal service",
+                "bank services",
+                "irrigation",
+                "healthcare",
+                "education",
+                "public transportation",
                 ""
               ]
             },
-            "title": "Сервисы"
+            "title": "Services"
           },
           {
             "name": "Value",
@@ -5545,12 +5545,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -5581,7 +5581,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "да=1, нет=0",
+                "yes=1, no=0",
                 ""
               ]
             },
@@ -5663,13 +5663,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "налоги и пошлины",
-                "прочие доходы",
-                "официальные трансферты",
+                "tax incomes and duties",
+                "other incomes",
+                "official grants",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -5678,7 +5678,7 @@
           }
         ]
       },
-      "title": "Общие доходы центрального правительства как доля ВВП"
+      "title": "meta.name-17-1-1-a"
     },
     {
       "path": "17-1-1/data.csv",
@@ -6093,7 +6093,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "да=1, нет=0",
+                "yes=1, no=0",
                 ""
               ]
             },
@@ -6128,7 +6128,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "да=1, нет=0",
+                "yes=1, no=0",
                 ""
               ]
             },
@@ -6163,7 +6163,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1000 долларов США",
+                "1000 USD",
                 ""
               ]
             },
@@ -6198,7 +6198,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "да=1, нет=0",
+                "yes=1, no=0",
                 "%",
                 ""
               ]
@@ -6210,13 +6210,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "провели по крайней мере одну перепись населения и жилищного фонда за последние 10 лет",
-                "достигли 100-процентной регистрации рождений",
-                "достигли 80 процентов регистрации смерти",
+                "have conducted at least one population and housing census in the last 10 years",
+                "have achieved 100 per cent birth registration",
+                "have achieved 80 per cent death registration",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -6247,7 +6247,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "человек",
+                "person",
                 ""
               ]
             },
@@ -6258,12 +6258,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -6343,7 +6343,7 @@
           }
         ]
       },
-      "title": "Прямые иностранные инвестиции (ПИИ)"
+      "title": "meta.name-17-3-1-a"
     },
     {
       "path": "17-3-1/data.csv",
@@ -6449,7 +6449,7 @@
           }
         ]
       },
-      "title": "Обслуживание государственного внешнего долга в процентах к экспорту товаров и услуг"
+      "title": "meta.name-17-4-1-a"
     },
     {
       "path": "17-4-1/data.csv",
@@ -6590,13 +6590,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "равно или выше скорости 256 Кбит/с и менее 2 Мбит/с",
-                "равно или выше скорости 2 Мбит/с и менее 10 Мбит/с",
-                "равно или выше скорости 10 Мбит/с",
+                "equal to or greater than 256 kbit/s and less than 2 Mbit/s",
+                "equal to or greater than 2 Mbit/s and less than 10 Mbit/s",
+                "equal to or greater than 10 Mbit/s",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -6674,26 +6674,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-5 лет",
-                "5-14 лет",
-                "15-24 лет",
-                "25 и более лет",
+                "aged 0-5 years",
+                "aged 5-14 years",
+                "aged 15-24 years",
+                "aged 25 and older",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -6702,7 +6702,7 @@
           }
         ]
       },
-      "title": "Доля лиц, использующих Интернет, по полу и возрастным группам"
+      "title": "meta.name-17-8-1-a"
     },
     {
       "path": "17-8-1/data.csv",
@@ -6738,19 +6738,19 @@
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -6898,12 +6898,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -6945,24 +6945,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "недоедание",
-                "переедание",
+                "wasting",
+                "overweight",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -7065,7 +7065,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 га",
+                "1,000 ha",
                 ""
               ]
             },
@@ -7076,13 +7076,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "пашня",
-                "многолетние насаждения",
-                "посевные площади",
+                "arable land",
+                "perennial plants",
+                "sown areas",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -7091,7 +7091,7 @@
           }
         ]
       },
-      "title": "Посевные площади сельскохозяйственных культур, площади многолетних насаждений и пашни"
+      "title": "meta.name-2-4-1-a"
     },
     {
       "path": "2-4-1/data.csv",
@@ -7113,7 +7113,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 га",
+                "1,000 ha",
                 ""
               ]
             },
@@ -7124,13 +7124,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "пашня",
-                "посевные площади",
-                "многолетние насаждения",
+                "arable land",
+                "sown areas",
+                "perennial plants",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -7354,7 +7354,7 @@
           }
         ]
       },
-      "title": "Индекс цен на продукты питания и безалкогольные напитки (в % к предыдущему году)"
+      "title": "meta.name-2-c-1-a"
     },
     {
       "path": "2-c-1/data.csv",
@@ -7412,7 +7412,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 100,000 живорожденных",
+                "per 100,000 live births",
                 ""
               ]
             },
@@ -7425,7 +7425,7 @@
           }
         ]
       },
-      "title": "Коэффициент материнской смертности (средний трехлетний показатель)"
+      "title": "meta.name-3-1-1-a"
     },
     {
       "path": "3-1-1/data.csv",
@@ -7447,7 +7447,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 100,000 живорожденных",
+                "per 100,000 live births",
                 ""
               ]
             },
@@ -7517,7 +7517,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 1,000 живорожденных",
+                "per 1,000 life births",
                 ""
               ]
             },
@@ -7552,7 +7552,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 1,000 живорожденных",
+                "per 1,000 life births",
                 ""
               ]
             },
@@ -7565,7 +7565,7 @@
           }
         ]
       },
-      "title": "Коэффициент младенческои смертности на 1 000 живорождений"
+      "title": "meta.name-3-2-2-a"
     },
     {
       "path": "3-2-2/data.csv",
@@ -7587,7 +7587,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 1,000 живорожденных",
+                "per 1,000 life births",
                 ""
               ]
             },
@@ -7598,11 +7598,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0-28 дней",
+                "0-28 days",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -7646,7 +7646,7 @@
           }
         ]
       },
-      "title": "Передача ВИЧ инфекции от ВИЧ-инфицированных матерей, не кормящих грудью, ребенку"
+      "title": "meta.name-3-3-1-a"
     },
     {
       "path": "3-3-1-b/data.csv",
@@ -7681,7 +7681,7 @@
           }
         ]
       },
-      "title": "Процент людей, живущих с ВИЧ, которые знают свой статус"
+      "title": "meta.name-3-3-1-b"
     },
     {
       "path": "3-3-1-c/data.csv",
@@ -7716,7 +7716,7 @@
           }
         ]
       },
-      "title": "Процент людей, живущих с ВИЧ, которые знают свой статус и получают АРВ-терапию"
+      "title": "meta.name-3-3-1-c"
     },
     {
       "path": "3-3-1-d/data.csv",
@@ -7751,7 +7751,7 @@
           }
         ]
       },
-      "title": "Процент ВИЧ-инфицированных, получающих АРВ-терапию, у которых уровень вирусной нагрузки (ВН) не распознан"
+      "title": "meta.name-3-3-1-d"
     },
     {
       "path": "3-3-1/data.csv",
@@ -7808,7 +7808,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 100,000 населения",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -7821,7 +7821,7 @@
           }
         ]
       },
-      "title": "Показатель заболеваемости туберкулезом с множественной лекарственной устойчивостью (на 100 000 населения)"
+      "title": "meta.name-3-3-2-a"
     },
     {
       "path": "3-3-2/data.csv",
@@ -7843,7 +7843,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 100,000 населения",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -7878,7 +7878,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "случаи",
+                "case",
                 ""
               ]
             },
@@ -7891,7 +7891,7 @@
           }
         ]
       },
-      "title": "Количество местных случаев малярии в год"
+      "title": "meta.name-3-3-3-a"
     },
     {
       "path": "3-3-3/data.csv",
@@ -7913,7 +7913,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 1,000 населения",
+                "per 1,000 population",
                 ""
               ]
             },
@@ -7948,7 +7948,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 100,000 населения",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -7961,7 +7961,7 @@
           }
         ]
       },
-      "title": "Пациенты 0–18 лет с острым гепатитом В (на 100 000 населения)"
+      "title": "meta.name-3-3-4-a"
     },
     {
       "path": "3-3-4-b/data.csv",
@@ -7996,7 +7996,7 @@
           }
         ]
       },
-      "title": "Охват 3 дозами вакцины с гепатитом В отдельно или в сочетании с 95 и более ингредиентами"
+      "title": "meta.name-3-3-4-b"
     },
     {
       "path": "3-3-4/data.csv",
@@ -8018,7 +8018,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 100,000 населения",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -8053,7 +8053,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "человек",
+                "person",
                 ""
               ]
             },
@@ -8066,7 +8066,7 @@
           }
         ]
       },
-      "title": "Количество пациентов с лейшманиозом"
+      "title": "meta.name-3-3-5-a"
     },
     {
       "path": "3-3-5-b/data.csv",
@@ -8088,7 +8088,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "случаи",
+                "case",
                 ""
               ]
             },
@@ -8101,7 +8101,7 @@
           }
         ]
       },
-      "title": "Случаи смерти от лейшманиоза"
+      "title": "meta.name-3-3-5-b"
     },
     {
       "path": "3-3-5/data.csv",
@@ -8159,7 +8159,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 100,000 населения",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -8170,14 +8170,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "сердечно-сосудистые заболевания",
-                "рак",
-                "сахарный диабет",
-                "хроническая респираторная болезнь",
+                "cardiovascular disease",
+                "cancer",
+                "diabetes",
+                "chronic respiratory disease",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -8208,7 +8208,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 100,000 населения",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -8243,7 +8243,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 100,000 населения",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -8256,7 +8256,7 @@
           }
         ]
       },
-      "title": "Количество пациентов, страдающих наркоманией"
+      "title": "meta.name-3-5-1-a"
     },
     {
       "path": "3-5-1/data.csv",
@@ -8314,7 +8314,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "литр",
+                "liter",
                 ""
               ]
             },
@@ -8327,7 +8327,7 @@
           }
         ]
       },
-      "title": "Ежегодное потребление алкогольных напитков домaшним хозяйством (чистый спирт в литрах)."
+      "title": "meta.name-3-5-2-a"
     },
     {
       "path": "3-5-2/data.csv",
@@ -8385,8 +8385,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 100,000 населения",
-                "человек",
+                "per 100,000 population",
+                "person",
                 ""
               ]
             },
@@ -8432,12 +8432,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "любой метод контрацепции",
-                "современные методы контрацепции",
+                "any contraceptive method",
+                "modern contraceptive methods",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -8468,7 +8468,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 1,000 женщин",
+                "per 1,000 women",
                 ""
               ]
             },
@@ -8479,12 +8479,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -8493,7 +8493,7 @@
           }
         ]
       },
-      "title": "Коэффициент рождаемости среди подростков (в возрасте 15-17 лет) на 1000 женщин в этой возрастной группе"
+      "title": "meta.name-3-7-2-a"
     },
     {
       "path": "3-7-2/data.csv",
@@ -8515,7 +8515,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 1,000 женщин",
+                "per 1,000 women",
                 ""
               ]
             },
@@ -8526,12 +8526,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "10-14 лет",
-                "15-19 лет",
+                "aged 10-14 years",
+                "aged 15-19 years",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Location",
@@ -8539,12 +8539,12 @@
             "constraints": {
               "enum": [
                 "Total",
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -8588,7 +8588,7 @@
           }
         ]
       },
-      "title": "Предоставление дородового ухода и ухода квалифицированным специалистом"
+      "title": "meta.name-3-8-1-a"
     },
     {
       "path": "3-8-1-b/data.csv",
@@ -8623,7 +8623,7 @@
           }
         ]
       },
-      "title": "Как минимум одно ультразвуковое исследование во время беременности"
+      "title": "meta.name-3-8-1-b"
     },
     {
       "path": "3-8-1-c/data.csv",
@@ -8658,7 +8658,7 @@
           }
         ]
       },
-      "title": "В течение первых двух дней после рождения, послеродовой осмотр матери"
+      "title": "meta.name-3-8-1-c"
     },
     {
       "path": "3-8-1-d/data.csv",
@@ -8693,7 +8693,7 @@
           }
         ]
       },
-      "title": "В течение первых двух дней после рождения осмотр новорожденного"
+      "title": "meta.name-3-8-1-d"
     },
     {
       "path": "3-8-1/data.csv",
@@ -8762,24 +8762,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "10% от ежедневного потребления  в домашних хозяйствах (на душу населения) (%)",
-                "25% от ежедневного потребления  в домашних хозяйствах (на душу населения) (%)",
+                "10% of daily per capita total household consumption",
+                "25% of daily per capita total household consumption",
                 ""
               ]
             },
-            "title": "Тип"
+            "title": "Type"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "село",
-                "город",
+                "rural",
+                "urban",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -8810,7 +8810,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 100,000 населения",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -8823,7 +8823,7 @@
           }
         ]
       },
-      "title": "Количество смертей, вызванных зарегистрированными случаями социального и бытового отравления"
+      "title": "meta.name-3-9-1-a"
     },
     {
       "path": "3-9-1/data.csv",
@@ -8862,7 +8862,7 @@
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Category",
@@ -8877,7 +8877,7 @@
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -8908,7 +8908,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 100,000 населения",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -8919,11 +8919,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "инфекционные и паразитарные заболевания",
+                "infectious and parasitic diseases",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -8954,8 +8954,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 100,000 населения",
-                "случаи",
+                "per 100,000 population",
+                "case",
                 ""
               ]
             },
@@ -9001,12 +9001,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -9050,7 +9050,7 @@
           }
         ]
       },
-      "title": "Показатель охвата вакцинами среди целевых величин, возраст 1 год"
+      "title": "meta.name-3-b-1-a"
     },
     {
       "path": "3-b-1-b/data.csv",
@@ -9085,7 +9085,7 @@
           }
         ]
       },
-      "title": "Показатель охвата вакцинами среди целевых величин, возраст 2 года"
+      "title": "meta.name-3-b-1-b"
     },
     {
       "path": "3-b-1-c/data.csv",
@@ -9120,7 +9120,7 @@
           }
         ]
       },
-      "title": "Показатель охвата вакцинами среди целевых величин, возраст 7 лет"
+      "title": "meta.name-3-b-1-c"
     },
     {
       "path": "3-b-1/data.csv",
@@ -9153,12 +9153,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -9261,7 +9261,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 10,000 населения",
+                "per 10,000 population",
                 ""
               ]
             },
@@ -9274,7 +9274,7 @@
           }
         ]
       },
-      "title": "Число врачей, осуществляющих профессиональную деятельность на 10000 человек населения."
+      "title": "meta.name-3-c-1-a"
     },
     {
       "path": "3-c-1/data.csv",
@@ -9296,7 +9296,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 1,000 населения",
+                "per 1,000 population",
                 ""
               ]
             },
@@ -9307,13 +9307,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "врачи",
-                "средний медицинский персонал",
-                "младший медицинский персонал",
+                "physicians",
+                "paramedical personnel",
+                "junior medical personnel",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -9344,7 +9344,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "единица",
+                "unit",
                 ""
               ]
             },
@@ -9426,12 +9426,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -9440,7 +9440,7 @@
           }
         ]
       },
-      "title": "Доля детей в конце начальной школы, достигающих, по крайней мере, минимального уровня владения (i) чтением и (ii) математикой"
+      "title": "meta.name-4-1-1b"
     },
     {
       "path": "4-1-1c/data.csv",
@@ -9473,12 +9473,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -9487,7 +9487,7 @@
           }
         ]
       },
-      "title": "Доля детей в конце младших классов средней школы, достигших, по крайней мере, минимального уровня владения (i) чтением и (ii) математикой"
+      "title": "meta.name-4-1-1c"
     },
     {
       "path": "4-2-1/data.csv",
@@ -9556,12 +9556,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -9570,7 +9570,7 @@
           }
         ]
       },
-      "title": "Валовая численность детей в возрасте от 3-5 лет в дошкольном образовании"
+      "title": "meta.name-4-2-2-a"
     },
     {
       "path": "4-2-2/data.csv",
@@ -9639,30 +9639,30 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "среднее",
-                "начальная",
-                "основная",
-                "высшее",
-                "Начальное профессиональное (ремесленное)",
-                "среднепрофессиональное",
+                "secondary",
+                "primary",
+                "lower secondary",
+                "high",
+                "pre-specialized (vocational) education",
+                "specialized secondary education",
                 "specialized high education, first stage (bachelor's Degree)",
                 "post-graduate education, second stage (master's Degree)",
                 ""
               ]
             },
-            "title": "тип образования"
+            "title": "Education type"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -9671,7 +9671,7 @@
           }
         ]
       },
-      "title": "Валовой коэффициент охвата образованием в общем образовании"
+      "title": "meta.name-4-3-1-a"
     },
     {
       "path": "4-3-1/data.csv",
@@ -9729,7 +9729,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "человек",
+                "person",
                 ""
               ]
             },
@@ -9742,7 +9742,7 @@
           }
         ]
       },
-      "title": "Число учеников на компьютер в общеобразовательных школах."
+      "title": "meta.name-4-4-1-a"
     },
     {
       "path": "4-4-1/data.csv",
@@ -9811,18 +9811,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "начальная",
-                "основная",
-                "высшее",
-                "среднее",
-                "начальное профессиональное (ремесленное)",
-                "среднепрофессиональное",
-                "высшее образование первой ступени",
-                "высшее образование второй ступени",
+                "primary",
+                "lower secondary",
+                "high",
+                "secondary",
+                "preliminary vocational",
+                "middle vocational",
+                "bachelor",
+                "master",
                 ""
               ]
             },
-            "title": "тип образования"
+            "title": "Education type"
           },
           {
             "name": "Value",
@@ -9831,7 +9831,7 @@
           }
         ]
       },
-      "title": "Индекс гендерного паритета"
+      "title": "meta.name-4-5-1-a"
     },
     {
       "path": "4-5-1/data.csv",
@@ -9900,12 +9900,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -9914,7 +9914,7 @@
           }
         ]
       },
-      "title": "Уровень грамотности населения в возрасте от 10-24 лет"
+      "title": "meta.name-4-6-1-a"
     },
     {
       "path": "4-6-1/data.csv",
@@ -10019,15 +10019,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "электричество",
-                "доля школ, подключенных к Интернету",
-                "количество учителей на компьютер",
-                "водоснабжение",
-                "канализация",
+                "electricity",
+                "proportion of schools connected to the Internet",
+                "number of teachers per computer",
+                "water supply",
+                "sewerage",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -10107,7 +10107,7 @@
           }
         ]
       },
-      "title": "Доля подготовленных учителей"
+      "title": "meta.name-4-c-1-a"
     },
     {
       "path": "4-c-1/data.csv",
@@ -10212,12 +10212,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "физическое насилие",
-                "сексуальное насилие",
+                "physical violence",
+                "sexual violence",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -10295,12 +10295,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "до 15 лет",
-                "до 18 лет",
+                "before age 15",
+                "before age 18",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -10414,12 +10414,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "а) национальные парламенты",
-                "б) местное управление",
+                "national parliaments",
+                "local governments",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -10465,19 +10465,19 @@
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -10521,7 +10521,7 @@
           }
         ]
       },
-      "title": "Женщины, которые в настоящее время состоят в браке или в союзе и используют какие-либо методы контрацепции, выполнено только условие 3 \"Она может принимать решение о здравоохранении самостоятельно или совместно\" выполнено"
+      "title": "meta.name-5-6-1-a"
     },
     {
       "path": "5-6-1/data.csv",
@@ -10626,12 +10626,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -10640,7 +10640,7 @@
           }
         ]
       },
-      "title": "Доля домохозяйств, владеющих землями сельскохозяйственного назначения"
+      "title": "meta.name-5-a-1-a-a"
     },
     {
       "path": "5-a-1-b-a-1/data.csv",
@@ -10673,13 +10673,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "самостоятельно",
-                "совместно с кем-то еще",
-                "самостоятельно и совместно с кем-то еще",
+                "alone",
+                "jointly with someone else",
+                "alone and jointly with someone else",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -10688,7 +10688,7 @@
           }
         ]
       },
-      "title": "Доля женщин в возрасте 15-49 лет, имеющих право  собственности (самостоятельно, совместно с кем-либо или совместно и единолично и совместно с кем-либо еще) на сельскохозяйственные или несельскохозяйственные земли, которые имеют правоустанавливающий документ и их имя указано в титульном акте"
+      "title": "meta.name-5-a-1-b-a-1"
     },
     {
       "path": "5-a-1-b-a-2/data.csv",
@@ -10721,13 +10721,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "самостоятельно",
-                "совместно с кем-то еще",
-                "самостоятельно и совместно с кем-то еще",
+                "alone",
+                "jointly with someone else",
+                "alone and jointly with someone else",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -10736,7 +10736,7 @@
           }
         ]
       },
-      "title": "Доля мужчин в возрасте 15-49 лет, имеющих право собственности (самостоятельно, совместно с кем-либо или вместе или совместно, с кем-либо еще) на сельскохозяйственные или несельскохозяйственные земли, у которых есть титул на право собственности и их имя указано в титуле"
+      "title": "meta.name-5-a-1-b-a-2"
     },
     {
       "path": "5-a-1/data.csv",
@@ -10841,12 +10841,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -10855,7 +10855,7 @@
           }
         ]
       },
-      "title": "Доля домохозяйств, имеющих мобильный телефон"
+      "title": "meta.name-5-b-1-a"
     },
     {
       "path": "5-b-1/data.csv",
@@ -10888,12 +10888,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -10971,12 +10971,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -10985,7 +10985,7 @@
           }
         ]
       },
-      "title": "Доля домохозяйств с централизованным водоснабжением"
+      "title": "meta.name-6-1-1-a"
     },
     {
       "path": "6-1-1/data.csv",
@@ -11018,12 +11018,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -11067,7 +11067,7 @@
           }
         ]
       },
-      "title": "Доля населения, пользующегося безопасным санитарно-техническими удобствами"
+      "title": "meta.name-6-2-1-a"
     },
     {
       "path": "6-2-1-b/data.csv",
@@ -11102,7 +11102,7 @@
           }
         ]
       },
-      "title": "Доля населения, пользующегося удобствами для мытья рук с мылом и водой"
+      "title": "meta.name-6-2-1-b"
     },
     {
       "path": "6-2-1-c/data.csv",
@@ -11137,7 +11137,7 @@
           }
         ]
       },
-      "title": "Доля населения, пользующегося санитарно-гигиеническими услугами, определенные санитарными нормами."
+      "title": "meta.name-6-2-1-c"
     },
     {
       "path": "6-2-1/data.csv",
@@ -11173,19 +11173,19 @@
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -11229,7 +11229,7 @@
           }
         ]
       },
-      "title": "Доля недостаточно очищенных сточных вод в общем объеме образующихся сточных вод"
+      "title": "meta.name-6-3-1-a"
     },
     {
       "path": "6-3-1/data.csv",
@@ -11583,12 +11583,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -11597,7 +11597,7 @@
           }
         ]
       },
-      "title": "Доля домохозяйств, имеющего доступ к электроэнергии"
+      "title": "meta.name-7-1-1-a"
     },
     {
       "path": "7-1-1/data.csv",
@@ -11630,12 +11630,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -11677,12 +11677,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -11691,7 +11691,7 @@
           }
         ]
       },
-      "title": "Доля домохозяйств, которые в первую очередь полагаются на чистое топливо и технологии"
+      "title": "meta.name-7-1-2-a"
     },
     {
       "path": "7-1-2/data.csv",
@@ -11724,12 +11724,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -11984,12 +11984,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -12070,19 +12070,19 @@
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -12149,8 +12149,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "млн. драм",
-                "драм",
+                "mln. dram",
+                "dram",
                 "%",
                 ""
               ]
@@ -12162,13 +12162,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "материальное потребление",
-                "внутреннее материальное потребление на душу населения",
-                "внутреннее материальное потребление к ВВП",
+                "domestic material consumption",
+                "domestic material consumption per capita",
+                "domestic material consumption per GDP",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -12199,7 +12199,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "драм",
+                "dram",
                 ""
               ]
             },
@@ -12210,12 +12210,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -12224,7 +12224,7 @@
           }
         ]
       },
-      "title": "Среднемесячная номинальная заработная плата"
+      "title": "meta.name-8-5-1-a"
     },
     {
       "path": "8-5-1/data.csv",
@@ -12293,50 +12293,50 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "всего",
-                "с ограниченными возможностями?",
+                "total",
+                "with disabilities",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "15-75 лет",
+                "15-75 age",
                 "15-74 age",
                 "15+ age",
-                "15-24 лет",
+                "15-24 age",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -12378,50 +12378,50 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "всего",
+                "total",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "15-29 лет",
-                "15-29 лет",
-                "20-24 лет",
-                "15-24 лет",
-                "25-29 лет",
+                "15-29 age",
+                "15-19 age",
+                "20-24 age",
+                "15-24 age",
+                "25-29 age",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -12452,7 +12452,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "чесло",
+                "number",
                 "%",
                 ""
               ]
@@ -12464,25 +12464,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "5-11 лет",
-                "12-15 лет",
-                "16-17 лет",
+                "aged 5-11 years",
+                "aged 12-15 years",
+                "aged 16-17 years",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -12513,7 +12513,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "человек",
+                "person",
                 ""
               ]
             },
@@ -12524,12 +12524,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -12776,8 +12776,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 человек",
-                "1,000 тонна",
+                "1,000 people",
+                "1,000 tons",
                 ""
               ]
             },
@@ -12788,28 +12788,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "объем  пассажироперевозок",
-                "объем грузоперевозок",
+                "passenger volume",
+                "freight volumes",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Transportation type",
             "type": "string",
             "constraints": {
               "enum": [
-                "железнодорожный транспорт",
-                "автомобильный транспорт",
-                "из коих- легковой  таксомоторный",
-                "воздушный  транспорт",
-                "электротранспорт",
-                "магистральный трубопроводный транспорт",
+                "railway transport",
+                "road transport",
+                "of which  passenger taxi",
+                "air transport",
+                "electricity transport",
+                "pipelines",
                 ""
               ]
             },
-            "title": "вид транспорта"
+            "title": "Transportation type"
           },
           {
             "name": "Value",
@@ -12841,7 +12841,7 @@
             "constraints": {
               "enum": [
                 "%",
-                "драм",
+                "dram",
                 ""
               ]
             },
@@ -12852,12 +12852,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "доля ВВП",
-                "на душу населения",
+                "proportion of GDP",
+                "per capita",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -12902,32 +12902,32 @@
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "всего",
-                "мужчина",
-                "женщина",
+                "total",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -13100,7 +13100,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на миллион населения",
+                "per million population",
                 ""
               ]
             },

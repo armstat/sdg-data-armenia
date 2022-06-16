@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "%",
-                "драм",
+                "dram",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "доля ВВП",
-                "на душу населения",
+                "proportion of GDP",
+                "per capita",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",

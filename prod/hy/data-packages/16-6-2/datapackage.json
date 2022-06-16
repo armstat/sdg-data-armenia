@@ -20,21 +20,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ջրամատակարարում",
-                "կոյուղի",
-                "աղբի հավաքում",
-                "հեռախոս ստացիոնար",
-                "էլեկտրաէներգիայի մատակարարում",
-                "փոստ",
-                "բանկերի աշխատանք",
-                "ոռոգում",
-                "առողջապահություն",
-                "կրթություն",
-                "հասարակական տրանսպորտ",
+                "water supply",
+                "sewerage",
+                "garbage disposal",
+                "landline telephone",
+                "electricity supply",
+                "postal service",
+                "bank services",
+                "irrigation",
+                "healthcare",
+                "education",
+                "public transportation",
                 ""
               ]
             },
-            "title": "Ծառայություններ"
+            "title": "Services"
           },
           {
             "name": "Value",

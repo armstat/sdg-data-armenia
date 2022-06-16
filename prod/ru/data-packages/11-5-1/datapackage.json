@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 100,000 населения",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -31,13 +31,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "стихийные бедствия",
-                "техногенные бедствия",
-                "социально-биологические бедствия",
+                "natural disaster",
+                "man-made disaster",
+                "social-biological disaster",
                 ""
               ]
             },
-            "title": "тип бедствия"
+            "title": "Disaster type"
           },
           {
             "name": "Value",

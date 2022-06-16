@@ -31,13 +31,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "հավասար է կամ գերազանցում է 256 Կբիթ/վրկ արագությունը և պակաս է 2 Մբիթ/վրկ-ից",
-                "հավասար է կամ գերազանցում է 2 Մբիթ/վրկ արագությունը և պակաս է 10 Մբիթ/վրկ-ից",
-                "հավասար է կամ գերազանցում է  10 Մբիթ/վրկ արագությունը",
+                "equal to or greater than 256 kbit/s and less than 2 Mbit/s",
+                "equal to or greater than 2 Mbit/s and less than 10 Mbit/s",
+                "equal to or greater than 10 Mbit/s",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",

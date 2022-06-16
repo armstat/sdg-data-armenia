@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 100,000 населения",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -31,11 +31,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "инфекционные и паразитарные заболевания",
+                "infectious and parasitic diseases",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",

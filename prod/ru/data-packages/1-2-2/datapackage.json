@@ -32,37 +32,37 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "дети",
+                "children",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-5 лет",
-                "6-17 лет",
-                "18-64 лет",
-                "65 и более лет",
+                "aged 0-5 years",
+                "aged 6-17 years",
+                "aged 18-64 years",
+                "aged 65 and older",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Value",

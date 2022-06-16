@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -49,5 +49,5 @@
   ],
   "profile": "data-package",
   "name": "4-6-1-a",
-  "title": "Բնակչության գրագիտության մակարդակը 10-24 տարիքային խմբում"
+  "title": "meta.name-4-6-1-a"
 }

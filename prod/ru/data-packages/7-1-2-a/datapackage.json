@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -49,5 +49,5 @@
   ],
   "profile": "data-package",
   "name": "7-1-2-a",
-  "title": "Доля домохозяйств, которые в первую очередь полагаются на чистое топливо и технологии"
+  "title": "meta.name-7-1-2-a"
 }

@@ -31,13 +31,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "налоги и пошлины",
-                "прочие доходы",
-                "официальные трансферты",
+                "tax incomes and duties",
+                "other incomes",
+                "official grants",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -50,5 +50,5 @@
   ],
   "profile": "data-package",
   "name": "17-1-1-a",
-  "title": "Общие доходы центрального правительства как доля ВВП"
+  "title": "meta.name-17-1-1-a"
 }

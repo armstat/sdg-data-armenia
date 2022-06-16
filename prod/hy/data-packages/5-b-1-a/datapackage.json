@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Տարածք"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -49,5 +49,5 @@
   ],
   "profile": "data-package",
   "name": "5-b-1-a",
-  "title": "Բջջային հեռախոս ունեցող տնային տնտեսությունների համամասնությունը"
+  "title": "meta.name-5-b-1-a"
 }

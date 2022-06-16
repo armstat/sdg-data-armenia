@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 га",
+                "1,000 ha",
                 ""
               ]
             },
@@ -31,13 +31,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "пашня",
-                "посевные площади",
-                "многолетние насаждения",
+                "arable land",
+                "sown areas",
+                "perennial plants",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",

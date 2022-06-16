@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -49,5 +49,5 @@
   ],
   "profile": "data-package",
   "name": "5-b-1-a",
-  "title": "Доля домохозяйств, имеющих мобильный телефон"
+  "title": "meta.name-5-b-1-a"
 }

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 տոննա",
+                "1,000 tons",
                 ""
               ]
             },
@@ -37,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "12-3-1-a",
-  "title": "Պարենի կորուստ"
+  "title": "meta.name-12-3-1-a"
 }

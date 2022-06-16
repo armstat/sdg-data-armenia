@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "մարդ",
+                "person",
                 "%",
                 ""
               ]
@@ -32,38 +32,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "մինչև 1 տարեկան",
-                "1-6 տարեկան",
-                "7-9 տարեկան",
-                "10-15 տարեկան",
-                "16-17 տարեկան",
+                "up to 1 year old",
+                "aged 1-6 years",
+                "aged 7-9 years",
+                "aged 10-15 years",
+                "aged 16-17 years",
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "ընդամենը՝ համապատասխանն տարիքի բնակչությունից",
+                "total to the population of respective age",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -76,5 +76,5 @@
   ],
   "profile": "data-package",
   "name": "1-3-1-h",
-  "title": "Մանկատների երեխաներ (0-17 տարեկան), տարեվերջին"
+  "title": "meta.name-1-3-1-h"
 }

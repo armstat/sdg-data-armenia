@@ -31,26 +31,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "արական",
-                "իգական",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Sex"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-5 տարեկան",
-                "5-14 տարեկան",
-                "15-24 տարեկան",
-                "25 և բարձր տարիքի",
+                "aged 0-5 years",
+                "aged 5-14 years",
+                "aged 15-24 years",
+                "aged 25 and older",
                 ""
               ]
             },
-            "title": "Տարիք"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -63,5 +63,5 @@
   ],
   "profile": "data-package",
   "name": "17-8-1-a",
-  "title": "Համացանցից օգտվող անհատների համամասնությունն՝ ըստ սեռի և  տարիքային խմբերի"
+  "title": "meta.name-17-8-1-a"
 }

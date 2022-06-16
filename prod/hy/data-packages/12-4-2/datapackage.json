@@ -20,22 +20,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Վտանգավոր թափոնների գոյացումը",
-                "Տրվել է այլ կազմակերպությունների",
-                "Վնասազերծվել և ոչնչացվել են կազմակերպությունների կողմից",
-                "Օգտագործվել են կազմակերպությունների կողմից",
-                "Կազմակերպությունների միջոցներով տեղափոխվել են տեղադրման վայրեր",
+                "Hazardous waste generated",
+                "Waste transmitted to other organizations",
+                "Treated and destructed by organizations",
+                "Waste used by organizations",
+                "Transported to landfills by means of organizations",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Type"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "կգ մեկ շնչի հաշվով",
+                "kg per capita",
                 "%",
                 ""
               ]

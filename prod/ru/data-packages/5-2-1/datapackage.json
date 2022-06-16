@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "физическое насилие",
-                "сексуальное насилие",
+                "physical violence",
+                "sexual violence",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",

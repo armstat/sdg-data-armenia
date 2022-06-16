@@ -26,7 +26,7 @@
                 "secondary"
               ]
             },
-            "title": "education type"
+            "title": "Education type"
           },
           {
             "name": "Units",
@@ -55,5 +55,5 @@
   ],
   "profile": "data-package",
   "name": "4-5-1-a",
-  "title": "Gender parity index"
+  "title": "meta.name-4-5-1-a"
 }

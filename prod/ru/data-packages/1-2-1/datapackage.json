@@ -31,49 +31,49 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "женщина",
-                "мужчина",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-5 лет",
-                "6-17 лет",
-                "18-64 лет",
-                "65 и более лет",
+                "aged 0-5 years",
+                "aged 6-17 years",
+                "aged 18-64 years",
+                "aged 65 and older",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Type",
             "type": "string",
             "constraints": {
               "enum": [
-                "инвалиды",
+                "disabled",
                 ""
               ]
             },
-            "title": "Тип"
+            "title": "Type"
           },
           {
             "name": "Value",

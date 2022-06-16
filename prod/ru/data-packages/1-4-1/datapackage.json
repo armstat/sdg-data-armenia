@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "доступ домашних хозяйств к централизованному водоснабжению",
-                "доступ домашних хозяйств к централизованной канализации",
-                "доступ домашних хозяйств  к  централизованного вывоза мусора (система сбора мусора и / или утилизация на грузовике; свалка на свалке)",
-                "доступ  домашнего хозяйства к интернету",
-                "доступ членов домашнего хозяйства к интернету",
-                "доля домашних хозяйств с электроснабжением",
-                "доля домохозяйств, которые в первую очередь полагаются на чистое топливо и технологии",
+                "household access to centralized water supply",
+                "household access to centralized sewerage system",
+                "household access to garbage disposal",
+                "internet accessibility for household",
+                "internet accessibility for household members",
+                "share of households with electricity supply",
+                "proportion of households with primary reliance on clean fuels and technology",
                 ""
               ]
             },
@@ -48,24 +48,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Расположение"
+            "title": "Location"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",

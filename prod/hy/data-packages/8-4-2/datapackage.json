@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "մլն. դրամ",
-                "դրամ",
+                "mln. dram",
+                "dram",
                 "%",
                 ""
               ]
@@ -33,13 +33,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "նյութական սպառումը",
-                "մեկ շնչի հաշվով ներքին նյութական սպառումը",
-                "ՀՆԱ-ի հաշվով ներքին նյութական սպառումը",
+                "domestic material consumption",
+                "domestic material consumption per capita",
+                "domestic material consumption per GDP",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",

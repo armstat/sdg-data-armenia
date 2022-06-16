@@ -30,7 +30,7 @@
                 "high plant species registered in the Red Book of RA"
               ]
             },
-            "title": "education type"
+            "title": "Education type"
           },
           {
             "name": "Units",
@@ -59,5 +59,5 @@
   ],
   "profile": "data-package",
   "name": "15-5-1-a-2",
-  "title": "Registered high and low plant species, of which"
+  "title": "meta.name-15-5-1-a-2"
 }

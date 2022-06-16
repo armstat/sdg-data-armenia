@@ -31,13 +31,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "образование",
-                "здравоохранение",
-                "социальная защита",
+                "education",
+                "health",
+                "social protection",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",

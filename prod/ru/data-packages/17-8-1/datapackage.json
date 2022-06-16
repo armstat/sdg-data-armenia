@@ -34,19 +34,19 @@
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",

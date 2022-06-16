@@ -31,13 +31,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "հարկային եկամուտներ և տուրքեր",
-                "այլ եկամուտներ",
-                "պաշտոնական դրամաշնորհներ",
+                "tax incomes and duties",
+                "other incomes",
+                "official grants",
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -50,5 +50,5 @@
   ],
   "profile": "data-package",
   "name": "17-1-1-a",
-  "title": "Կենտրոնական կառավարության ընդհամենը եկամուտները՝ արտահայտված որպես ՀՆԱ-ի համամասնություն"
+  "title": "meta.name-17-1-1-a"
 }

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "100,000  բնակչի հաշվով",
-                "դեպք",
+                "per 100,000 population",
+                "case",
                 ""
               ]
             },

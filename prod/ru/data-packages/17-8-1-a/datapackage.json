@@ -31,26 +31,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-5 лет",
-                "5-14 лет",
-                "15-24 лет",
-                "25 и более лет",
+                "aged 0-5 years",
+                "aged 5-14 years",
+                "aged 15-24 years",
+                "aged 25 and older",
                 ""
               ]
             },
-            "title": "Возраст"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -63,5 +63,5 @@
   ],
   "profile": "data-package",
   "name": "17-8-1-a",
-  "title": "Доля лиц, использующих Интернет, по полу и возрастным группам"
+  "title": "meta.name-17-8-1-a"
 }

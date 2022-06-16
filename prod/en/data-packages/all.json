@@ -31,7 +31,7 @@
               "enum": [
                 "",
                 "economically active population",
-                "economically inactive population",
+                "economically inactive  population",
                 "economically inactive population",
                 "employed",
                 "other employed",
@@ -333,7 +333,7 @@
           }
         ]
       },
-      "title": "Proportion of registered disabled people to the total number of population at the end of the year"
+      "title": "meta.name-1-3-1-a"
     },
     {
       "path": "1-3-1-b/data.csv",
@@ -406,7 +406,7 @@
           }
         ]
       },
-      "title": "Children with disabilities from diseases (aged 0-17 years)"
+      "title": "meta.name-1-3-1-b"
     },
     {
       "path": "1-3-1-c/data.csv",
@@ -485,7 +485,7 @@
           }
         ]
       },
-      "title": "Proportion of pensioners to the total number of population at the end of the year"
+      "title": "meta.name-1-3-1-c"
     },
     {
       "path": "1-3-1-d/data.csv",
@@ -532,7 +532,7 @@
           }
         ]
       },
-      "title": "Ratio of elderly pensioners. Ratio of age pensioners and the retirement age stipulated by law and aged population"
+      "title": "meta.name-1-3-1-d"
     },
     {
       "path": "1-3-1-e/data.csv",
@@ -567,7 +567,7 @@
           }
         ]
       },
-      "title": "Proportion of families receiving family benefits to households"
+      "title": "meta.name-1-3-1-e"
     },
     {
       "path": "1-3-1-f/data.csv",
@@ -602,7 +602,7 @@
           }
         ]
       },
-      "title": "Proportion of families receiving social benefits to households"
+      "title": "meta.name-1-3-1-f"
     },
     {
       "path": "1-3-1-g/data.csv",
@@ -676,7 +676,7 @@
           }
         ]
       },
-      "title": "Proportion of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year"
+      "title": "meta.name-1-3-1-g"
     },
     {
       "path": "1-3-1-h/data.csv",
@@ -750,7 +750,7 @@
           }
         ]
       },
-      "title": "Children of orphans (aged 0-17 years) at the end of the year"
+      "title": "meta.name-1-3-1-h"
     },
     {
       "path": "1-3-1-i/data.csv",
@@ -812,7 +812,7 @@
           }
         ]
       },
-      "title": "Children who return to relatives from orphanages (aged 0-17 years)"
+      "title": "meta.name-1-3-1-i"
     },
     {
       "path": "1-3-1-j/data.csv",
@@ -871,7 +871,7 @@
           }
         ]
       },
-      "title": "Children with disabilities living in orphanages (aged 0-17 years) at the end of the year"
+      "title": "meta.name-1-3-1-j"
     },
     {
       "path": "1-3-1-ja/data.csv",
@@ -934,7 +934,7 @@
           }
         ]
       },
-      "title": "Adopted children (aged 0-17 years)"
+      "title": "meta.name-1-3-1-ja"
     },
     {
       "path": "1-3-1-jb/data.csv",
@@ -996,7 +996,7 @@
           }
         ]
       },
-      "title": "Adopted children by social groups (aged 0-17 years)"
+      "title": "meta.name-1-3-1-jb"
     },
     {
       "path": "1-3-1-jc/data.csv",
@@ -1031,7 +1031,7 @@
           }
         ]
       },
-      "title": "Number of beneficiaries receiving maternity benefits granted to non-employed person at the end of the year"
+      "title": "meta.name-1-3-1-jc"
     },
     {
       "path": "1-3-1-ka/data.csv",
@@ -1066,7 +1066,7 @@
           }
         ]
       },
-      "title": "Share of poor population who receive family benefit"
+      "title": "meta.name-1-3-1-ka"
     },
     {
       "path": "1-3-1-kb/data.csv",
@@ -1101,7 +1101,7 @@
           }
         ]
       },
-      "title": "Share of poor population who receive social assistance, including family benefit"
+      "title": "meta.name-1-3-1-kb"
     },
     {
       "path": "1-3-1/data.csv",
@@ -1157,7 +1157,7 @@
                 "",
                 "household access to centralized sewerage system",
                 "household access to centralized water supply",
-                "household access to garbage disposal (garbage collector system and/or disposal by truck,  garbage piled up for disposal)",
+                "household access to garbage disposal",
                 "internet accessibility for household",
                 "internet accessibility for household members",
                 "proportion of households with primary reliance on clean fuels and technology",
@@ -1272,7 +1272,7 @@
                 "social-biological disaster"
               ]
             },
-            "title": "disaster type"
+            "title": "Disaster type"
           },
           {
             "name": "Units",
@@ -1858,7 +1858,7 @@
           }
         ]
       },
-      "title": "Percentage of returned migrants who undertook paid work during the last 7 days"
+      "title": "meta.name-10-7-2-a"
     },
     {
       "path": "10-7-2-b/data.csv",
@@ -1893,7 +1893,7 @@
           }
         ]
       },
-      "title": "Proportion of individual asylum applications granted"
+      "title": "meta.name-10-7-2-b"
     },
     {
       "path": "10-7-2/data.csv",
@@ -2072,7 +2072,7 @@
           }
         ]
       },
-      "title": "Proportion of urban households whose dwelling units are: Cottage/temporary shelter, Dwelling of joint residence, Dormitory, other dwelling unit or who are homeless"
+      "title": "meta.name-11-1-1-a"
     },
     {
       "path": "11-1-1/data.csv",
@@ -2273,7 +2273,7 @@
                 "social-biological disaster"
               ]
             },
-            "title": "disaster type"
+            "title": "Disaster type"
           },
           {
             "name": "Units",
@@ -2369,7 +2369,7 @@
           }
         ]
       },
-      "title": "Urban solid waste regularly collected with adequate final discharge"
+      "title": "meta.name-11-6-1-a"
     },
     {
       "path": "11-6-1/data.csv",
@@ -2811,7 +2811,7 @@
           }
         ]
       },
-      "title": "Food loss"
+      "title": "meta.name-12-3-1-a"
     },
     {
       "path": "12-3-1/data.csv",
@@ -3209,7 +3209,7 @@
                 "social-biological disaster"
               ]
             },
-            "title": "disaster type"
+            "title": "Disaster type"
           },
           {
             "name": "Units",
@@ -3628,7 +3628,7 @@
           }
         ]
       },
-      "title": "Average Lake Sevan acidity (pH) measured at agreed suite of representative sampling stations"
+      "title": "meta.name-14-3-1-a"
     },
     {
       "path": "14-3-1/data.csv",
@@ -3736,7 +3736,7 @@
           }
         ]
       },
-      "title": "Coverage of protected water areas in relation to lakes and reservoirs"
+      "title": "meta.name-14-5-1-a"
     },
     {
       "path": "14-5-1/data.csv",
@@ -3879,7 +3879,7 @@
           }
         ]
       },
-      "title": "Budget allocated to research and complex protection related to lake Sevan"
+      "title": "meta.name-14-a-1-a"
     },
     {
       "path": "14-a-1/data.csv",
@@ -4076,7 +4076,7 @@
           }
         ]
       },
-      "title": "Number and proportion of protected areas in the country by categories"
+      "title": "meta.name-15-1-2-a"
     },
     {
       "path": "15-1-2/data.csv",
@@ -4201,7 +4201,7 @@
           }
         ]
       },
-      "title": "Proportion of lands in need of improvement over total land area"
+      "title": "meta.name-15-3-1-a"
     },
     {
       "path": "15-3-1/data.csv",
@@ -4356,7 +4356,7 @@
           }
         ]
       },
-      "title": "Registered vertebrate and invertebrate species, of which"
+      "title": "meta.name-15-5-1-a-1"
     },
     {
       "path": "15-5-1-a-2/data.csv",
@@ -4388,7 +4388,7 @@
                 "high plant species registered in the Red Book of RA"
               ]
             },
-            "title": "education type"
+            "title": "Education type"
           },
           {
             "name": "Units",
@@ -4413,7 +4413,7 @@
           }
         ]
       },
-      "title": "Registered high and low plant species, of which"
+      "title": "meta.name-15-5-1-a-2"
     },
     {
       "path": "15-5-1/data.csv",
@@ -4739,7 +4739,7 @@
           }
         ]
       },
-      "title": "Number of homicide cases per 100,000 population"
+      "title": "meta.name-16-1-1-a"
     },
     {
       "path": "16-1-1/data.csv",
@@ -5036,7 +5036,7 @@
           }
         ]
       },
-      "title": "The number of cases of human trafficking or exploitation "
+      "title": "meta.name-16-2-2-a"
     },
     {
       "path": "16-2-2/data.csv",
@@ -5678,7 +5678,7 @@
           }
         ]
       },
-      "title": "Total central government revenue as a proportion of GDP"
+      "title": "meta.name-17-1-1-a"
     },
     {
       "path": "17-1-1/data.csv",
@@ -6343,7 +6343,7 @@
           }
         ]
       },
-      "title": "Foreign direct investments (FDI)"
+      "title": "meta.name-17-3-1-a"
     },
     {
       "path": "17-3-1/data.csv",
@@ -6449,7 +6449,7 @@
           }
         ]
       },
-      "title": "External public debt service as a proportion of exports of goods and services"
+      "title": "meta.name-17-4-1-a"
     },
     {
       "path": "17-4-1/data.csv",
@@ -6702,7 +6702,7 @@
           }
         ]
       },
-      "title": "Proportion of individuals using the Internet by sex and age groups"
+      "title": "meta.name-17-8-1-a"
     },
     {
       "path": "17-8-1/data.csv",
@@ -7091,7 +7091,7 @@
           }
         ]
       },
-      "title": "Sown areas under agricultural crops, areas of perennial crops and arable lands "
+      "title": "meta.name-2-4-1-a"
     },
     {
       "path": "2-4-1/data.csv",
@@ -7354,7 +7354,7 @@
           }
         ]
       },
-      "title": "Food and non-alcoholic beverages price index (compared to the previous year)"
+      "title": "meta.name-2-c-1-a"
     },
     {
       "path": "2-c-1/data.csv",
@@ -7425,7 +7425,7 @@
           }
         ]
       },
-      "title": "Maternal mortality ratio (average three-year indicator)"
+      "title": "meta.name-3-1-1-a"
     },
     {
       "path": "3-1-1/data.csv",
@@ -7565,7 +7565,7 @@
           }
         ]
       },
-      "title": "Infant mortality rate"
+      "title": "meta.name-3-2-2-a"
     },
     {
       "path": "3-2-2/data.csv",
@@ -7646,7 +7646,7 @@
           }
         ]
       },
-      "title": "HIV infection transmission from HIV-infected mothers with non-breastfeeding to child"
+      "title": "meta.name-3-3-1-a"
     },
     {
       "path": "3-3-1-b/data.csv",
@@ -7681,7 +7681,7 @@
           }
         ]
       },
-      "title": "Percentage of people living with HIV, who know their  status"
+      "title": "meta.name-3-3-1-b"
     },
     {
       "path": "3-3-1-c/data.csv",
@@ -7716,7 +7716,7 @@
           }
         ]
       },
-      "title": "Percentage of people living with HIV, who know their  status, who receive ARV treatment"
+      "title": "meta.name-3-3-1-c"
     },
     {
       "path": "3-3-1-d/data.csv",
@@ -7751,7 +7751,7 @@
           }
         ]
       },
-      "title": "Percentage of HIV patients, who receive ARV   treatment, who have unrecognized level of viral load (VL)"
+      "title": "meta.name-3-3-1-d"
     },
     {
       "path": "3-3-1/data.csv",
@@ -7821,7 +7821,7 @@
           }
         ]
       },
-      "title": "Multi-drug resistant tuberculosis morbidity indicator (per 100,000 population)"
+      "title": "meta.name-3-3-2-a"
     },
     {
       "path": "3-3-2/data.csv",
@@ -7891,7 +7891,7 @@
           }
         ]
       },
-      "title": "Number of local cases in malaria per year"
+      "title": "meta.name-3-3-3-a"
     },
     {
       "path": "3-3-3/data.csv",
@@ -7961,7 +7961,7 @@
           }
         ]
       },
-      "title": "0-18 years old  patients with acute hepatitis B  ( per 100,000 population)"
+      "title": "meta.name-3-3-4-a"
     },
     {
       "path": "3-3-4-b/data.csv",
@@ -7996,7 +7996,7 @@
           }
         ]
       },
-      "title": "Coverage of 3 doses of vaccine with hepatitis B alone or combined ingredient with 95 and more ingredients"
+      "title": "meta.name-3-3-4-b"
     },
     {
       "path": "3-3-4/data.csv",
@@ -8066,7 +8066,7 @@
           }
         ]
       },
-      "title": "Number of patients with leishmaniasis"
+      "title": "meta.name-3-3-5-a"
     },
     {
       "path": "3-3-5-b/data.csv",
@@ -8101,7 +8101,7 @@
           }
         ]
       },
-      "title": "Case of death from leishmaniosis"
+      "title": "meta.name-3-3-5-b"
     },
     {
       "path": "3-3-5/data.csv",
@@ -8256,7 +8256,7 @@
           }
         ]
       },
-      "title": "The number of patients suffering from drug addiction"
+      "title": "meta.name-3-5-1-a"
     },
     {
       "path": "3-5-1/data.csv",
@@ -8327,7 +8327,7 @@
           }
         ]
       },
-      "title": "The volume of alcoholic beverages consumed by the household during a year (pure alcohol in liters)."
+      "title": "meta.name-3-5-2-a"
     },
     {
       "path": "3-5-2/data.csv",
@@ -8418,7 +8418,7 @@
               "enum": [
                 "",
                 "any contraceptive method",
-                "modern  contraceptive methods"
+                "modern contraceptive methods"
               ]
             },
             "title": "Category"
@@ -8493,7 +8493,7 @@
           }
         ]
       },
-      "title": "Adolescent birth rate (aged 15-17 years) per 1,000 women in that age group"
+      "title": "meta.name-3-7-2-a"
     },
     {
       "path": "3-7-2/data.csv",
@@ -8588,7 +8588,7 @@
           }
         ]
       },
-      "title": "Providing antenatal care and care by qualified specialis"
+      "title": "meta.name-3-8-1-a"
     },
     {
       "path": "3-8-1-b/data.csv",
@@ -8623,7 +8623,7 @@
           }
         ]
       },
-      "title": "At least one ultrasound examination during pregnancy"
+      "title": "meta.name-3-8-1-b"
     },
     {
       "path": "3-8-1-c/data.csv",
@@ -8658,7 +8658,7 @@
           }
         ]
       },
-      "title": "During the first two days after birth, the mother's postnatal check"
+      "title": "meta.name-3-8-1-c"
     },
     {
       "path": "3-8-1-d/data.csv",
@@ -8693,7 +8693,7 @@
           }
         ]
       },
-      "title": "During the first two days after birth, the newborn testing"
+      "title": "meta.name-3-8-1-d"
     },
     {
       "path": "3-8-1/data.csv",
@@ -8823,7 +8823,7 @@
           }
         ]
       },
-      "title": "Number of deaths caused by registered social-domestic toxication cases"
+      "title": "meta.name-3-9-1-a"
     },
     {
       "path": "3-9-1/data.csv",
@@ -9050,7 +9050,7 @@
           }
         ]
       },
-      "title": "Indicator of coverage  in vaccines among targeted quantities, 1 year of age"
+      "title": "meta.name-3-b-1-a"
     },
     {
       "path": "3-b-1-b/data.csv",
@@ -9085,7 +9085,7 @@
           }
         ]
       },
-      "title": "Indicator of coverage  in vaccines among targeted quantities, 2 years of age"
+      "title": "meta.name-3-b-1-b"
     },
     {
       "path": "3-b-1-c/data.csv",
@@ -9120,7 +9120,7 @@
           }
         ]
       },
-      "title": "Indicator of coverage  in vaccines among targeted quantities, 7 years of age"
+      "title": "meta.name-3-b-1-c"
     },
     {
       "path": "3-b-1/data.csv",
@@ -9274,7 +9274,7 @@
           }
         ]
       },
-      "title": "Number of physicians conducting professional activities per 10,000 population"
+      "title": "meta.name-3-c-1-a"
     },
     {
       "path": "3-c-1/data.csv",
@@ -9440,7 +9440,7 @@
           }
         ]
       },
-      "title": "Proportion of children at the end of primary achieving at least a minimum proficiency level in  (i) reading and (ii) mathematics"
+      "title": "meta.name-4-1-1b"
     },
     {
       "path": "4-1-1c/data.csv",
@@ -9487,7 +9487,7 @@
           }
         ]
       },
-      "title": "Proportion of children at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics"
+      "title": "meta.name-4-1-1c"
     },
     {
       "path": "4-2-1/data.csv",
@@ -9570,7 +9570,7 @@
           }
         ]
       },
-      "title": "Gross enrolment  of children 3 -5 years of age in pre-primary education"
+      "title": "meta.name-4-2-2-a"
     },
     {
       "path": "4-2-2/data.csv",
@@ -9634,7 +9634,7 @@
                 "specialized secondary education"
               ]
             },
-            "title": "education type"
+            "title": "Education type"
           },
           {
             "name": "Sex",
@@ -9671,7 +9671,7 @@
           }
         ]
       },
-      "title": "Gross Enrollment Ration in general educatioin"
+      "title": "meta.name-4-3-1-a"
     },
     {
       "path": "4-3-1/data.csv",
@@ -9742,7 +9742,7 @@
           }
         ]
       },
-      "title": "Number of pupils per computer in general education schools"
+      "title": "meta.name-4-4-1-a"
     },
     {
       "path": "4-4-1/data.csv",
@@ -9806,7 +9806,7 @@
                 "secondary"
               ]
             },
-            "title": "education type"
+            "title": "Education type"
           },
           {
             "name": "Units",
@@ -9831,7 +9831,7 @@
           }
         ]
       },
-      "title": "Gender parity index"
+      "title": "meta.name-4-5-1-a"
     },
     {
       "path": "4-5-1/data.csv",
@@ -9914,7 +9914,7 @@
           }
         ]
       },
-      "title": "Literacy rate among population aged from 10-24  years old"
+      "title": "meta.name-4-6-1-a"
     },
     {
       "path": "4-6-1/data.csv",
@@ -10107,7 +10107,7 @@
           }
         ]
       },
-      "title": "Proportion of trained teachers"
+      "title": "meta.name-4-c-1-a"
     },
     {
       "path": "4-c-1/data.csv",
@@ -10399,8 +10399,8 @@
             "constraints": {
               "enum": [
                 "",
-                "b) local governments",
-                "a) national parliaments"
+                "local governments",
+                "national parliaments"
               ]
             },
             "title": "Category"
@@ -10521,7 +10521,7 @@
           }
         ]
       },
-      "title": "Women currently married or in union that are using any type of contraception, only Condition 3 \"She can make a decision about healthcare either by herself or jointly\" fulfilled"
+      "title": "meta.name-5-6-1-a"
     },
     {
       "path": "5-6-1/data.csv",
@@ -10640,7 +10640,7 @@
           }
         ]
       },
-      "title": "Proportion of households with ownership over agricultural land"
+      "title": "meta.name-5-a-1-a-a"
     },
     {
       "path": "5-a-1-b-a-1/data.csv",
@@ -10688,7 +10688,7 @@
           }
         ]
       },
-      "title": "Proportion of women age 15-49 with ownership (alone, jointly with someone else or both alone and jointly with someone else) over agricultural or non-agricultural land, who have a title deed and their name is listed on the title deed"
+      "title": "meta.name-5-a-1-b-a-1"
     },
     {
       "path": "5-a-1-b-a-2/data.csv",
@@ -10736,7 +10736,7 @@
           }
         ]
       },
-      "title": "Proportion of men age 15-49 with ownership (alone, jointly with someone else or both alone and jointly with someone else) over agricultural or non-agricultural land, who have a title deed and their name is listed on the title deed"
+      "title": "meta.name-5-a-1-b-a-2"
     },
     {
       "path": "5-a-1/data.csv",
@@ -10855,7 +10855,7 @@
           }
         ]
       },
-      "title": "Proportion of households who own a mobile telephone"
+      "title": "meta.name-5-b-1-a"
     },
     {
       "path": "5-b-1/data.csv",
@@ -10985,7 +10985,7 @@
           }
         ]
       },
-      "title": "Proportion of  households with centralized water supply"
+      "title": "meta.name-6-1-1-a"
     },
     {
       "path": "6-1-1/data.csv",
@@ -11067,7 +11067,7 @@
           }
         ]
       },
-      "title": "Proportion of population using safely managed sanitation facility"
+      "title": "meta.name-6-2-1-a"
     },
     {
       "path": "6-2-1-b/data.csv",
@@ -11102,7 +11102,7 @@
           }
         ]
       },
-      "title": "Proportion of population using hand-washing facility with soap and water"
+      "title": "meta.name-6-2-1-b"
     },
     {
       "path": "6-2-1-c/data.csv",
@@ -11137,7 +11137,7 @@
           }
         ]
       },
-      "title": "Proportion of population using sanitary-hygienic services defined by sanitation norms"
+      "title": "meta.name-6-2-1-c"
     },
     {
       "path": "6-2-1/data.csv",
@@ -11229,7 +11229,7 @@
           }
         ]
       },
-      "title": "Proportion of insufficiently treated wastewater in the total volume of generated wastewater"
+      "title": "meta.name-6-3-1-a"
     },
     {
       "path": "6-3-1/data.csv",
@@ -11597,7 +11597,7 @@
           }
         ]
       },
-      "title": "Proportion of households with access to electricity"
+      "title": "meta.name-7-1-1-a"
     },
     {
       "path": "7-1-1/data.csv",
@@ -11691,7 +11691,7 @@
           }
         ]
       },
-      "title": "Proportion of households with primary reliance on clean fuels and technology"
+      "title": "meta.name-7-1-2-a"
     },
     {
       "path": "7-1-2/data.csv",
@@ -12224,7 +12224,7 @@
           }
         ]
       },
-      "title": "Average Monthly Nominal Wages / Salaries"
+      "title": "meta.name-8-5-1-a"
     },
     {
       "path": "8-5-1/data.csv",
@@ -12792,7 +12792,7 @@
                 "road transport"
               ]
             },
-            "title": "transportation type"
+            "title": "Transportation type"
           },
           {
             "name": "Units",

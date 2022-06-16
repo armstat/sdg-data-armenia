@@ -1,37 +1,37 @@
-Year,Units,Սեռ,Տեսակ,Value
-2015,մարդ,,,469.0
-2016,մարդ,,,478.0
-2017,մարդ,,,474.0
-2018,մարդ,,,363.0
-2019,մարդ,,,351.0
-2020,մարդ,,,367.0
-2015,մարդ,արական,,256.0
-2016,մարդ,արական,,273.0
-2017,մարդ,արական,,262.0
-2018,մարդ,արական,,208.0
-2019,մարդ,արական,,199.0
-2020,մարդ,արական,,218.0
-2015,մարդ,իգական,,213.0
-2016,մարդ,իգական,,205.0
-2017,մարդ,իգական,,212.0
-2018,մարդ,իգական,,155.0
-2019,մարդ,իգական,,152.0
-2020,մարդ,իգական,,149.0
-2015,%,,ընդամենը՝ հաշմանդամություն ունեցող 0-17 տարեկան երեխաներից,6.01
-2016,%,,ընդամենը՝ հաշմանդամություն ունեցող 0-17 տարեկան երեխաներից,5.85
-2017,%,,ընդամենը՝ հաշմանդամություն ունեցող 0-17 տարեկան երեխաներից,5.76
-2018,%,,ընդամենը՝ հաշմանդամություն ունեցող 0-17 տարեկան երեխաներից,4.43
-2019,%,,ընդամենը՝ հաշմանդամություն ունեցող 0-17 տարեկան երեխաներից,4.07
-2020,%,,ընդամենը՝ հաշմանդամություն ունեցող 0-17 տարեկան երեխաներից,4.18
-2015,%,արական,ընդամենը՝ հաշմանդամություն ունեցող 0-17 տարեկան երեխաներից,4.76
-2016,%,արական,ընդամենը՝ հաշմանդամություն ունեցող 0-17 տարեկան երեխաներից,4.89
-2017,%,արական,ընդամենը՝ հաշմանդամություն ունեցող 0-17 տարեկան երեխաներից,4.65
-2018,%,արական,ընդամենը՝ հաշմանդամություն ունեցող 0-17 տարեկան երեխաներից,3.7
-2019,%,արական,ընդամենը՝ հաշմանդամություն ունեցող 0-17 տարեկան երեխաներից,3.36
-2020,%,արական,ընդամենը՝ հաշմանդամություն ունեցող 0-17 տարեկան երեխաներից,3.62
-2015,%,իգական,ընդամենը՝ հաշմանդամություն ունեցող 0-17 տարեկան երեխաներից,8.78
-2016,%,իգական,ընդամենը՝ հաշմանդամություն ունեցող 0-17 տարեկան երեխաներից,7.89
-2017,%,իգական,ընդամենը՝ հաշմանդամություն ունեցող 0-17 տարեկան երեխաներից,8.17
-2018,%,իգական,ընդամենը՝ հաշմանդամություն ունեցող 0-17 տարեկան երեխաներից,6.03
-2019,%,իգական,ընդամենը՝ հաշմանդամություն ունեցող 0-17 տարեկան երեխաներից,5.61
-2020,%,իգական,ընդամենը՝ հաշմանդամություն ունեցող 0-17 տարեկան երեխաներից,5.4
+Year,Units,Sex,Category,Value
+2015,person,,,469.0
+2016,person,,,478.0
+2017,person,,,474.0
+2018,person,,,363.0
+2019,person,,,351.0
+2020,person,,,367.0
+2015,person,male,,256.0
+2016,person,male,,273.0
+2017,person,male,,262.0
+2018,person,male,,208.0
+2019,person,male,,199.0
+2020,person,male,,218.0
+2015,person,female,,213.0
+2016,person,female,,205.0
+2017,person,female,,212.0
+2018,person,female,,155.0
+2019,person,female,,152.0
+2020,person,female,,149.0
+2015,%,,total to children aged 0-17 years with disabilities,6.01
+2016,%,,total to children aged 0-17 years with disabilities,5.85
+2017,%,,total to children aged 0-17 years with disabilities,5.76
+2018,%,,total to children aged 0-17 years with disabilities,4.43
+2019,%,,total to children aged 0-17 years with disabilities,4.07
+2020,%,,total to children aged 0-17 years with disabilities,4.18
+2015,%,male,total to children aged 0-17 years with disabilities,4.76
+2016,%,male,total to children aged 0-17 years with disabilities,4.89
+2017,%,male,total to children aged 0-17 years with disabilities,4.65
+2018,%,male,total to children aged 0-17 years with disabilities,3.7
+2019,%,male,total to children aged 0-17 years with disabilities,3.36
+2020,%,male,total to children aged 0-17 years with disabilities,3.62
+2015,%,female,total to children aged 0-17 years with disabilities,8.78
+2016,%,female,total to children aged 0-17 years with disabilities,7.89
+2017,%,female,total to children aged 0-17 years with disabilities,8.17
+2018,%,female,total to children aged 0-17 years with disabilities,6.03
+2019,%,female,total to children aged 0-17 years with disabilities,5.61
+2020,%,female,total to children aged 0-17 years with disabilities,5.4

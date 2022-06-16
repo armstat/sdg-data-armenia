@@ -26,7 +26,7 @@
                 "specialized secondary education"
               ]
             },
-            "title": "education type"
+            "title": "Education type"
           },
           {
             "name": "Sex",
@@ -67,5 +67,5 @@
   ],
   "profile": "data-package",
   "name": "4-3-1-a",
-  "title": "Gross Enrollment Ration in general educatioin"
+  "title": "meta.name-4-3-1-a"
 }

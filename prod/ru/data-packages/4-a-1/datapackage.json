@@ -31,15 +31,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "электричество",
-                "доля школ, подключенных к Интернету",
-                "количество учителей на компьютер",
-                "водоснабжение",
-                "канализация",
+                "electricity",
+                "proportion of schools connected to the Internet",
+                "number of teachers per computer",
+                "water supply",
+                "sewerage",
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Category"
           },
           {
             "name": "Value",
