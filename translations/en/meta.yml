@@ -62,12 +62,14 @@ name-6-2-1-c: Proportion of population using sanitary-hygienic services defined 
 name-6-3-1-a: Proportion of insufficiently treated wastewater in the total volume of wastewater requiring treatment
 name-7-1-1-a: Proportion of households with access to electricity 
 name-7-1-2-a: Proportion of households with primary reliance on clean fuels and technology
+name-8-4-2-a: Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP
 name-8-5-1-a: Average Monthly Nominal Wages / Salaries
 name-10-7-2-a: Percentage of returned migrants who undertook paid work during the last 7 days
 name-10-7-2-b: Proportion of individual asylum applications granted
 name-11-1-1-a: "Proportion of urban households whose dwelling units are: Cottage/temporary shelter, Dwelling of joint residence, Dormitory, other dwelling unit or who are homeless"
 name-11-5-1-a: Number of deaths, temporarily evacuated and directly affected persons attributed to disasters per 100,000 population by types of disasters
 name-11-6-1-a: Urban solid waste regularly collected with adequate final discharge
+name-12-2-2-a: Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP
 name-12-3-1-a: Food loss
 name-13-1-1-a: Number of deaths, temporarily evacuated and directly affected persons attributed to disasters per 100,000 population by types of disasters
 name-14-3-1-a: Average acidity (pH) of Lake Sevan measured at agreed suite of representative sampling stations
@@ -79,7 +81,6 @@ name-15-5-1-a-1: Registered vertebrate and invertebrate species, of which
 name-15-5-1-a-2: Registered high and low plant species, of which
 name-16-1-1-a: Number of homicide cases per 100,000 population
 name-16-2-2-a: "The number of cases of human trafficking or exploitation "
-name-17-1-1-a: Total central government revenue as a proportion of GDP
 name-17-3-1-a: Foreign direct investments (FDI)
 name-17-4-1-a: External public debt service as a proportion of exports of goods and services
 name-17-8-1-a: Proportion of individuals using the Internet by sex and age groups 
@@ -88,16 +89,16 @@ description-9-5-2: This statistics is conducted only for public sector
 description-8-8-1: This statistics does not apply to migrants
 comments-8-5-1-a: "* Since 2018 the source of information for the average wage calculation is the database of the Individual records on income tax and social security tax authorized by the State Revenue Committee of the Republic of Armenia (SRC RA). In order to provide comparability of indicators on wages/salaries for 2017-2018 the 2017 indicator is provided by the database of SRC RA."
 comments-5-b-1:	Data collected since 2017
-available-8-4-2: "Household Final Consumption Expenditure on goods, the same per capita and in relation to GDP "
-description-8-4-2: "The value of goods purchased by RA resident households for final consumption, 
+available-8-4-2-a: "Household Final Consumption Expenditure on goods, the same per capita and in relation to GDP "
+description-8-4-2-a: "The value of goods purchased by RA resident households for final consumption, 
 the same per capita and in relation to GDP "
-calculations-8-4-2:	"The value of purchased goods is separated from the total final consumption expenditures of households for the reporting period (in mln. AMD). To calculate the same indicator per capita, this value is divided to the average annual population for the same period (in AMD), and in relation to GDP, this value is divided to GDP for the same period (in %)."
-calculations-8-4-2:	"The value of purchased goods is separated from the total final consumption expenditures of households for the reporting period (in mln. AMD). To calculate the same indicator per capita, this value is divided to the average annual population for the same period (in AMD), and in relation to GDP, this value is divided to GDP for the same period (in %)."
-available-12-2-2: "Household Final Consumption Expenditure on goods, the same per capita and in relation to GDP "
-description-12-2-2: """The value of goods purchased by RA resident households for final consumption,
+calculations-8-4-2-a:	"The value of purchased goods is separated from the total final consumption expenditures of households for the reporting period (in mln. AMD). To calculate the same indicator per capita, this value is divided to the average annual population for the same period (in AMD), and in relation to GDP, this value is divided to GDP for the same period (in %)."
+calculations-8-4-2-a:	"The value of purchased goods is separated from the total final consumption expenditures of households for the reporting period (in mln. AMD). To calculate the same indicator per capita, this value is divided to the average annual population for the same period (in AMD), and in relation to GDP, this value is divided to GDP for the same period (in %)."
+available-12-2-2-a: "Household Final Consumption Expenditure on goods, the same per capita and in relation to GDP "
+description-12-2-2-a: """The value of goods purchased by RA resident households for final consumption,
 the same per capita and in relation to GDP """
-calculations-12-2-2: "The value of purchased goods is separated from the total final consumption expenditures of households for the reporting period (in mln. AMD). To calculate the same indicator per capita, this value is divided to the average annual population for the same period (in AMD), and in relation to GDP, this value is divided to GDP for the same period (in %)."
-comments-12-2-2: "The basis for estimating the value of purchased goods for households final consumption expenditures is the GDP structure by expenditure components distributed by GDP expenditure classification, which is compiled under the International Comparison Program to calculate GDP at purchasing power parity. https://www.worldbank.org/en/programs/icp http://www.cisstat.org/icp/"
+calculations-12-2-2-a: "The value of purchased goods is separated from the total final consumption expenditures of households for the reporting period (in mln. AMD). To calculate the same indicator per capita, this value is divided to the average annual population for the same period (in AMD), and in relation to GDP, this value is divided to GDP for the same period (in %)."
+comments-12-2-2-a: "The basis for estimating the value of purchased goods for households final consumption expenditures is the GDP structure by expenditure components distributed by GDP expenditure classification, which is compiled under the International Comparison Program to calculate GDP at purchasing power parity. https://www.worldbank.org/en/programs/icp http://www.cisstat.org/icp/"
 coverage-17-3-1-a:	"All marzes of RA and Yerevan city are included."
 calculations-17-3-1-a: "The calculations are carried out in accordance with the filling procedure specified in the statistical reporting form"
 comments-17-3-1-a: "The main sources of data collection are the organizations with foreign investments and organizations that carry out foreign investments abroad, as well as data and additional calculations received from RA Central Bank on indicators of foreign investments. The data collection is implemented by the statistical reporting form in accordance with the Annual and Five Year Statistical Programs (https://www.armstat.am/am/?nid=80&id=2271). "
@@ -144,7 +145,6 @@ comments-7-1-2-a: " The main source of information is a Integrated Living Condit
 description-17-8-1-a: "Dividing the number of people using the Internet during the last 3 months by the total number of people. "
 calculations-17-8-1-a: "The indicator is calculated by dividing the number of people using the Internet (from anywhere) during the last 3 months by the total number of people. "
 comments-17-8-1-a: " The main source of information is a Integrated Living Conditions Survey (ILCS) (https://www.armstat.am/en/?nid=82&id=2217)"
-description-17-1-1-a: " The indicator is calculated as a percentage of Central Government revenues to Gross Domestic Product (indicator for the reporting year)."
 description-17-4-1-a: " The indicator provides an opportunity to assess the problems related to the country's foreign debt service. The source of information is the references provided by the Ministry of Finance of the Republic of Armenia on the external public debt of the Republic of Armenia, which is considered as an administrative register, including the external public debt of the Republic of Armenia formed by credit-loan agreements, debt service, foreign loan receipts."
 definitions-17-4-1-a: " External public debt is the sum of debt obligations assumed on behalf of the Republic of Armenia and on behalf of the Central Bank to non-residents of the Republic of Armenia and to foreign states, and existing debt liabilities at a certain point.“Exports of goods and services” data concepts correspond to the sixth edition of the Balance of Payments and International Investment Position Manual (BPM6)."
 calculations-17-4-1-a: " External public debt service as a proportion of exports of goods and services is calculated as a ratio of External public debt service to Exports of goods and services in percent."
