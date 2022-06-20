@@ -2729,6 +2729,50 @@
       "title": "Material footprint, material footprint per capita, and material footprint per GDP"
     },
     {
+      "path": "12-2-2-a/data.csv",
+      "name": "12-2-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "12-2-2-a"
+    },
+    {
       "path": "12-2-2/data.csv",
       "name": "12-2-2",
       "profile": "tabular-data-resource",
