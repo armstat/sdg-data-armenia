@@ -18,7 +18,6 @@ Indicator,Disaggregations,Number of disaggregations
 #10-1-1,Category,1
 #11-1-1-a,UNITS,1
 #11-5-1,Disaster type,1
-#12-2-2,Category,1
 #12-4-2,Type,1
 #13-1-1,Disaster type,1
 #15-1-2-a,Type,1
@@ -73,7 +72,6 @@ Indicator,Disaggregations,Number of disaggregations
 #7-1-2-a,Location,1
 #8-10-2,Sex,1
 #8-3-1,"Sex, Age",2
-#8-4-2,Category,1
 #8-5-1-a,Sex,1
 #8-5-2,"Sex, Location, Age, Category",4
 #8-6-1,"Sex, Location, Age, Category",4
