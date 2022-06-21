@@ -12126,6 +12126,50 @@
       "title": "Պաշարների սպառման ցուցանիշը, նույնը ըստ մեկ շնչի, նույնը ըստ ՀՆԱ-ի"
     },
     {
+      "path": "8-4-2-a/data.csv",
+      "name": "8-4-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "meta.name-8-4-2-a"
+    },
+    {
       "path": "8-4-2/data.csv",
       "name": "8-4-2",
       "profile": "tabular-data-resource",
