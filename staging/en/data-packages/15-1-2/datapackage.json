@@ -11,44 +11,44 @@
       "schema": {
         "fields": [
           {
-            "name": "Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Total number of natural monuments (category III)",
-                "Total number of national parks (category II)",
-                "Total area of national parks (category II) in % of the country's territory",
-                "Total area of state preserves (category IV) in % of the country's territory",
-                "Total area of state reserves (category Ib) in % of the country's territory",
-                "Total area of specially protected areas as a percentage of country area",
-                "Total number of state preserves (category IV)",
-                "Total number of state reserves (category Ib)"
-              ]
-            },
-            "title": "Type"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "%",
-                "unit"
+                "unit",
+                ""
               ]
             },
             "title": "Units"
           },
           {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total area of specially protected areas as a percentage of country area",
+                "Total number of state reserves (category Ib)",
+                "Total area of state reserves (category Ib) in % of the country's territory",
+                "Total number of national parks (category II)",
+                "Total area of national parks (category II) in % of the country's territory",
+                "Total number of state preserves (category IV)",
+                "Total area of state preserves (category IV) in % of the country's territory",
+                "Total number of natural monuments (category III)",
+                ""
+              ]
+            },
+            "title": "Type"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

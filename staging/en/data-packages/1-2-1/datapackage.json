@@ -11,27 +11,29 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "aged 0-5 years",
-                "aged 18-64 years",
-                "aged 6-17 years",
-                "aged 65 and over"
+                "%",
+                ""
               ]
             },
-            "title": "Age"
+            "title": "Units"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "urban",
                 "rural",
-                "urban"
+                ""
               ]
             },
             "title": "Location"
@@ -41,44 +43,42 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "female",
-                "male"
+                "male",
+                ""
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "aged 0-5 years",
+                "aged 6-17 years",
+                "aged 18-64 years",
+                "aged 65 and over",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "Type",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "disabled"
+                "disabled",
+                ""
               ]
             },
             "title": "Type"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%"
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

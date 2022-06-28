@@ -11,38 +11,38 @@
       "schema": {
         "fields": [
           {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "equal to or greater than 10 Mbit/s",
-                "equal to or greater than 2 Mbit/s and less than 10 Mbit/s",
-                "equal to or greater than 256 kbit/s and less than 2 Mbit/s"
-              ]
-            },
-            "title": "Category"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "%"
+                "%",
+                ""
               ]
             },
             "title": "Units"
           },
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "equal to or greater than 256 kbit/s and less than 2 Mbit/s",
+                "equal to or greater than 2 Mbit/s and less than 10 Mbit/s",
+                "equal to or greater than 10 Mbit/s",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

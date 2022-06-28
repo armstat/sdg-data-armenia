@@ -11,13 +11,30 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1,000 people",
+                "1,000 tons",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "passenger volume",
                 "freight volumes",
-                "passenger volume"
+                ""
               ]
             },
             "title": "Category"
@@ -27,38 +44,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "railway transport",
+                "road transport",
+                "of which  passenger taxi",
                 "air transport",
                 "electricity transport",
-                "of which  passenger taxi",
                 "pipelines",
-                "railway transport",
-                "road transport"
+                ""
               ]
             },
             "title": "transportation type"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "1,000 people",
-                "1,000 tons"
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

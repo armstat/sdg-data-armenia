@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Տարի"
           },
           {
             "name": "Units",
