@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 1,000 population",
+                "на 1,000 населения",
                 ""
               ]
             },
@@ -31,13 +31,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "physicians",
-                "paramedical personnel",
-                "junior medical personnel",
+                "врачи",
+                "средний медицинский персонал",
+                "младший медицинский персонал",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Категория"
           },
           {
             "name": "Value",

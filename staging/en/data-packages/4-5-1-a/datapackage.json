@@ -18,7 +18,7 @@
                 "",
                 "bachelor",
                 "high",
-                "lower secondary",
+                "Basic",
                 "master",
                 "middle vocational",
                 "preliminary vocational",
@@ -26,7 +26,7 @@
                 "secondary"
               ]
             },
-            "title": "Education type"
+            "title": "education type"
           },
           {
             "name": "Units",
@@ -55,5 +55,5 @@
   ],
   "profile": "data-package",
   "name": "4-5-1-a",
-  "title": "meta.name-4-5-1-a"
+  "title": "Gender parity index"
 }

@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "քաղաք",
+                "գյուղ",
                 ""
               ]
             },
-            "title": "Location"
+            "title": "Գտնվելու վայրը"
           },
           {
             "name": "Value",
@@ -49,5 +49,5 @@
   ],
   "profile": "data-package",
   "name": "5-a-1-a-a",
-  "title": "meta.name-5-a-1-a-a"
+  "title": "Գյուղատնտեսական հողերի նկատմամբ սեփականության իրավունք ունեցող տնային տնտեսությունների տեսակարար կշիռը"
 }

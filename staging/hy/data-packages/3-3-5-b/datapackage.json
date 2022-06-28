@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "case",
+                "դեպք",
                 ""
               ]
             },
@@ -37,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "3-3-5-b",
-  "title": "meta.name-3-3-5-b"
+  "title": "Լեյշմանիոզից մահվան դեպքեր"
 }

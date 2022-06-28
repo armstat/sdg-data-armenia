@@ -18,7 +18,7 @@
                 "",
                 "aged 0-5 years",
                 "aged 15-24 years",
-                "aged 25 and older",
+                "aged 25 and over",
                 "aged 5-14 years"
               ]
             },
@@ -63,5 +63,5 @@
   ],
   "profile": "data-package",
   "name": "17-8-1-a",
-  "title": "meta.name-17-8-1-a"
+  "title": "Proportion of individuals using the Internet by sex and age groups"
 }

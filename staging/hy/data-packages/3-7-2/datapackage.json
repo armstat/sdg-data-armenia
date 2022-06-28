@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 1,000 women",
+                "1,000 կնոջ հաշվով",
                 ""
               ]
             },
@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "aged 10-14 years",
-                "aged 15-19 years",
+                "10-14 տարեկան",
+                "15-19 տարեկան",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Տարիք"
           },
           {
             "name": "Location",
@@ -44,12 +44,12 @@
             "constraints": {
               "enum": [
                 "Total",
-                "urban",
-                "rural",
+                "քաղաք",
+                "գյուղ",
                 ""
               ]
             },
-            "title": "Location"
+            "title": "Գտնվելու վայրը"
           },
           {
             "name": "Value",

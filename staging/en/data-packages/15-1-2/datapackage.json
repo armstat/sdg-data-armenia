@@ -16,14 +16,14 @@
             "constraints": {
               "enum": [
                 "",
-                "Monuments of Nature(Category III), quantity",
-                "National parks (Category II ), quantity",
-                "Share of National parks (Category II ) in the total area of the country",
-                "Share of State preserves (Category IV) in the total area of the country",
-                "Share of State reserves(Category Ib) in the total area of the country",
-                "Share of total areas under protection in the total area of the country",
-                "State preserves (Category IV), quantity",
-                "State reserves(Category Ib), quantity"
+                "Total number of natural monuments (category III)",
+                "Total number of national parks (category II)",
+                "Total area of national parks (category II) in % of the country's territory",
+                "Total area of state preserves (category IV) in % of the country's territory",
+                "Total area of state reserves (category Ib) in % of the country's territory",
+                "Total area of specially protected areas as a percentage of country area",
+                "Total number of state preserves (category IV)",
+                "Total number of state reserves (category Ib)"
               ]
             },
             "title": "Type"

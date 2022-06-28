@@ -31,30 +31,30 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "secondary",
-                "primary",
-                "lower secondary",
-                "high",
-                "pre-specialized (vocational) education",
-                "specialized secondary education",
+                "միջնակարգ",
+                "տարրական",
+                "հիմնական",
+                "ավագ",
+                "նախնական մասնագիտական (արհեստագործական)",
+                "միջին մասնագիտական",
                 "specialized high education, first stage (bachelor's Degree)",
                 "post-graduate education, second stage (master's Degree)",
                 ""
               ]
             },
-            "title": "Education type"
+            "title": "Կրթության տեսակ"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "տղամարդ",
+                "կին",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Սեռ"
           },
           {
             "name": "Value",
@@ -67,5 +67,5 @@
   ],
   "profile": "data-package",
   "name": "4-3-1-a",
-  "title": "meta.name-4-3-1-a"
+  "title": "Հանրակրթությունում համախառն ընդգրկվածության ցուցանիշը"
 }

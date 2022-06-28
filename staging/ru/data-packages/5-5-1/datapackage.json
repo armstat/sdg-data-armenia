@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "national parliaments",
-                "local governments",
+                "а) национальные парламенты",
+                "б) местное управление",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Категория"
           },
           {
             "name": "Value",

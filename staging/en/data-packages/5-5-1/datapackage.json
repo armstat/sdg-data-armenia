@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "local governments",
-                "national parliaments"
+                "b) local governments",
+                "a) national parliaments"
               ]
             },
             "title": "Category"

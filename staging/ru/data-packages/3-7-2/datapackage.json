@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 1,000 women",
+                "на 1,000 женщин",
                 ""
               ]
             },
@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "aged 10-14 years",
-                "aged 15-19 years",
+                "10-14 лет",
+                "15-19 лет",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Возраст"
           },
           {
             "name": "Location",
@@ -44,12 +44,12 @@
             "constraints": {
               "enum": [
                 "Total",
-                "urban",
-                "rural",
+                "город",
+                "село",
                 ""
               ]
             },
-            "title": "Location"
+            "title": "Место нахождения"
           },
           {
             "name": "Value",

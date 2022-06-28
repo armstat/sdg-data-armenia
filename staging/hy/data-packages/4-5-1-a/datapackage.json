@@ -31,18 +31,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "primary",
-                "lower secondary",
-                "high",
-                "secondary",
-                "preliminary vocational",
-                "middle vocational",
-                "bachelor",
-                "master",
+                "տարրական",
+                "հիմնական",
+                "ավագ",
+                "միջնակարգ",
+                "նախնական մասնագիտական",
+                "միջին մասնագիտական",
+                "բարձրագույն կրթության առաջին աստիճան",
+                "բարձրագույն կրթության երկրորդ աստիճան",
                 ""
               ]
             },
-            "title": "Education type"
+            "title": "Կրթության տեսակ"
           },
           {
             "name": "Value",
@@ -55,5 +55,5 @@
   ],
   "profile": "data-package",
   "name": "4-5-1-a",
-  "title": "meta.name-4-5-1-a"
+  "title": "Սեռային հավասարության ցուցանիշ"
 }

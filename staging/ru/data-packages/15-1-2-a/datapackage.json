@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "%",
-                "unit",
+                "единица",
                 ""
               ]
             },
@@ -32,18 +32,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Share of total areas under protection in the total area of the country",
-                "State reserves(Category Ib), quantity",
-                "Share of State reserves(Category Ib) in the total area of the country",
-                "National parks (Category II ), quantity",
-                "Share of National parks (Category II ) in the total area of the country",
-                "State preserves (Category IV), quantity",
-                "Share of State preserves (Category IV) in the total area of the country",
-                "Monuments of Nature(Category III), quantity",
+                "Общая площадь особо охраняемых природных территорий в процентах от площади страны",
+                "Общее количество государственных заповедников (категория Ib)",
+                "Общая площадь государственных заповедников (категория Iб) в % от территории страны",
+                "Общее количество национальных парков (категория II)",
+                "Общая площадь национальных парков (категория II ) в % от территории страны",
+                "Общее количество государственных заповедников  (категория IV)",
+                "Общая площадь государственных заповедников (категория IV) в % от территории страны",
+                "Общее количество памятников природы (категория III )",
                 ""
               ]
             },
-            "title": "Type"
+            "title": "Тип"
           },
           {
             "name": "Value",
@@ -56,5 +56,5 @@
   ],
   "profile": "data-package",
   "name": "15-1-2-a",
-  "title": "meta.name-15-1-2-a"
+  "title": "Количество и доля охраняемых территорий в стране по категориям"
 }

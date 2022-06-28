@@ -17,9 +17,9 @@
               "enum": [
                 "",
                 "15+ age",
-                "15-24 age",
+                "aged 15-24 years",
                 "15-74 age",
-                "15-75 age"
+                "aged 15-75 years"
               ]
             },
             "title": "Age"

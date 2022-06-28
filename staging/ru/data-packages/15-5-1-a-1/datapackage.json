@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "unit",
+                "единица",
                 ""
               ]
             },
@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "registered in the Red Book of RA",
-                "included in the specially protected natural areas",
+                "занесенные в Красную книгу РА",
+                "включены в особо охраняемые природные территории",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Категория"
           },
           {
             "name": "Value",
@@ -49,5 +49,5 @@
   ],
   "profile": "data-package",
   "name": "15-5-1-a-1",
-  "title": "meta.name-15-5-1-a-1"
+  "title": "Зарегистрированные виды позвоночных и беспозвоночных, из которых"
 }

@@ -1,19 +1,19 @@
-Year,Units,Category,Value
-2015,"per 1,000 population",physicians,4.4
-2016,"per 1,000 population",physicians,4.4
-2017,"per 1,000 population",physicians,4.4
-2018,"per 1,000 population",physicians,4.5
-2019,"per 1,000 population",physicians,4.7
-2020,"per 1,000 population",physicians,4.9
-2015,"per 1,000 population",paramedical personnel,5.9
-2016,"per 1,000 population",paramedical personnel,5.8
-2017,"per 1,000 population",paramedical personnel,5.6
-2018,"per 1,000 population",paramedical personnel,5.6
-2019,"per 1,000 population",paramedical personnel,5.7
-2020,"per 1,000 population",paramedical personnel,5.7
-2015,"per 1,000 population",junior medical personnel,1.8
-2016,"per 1,000 population",junior medical personnel,1.8
-2017,"per 1,000 population",junior medical personnel,1.7
-2018,"per 1,000 population",junior medical personnel,1.6
-2019,"per 1,000 population",junior medical personnel,1.7
-2020,"per 1,000 population",junior medical personnel,1.7
+Year,Units,Категория,Value
+2015,"на 1,000 населения",врачи,4.4
+2016,"на 1,000 населения",врачи,4.4
+2017,"на 1,000 населения",врачи,4.4
+2018,"на 1,000 населения",врачи,4.5
+2019,"на 1,000 населения",врачи,4.7
+2020,"на 1,000 населения",врачи,4.9
+2015,"на 1,000 населения",средний медицинский персонал,5.9
+2016,"на 1,000 населения",средний медицинский персонал,5.8
+2017,"на 1,000 населения",средний медицинский персонал,5.6
+2018,"на 1,000 населения",средний медицинский персонал,5.6
+2019,"на 1,000 населения",средний медицинский персонал,5.7
+2020,"на 1,000 населения",средний медицинский персонал,5.7
+2015,"на 1,000 населения",младший медицинский персонал,1.8
+2016,"на 1,000 населения",младший медицинский персонал,1.8
+2017,"на 1,000 населения",младший медицинский персонал,1.7
+2018,"на 1,000 населения",младший медицинский персонал,1.6
+2019,"на 1,000 населения",младший медицинский персонал,1.7
+2020,"на 1,000 населения",младший медицинский персонал,1.7

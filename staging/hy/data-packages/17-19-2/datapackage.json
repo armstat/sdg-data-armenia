@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "yes=1, no=0",
+                "այո=1, ոչ=0",
                 "%",
                 ""
               ]
@@ -32,13 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "have conducted at least one population and housing census in the last 10 years",
-                "have achieved 100 per cent birth registration",
-                "have achieved 80 per cent death registration",
+                "վերջին 10 տարիների ընթացքում անցկացվել է առնվազն մեկ մարդահամար",
+                "հասել  են ծնունդների գրանցման 100 տոկոսին",
+                "հասել են մահվան դեպքերի գրանցման 80 տոկոսին",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Կատեգորիա"
           },
           {
             "name": "Value",

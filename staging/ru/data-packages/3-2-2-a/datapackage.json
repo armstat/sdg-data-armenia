@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 1,000 life births",
+                "на 1,000 живорожденных",
                 ""
               ]
             },
@@ -37,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "3-2-2-a",
-  "title": "meta.name-3-2-2-a"
+  "title": "Коэффициент младенческои смертности на 1 000 живорождений"
 }

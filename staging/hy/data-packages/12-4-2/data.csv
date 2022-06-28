@@ -1,31 +1,31 @@
-Year,Type,Units,Value
-2015,Hazardous waste generated,kg per capita,20.7
-2015,Waste transmitted to other organizations,%,37.8
-2015,Treated and destructed by organizations,%,0.7
-2015,Waste used by organizations,%,9.6
-2015,Transported to landfills by means of organizations,%,51.8
-2016,Hazardous waste generated,kg per capita,38.7
-2016,Waste transmitted to other organizations,%,68.4
-2016,Treated and destructed by organizations,%,0.7
-2016,Waste used by organizations,%,14.0
-2016,Transported to landfills by means of organizations,%,17.0
-2017,Hazardous waste generated,kg per capita,14.7
-2017,Waste transmitted to other organizations,%,52.8
-2017,Treated and destructed by organizations,%,1.4
-2017,Waste used by organizations,%,3.9
-2017,Transported to landfills by means of organizations,%,42.0
-2018,Hazardous waste generated,kg per capita,13.8
-2018,Waste transmitted to other organizations,%,60.8
-2018,Treated and destructed by organizations,%,4.0
-2018,Waste used by organizations,%,10.5
-2018,Transported to landfills by means of organizations,%,24.7
-2019,Hazardous waste generated,kg per capita,33.0
-2019,Waste transmitted to other organizations,%,68.1
-2019,Treated and destructed by organizations,%,1.0
-2019,Waste used by organizations,%,16.6
-2019,Transported to landfills by means of organizations,%,14.3
-2020,Hazardous waste generated,kg per capita,8431.3
-2020,Waste transmitted to other organizations,%,0.4
-2020,Treated and destructed by organizations,%,0.0
-2020,Waste used by organizations,%,0.1
-2020,Transported to landfills by means of organizations,%,99.5
+Year,Տեսակ,Units,Value
+2015,Վտանգավոր թափոնների գոյացումը,կգ մեկ շնչի հաշվով,20.7
+2015,Այլ կազմակերպություններին փոխանցվող թափոններ,%,37.8
+2015,Վնասազերծվել և ոչնչացվել են կազմակերպությունների կողմից,%,0.7
+2015,Կազմակերպությունների կողմից օգտագործվող թափոններ,%,9.6
+2015,Կազմակերպությունների միջոցներով տեղափոխվել են տեղադրման վայրեր,%,51.8
+2016,Վտանգավոր թափոնների գոյացումը,կգ մեկ շնչի հաշվով,38.7
+2016,Այլ կազմակերպություններին փոխանցվող թափոններ,%,68.4
+2016,Վնասազերծվել և ոչնչացվել են կազմակերպությունների կողմից,%,0.7
+2016,Կազմակերպությունների կողմից օգտագործվող թափոններ,%,14.0
+2016,Կազմակերպությունների միջոցներով տեղափոխվել են տեղադրման վայրեր,%,17.0
+2017,Վտանգավոր թափոնների գոյացումը,կգ մեկ շնչի հաշվով,14.7
+2017,Այլ կազմակերպություններին փոխանցվող թափոններ,%,52.8
+2017,Վնասազերծվել և ոչնչացվել են կազմակերպությունների կողմից,%,1.4
+2017,Կազմակերպությունների կողմից օգտագործվող թափոններ,%,3.9
+2017,Կազմակերպությունների միջոցներով տեղափոխվել են տեղադրման վայրեր,%,42.0
+2018,Վտանգավոր թափոնների գոյացումը,կգ մեկ շնչի հաշվով,13.8
+2018,Այլ կազմակերպություններին փոխանցվող թափոններ,%,60.8
+2018,Վնասազերծվել և ոչնչացվել են կազմակերպությունների կողմից,%,4.0
+2018,Կազմակերպությունների կողմից օգտագործվող թափոններ,%,10.5
+2018,Կազմակերպությունների միջոցներով տեղափոխվել են տեղադրման վայրեր,%,24.7
+2019,Վտանգավոր թափոնների գոյացումը,կգ մեկ շնչի հաշվով,33.0
+2019,Այլ կազմակերպություններին փոխանցվող թափոններ,%,68.1
+2019,Վնասազերծվել և ոչնչացվել են կազմակերպությունների կողմից,%,1.0
+2019,Կազմակերպությունների կողմից օգտագործվող թափոններ,%,16.6
+2019,Կազմակերպությունների միջոցներով տեղափոխվել են տեղադրման վայրեր,%,14.3
+2020,Վտանգավոր թափոնների գոյացումը,կգ մեկ շնչի հաշվով,8431.3
+2020,Այլ կազմակերպություններին փոխանցվող թափոններ,%,0.4
+2020,Վնասազերծվել և ոչնչացվել են կազմակերպությունների կողմից,%,0.0
+2020,Կազմակերպությունների կողմից օգտագործվող թափոններ,%,0.1
+2020,Կազմակերպությունների միջոցներով տեղափոխվել են տեղադրման վայրեր,%,99.5

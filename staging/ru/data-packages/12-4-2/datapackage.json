@@ -20,22 +20,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Hazardous waste generated",
-                "Waste transmitted to other organizations",
-                "Treated and destructed by organizations",
-                "Waste used by organizations",
-                "Transported to landfills by means of organizations",
+                "Образование опасных отходов",
+                "Отходы, переданные другим организациям",
+                "Обезврежено и уничтожено организациями",
+                "Отходы, используемые организациями",
+                "Размещено в местах накопления отходов средствами организаций",
                 ""
               ]
             },
-            "title": "Type"
+            "title": "Тип"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "kg per capita",
+                "кг на душу населения",
                 "%",
                 ""
               ]

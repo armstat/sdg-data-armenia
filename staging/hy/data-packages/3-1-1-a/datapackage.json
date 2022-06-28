@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100,000 live births",
+                "100,000 կենդանածնի հաշվով",
                 ""
               ]
             },
@@ -37,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "3-1-1-a",
-  "title": "meta.name-3-1-1-a"
+  "title": "Մայրական մահերը 100 000 կենդանածնի հաշվով (միջին եռամյա ցուցանիշ)"
 }

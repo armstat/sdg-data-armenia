@@ -31,50 +31,50 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
+                "ընդամենը",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Կատեգորիա"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "15-29 age",
-                "15-19 age",
-                "20-24 age",
-                "15-24 age",
-                "25-29 age",
+                "15-29 տարեկան",
+                "15-19 տարեկան",
+                "20-24 տարեկան",
+                "15-24 տարեկան",
+                "25-29 տարեկան",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Տարիք"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "տղամարդ",
+                "կին",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Սեռ"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "քաղաք",
+                "գյուղ",
                 ""
               ]
             },
-            "title": "Location"
+            "title": "Գտնվելու վայրը"
           },
           {
             "name": "Value",

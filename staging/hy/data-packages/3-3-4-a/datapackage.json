@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100,000 population",
+                "100,000 բնակչի հաշվով",
                 ""
               ]
             },
@@ -37,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "3-3-4-a",
-  "title": "meta.name-3-3-4-a"
+  "title": "0-18 տարեկան սուր հեպատիտ Բ-ով հիվանդացությունը (100 000 բնակչի հաշվով)"
 }

@@ -32,37 +32,37 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "տղամարդ",
+                "կին",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Սեռ"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "children",
+                "երեխաներ",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Կատեգորիա"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "aged 0-5 years",
-                "aged 6-17 years",
-                "aged 18-64 years",
-                "aged 65 and older",
+                "0-5 տարեկան",
+                "6-17 տարեկան",
+                "18-64 տարեկան",
+                "65 և բարձր տարիքի",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Տարիք"
           },
           {
             "name": "Value",

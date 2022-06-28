@@ -1,145 +1,145 @@
-Year,Units,Category,Sex,Value
-2015,person,child with two parents,,36.0
-2016,person,child with two parents,,28.0
-2017,person,child with two parents,,14.0
-2018,person,child with two parents,,13.0
-2019,person,child with two parents,,6.0
-2020,person,child with two parents,,10.0
-2015,person,child with two parents,male,23.0
-2016,person,child with two parents,male,19.0
-2017,person,child with two parents,male,10.0
-2018,person,child with two parents,male,7.0
-2019,person,child with two parents,male,1.0
-2020,person,child with two parents,male,5.0
-2015,person,child with two parents,female,13.0
-2016,person,child with two parents,female,9.0
-2017,person,child with two parents,female,4.0
-2018,person,child with two parents,female,6.0
-2019,person,child with two parents,female,5.0
-2020,person,child with two parents,female,5.0
-2015,person,single mother child,,34.0
-2016,person,single mother child,,31.0
-2017,person,single mother child,,13.0
-2018,person,single mother child,,8.0
-2019,person,single mother child,,4.0
-2020,person,single mother child,,9.0
-2015,person,single mother child,male,16.0
-2016,person,single mother child,male,12.0
-2017,person,single mother child,male,6.0
-2018,person,single mother child,male,4.0
-2019,person,single mother child,male,3.0
-2020,person,single mother child,male,5.0
-2015,person,single mother child,female,18.0
-2016,person,single mother child,female,19.0
-2017,person,single mother child,female,7.0
-2018,person,single mother child,female,4.0
-2019,person,single mother child,female,1.0
-2020,person,single mother child,female,4.0
-2015,person,left without parental care,,23.0
-2016,person,left without parental care,,12.0
-2017,person,left without parental care,,22.0
-2018,person,left without parental care,,22.0
-2019,person,left without parental care,,0.0
-2020,person,left without parental care,,10.0
-2015,person,left without parental care,male,10.0
-2016,person,left without parental care,male,4.0
-2017,person,left without parental care,male,8.0
-2018,person,left without parental care,male,10.0
-2019,person,left without parental care,male,0.0
-2020,person,left without parental care,male,3.0
-2015,person,left without parental care,female,13.0
-2016,person,left without parental care,female,8.0
-2017,person,left without parental care,female,14.0
-2018,person,left without parental care,female,12.0
-2019,person,left without parental care,female,0.0
-2020,person,left without parental care,female,7.0
-2015,person,other,,3.0
-2016,person,other,,4.0
-2017,person,other,,7.0
-2018,person,other,,5.0
-2019,person,other,,9.0
-2020,person,other,,4.0
-2015,person,other,male,1.0
-2016,person,other,male,2.0
-2017,person,other,male,3.0
-2018,person,other,male,1.0
-2019,person,other,male,6.0
-2020,person,other,male,4.0
-2015,person,other,female,2.0
-2016,person,other,female,2.0
-2017,person,other,female,4.0
-2018,person,other,female,4.0
-2019,person,other,female,3.0
-2020,person,other,female,0.0
-2015,%,child with two parents,,37.5
-2016,%,child with two parents,,37.33
-2017,%,child with two parents,,25.0
-2018,%,child with two parents,,27.08
-2019,%,child with two parents,,31.58
-2020,%,child with two parents,,30.3
-2015,%,child with two parents,male,46.0
-2016,%,child with two parents,male,51.35
-2017,%,child with two parents,male,37.04
-2018,%,child with two parents,male,31.82
-2019,%,child with two parents,male,10.0
-2020,%,child with two parents,male,29.41
-2015,%,child with two parents,female,28.26
-2016,%,child with two parents,female,23.68
-2017,%,child with two parents,female,13.79
-2018,%,child with two parents,female,23.08
-2019,%,child with two parents,female,55.56
-2020,%,child with two parents,female,31.25
-2015,%,single mother child,,35.42
-2016,%,single mother child,,41.33
-2017,%,single mother child,,23.21
-2018,%,single mother child,,16.67
-2019,%,single mother child,,21.05
-2020,%,single mother child,,27.27
-2015,%,single mother child,male,32.0
-2016,%,single mother child,male,32.43
-2017,%,single mother child,male,22.22
-2018,%,single mother child,male,18.18
-2019,%,single mother child,male,30.0
-2020,%,single mother child,male,29.41
-2015,%,single mother child,female,39.13
-2016,%,single mother child,female,50.0
-2017,%,single mother child,female,24.14
-2018,%,single mother child,female,15.38
-2019,%,single mother child,female,11.11
-2020,%,single mother child,female,25.0
-2015,%,left without parental care,,23.96
-2016,%,left without parental care,,16.0
-2017,%,left without parental care,,39.29
-2018,%,left without parental care,,45.83
-2019,%,left without parental care,,0.0
-2020,%,left without parental care,,30.3
-2015,%,left without parental care,male,20.0
-2016,%,left without parental care,male,10.81
-2017,%,left without parental care,male,29.63
-2018,%,left without parental care,male,45.45
-2019,%,left without parental care,male,0.0
-2020,%,left without parental care,male,17.65
-2015,%,left without parental care,female,28.26
-2016,%,left without parental care,female,21.05
-2017,%,left without parental care,female,48.28
-2018,%,left without parental care,female,46.15
-2019,%,left without parental care,female,0.0
-2020,%,left without parental care,female,43.75
-2015,%,other,,3.13
-2016,%,other,,5.33
-2017,%,other,,12.5
-2018,%,other,,10.42
-2019,%,other,,47.37
-2020,%,other,,12.12
-2015,%,other,male,2.0
-2016,%,other,male,5.41
-2017,%,other,male,11.1
-2018,%,other,male,4.55
-2019,%,other,male,60.0
-2020,%,other,male,23.53
-2015,%,other,female,4.35
-2016,%,other,female,5.26
-2017,%,other,female,13.79
-2018,%,other,female,15.38
-2019,%,other,female,33.33
-2020,%,other,female,0.0
+Year,Units,Կատեգորիա,Սեռ,Value
+2015,մարդ,երկու ծնող ունեցող երեխա,,36.0
+2016,մարդ,երկու ծնող ունեցող երեխա,,28.0
+2017,մարդ,երկու ծնող ունեցող երեխա,,14.0
+2018,մարդ,երկու ծնող ունեցող երեխա,,13.0
+2019,մարդ,երկու ծնող ունեցող երեխա,,6.0
+2020,մարդ,երկու ծնող ունեցող երեխա,,10.0
+2015,մարդ,երկու ծնող ունեցող երեխա,տղամարդ,23.0
+2016,մարդ,երկու ծնող ունեցող երեխա,տղամարդ,19.0
+2017,մարդ,երկու ծնող ունեցող երեխա,տղամարդ,10.0
+2018,մարդ,երկու ծնող ունեցող երեխա,տղամարդ,7.0
+2019,մարդ,երկու ծնող ունեցող երեխա,տղամարդ,1.0
+2020,մարդ,երկու ծնող ունեցող երեխա,տղամարդ,5.0
+2015,մարդ,երկու ծնող ունեցող երեխա,կին,13.0
+2016,մարդ,երկու ծնող ունեցող երեխա,կին,9.0
+2017,մարդ,երկու ծնող ունեցող երեխա,կին,4.0
+2018,մարդ,երկու ծնող ունեցող երեխա,կին,6.0
+2019,մարդ,երկու ծնող ունեցող երեխա,կին,5.0
+2020,մարդ,երկու ծնող ունեցող երեխա,կին,5.0
+2015,մարդ,միայնակ մոր երեխա,,34.0
+2016,մարդ,միայնակ մոր երեխա,,31.0
+2017,մարդ,միայնակ մոր երեխա,,13.0
+2018,մարդ,միայնակ մոր երեխա,,8.0
+2019,մարդ,միայնակ մոր երեխա,,4.0
+2020,մարդ,միայնակ մոր երեխա,,9.0
+2015,մարդ,միայնակ մոր երեխա,տղամարդ,16.0
+2016,մարդ,միայնակ մոր երեխա,տղամարդ,12.0
+2017,մարդ,միայնակ մոր երեխա,տղամարդ,6.0
+2018,մարդ,միայնակ մոր երեխա,տղամարդ,4.0
+2019,մարդ,միայնակ մոր երեխա,տղամարդ,3.0
+2020,մարդ,միայնակ մոր երեխա,տղամարդ,5.0
+2015,մարդ,միայնակ մոր երեխա,կին,18.0
+2016,մարդ,միայնակ մոր երեխա,կին,19.0
+2017,մարդ,միայնակ մոր երեխա,կին,7.0
+2018,մարդ,միայնակ մոր երեխա,կին,4.0
+2019,մարդ,միայնակ մոր երեխա,կին,1.0
+2020,մարդ,միայնակ մոր երեխա,կին,4.0
+2015,մարդ,մնացել է առանց ծնողական խնամքի,,23.0
+2016,մարդ,մնացել է առանց ծնողական խնամքի,,12.0
+2017,մարդ,մնացել է առանց ծնողական խնամքի,,22.0
+2018,մարդ,մնացել է առանց ծնողական խնամքի,,22.0
+2019,մարդ,մնացել է առանց ծնողական խնամքի,,0.0
+2020,մարդ,մնացել է առանց ծնողական խնամքի,,10.0
+2015,մարդ,մնացել է առանց ծնողական խնամքի,տղամարդ,10.0
+2016,մարդ,մնացել է առանց ծնողական խնամքի,տղամարդ,4.0
+2017,մարդ,մնացել է առանց ծնողական խնամքի,տղամարդ,8.0
+2018,մարդ,մնացել է առանց ծնողական խնամքի,տղամարդ,10.0
+2019,մարդ,մնացել է առանց ծնողական խնամքի,տղամարդ,0.0
+2020,մարդ,մնացել է առանց ծնողական խնամքի,տղամարդ,3.0
+2015,մարդ,մնացել է առանց ծնողական խնամքի,կին,13.0
+2016,մարդ,մնացել է առանց ծնողական խնամքի,կին,8.0
+2017,մարդ,մնացել է առանց ծնողական խնամքի,կին,14.0
+2018,մարդ,մնացել է առանց ծնողական խնամքի,կին,12.0
+2019,մարդ,մնացել է առանց ծնողական խնամքի,կին,0.0
+2020,մարդ,մնացել է առանց ծնողական խնամքի,կին,7.0
+2015,մարդ,այլ,,3.0
+2016,մարդ,այլ,,4.0
+2017,մարդ,այլ,,7.0
+2018,մարդ,այլ,,5.0
+2019,մարդ,այլ,,9.0
+2020,մարդ,այլ,,4.0
+2015,մարդ,այլ,տղամարդ,1.0
+2016,մարդ,այլ,տղամարդ,2.0
+2017,մարդ,այլ,տղամարդ,3.0
+2018,մարդ,այլ,տղամարդ,1.0
+2019,մարդ,այլ,տղամարդ,6.0
+2020,մարդ,այլ,տղամարդ,4.0
+2015,մարդ,այլ,կին,2.0
+2016,մարդ,այլ,կին,2.0
+2017,մարդ,այլ,կին,4.0
+2018,մարդ,այլ,կին,4.0
+2019,մարդ,այլ,կին,3.0
+2020,մարդ,այլ,կին,0.0
+2015,%,երկու ծնող ունեցող երեխա,,37.5
+2016,%,երկու ծնող ունեցող երեխա,,37.33
+2017,%,երկու ծնող ունեցող երեխա,,25.0
+2018,%,երկու ծնող ունեցող երեխա,,27.08
+2019,%,երկու ծնող ունեցող երեխա,,31.58
+2020,%,երկու ծնող ունեցող երեխա,,30.3
+2015,%,երկու ծնող ունեցող երեխա,տղամարդ,46.0
+2016,%,երկու ծնող ունեցող երեխա,տղամարդ,51.35
+2017,%,երկու ծնող ունեցող երեխա,տղամարդ,37.04
+2018,%,երկու ծնող ունեցող երեխա,տղամարդ,31.82
+2019,%,երկու ծնող ունեցող երեխա,տղամարդ,10.0
+2020,%,երկու ծնող ունեցող երեխա,տղամարդ,29.41
+2015,%,երկու ծնող ունեցող երեխա,կին,28.26
+2016,%,երկու ծնող ունեցող երեխա,կին,23.68
+2017,%,երկու ծնող ունեցող երեխա,կին,13.79
+2018,%,երկու ծնող ունեցող երեխա,կին,23.08
+2019,%,երկու ծնող ունեցող երեխա,կին,55.56
+2020,%,երկու ծնող ունեցող երեխա,կին,31.25
+2015,%,միայնակ մոր երեխա,,35.42
+2016,%,միայնակ մոր երեխա,,41.33
+2017,%,միայնակ մոր երեխա,,23.21
+2018,%,միայնակ մոր երեխա,,16.67
+2019,%,միայնակ մոր երեխա,,21.05
+2020,%,միայնակ մոր երեխա,,27.27
+2015,%,միայնակ մոր երեխա,տղամարդ,32.0
+2016,%,միայնակ մոր երեխա,տղամարդ,32.43
+2017,%,միայնակ մոր երեխա,տղամարդ,22.22
+2018,%,միայնակ մոր երեխա,տղամարդ,18.18
+2019,%,միայնակ մոր երեխա,տղամարդ,30.0
+2020,%,միայնակ մոր երեխա,տղամարդ,29.41
+2015,%,միայնակ մոր երեխա,կին,39.13
+2016,%,միայնակ մոր երեխա,կին,50.0
+2017,%,միայնակ մոր երեխա,կին,24.14
+2018,%,միայնակ մոր երեխա,կին,15.38
+2019,%,միայնակ մոր երեխա,կին,11.11
+2020,%,միայնակ մոր երեխա,կին,25.0
+2015,%,մնացել է առանց ծնողական խնամքի,,23.96
+2016,%,մնացել է առանց ծնողական խնամքի,,16.0
+2017,%,մնացել է առանց ծնողական խնամքի,,39.29
+2018,%,մնացել է առանց ծնողական խնամքի,,45.83
+2019,%,մնացել է առանց ծնողական խնամքի,,0.0
+2020,%,մնացել է առանց ծնողական խնամքի,,30.3
+2015,%,մնացել է առանց ծնողական խնամքի,տղամարդ,20.0
+2016,%,մնացել է առանց ծնողական խնամքի,տղամարդ,10.81
+2017,%,մնացել է առանց ծնողական խնամքի,տղամարդ,29.63
+2018,%,մնացել է առանց ծնողական խնամքի,տղամարդ,45.45
+2019,%,մնացել է առանց ծնողական խնամքի,տղամարդ,0.0
+2020,%,մնացել է առանց ծնողական խնամքի,տղամարդ,17.65
+2015,%,մնացել է առանց ծնողական խնամքի,կին,28.26
+2016,%,մնացել է առանց ծնողական խնամքի,կին,21.05
+2017,%,մնացել է առանց ծնողական խնամքի,կին,48.28
+2018,%,մնացել է առանց ծնողական խնամքի,կին,46.15
+2019,%,մնացել է առանց ծնողական խնամքի,կին,0.0
+2020,%,մնացել է առանց ծնողական խնամքի,կին,43.75
+2015,%,այլ,,3.13
+2016,%,այլ,,5.33
+2017,%,այլ,,12.5
+2018,%,այլ,,10.42
+2019,%,այլ,,47.37
+2020,%,այլ,,12.12
+2015,%,այլ,տղամարդ,2.0
+2016,%,այլ,տղամարդ,5.41
+2017,%,այլ,տղամարդ,11.1
+2018,%,այլ,տղամարդ,4.55
+2019,%,այլ,տղամարդ,60.0
+2020,%,այլ,տղամարդ,23.53
+2015,%,այլ,կին,4.35
+2016,%,այլ,կին,5.26
+2017,%,այլ,կին,13.79
+2018,%,այլ,կին,15.38
+2019,%,այլ,կին,33.33
+2020,%,այլ,կին,0.0

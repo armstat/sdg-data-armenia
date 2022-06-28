@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "yes=1, no=0",
+                "да=1, нет=0",
                 ""
               ]
             },

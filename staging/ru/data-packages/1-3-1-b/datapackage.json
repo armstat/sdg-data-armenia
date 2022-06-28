@@ -31,38 +31,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "мужчина",
+                "женщина",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Пол"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "aged 0-4 years",
-                "aged 5-9 years",
-                "aged 10-14 years",
-                "aged 15 years",
-                "aged 16-17 years",
+                "0-4 лет",
+                "5-9 лет",
+                "10-14 лет",
+                "15 лет",
+                "16-17 лет",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Возраст"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "total to the total number of children with disabilities (aged 0-17 years)",
+                "всего к общему количеству детей с инвалидностью (в возрасте 0-17 лет)",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Категория"
           },
           {
             "name": "Value",
@@ -75,5 +75,5 @@
   ],
   "profile": "data-package",
   "name": "1-3-1-b",
-  "title": "meta.name-1-3-1-b"
+  "title": "Дети с инвалидностью от болезней (в возрасте 0-17 лет)"
 }

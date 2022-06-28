@@ -17,16 +17,16 @@
               "enum": [
                 "",
                 "high",
-                "lower secondary",
+                "Basic",
                 "post-graduate education, second stage (master's Degree)",
-                "pre-specialized (vocational) education",
+                "Preliminary (craftsmenship) vocational education",
                 "primary",
                 "secondary",
                 "specialized high education, first stage (bachelor's Degree)",
-                "specialized secondary education"
+                "middle vocational"
               ]
             },
-            "title": "Education type"
+            "title": "education type"
           },
           {
             "name": "Sex",
@@ -67,5 +67,5 @@
   ],
   "profile": "data-package",
   "name": "4-3-1-a",
-  "title": "meta.name-4-3-1-a"
+  "title": "Gross Enrollment Ration in general educatioin"
 }

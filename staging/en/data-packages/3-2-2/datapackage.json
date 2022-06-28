@@ -16,7 +16,7 @@
             "constraints": {
               "enum": [
                 "",
-                "0-28 days"
+                "aged 0-28 days"
               ]
             },
             "title": "Category"

@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "%",
-                "unit",
+                "միավոր",
                 ""
               ]
             },
@@ -32,18 +32,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Share of total areas under protection in the total area of the country",
-                "State reserves(Category Ib), quantity",
-                "Share of State reserves(Category Ib) in the total area of the country",
-                "National parks (Category II ), quantity",
-                "Share of National parks (Category II ) in the total area of the country",
-                "State preserves (Category IV), quantity",
-                "Share of State preserves (Category IV) in the total area of the country",
-                "Monuments of Nature(Category III), quantity",
+                "Հատուկ պահպանվող տարածքների ընդհանուր մակերեսը %-ով երկրի տարածքի նկատմամբ",
+                "Պետական արգելոցների (կատեգորիա Ib) ընդհանուր քանակը",
+                "Պետական արգելոցների (կատեգորիա Ib) ընդհանուր մակերեսը %-ով երկրի տարածքի նկատմամբ",
+                "Ազգային պարկերի (կատեգորիա II) ընդհանուր քանակը",
+                "Ազգային պարկերի (կատեգորիա II) ընդհանուր մակերեսը %-ով երկրի տարածքի նկատմամբ",
+                "Պետական արգելավայրերի (կատեգորիա IV) ընդհանուր քանակը",
+                "Պետական արգելավայրերի (կատեգորիա IV) ընդհանուր մակերեսը %-ով երկրի տարածքի նկատմամբ",
+                "Բնության հուշարձանների (կատեգորիա III) ընդհանուր քանակը",
                 ""
               ]
             },
-            "title": "Type"
+            "title": "Տեսակ"
           },
           {
             "name": "Value",
@@ -56,5 +56,5 @@
   ],
   "profile": "data-package",
   "name": "15-1-2-a",
-  "title": "meta.name-15-1-2-a"
+  "title": "Երկրում պահպանվող տարածքների քանակը և համամասնությունը ըստ կատեգորիաների"
 }

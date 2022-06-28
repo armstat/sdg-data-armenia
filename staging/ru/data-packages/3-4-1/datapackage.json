@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100,000 population",
+                "на 100,000 населения",
                 ""
               ]
             },
@@ -31,14 +31,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "cardiovascular disease",
-                "cancer",
-                "diabetes",
-                "chronic respiratory disease",
+                "сердечно-сосудистые заболевания",
+                "рак",
+                "сахарный диабет",
+                "хроническая респираторная болезнь",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Категория"
           },
           {
             "name": "Value",

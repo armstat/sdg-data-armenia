@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "any contraceptive method",
-                "modern contraceptive methods",
+                "ցանկացած հակաբեղմնավորման մեթոդ",
+                "ժամանակակից հակաբեղմնավորման մեթոդներ",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Կատեգորիա"
           },
           {
             "name": "Value",

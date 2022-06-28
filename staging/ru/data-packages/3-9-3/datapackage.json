@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100,000 population",
-                "case",
+                "на 100,000 населения",
+                "случаи",
                 ""
               ]
             },

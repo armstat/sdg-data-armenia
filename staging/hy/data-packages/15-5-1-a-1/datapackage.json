@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "unit",
+                "միավոր",
                 ""
               ]
             },
@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "registered in the Red Book of RA",
-                "included in the specially protected natural areas",
+                "գրանցված ՀՀ Կարմիր գրքում",
+                "ներառված են բնության հատուկ պահպանվող տարածքներում",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Կատեգորիա"
           },
           {
             "name": "Value",
@@ -49,5 +49,5 @@
   ],
   "profile": "data-package",
   "name": "15-5-1-a-1",
-  "title": "meta.name-15-5-1-a-1"
+  "title": "Հաշվառված ողնաշարավոր և անողնաշար կենդանիների տեսակներ, որից"
 }

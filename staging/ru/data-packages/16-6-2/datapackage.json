@@ -20,21 +20,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "water supply",
-                "sewerage",
-                "garbage disposal",
-                "landline telephone",
-                "electricity supply",
-                "postal service",
-                "bank services",
-                "irrigation",
-                "healthcare",
-                "education",
-                "public transportation",
+                "водоснабжение",
+                "канализация",
+                "вывоз мусора",
+                "телефон стационарный",
+                "электроснабжение",
+                "почтовые услуги",
+                "банковские услуги",
+                "орошение",
+                "здравоохранение",
+                "образование",
+                "общественный транспорт",
                 ""
               ]
             },
-            "title": "Services"
+            "title": "Услуги"
           },
           {
             "name": "Value",

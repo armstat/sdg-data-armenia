@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "%",
-                "dram",
+                "դրամ",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "proportion of GDP",
-                "per capita",
+                "ՀՆԱ-ի համամասնությունը",
+                "մեկ շնչի հաշվով",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Կատեգորիա"
           },
           {
             "name": "Value",

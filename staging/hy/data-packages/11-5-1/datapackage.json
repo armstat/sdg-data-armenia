@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100,000 population",
+                "100,000 բնակչի հաշվով",
                 ""
               ]
             },
@@ -31,13 +31,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "natural disaster",
-                "man-made disaster",
-                "social-biological disaster",
+                "տարերային աղետներ",
+                "տեխնածին աղետներ",
+                "սոցիալ-կենսաբանական աղետներ",
                 ""
               ]
             },
-            "title": "Disaster type"
+            "title": "Աղետի տեսակ"
           },
           {
             "name": "Value",

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 people",
-                "1,000 tons",
+                "1,000 մարդ",
+                "1,000 տոննա",
                 ""
               ]
             },
@@ -32,28 +32,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "passenger volume",
-                "freight volumes",
+                "ուղևորների ծավալը՝",
+                "բեռների ծավալները՝",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Կատեգորիա"
           },
           {
             "name": "Transportation type",
             "type": "string",
             "constraints": {
               "enum": [
-                "railway transport",
-                "road transport",
+                "երկաթուղային տրանսպորտ",
+                "ավտոմոբիլային տրանսպորտ",
                 "of which  passenger taxi",
-                "air transport",
-                "electricity transport",
-                "pipelines",
+                "օդային տրանսպորտ",
+                "էլեկտրատրանսպորտ",
+                "խողովակաշարային",
                 ""
               ]
             },
-            "title": "Transportation type"
+            "title": "Տրանսպորտի տեսակ"
           },
           {
             "name": "Value",

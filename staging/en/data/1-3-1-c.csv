@@ -125,21 +125,21 @@ Year,Units,Sex,Category,Age,Value
 2018,%,female,in case of losing a breadwinner,,0.39
 2019,%,female,in case of losing a breadwinner,,0.35
 2020,%,female,in case of losing a breadwinner,,0.33
-2016,%,,by other laws,,0.01
-2017,%,,by other laws,,0.02
-2018,%,,by other laws,,0.02
-2019,%,,by other laws,,0.02
-2020,%,,by other laws,,0.02
-2016,%,male,by other laws,,0.01
-2017,%,male,by other laws,,0.04
-2018,%,male,by other laws,,0.04
-2019,%,male,by other laws,,0.04
-2020,%,male,by other laws,,0.05
-2016,%,female,by other laws,,0.002
-2017,%,female,by other laws,,0.004
-2018,%,female,by other laws,,0.004
-2019,%,female,by other laws,,0.004
-2020,%,female,by other laws,,0.004
+2016,%,,defined by other laws,,0.01
+2017,%,,defined by other laws,,0.02
+2018,%,,defined by other laws,,0.02
+2019,%,,defined by other laws,,0.02
+2020,%,,defined by other laws,,0.02
+2016,%,male,defined by other laws,,0.01
+2017,%,male,defined by other laws,,0.04
+2018,%,male,defined by other laws,,0.04
+2019,%,male,defined by other laws,,0.04
+2020,%,male,defined by other laws,,0.05
+2016,%,female,defined by other laws,,0.002
+2017,%,female,defined by other laws,,0.004
+2018,%,female,defined by other laws,,0.004
+2019,%,female,defined by other laws,,0.004
+2020,%,female,defined by other laws,,0.004
 2015,%,,related to military service,,0.08
 2016,%,,related to military service,,0.07
 2017,%,,related to military service,,0.07
@@ -212,21 +212,21 @@ Year,Units,Sex,Category,Age,Value
 2018,%,female,,aged 56 - 62 years,19.34
 2019,%,female,,aged 56 - 62 years,16.04
 2020,%,female,,aged 56 - 62 years,14.5
-2015,%,,,aged 63 and older,92.73
-2016,%,,,aged 63 and older,92.52
-2017,%,,,aged 63 and older,91.47
-2018,%,,,aged 63 and older,91.36
-2019,%,,,aged 63 and older,92.57
-2020,%,,,aged 63 and older,91.71
-2015,%,male,,aged 63 and older,88.1
-2016,%,male,,aged 63 and older,88.25
-2017,%,male,,aged 63 and older,87.48
-2018,%,male,,aged 63 and older,87.86
-2019,%,male,,aged 63 and older,89.58
-2020,%,male,,aged 63 and older,89.28
-2015,%,female,,aged 63 and older,95.83
-2016,%,female,,aged 63 and older,95.38
-2017,%,female,,aged 63 and older,94.14
-2018,%,female,,aged 63 and older,93.7
-2019,%,female,,aged 63 and older,94.55
-2020,%,female,,aged 63 and older,93.32
+2015,%,,,aged 63 and over,92.73
+2016,%,,,aged 63 and over,92.52
+2017,%,,,aged 63 and over,91.47
+2018,%,,,aged 63 and over,91.36
+2019,%,,,aged 63 and over,92.57
+2020,%,,,aged 63 and over,91.71
+2015,%,male,,aged 63 and over,88.1
+2016,%,male,,aged 63 and over,88.25
+2017,%,male,,aged 63 and over,87.48
+2018,%,male,,aged 63 and over,87.86
+2019,%,male,,aged 63 and over,89.58
+2020,%,male,,aged 63 and over,89.28
+2015,%,female,,aged 63 and over,95.83
+2016,%,female,,aged 63 and over,95.38
+2017,%,female,,aged 63 and over,94.14
+2018,%,female,,aged 63 and over,93.7
+2019,%,female,,aged 63 and over,94.55
+2020,%,female,,aged 63 and over,93.32

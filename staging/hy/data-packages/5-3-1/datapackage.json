@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "before age 15",
-                "before age 18",
+                "մինչև 15 տարեկան",
+                "մինչև 18 տարեկան",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Տարիք"
           },
           {
             "name": "Value",

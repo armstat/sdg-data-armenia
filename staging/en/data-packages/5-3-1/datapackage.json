@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "before age 15",
-                "before age 18"
+                "up to 15 years",
+                "up to 18 years"
               ]
             },
             "title": "Age"
