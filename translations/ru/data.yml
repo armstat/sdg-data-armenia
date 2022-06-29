@@ -75,7 +75,7 @@ aged 7-9 years: 7-9 лет
 aged 10-15 years: 10-15 лет
 aged 16-17 years: 16-17 лет
 total to the population of respective age: всего к населению соответствующего возраста
-total to children aged 0-17 years with disabilities: "всего к детям в возрасте 0-17 лет с имеющие инвалидность"
+total to children aged 0-17 years with disabilities: всего к детям в возрасте 0-17 лет с имеющие инвалидность
 up to 6 months: до 6 месяцов
 from 6 months to 1 year: с 6 месяцев до 1 года
 aged 1-5 years: 1-5 лет
@@ -114,16 +114,16 @@ water supply: водоснабжение
 sewerage: канализация
 primary: начальное
 lower secondary: основная
-high: высшее Старшая
-secondary: Общеобразовательная
+high: высшее, старшая
+secondary: общеобразовательная
 preliminary vocational: начальное профессиональное (ремесленное)
 middle vocational: среднепрофессиональное
 bachelor: высшее образование первой ступени
 master: высшее образование второй ступени
-pre-specialized (vocational) education: Начальное профессиональное (ремесленное)
+pre-specialized (vocational) education: начальное профессиональное (ремесленное)
 specialized secondary education: среднепрофессиональное
-specialized high education, first stage (bachelor's degree): Высшее профессиональное образование, первая ступень (степень бакалавра)
-post-graduate education, second stage (master's degree): Высшее профессиональное образование, вторая ступень (степень магистра)
+specialized high education, first stage (bachelor's degree): высшее профессиональное образование, первая ступень (степень бакалавра)
+post-graduate education, second stage (master's degree): высшее профессиональное образование, вторая ступень (степень магистра)
 physical violence: физическое насилие
 sexual violence: сексуальное насилие
 alone: в одиночестве
@@ -190,9 +190,9 @@ USD: долларов США
 25% of daily per capita total household consumption: 25% суточного потребления домашних хозяйств на душу населения
 household access to centralized water supply: доступ домашних хозяйств к централизованному водоснабжению 
 household access to centralized sewerage system: доступ домашних хозяйств к централизованной канализации
-household access to garbage disposal: "доступ домашних хозяйств к  централизованному вывозу мусора (система сбора мусора и / или) вывоз грузовиком, свалка мусора для вывоза)"
+household access to garbage disposal: доступ домашних хозяйств к  централизованному вывозу мусора (система сбора мусора и / или) вывоз грузовиком, свалка мусора для вывоза)
 internet accessibility for household: доступ домашнего хозяйства к интернету
-internet accessibility for household members: доступ членов домашнего хозяйства к интернету 
+internet accessibility for household members: доступ членов домашнего хозяйства к интернету
 share of households with electricity supply: доля домашних хозяйств с электроснабжением
 garbage disposal: вывоз мусора
 landline telephone: телефон стационарный
@@ -202,10 +202,10 @@ bank services: банковские услуги
 irrigation: орошение
 healthcare: здравоохранение
 public transportation: общественный транспорт
-Services: Услуги
+Services: услуги
 disabled: инвалиды
 proportion of households with primary reliance on clean fuels and technology: доля домашних хозяйств, которые в первую очередь полагаются на чистое топливо и технологии
-Share of total areas under protection in the total area of the country: Общая площадь особо охраняемых природных территорий в процентах от площади страны   
+Share of total areas under protection in the total area of the country: Общая площадь особо охраняемых природных территорий в процентах от площади страны
 State reserves(Category Ib), quantity: Общее количество государственных заповедников (категория Ib)
 Share of State reserves(Category Ib) in the total area of the country: Общая площадь государственных заповедников (категория Iб) в % от территории страны
 National parks (Category II ), quantity: Общее количество национальных парков (категория II)
