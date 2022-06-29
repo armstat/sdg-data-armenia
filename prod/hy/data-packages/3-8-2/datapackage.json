@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Տարի"
           },
           {
             "name": "Units",
@@ -31,24 +31,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "10% of daily per capita total household consumption",
-                "25% of daily per capita total household consumption",
+                "տնային տնտեսությունների օրական սպառման 10%-ը մեկ շնչի հաշվով",
+                "տնային տնտեսությունների օրական սպառման 25%-ը մեկ շնչի հաշվով",
                 ""
               ]
             },
-            "title": "Type"
+            "title": "Տեսակ"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "rural",
-                "urban",
+                "գյուղ",
+                "քաղաք",
                 ""
               ]
             },
-            "title": "Location"
+            "title": "Գտնվելու վայրը"
           },
           {
             "name": "Value",

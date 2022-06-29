@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Units",
@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "before age 15",
-                "before age 18",
+                "до 15 лет",
+                "до 18 лет",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Возраст"
           },
           {
             "name": "Value",

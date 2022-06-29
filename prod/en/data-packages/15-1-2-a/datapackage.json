@@ -11,44 +11,44 @@
       "schema": {
         "fields": [
           {
-            "name": "Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Monuments of Nature(Category III), quantity",
-                "National parks (Category II ), quantity",
-                "Share of National parks (Category II ) in the total area of the country",
-                "Share of State preserves (Category IV) in the total area of the country",
-                "Share of State reserves(Category Ib) in the total area of the country",
-                "Share of total areas under protection in the total area of the country",
-                "State preserves (Category IV), quantity",
-                "State reserves(Category Ib), quantity"
-              ]
-            },
-            "title": "Type"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "%",
-                "unit"
+                "unit",
+                ""
               ]
             },
             "title": "Units"
           },
           {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total area of specially protected areas as a percentage of country area",
+                "Total number of state reserves (category Ib)",
+                "Total area of state reserves (category Ib) in % of the country's territory",
+                "Total number of national parks (category II)",
+                "Total area of national parks (category II) in % of the country's territory",
+                "Total number of state preserves (category IV)",
+                "Total area of state preserves (category IV) in % of the country's territory",
+                "Total number of natural monuments (category III)",
+                ""
+              ]
+            },
+            "title": "Type"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }
@@ -56,5 +56,5 @@
   ],
   "profile": "data-package",
   "name": "15-1-2-a",
-  "title": "meta.name-15-1-2-a"
+  "title": "Number and proportion of protected areas in the country by categories"
 }

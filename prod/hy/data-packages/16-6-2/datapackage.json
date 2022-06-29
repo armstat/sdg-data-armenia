@@ -13,28 +13,28 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Տարի"
           },
           {
             "name": "Services",
             "type": "string",
             "constraints": {
               "enum": [
-                "water supply",
-                "sewerage",
-                "garbage disposal",
-                "landline telephone",
-                "electricity supply",
-                "postal service",
-                "bank services",
-                "irrigation",
-                "healthcare",
-                "education",
-                "public transportation",
+                "ջրամատակարարում",
+                "կոյուղի",
+                "աղբի հեռացում",
+                "հեռախոս ստացիոնար",
+                "էլեկտրաէներգիայի մատակարարում",
+                "փոստային ծառայություններ",
+                "բանկային ծառայություններ",
+                "ոռոգում",
+                "առողջապահություն",
+                "կրթություն",
+                "հասարակական տրանսպորտ",
                 ""
               ]
             },
-            "title": "Services"
+            "title": "Ծառայություններ"
           },
           {
             "name": "Value",

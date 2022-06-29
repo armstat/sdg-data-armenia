@@ -13,14 +13,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Տարի"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "person",
+                "մարդ",
                 ""
               ]
             },
@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "տղամարդ",
+                "կին",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Սեռ"
           },
           {
             "name": "Value",

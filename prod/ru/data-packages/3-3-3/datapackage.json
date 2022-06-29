@@ -13,14 +13,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "per 1,000 population",
+                "на 1,000 населения",
                 ""
               ]
             },

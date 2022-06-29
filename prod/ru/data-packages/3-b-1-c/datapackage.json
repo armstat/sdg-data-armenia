@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Units",
@@ -37,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "3-b-1-c",
-  "title": "meta.name-3-b-1-c"
+  "title": "Показатель охвата вакцинами среди целевых величин, возраст 7 лет"
 }

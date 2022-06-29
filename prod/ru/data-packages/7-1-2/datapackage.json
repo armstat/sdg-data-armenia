@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Units",
@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "город",
+                "село",
                 ""
               ]
             },
-            "title": "Location"
+            "title": "Место нахождения"
           },
           {
             "name": "Value",

@@ -13,14 +13,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100,000 population",
+                "на 100,000 населения",
                 ""
               ]
             },
@@ -31,11 +31,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "infectious and parasitic diseases",
+                "инфекционные и паразитарные заболевания",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Категория"
           },
           {
             "name": "Value",

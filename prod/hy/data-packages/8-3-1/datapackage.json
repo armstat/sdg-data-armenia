@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Տարի"
           },
           {
             "name": "Units",
@@ -35,19 +35,19 @@
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Տարիք"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "տղամարդ",
+                "կին",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Սեռ"
           },
           {
             "name": "Value",

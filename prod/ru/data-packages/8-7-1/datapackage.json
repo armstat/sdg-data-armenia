@@ -13,14 +13,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "number",
+                "число",
                 "%",
                 ""
               ]
@@ -32,25 +32,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "мужчина",
+                "женщина",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Пол"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "aged 5-11 years",
-                "aged 12-15 years",
-                "aged 16-17 years",
+                "5-11 лет",
+                "12-15 лет",
+                "16-17 лет",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Возраст"
           },
           {
             "name": "Value",

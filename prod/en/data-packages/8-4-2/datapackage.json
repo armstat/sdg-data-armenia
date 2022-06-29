@@ -11,40 +11,40 @@
       "schema": {
         "fields": [
           {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "domestic material consumption",
-                "domestic material consumption per GDP",
-                "domestic material consumption per capita"
-              ]
-            },
-            "title": "Category"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "%",
+                "mln. Dram",
                 "dram",
-                "mln. dram"
+                "%",
+                ""
               ]
             },
             "title": "Units"
           },
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "domestic material consumption",
+                "domestic material consumption per capita",
+                "domestic material consumption per GDP",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

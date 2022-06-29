@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Units",
@@ -37,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "6-2-1-b",
-  "title": "meta.name-6-2-1-b"
+  "title": "Доля населения, пользующегося удобствами для мытья рук с мылом и водой"
 }

@@ -13,14 +13,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "person",
+                "человек",
                 "%",
                 ""
               ]
@@ -32,23 +32,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "мужчина",
+                "женщина",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Пол"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "total to children aged 0-17 years with disabilities",
+                "всего к детям в возрасте 0-17 лет с имеющие инвалидность",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Категория"
           },
           {
             "name": "Value",
@@ -61,5 +61,5 @@
   ],
   "profile": "data-package",
   "name": "1-3-1-j",
-  "title": "meta.name-1-3-1-j"
+  "title": "Дети-имеющие инвалидность, проживающие в детских домах (в возрасте 0–17 лет) на конец года"
 }

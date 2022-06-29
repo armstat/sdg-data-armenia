@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Տարի"
           },
           {
             "name": "Units",
@@ -31,24 +31,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "տղամարդ",
+                "կին",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Սեռ"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "wasting",
-                "overweight",
+                "թերսնուցում",
+                "հավելյալ քաշ",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Կատեգորիա"
           },
           {
             "name": "Value",

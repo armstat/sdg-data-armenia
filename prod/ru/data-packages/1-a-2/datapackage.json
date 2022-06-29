@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Units",
@@ -31,13 +31,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "education",
-                "health",
-                "social protection",
+                "образование",
+                "здравоохранение",
+                "социальная защита",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Категория"
           },
           {
             "name": "Value",

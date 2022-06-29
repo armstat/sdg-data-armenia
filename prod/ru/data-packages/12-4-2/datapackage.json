@@ -13,29 +13,29 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Type",
             "type": "string",
             "constraints": {
               "enum": [
-                "Hazardous waste generated",
-                "Waste transmitted to other organizations",
-                "Treated and destructed by organizations",
-                "Waste used by organizations",
-                "Transported to landfills by means of organizations",
+                "образование опасных отходов",
+                "отходы, переданные другим организациям",
+                "обезврежено и уничтожено организациями",
+                "отходы, используемые организациями",
+                "размещено в местах накопления отходов средствами организаций",
                 ""
               ]
             },
-            "title": "Type"
+            "title": "Тип"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "kg per capita",
+                "кг на душу населения",
                 "%",
                 ""
               ]

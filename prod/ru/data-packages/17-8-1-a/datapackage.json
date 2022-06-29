@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Units",
@@ -31,26 +31,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "мужчина",
+                "женщина",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Пол"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "aged 0-5 years",
-                "aged 5-14 years",
-                "aged 15-24 years",
-                "aged 25 and older",
+                "0-5 лет",
+                "5-14 лет",
+                "15-24 лет",
+                "25 и более лет",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Возраст"
           },
           {
             "name": "Value",
@@ -63,5 +63,5 @@
   ],
   "profile": "data-package",
   "name": "17-8-1-a",
-  "title": "meta.name-17-8-1-a"
+  "title": "Доля лиц, использующих Интернет, по полу и возрастным группам"
 }

@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Տարի"
           },
           {
             "name": "Units",
@@ -31,49 +31,49 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "քաղաք",
+                "գյուղ",
                 ""
               ]
             },
-            "title": "Location"
+            "title": "Գտնվելու վայրը"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "կին",
+                "տղամարդ",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Սեռ"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "aged 0-5 years",
-                "aged 6-17 years",
-                "aged 18-64 years",
-                "aged 65 and older",
+                "0-5 տարեկան",
+                "6-17 տարեկան",
+                "18-64 տարեկան",
+                "65 և բարձր տարիքի",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Տարիք"
           },
           {
             "name": "Type",
             "type": "string",
             "constraints": {
               "enum": [
-                "disabled",
+                "հաշմանդամներ",
                 ""
               ]
             },
-            "title": "Type"
+            "title": "Տեսակ"
           },
           {
             "name": "Value",

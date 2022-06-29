@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Units",
@@ -31,30 +31,30 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "secondary",
-                "primary",
-                "lower secondary",
-                "high",
-                "pre-specialized (vocational) education",
-                "specialized secondary education",
+                "общеобразовательная",
+                "начальное",
+                "основная",
+                "высшее, старшая",
+                "начальное профессиональное (ремесленное)",
+                "среднепрофессиональное",
                 "specialized high education, first stage (bachelor's Degree)",
                 "post-graduate education, second stage (master's Degree)",
                 ""
               ]
             },
-            "title": "Education type"
+            "title": "тип образования"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "мужчина",
+                "женщина",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Пол"
           },
           {
             "name": "Value",
@@ -67,5 +67,5 @@
   ],
   "profile": "data-package",
   "name": "4-3-1-a",
-  "title": "meta.name-4-3-1-a"
+  "title": "Валовой коэффициент охвата образованием в общем образовании"
 }

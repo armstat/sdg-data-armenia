@@ -11,38 +11,38 @@
       "schema": {
         "fields": [
           {
-            "name": "Disaster type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "man-made disaster",
-                "natural disaster",
-                "social-biological disaster"
-              ]
-            },
-            "title": "Disaster type"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "per 100,000 population"
+                "per 100,000 population",
+                ""
               ]
             },
             "title": "Units"
           },
           {
+            "name": "Disaster type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "natural disaster",
+                "man-made disaster",
+                "social-biological disaster",
+                ""
+              ]
+            },
+            "title": "disaster type"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

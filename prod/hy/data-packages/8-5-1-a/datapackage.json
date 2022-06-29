@@ -13,14 +13,14 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Տարի"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "dram",
+                "դրամ",
                 ""
               ]
             },
@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "տղամարդ",
+                "կին",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Սեռ"
           },
           {
             "name": "Value",
@@ -49,5 +49,5 @@
   ],
   "profile": "data-package",
   "name": "8-5-1-a",
-  "title": "meta.name-8-5-1-a"
+  "title": "Միջին ամսական անվանական աշխատավարձն ըստ սեռի"
 }

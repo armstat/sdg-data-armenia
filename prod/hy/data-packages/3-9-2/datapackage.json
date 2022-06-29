@@ -13,14 +13,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Տարի"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100,000 population",
+                "100,000 բնակչի հաշվով",
                 ""
               ]
             },
@@ -31,11 +31,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "infectious and parasitic diseases",
+                "վարակիչ և մակաբուծական հիվանդություններ",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Կատեգորիա"
           },
           {
             "name": "Value",

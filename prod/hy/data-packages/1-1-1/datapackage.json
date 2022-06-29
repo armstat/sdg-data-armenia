@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Տարի"
           },
           {
             "name": "Units",
@@ -31,68 +31,68 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "տղամարդ",
+                "կին",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Սեռ"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "քաղաք",
+                "գյուղ",
                 ""
               ]
             },
-            "title": "Location"
+            "title": "Գտնվելու վայրը"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "aged 0-17 years",
-                "aged 18-66 years",
+                "0-17 տարեկան",
+                "18-66 տարեկան",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Տարիք"
           },
           {
             "name": "Employment status",
             "type": "string",
             "constraints": {
               "enum": [
-                "economically active population",
-                "employed",
-                "wage employed",
-                "self-employed",
-                "other employed",
-                "unemployment",
+                "տնտեսապես ակտիվ բնակչություն",
+                "զբաղվածներ",
+                "վարձու աշխատողներ",
+                "ինքնազբաղված",
+                "այլ զբաղվածներ",
+                "գործազուրկներ",
                 "economically inactive  population",
-                "economically inactive population",
-                "pensioners",
-                "students",
-                "other inactive population",
+                "տնտեսապես ոչ ակտիվ բնակչություն",
+                "թոշակառուներ",
+                "ուսանողներ",
+                "այլ ոչ ակտիվ բնակչություն",
                 ""
               ]
             },
-            "title": "Employment status"
+            "title": "Զբաղվածության կարգավիճակ"
           },
           {
             "name": "Type",
             "type": "string",
             "constraints": {
               "enum": [
-                "disabled",
+                "հաշմանդամներ",
                 ""
               ]
             },
-            "title": "Type"
+            "title": "Տեսակ"
           },
           {
             "name": "Value",

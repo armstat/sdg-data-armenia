@@ -11,40 +11,40 @@
       "schema": {
         "fields": [
           {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "electricity",
-                "number of teachers per computer",
-                "proportion of schools connected to the Internet",
-                "sewerage",
-                "water supply"
-              ]
-            },
-            "title": "Category"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "%"
+                "%",
+                ""
               ]
             },
             "title": "Units"
           },
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "electricity",
+                "proportion of schools connected to the Internet",
+                "number of teachers per computer",
+                "water supply",
+                "sewerage",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Units",
@@ -31,24 +31,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "мужчина",
+                "женщина",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Пол"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "wasting",
-                "overweight",
+                "недоедание",
+                "переедание",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Категория"
           },
           {
             "name": "Value",

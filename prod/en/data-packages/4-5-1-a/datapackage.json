@@ -11,43 +11,43 @@
       "schema": {
         "fields": [
           {
-            "name": "Education type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "bachelor",
-                "high",
-                "lower secondary",
-                "master",
-                "middle vocational",
-                "preliminary vocational",
-                "primary",
-                "secondary"
-              ]
-            },
-            "title": "Education type"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "%"
+                "%",
+                ""
               ]
             },
             "title": "Units"
           },
           {
+            "name": "Education type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "primary",
+                "Basic",
+                "high",
+                "secondary",
+                "preliminary vocational",
+                "middle vocational",
+                "bachelor",
+                "master",
+                ""
+              ]
+            },
+            "title": "education type"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }
@@ -55,5 +55,5 @@
   ],
   "profile": "data-package",
   "name": "4-5-1-a",
-  "title": "meta.name-4-5-1-a"
+  "title": "Gender parity index"
 }

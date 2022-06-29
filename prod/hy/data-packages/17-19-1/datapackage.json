@@ -13,14 +13,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Տարի"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "1000 USD",
+                "1000 ԱՄՆ դոլար",
                 ""
               ]
             },

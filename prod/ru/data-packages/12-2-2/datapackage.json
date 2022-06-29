@@ -13,15 +13,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "mln. dram",
-                "dram",
+                "млн. драм",
+                "драм",
                 "%",
                 ""
               ]
@@ -33,13 +33,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "domestic material consumption",
-                "domestic material consumption per capita",
-                "domestic material consumption per GDP",
+                "материальное потребление",
+                "внутреннее материальное потребление на душу населения",
+                "внутреннее материальное потребление к ВВП",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Категория"
           },
           {
             "name": "Value",

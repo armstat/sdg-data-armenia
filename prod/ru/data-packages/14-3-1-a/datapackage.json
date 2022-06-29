@@ -13,14 +13,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "mole - H - ion/liter",
+                "мол-H - ион/литр",
                 ""
               ]
             },
@@ -37,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "14-3-1-a",
-  "title": "meta.name-14-3-1-a"
+  "title": "Средняя кислотность (pH) воды озера Севан, измеренная на согласованном наборе репрезентативных станций отбора проб"
 }

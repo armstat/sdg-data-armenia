@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Տարի"
           },
           {
             "name": "Units",
@@ -37,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "6-2-1-a",
-  "title": "meta.name-6-2-1-a"
+  "title": "Բնակչության մասնաբաժինը, որոնք օգտվում են անվտանգ սանիտարական հարմարություններից"
 }

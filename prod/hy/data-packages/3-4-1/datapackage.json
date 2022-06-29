@@ -13,14 +13,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Տարի"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100,000 population",
+                "100,000 բնակչի հաշվով",
                 ""
               ]
             },
@@ -31,14 +31,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "cardiovascular disease",
-                "cancer",
-                "diabetes",
-                "chronic respiratory disease",
+                "սրտանոթային հիվանդություն",
+                "քաղցկեղ",
+                "շաքարախտ",
+                "քրոնիկ շնչառական հիվանդություն",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Կատեգորիա"
           },
           {
             "name": "Value",

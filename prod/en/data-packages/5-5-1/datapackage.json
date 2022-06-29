@@ -11,37 +11,37 @@
       "schema": {
         "fields": [
           {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "local governments",
-                "national parliaments"
-              ]
-            },
-            "title": "Category"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "%"
+                "%",
+                ""
               ]
             },
             "title": "Units"
           },
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) national parliaments",
+                "b) local governments",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

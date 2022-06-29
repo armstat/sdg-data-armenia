@@ -11,12 +11,17 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "%"
+                "%",
+                ""
               ]
             },
             "title": "Units"
@@ -25,11 +30,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }
@@ -37,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "5-6-1-a",
-  "title": "meta.name-5-6-1-a"
+  "title": "Women currently married or in union that are using any type of contraception, only Condition 3 \"She can make a decision about healthcare either by herself or jointly\" fulfilled"
 }

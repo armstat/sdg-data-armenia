@@ -1,22 +1,22 @@
-Year,Units,Category,Value
-2015,%,equal to or greater than 256 kbit/s and less than 2 Mbit/s,0.1
-2016,%,equal to or greater than 256 kbit/s and less than 2 Mbit/s,0.2
-2017,%,equal to or greater than 256 kbit/s and less than 2 Mbit/s,0.2
-2018,%,equal to or greater than 256 kbit/s and less than 2 Mbit/s,0.2
-2019,%,equal to or greater than 256 kbit/s and less than 2 Mbit/s,0.1
-2020,%,equal to or greater than 256 kbit/s and less than 2 Mbit/s,0.1
-2015,%,equal to or greater than 2 Mbit/s and less than 10 Mbit/s,6.2
-2016,%,equal to or greater than 2 Mbit/s and less than 10 Mbit/s,5.9
-2017,%,equal to or greater than 2 Mbit/s and less than 10 Mbit/s,5.8
-2018,%,equal to or greater than 2 Mbit/s and less than 10 Mbit/s,5.9
-2019,%,equal to or greater than 2 Mbit/s and less than 10 Mbit/s,5.8
-2020,%,equal to or greater than 2 Mbit/s and less than 10 Mbit/s,5.7
-2015,%,equal to or greater than 10 Mbit/s,3.2
-2016,%,equal to or greater than 10 Mbit/s,3.9
-2017,%,equal to or greater than 10 Mbit/s,4.6
-2018,%,equal to or greater than 10 Mbit/s,5.6
-2019,%,equal to or greater than 10 Mbit/s,7.1
-2020,%,equal to or greater than 10 Mbit/s,8.8
-2021,%,equal to or greater than 256 kbit/s and less than 2 Mbit/s,0.04
-2021,%,equal to or greater than 2 Mbit/s and less than 10 Mbit/s,4.6
-2021,%,equal to or greater than 10 Mbit/s,11.1
+Year,Units,Категория,Value
+2015,%,равно или больше скорости 256 Кбит/с и менее 2 Мбит/с,0.1
+2016,%,равно или больше скорости 256 Кбит/с и менее 2 Мбит/с,0.2
+2017,%,равно или больше скорости 256 Кбит/с и менее 2 Мбит/с,0.2
+2018,%,равно или больше скорости 256 Кбит/с и менее 2 Мбит/с,0.2
+2019,%,равно или больше скорости 256 Кбит/с и менее 2 Мбит/с,0.1
+2020,%,равно или больше скорости 256 Кбит/с и менее 2 Мбит/с,0.1
+2015,%,равно или больше скорости 2 Мбит/с и менее 10 Мбит/с,6.2
+2016,%,равно или больше скорости 2 Мбит/с и менее 10 Мбит/с,5.9
+2017,%,равно или больше скорости 2 Мбит/с и менее 10 Мбит/с,5.8
+2018,%,равно или больше скорости 2 Мбит/с и менее 10 Мбит/с,5.9
+2019,%,равно или больше скорости 2 Мбит/с и менее 10 Мбит/с,5.8
+2020,%,равно или больше скорости 2 Мбит/с и менее 10 Мбит/с,5.7
+2015,%,равно или больше скорости 10 Мбит/с,3.2
+2016,%,равно или больше скорости 10 Мбит/с,3.9
+2017,%,равно или больше скорости 10 Мбит/с,4.6
+2018,%,равно или больше скорости 10 Мбит/с,5.6
+2019,%,равно или больше скорости 10 Мбит/с,7.1
+2020,%,равно или больше скорости 10 Мбит/с,8.8
+2021,%,равно или больше скорости 256 Кбит/с и менее 2 Мбит/с,0.04
+2021,%,равно или больше скорости 2 Мбит/с и менее 10 Мбит/с,4.6
+2021,%,равно или больше скорости 10 Мбит/с,11.1

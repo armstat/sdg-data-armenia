@@ -13,14 +13,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Տարի"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "per 1,000 population",
+                "1,000 բնակչի հաշվով",
                 ""
               ]
             },
@@ -31,13 +31,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "physicians",
-                "paramedical personnel",
-                "junior medical personnel",
+                "բժիշկներ",
+                "միջին բժշկական անձնակազմ",
+                "կրտսեր բժշկական անձնակազմ",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Կատեգորիա"
           },
           {
             "name": "Value",

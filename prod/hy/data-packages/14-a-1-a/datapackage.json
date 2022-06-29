@@ -13,14 +13,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Տարի"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "mln. dram",
+                "մլն. դրամ",
                 ""
               ]
             },
@@ -37,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "14-a-1-a",
-  "title": "meta.name-14-a-1-a"
+  "title": "Բյուջետային հատկացումները Սևանա լճի հետազոտություններին և համալիր պահպանությանը"
 }

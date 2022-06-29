@@ -13,29 +13,29 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Տարի"
           },
           {
             "name": "Type",
             "type": "string",
             "constraints": {
               "enum": [
-                "Hazardous waste generated",
-                "Waste transmitted to other organizations",
-                "Treated and destructed by organizations",
-                "Waste used by organizations",
-                "Transported to landfills by means of organizations",
+                "Վտանգավոր թափոնների գոյացումը",
+                "Այլ կազմակերպություններին փոխանցվող թափոններ",
+                "Վնասազերծվել և ոչնչացվել են կազմակերպությունների կողմից",
+                "Կազմակերպությունների կողմից օգտագործվող թափոններ",
+                "Կազմակերպությունների միջոցներով տեղափոխվել են տեղադրման վայրեր",
                 ""
               ]
             },
-            "title": "Type"
+            "title": "Տեսակ"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "kg per capita",
+                "կգ մեկ շնչի հաշվով",
                 "%",
                 ""
               ]
@@ -53,5 +53,5 @@
   ],
   "profile": "data-package",
   "name": "12-4-2",
-  "title": "Վտանգավոր թափոնների գոյացումը ըստ առաջացումը մեկ շնչի հաշվով և աղտազերծված թափոնների համամասնությունը՝ ըստ աղտազերծման տեսակների"
+  "title": "Վտանգավոր թափոնների առաջացումը մեկ շնչի հաշվով և աղտազերծված թափոնների համամասնությունը՝ ըստ աղտազերծման տեսակների"
 }

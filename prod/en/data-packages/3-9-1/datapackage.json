@@ -11,53 +11,53 @@
       "schema": {
         "fields": [
           {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Acute  respiratory infections in young children  (estimated under 5 years of age)",
-                "Cerebrovascular (stroke) in adults (estimated above 25 years)",
-                "Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years)",
-                "Ischaemic heart diseases (IHD) in adults (estimated above 25 years)",
-                "Lung cancer in adults (estimated above 25 years)"
-              ]
-            },
-            "title": "Category"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male",
-                "Total"
-              ]
-            },
-            "title": "Sex"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "per 100000 population"
+                "per 100000 population",
+                ""
               ]
             },
             "title": "Units"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lung cancer in adults (estimated above 25 years)",
+                "Ischaemic heart diseases (IHD) in adults (estimated above 25 years)",
+                "Cerebrovascular (stroke) in adults (estimated above 25 years)",
+                "Acute  respiratory infections in young children  (estimated under 5 years of age)",
+                "Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years)",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

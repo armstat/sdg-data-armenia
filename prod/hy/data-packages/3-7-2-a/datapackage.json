@@ -13,14 +13,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Տարի"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "per 1,000 women",
+                "1,000 կնոջ հաշվով",
                 ""
               ]
             },
@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "քաղաք",
+                "գյուղ",
                 ""
               ]
             },
-            "title": "Location"
+            "title": "Գտնվելու վայրը"
           },
           {
             "name": "Value",
@@ -49,5 +49,5 @@
   ],
   "profile": "data-package",
   "name": "3-7-2-a",
-  "title": "meta.name-3-7-2-a"
+  "title": "Դեռահասների (15-17 տարեկան) ծնելիությունը տվյալ տարիքային խմբի 1 000 կնոջ հաշվով"
 }

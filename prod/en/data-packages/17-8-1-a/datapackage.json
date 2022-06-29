@@ -11,51 +11,51 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "aged 0-5 years",
-                "aged 15-24 years",
-                "aged 25 and older",
-                "aged 5-14 years"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "female",
-                "male"
-              ]
-            },
-            "title": "Sex"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "%"
+                "%",
+                ""
               ]
             },
             "title": "Units"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "male",
+                "female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "aged 0-5 years",
+                "aged 5-14 years",
+                "aged 15-24 years",
+                "aged 25 and over",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }
@@ -63,5 +63,5 @@
   ],
   "profile": "data-package",
   "name": "17-8-1-a",
-  "title": "meta.name-17-8-1-a"
+  "title": "Proportion of individuals using the Internet by sex and age groups"
 }

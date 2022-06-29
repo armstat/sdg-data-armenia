@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Units",
@@ -31,50 +31,50 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
+                "всего",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Категория"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "15-29 age",
-                "15-19 age",
-                "20-24 age",
-                "15-24 age",
-                "25-29 age",
+                "15-29 лет",
+                "15-19 лет",
+                "20-24 лет",
+                "15-24 лет",
+                "25-29 лет",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Возраст"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "мужчина",
+                "женщина",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Пол"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "город",
+                "село",
                 ""
               ]
             },
-            "title": "Location"
+            "title": "Место нахождения"
           },
           {
             "name": "Value",

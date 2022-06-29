@@ -13,15 +13,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Տարի"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "mln. dram",
-                "dram",
+                "մլն. դրամ",
+                "դրամ",
                 "%",
                 ""
               ]
@@ -33,13 +33,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "domestic material consumption",
-                "domestic material consumption per capita",
-                "domestic material consumption per GDP",
+                "նյութական սպառումը",
+                "մեկ շնչի հաշվով ներքին նյութական սպառումը",
+                "ՀՆԱ-ի հաշվով ներքին նյութական սպառումը",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Կատեգորիա"
           },
           {
             "name": "Value",

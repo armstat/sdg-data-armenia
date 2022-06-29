@@ -11,38 +11,38 @@
       "schema": {
         "fields": [
           {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "alone",
-                "alone and jointly with someone else",
-                "jointly with someone else"
-              ]
-            },
-            "title": "Category"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "%"
+                "%",
+                ""
               ]
             },
             "title": "Units"
           },
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "alone",
+                "jointly with someone else",
+                "alone and jointly with someone else",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }
@@ -50,5 +50,5 @@
   ],
   "profile": "data-package",
   "name": "5-a-1-b-a-2",
-  "title": "meta.name-5-a-1-b-a-2"
+  "title": "Proportion of men age 15-49 with ownership (alone, jointly with someone else or both alone and jointly with someone else) over agricultural or non-agricultural land, who have a title deed and their name is listed on the title deed"
 }

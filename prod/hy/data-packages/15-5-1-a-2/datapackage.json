@@ -13,14 +13,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Տարի"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "unit",
+                "միավոր",
                 ""
               ]
             },
@@ -31,22 +31,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "high plant species registered in the Red Book of RA",
+                "ՀՀ Կարմիր գրքում գրանցված բարձրակարգ բուսատեսակներ",
                 ""
               ]
             },
-            "title": "Education type"
+            "title": "Կրթության տեսակ"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "included in the specially protected natural areas",
+                "ներառված են բնության հատուկ պահպանվող տարածքներում",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Կատեգորիա"
           },
           {
             "name": "Value",
@@ -59,5 +59,5 @@
   ],
   "profile": "data-package",
   "name": "15-5-1-a-2",
-  "title": "meta.name-15-5-1-a-2"
+  "title": "Հաշվառված բարձրակարգ և ստորակարգ բույսերի տեսակներ, որից"
 }

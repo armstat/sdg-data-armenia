@@ -13,14 +13,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Տարի"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "number",
+                "թվաքանակ",
                 "%",
                 ""
               ]
@@ -32,25 +32,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "տղամարդ",
+                "կին",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Սեռ"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "aged 5-11 years",
-                "aged 12-15 years",
-                "aged 16-17 years",
+                "5-11 տարեկան",
+                "12-15 տարեկան",
+                "16-17 տարեկան",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Տարիք"
           },
           {
             "name": "Value",

@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Տարի"
           },
           {
             "name": "Units",
@@ -37,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "11-6-1-a",
-  "title": "meta.name-11-6-1-a"
+  "title": "Կանոնավոր հավաքվող և համարժեք կերպով հեռացվող կոշտ կենցաղային թափոններ"
 }

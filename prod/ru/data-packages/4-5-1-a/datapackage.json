@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Units",
@@ -31,18 +31,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "primary",
-                "lower secondary",
-                "high",
-                "secondary",
-                "preliminary vocational",
-                "middle vocational",
-                "bachelor",
-                "master",
+                "начальное",
+                "основная",
+                "высшее, старшая",
+                "общеобразовательная",
+                "начальное профессиональное (ремесленное)",
+                "среднепрофессиональное",
+                "высшее образование первой ступени",
+                "высшее образование второй ступени",
                 ""
               ]
             },
-            "title": "Education type"
+            "title": "тип образования"
           },
           {
             "name": "Value",
@@ -55,5 +55,5 @@
   ],
   "profile": "data-package",
   "name": "4-5-1-a",
-  "title": "meta.name-4-5-1-a"
+  "title": "Индекс гендерного паритета"
 }

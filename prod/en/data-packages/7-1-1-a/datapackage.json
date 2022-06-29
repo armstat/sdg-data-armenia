@@ -11,37 +11,37 @@
       "schema": {
         "fields": [
           {
-            "name": "Location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "rural",
-                "urban"
-              ]
-            },
-            "title": "Location"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "%"
+                "%",
+                ""
               ]
             },
             "title": "Units"
           },
           {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }
@@ -49,5 +49,5 @@
   ],
   "profile": "data-package",
   "name": "7-1-1-a",
-  "title": "meta.name-7-1-1-a"
+  "title": "Proportion of households with access to electricity"
 }

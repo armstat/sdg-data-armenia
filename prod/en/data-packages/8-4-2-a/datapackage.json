@@ -11,14 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "Category",
+            "name": "Year",
             "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Category"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -31,14 +26,19 @@
             "title": "Units"
           },
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
             "name": "Value",
             "type": "string",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }
@@ -46,5 +46,5 @@
   ],
   "profile": "data-package",
   "name": "8-4-2-a",
-  "title": "meta.name-8-4-2-a"
+  "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
 }

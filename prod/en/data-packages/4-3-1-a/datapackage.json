@@ -11,55 +11,55 @@
       "schema": {
         "fields": [
           {
-            "name": "Education type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "high",
-                "lower secondary",
-                "post-graduate education, second stage (master's Degree)",
-                "pre-specialized (vocational) education",
-                "primary",
-                "secondary",
-                "specialized high education, first stage (bachelor's Degree)",
-                "specialized secondary education"
-              ]
-            },
-            "title": "Education type"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "female",
-                "male"
-              ]
-            },
-            "title": "Sex"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "%"
+                "%",
+                ""
               ]
             },
             "title": "Units"
           },
           {
+            "name": "Education type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "secondary",
+                "primary",
+                "Basic",
+                "high",
+                "Preliminary (craftsmenship) vocational education",
+                "middle vocational",
+                "specialized high education, first stage (bachelor's Degree)",
+                "post-graduate education, second stage (master's Degree)",
+                ""
+              ]
+            },
+            "title": "education type"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "male",
+                "female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }
@@ -67,5 +67,5 @@
   ],
   "profile": "data-package",
   "name": "4-3-1-a",
-  "title": "meta.name-4-3-1-a"
+  "title": "Gross Enrollment Ration in general educatioin"
 }

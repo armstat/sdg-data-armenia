@@ -13,20 +13,20 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Access to servises",
             "type": "string",
             "constraints": {
               "enum": [
-                "household access to centralized water supply",
-                "household access to centralized sewerage system",
-                "household access to garbage disposal",
-                "internet accessibility for household",
-                "internet accessibility for household members",
-                "share of households with electricity supply",
-                "proportion of households with primary reliance on clean fuels and technology",
+                "доступ домашних хозяйств к централизованному водоснабжению",
+                "доступ домашних хозяйств к централизованной канализации",
+                "доступ домашних хозяйств к централизованному вывозу мусора (система сбора мусора и/или) вывоз грузовиком, свалка мусора для вывоза)",
+                "доступ домашнего хозяйства к интернету",
+                "доступ членов домашнего хозяйства к интернету",
+                "доля домашних хозяйств с электроснабжением",
+                "доля домашних хозяйств, которые в первую очередь полагаются на чистое топливо и технологии",
                 ""
               ]
             },
@@ -48,24 +48,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "город",
+                "село",
                 ""
               ]
             },
-            "title": "Location"
+            "title": "Место нахождения"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "мужчина",
+                "женщина",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Пол"
           },
           {
             "name": "Value",

@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Units",
@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "%",
-                "unit",
+                "единица",
                 ""
               ]
             },
@@ -32,18 +32,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Share of total areas under protection in the total area of the country",
-                "State reserves(Category Ib), quantity",
-                "Share of State reserves(Category Ib) in the total area of the country",
-                "National parks (Category II ), quantity",
-                "Share of National parks (Category II ) in the total area of the country",
-                "State preserves (Category IV), quantity",
-                "Share of State preserves (Category IV) in the total area of the country",
-                "Monuments of Nature(Category III), quantity",
+                "общая площадь особо охраняемых природных территорий в процентах от площади страны",
+                "общее количество государственных заповедников (категория Ib)",
+                "общая площадь государственных заповедников (категория Iб) в % от территории страны",
+                "общее количество национальных парков (категория II)",
+                "общая площадь национальных парков (категория II ) в % от территории страны",
+                "общее количество государственных заповедников (категория IV)",
+                "общая площадь государственных заповедников (категория IV) в % от территории страны",
+                "общее количество памятников природы (категория III )",
                 ""
               ]
             },
-            "title": "Type"
+            "title": "Тип"
           },
           {
             "name": "Value",

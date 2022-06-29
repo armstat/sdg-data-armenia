@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Units",
@@ -31,68 +31,68 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "мужчина",
+                "женщина",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Пол"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "город",
+                "село",
                 ""
               ]
             },
-            "title": "Location"
+            "title": "Место нахождения"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "aged 0-17 years",
-                "aged 18-66 years",
+                "0-17 лет",
+                "18-66 лет",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Возраст"
           },
           {
             "name": "Employment status",
             "type": "string",
             "constraints": {
               "enum": [
-                "economically active population",
-                "employed",
-                "wage employed",
-                "self-employed",
-                "other employed",
-                "unemployment",
+                "экономически активное население",
+                "занятые",
+                "наемные работники",
+                "самозанятые",
+                "другие занятые",
+                "безработные",
                 "economically inactive  population",
-                "economically inactive population",
-                "pensioners",
-                "students",
-                "other inactive population",
+                "экономически не активное население",
+                "пенсионеры",
+                "студенты",
+                "другое не активное население",
                 ""
               ]
             },
-            "title": "Employment status"
+            "title": "Статус занятости"
           },
           {
             "name": "Type",
             "type": "string",
             "constraints": {
               "enum": [
-                "disabled",
+                "инвалиды",
                 ""
               ]
             },
-            "title": "Type"
+            "title": "Тип"
           },
           {
             "name": "Value",

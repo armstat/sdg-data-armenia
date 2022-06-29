@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Units",
@@ -37,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "3-3-1-b",
-  "title": "meta.name-3-3-1-b"
+  "title": "Процент людей, живущих с ВИЧ, которые знают свой статус"
 }
