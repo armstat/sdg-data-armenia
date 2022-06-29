@@ -31,11 +31,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Общеобразовательная",
+                "общеобразовательная",
                 "начальное",
                 "основная",
-                "высшее Старшая",
-                "Начальное профессиональное (ремесленное)",
+                "высшее, старшая",
+                "начальное профессиональное (ремесленное)",
                 "среднепрофессиональное",
                 "specialized high education, first stage (bachelor's Degree)",
                 "post-graduate education, second stage (master's Degree)",
