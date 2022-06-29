@@ -90,9 +90,7 @@ description-8-8-1: This statistics does not apply to migrants
 comments-8-5-1-a: "* Since 2018 the source of information for the average wage calculation is the database of the Individual records on income tax and social security tax authorized by the State Revenue Committee of the Republic of Armenia (SRC RA). In order to provide comparability of indicators on wages/salaries for 2017-2018 the 2017 indicator is provided by the database of SRC RA."
 comments-5-b-1: Data collected since 2017
 available-8-4-2-a: "Household Final Consumption Expenditure on goods, the same per capita and in relation to GDP"
-description-8-4-2-a: "The value of goods purchased by RA resident households for final consumption, 
-the same per capita and in relation to GDP"
-calculations-8-4-2-a: "The value of purchased goods is separated from the total final consumption expenditures of households for the reporting period (in mln. AMD). To calculate the same indicator per capita, this value is divided to the average annual population for the same period (in AMD), and in relation to GDP, this value is divided to GDP for the same period (in %)."
+description-8-4-2-a: "The value of goods purchased by RA resident households for final consumption, the same per capita and in relation to GDP"
 calculations-8-4-2-a: "The value of purchased goods is separated from the total final consumption expenditures of households for the reporting period (in mln. AMD). To calculate the same indicator per capita, this value is divided to the average annual population for the same period (in AMD), and in relation to GDP, this value is divided to GDP for the same period (in %)."
 available-12-2-2-a: "Household Final Consumption Expenditure on goods, the same per capita and in relation to GDP"
 description-12-2-2-a: "The value of goods purchased by RA resident households for final consumption, the same per capita and in relation to GDP"
