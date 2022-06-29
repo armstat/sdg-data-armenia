@@ -14,7 +14,7 @@ rural: село
 urban: город
 total: всего
 children: дети
-Access to services: Доступ к услугам
+Access to services: доступ к услугам
 aged 0-17 years: 0-17 лет
 aged 5-11 years: 5-11 лет
 aged 12-15 years: 12-15 лет
@@ -144,8 +144,8 @@ air transport: воздушный транспорт
 electricity transport: электротранспорт
 freight volumes: объем грузоперевозок
 pipelines: магистральный трубопроводный транспорт
-growth rates of household expenditure or income per capita among the bottom 40 per cent of the population: Расходы домохозяйств или рост доходов на душу населения среди самых низких 40 процентов населения
-growth rates of household expenditure or income per capita among the total population: Расходы домохозяйств или рост доходов на душу населения среди всего населения
+growth rates of household expenditure or income per capita among the bottom 40 per cent of the population: расходы домохозяйств или рост доходов на душу населения среди самых низких 40 процентов населения
+growth rates of household expenditure or income per capita among the total population: расходы домохозяйств или рост доходов на душу населения среди всего населения
 high plant species registered in the Red Book of RA: высшие виды растений, занесенные в Красную книгу РА
 included in the specially protected natural areas: включены в особо охраняемые природные территории
 registered in the Red Book of RA: занесенные в Красную книгу РА
@@ -205,17 +205,17 @@ public transportation: общественный транспорт
 Services: услуги
 disabled: инвалиды
 proportion of households with primary reliance on clean fuels and technology: доля домашних хозяйств, которые в первую очередь полагаются на чистое топливо и технологии
-Share of total areas under protection in the total area of the country: Общая площадь особо охраняемых природных территорий в процентах от площади страны
-State reserves(Category Ib), quantity: Общее количество государственных заповедников (категория Ib)
-Share of State reserves(Category Ib) in the total area of the country: Общая площадь государственных заповедников (категория Iб) в % от территории страны
-National parks (Category II ), quantity: Общее количество национальных парков (категория II)
-Share of National parks (Category II ) in the total area of the country: Общая площадь национальных парков (категория II ) в % от территории страны
-State preserves (Category IV), quantity: Общее количество государственных заповедников  (категория IV)
-Share of State preserves (Category IV) in the total area of the country: Общая площадь государственных заповедников (категория IV) в % от территории страны
-Monuments of Nature(Category III), quantity: Общее количество памятников природы (категория III )
-Hazardous waste generated: Образование опасных отходов
-Waste transmitted to other organizations: Отходы, переданные другим организациям
-Treated and destructed by organizations: Обезврежено и уничтожено организациями
-Waste used by organizations: Отходы, используемые организациями
-Transported to landfills by means of organizations: Размещено в местах накопления отходов средствами организаций
+Share of total areas under protection in the total area of the country: общая площадь особо охраняемых природных территорий в процентах от площади страны
+State reserves(Category Ib), quantity: общее количество государственных заповедников (категория Ib)
+Share of State reserves(Category Ib) in the total area of the country: общая площадь государственных заповедников (категория Iб) в % от территории страны
+National parks (Category II ), quantity: общее количество национальных парков (категория II)
+Share of National parks (Category II ) in the total area of the country: общая площадь национальных парков (категория II ) в % от территории страны
+State preserves (Category IV), quantity: общее количество государственных заповедников  (категория IV)
+Share of State preserves (Category IV) in the total area of the country: общая площадь государственных заповедников (категория IV) в % от территории страны
+Monuments of Nature(Category III), quantity: общее количество памятников природы (категория III )
+Hazardous waste generated: образование опасных отходов
+Waste transmitted to other organizations: отходы, переданные другим организациям
+Treated and destructed by organizations: обезврежено и уничтожено организациями
+Waste used by organizations: отходы, используемые организациями
+Transported to landfills by means of organizations: размещено в местах накопления отходов средствами организаций
 unit macro: млн. драм, драм, %
