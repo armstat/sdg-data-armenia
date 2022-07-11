@@ -23,3 +23,7 @@ Year,Units,disaster type,Value
 2018,"per 100,000 population",social-biological disaster,193.3
 2019,"per 100,000 population",social-biological disaster,245.3
 2020,"per 100,000 population",social-biological disaster,5643.4
+2021,"per 100,000 population",,6678.2
+2021,"per 100,000 population",natural disaster,35.2
+2021,"per 100,000 population",man-made disaster,260.3
+2021,"per 100,000 population",social-biological disaster,6382.7
