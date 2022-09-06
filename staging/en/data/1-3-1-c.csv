@@ -34,7 +34,7 @@ Year,Units,Sex,Category,Age,Value
 2017,%,female,age-related,,12.53
 2018,%,female,age-related,,12.88
 2019,%,female,age-related,,13.14
-2020,%,female,age-related,,13.27
+2020,%,female,age-related,,13.18
 2015,%,,on privileged terms,,0.09
 2016,%,,on privileged terms,,0.08
 2017,%,,on privileged terms,,0.08
@@ -230,3 +230,42 @@ Year,Units,Sex,Category,Age,Value
 2018,%,female,,aged 63 and over,93.7
 2019,%,female,,aged 63 and over,94.55
 2020,%,female,,aged 63 and over,93.32
+2021,%,,,,15.72
+2021,%,male,,,13.14
+2021,%,female,,,18.04
+2021,%,,age-related,,11.4
+2021,%,male,age-related,,9.19
+2021,%,female,age-related,,13.37
+2021,%,,on privileged terms,,0.04
+2021,%,male,on privileged terms,,0.06
+2021,%,female,on privileged terms,,0.02
+2021,%,,long-term service,,0.01
+2021,%,male,long-term service,,0.02
+2021,%,female,long-term service,,0.01
+2021,%,,partially,,0.33
+2021,%,male,partially,,0.06
+2021,%,female,partially,,0.58
+2021,%,,disability,,3.62
+2021,%,male,disability,,3.49
+2021,%,female,disability,,3.73
+2021,%,,in case of losing a breadwinner,,0.24
+2021,%,male,in case of losing a breadwinner,,0.15
+2021,%,female,in case of losing a breadwinner,,0.32
+2021,%,,defined by other laws,,0.02
+2021,%,male,defined by other laws,,0.05
+2021,%,female,defined by other laws,,0.004
+2021,%,,related to military service,,0.05
+2021,%,male,related to military service,,0.12
+2021,%,female,related to military service,,0.0004
+2021,%,,,up to 51 years old,0.56
+2021,%,male,,up to 51 years old,0.58
+2021,%,female,,up to 51 years old,0.53
+2021,%,,,aged 51-55 years,3.5
+2021,%,male,,aged 51-55 years,3.88
+2021,%,female,,aged 51-55 years,3.21
+2021,%,,,aged 56-62 years,12.82
+2021,%,male,,aged 56-62 years,12.24
+2021,%,female,,aged 56-62 years,13.27
+2021,%,,,aged 63 and over,90.14
+2021,%,male,,aged 63 and over,88.22
+2021,%,female,,aged 63 and over,91.41
