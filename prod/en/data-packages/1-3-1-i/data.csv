@@ -107,3 +107,21 @@ Year,Units,Sex,Age,Value
 2018,person,female,aged 16-17 years,2
 2019,person,female,aged 16-17 years,7
 2020,person,female,aged 16-17 years,4
+2021,person,,,20
+2021,person,male,,11
+2021,person,female,,9
+2021,person,,up to 1 year old,2
+2021,person,male,up to 1 year old,0
+2021,person,female,up to 1 year old,2
+2021,person,,aged 1-6 years,11
+2021,person,male,aged 1-6 years,3
+2021,person,female,aged 1-6 years,8
+2021,person,,aged 7-9 years,0
+2021,person,male,aged 7-9 years,0
+2021,person,female,aged 7-9 years,0
+2021,person,,aged 10-15 years,5
+2021,person,male,aged 10-15 years,0
+2021,person,female,aged 10-15 years,5
+2021,person,,aged 16-17 years,2
+2021,person,male,aged 16-17 years,1
+2021,person,female,aged 16-17 years,1

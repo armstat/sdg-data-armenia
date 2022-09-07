@@ -128,3 +128,21 @@ Year,Units,Sex,Age,Value
 2021,person,,,17
 2021,person,male,,8
 2021,person,female,,9
+2021,person,,up to 6 months,0
+2021,person,male,up to 6 months,0
+2021,person,female,up to 6 months,0
+2021,person,,from 6 months to 1 year,2
+2021,person,male,from 6 months to 1 year,1
+2021,person,female,from 6 months to 1 year,1
+2021,person,,aged 1-5 years,11
+2021,person,male,aged 1-5 years,5
+2021,person,female,aged 1-5 years,6
+2021,person,,aged 6-9 years,2
+2021,person,male,aged 6-9 years,1
+2021,person,female,aged 6-9 years,1
+2021,person,,aged 10-15 years,1
+2021,person,male,aged 10-15 years,1
+2021,person,female,aged 10-15 years,0
+2021,person,,aged 16-17 years,1
+2021,person,male,aged 16-17 years,0
+2021,person,female,aged 16-17 years,1
