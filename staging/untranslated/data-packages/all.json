@@ -2559,14 +2559,13 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "mln. dram",
                 ""
               ]
             }
@@ -2576,14 +2575,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "domestic material consumption",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       },

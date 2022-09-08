@@ -2789,7 +2789,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -2797,7 +2797,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mln. Dram",
                 ""
               ]
             },
@@ -2808,7 +2807,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "domestic material consumption",
                 ""
               ]
             },
@@ -2816,7 +2814,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
