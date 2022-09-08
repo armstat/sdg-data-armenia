@@ -20,7 +20,6 @@
             "constraints": {
               "enum": [
                 "per 1,000 population",
-                "paramedical personnel",
                 ""
               ]
             }
