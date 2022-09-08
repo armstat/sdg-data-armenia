@@ -21,8 +21,6 @@
             "constraints": {
               "enum": [
                 "mln. Dram",
-                "dram",
-                "%",
                 ""
               ]
             },
@@ -34,8 +32,6 @@
             "constraints": {
               "enum": [
                 "domestic material consumption",
-                "domestic material consumption per capita",
-                "domestic material consumption per GDP",
                 ""
               ]
             },
