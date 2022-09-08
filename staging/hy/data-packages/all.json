@@ -12144,7 +12144,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "$",
+                "մլն. դրամ",
                 ""
               ]
             },
@@ -12155,7 +12155,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "aaa",
+                "նյութական սպառումը",
                 ""
               ]
             },
@@ -12163,7 +12163,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

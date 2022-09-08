@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "$",
+                "млн. драм",
                 ""
               ]
             },
@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "aaa",
+                "материальное потребление",
                 ""
               ]
             },
@@ -39,7 +39,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

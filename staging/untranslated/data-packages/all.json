@@ -11128,7 +11128,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "$",
+                "mln. dram",
                 ""
               ]
             }
@@ -11138,14 +11138,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "aaa",
+                "domestic material consumption",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
