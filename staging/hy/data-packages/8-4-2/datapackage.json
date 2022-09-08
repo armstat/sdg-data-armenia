@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
@@ -20,9 +20,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "մլն. դրամ",
-                "դրամ",
-                "%",
                 ""
               ]
             },
@@ -33,9 +30,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "նյութական սպառումը",
-                "մեկ շնչի հաշվով ներքին նյութական սպառումը",
-                "ՀՆԱ-ի հաշվով ներքին նյութական սպառումը",
                 ""
               ]
             },
@@ -43,7 +37,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
