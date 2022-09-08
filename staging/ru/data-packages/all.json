@@ -12175,56 +12175,6 @@
       "title": "8-4-2-a (1)"
     },
     {
-      "path": "8-4-2-a/data.csv",
-      "name": "8-4-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Год"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "млн. драм",
-                "драм",
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "материальное потребление",
-                "внутреннее материальное потребление на душу населения",
-                "внутреннее материальное потребление к ВВП",
-                ""
-              ]
-            },
-            "title": "Категория"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Внутреннее материальное потребление, внутреннее материальное потребление на душу населения и внутреннее материальное потребление в процентном отношении к ВВП"
-    },
-    {
       "path": "8-4-2/data.csv",
       "name": "8-4-2",
       "profile": "tabular-data-resource",
@@ -13310,6 +13260,30 @@
         ]
       },
       "title": "Доля населения, охваченного мобильными сетями, в разбивке по технологиям"
+    },
+    {
+      "path": "8-4-2-a/data.csv",
+      "name": "8-4-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Внутреннее материальное потребление, внутреннее материальное потребление на душу населения и внутреннее материальное потребление в процентном отношении к ВВП"
     }
   ]
 }
