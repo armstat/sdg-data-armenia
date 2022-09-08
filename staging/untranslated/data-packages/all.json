@@ -11121,13 +11121,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "$",
                 ""
               ]
             }
@@ -11137,13 +11138,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "aaa",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       },
