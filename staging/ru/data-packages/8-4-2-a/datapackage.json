@@ -12,8 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "млн. драм",
+                "драм",
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "материальное потребление",
+                "внутреннее материальное потребление на душу населения",
+                "внутреннее материальное потребление к ВВП",
+                ""
+              ]
+            },
+            "title": "Категория"
           },
           {
             "name": "Value",

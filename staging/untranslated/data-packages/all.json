@@ -11110,8 +11110,8 @@
       "title": "global_indicators.8-4-1-title"
     },
     {
-      "path": "8-4-2-a (1)/data.csv",
-      "name": "8-4-2-a (1)",
+      "path": "8-4-2-a/data.csv",
+      "name": "8-4-2-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -11153,7 +11153,7 @@
           }
         ]
       },
-      "title": "8-4-2-a (1)"
+      "title": "meta.name-8-4-2-a"
     },
     {
       "path": "8-4-2/data.csv",
@@ -12150,28 +12150,6 @@
         ]
       },
       "title": "global_indicators.9-c-1-title"
-    },
-    {
-      "path": "8-4-2-a/data.csv",
-      "name": "8-4-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "meta.name-8-4-2-a"
     }
   ]
 }

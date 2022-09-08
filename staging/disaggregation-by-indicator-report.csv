@@ -73,7 +73,7 @@ Indicator,Disaggregations,Number of disaggregations
 #7-1-2-a,Location,1
 #8-10-2,Sex,1
 #8-3-1,"Sex, Age",2
-#8-4-2-a (1),Category,1
+#8-4-2-a,Category,1
 #8-5-1-a,Sex,1
 #8-5-2,"Sex, Location, Age, Category",4
 #8-6-1,"Sex, Location, Age, Category",4
