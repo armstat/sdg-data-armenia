@@ -8984,6 +8984,16 @@
             "title": "Units"
           },
           {
+            "name": "Sex",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
