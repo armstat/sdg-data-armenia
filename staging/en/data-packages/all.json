@@ -7553,6 +7553,23 @@
             "title": "Units"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "8.86",
+                "8.67",
+                "8.17",
+                "7.13",
+                "6.07",
+                "7.4",
+                "6.9",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -7597,6 +7614,16 @@
               ]
             },
             "title": "Category"
+          },
+          {
+            "name": "Sex",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

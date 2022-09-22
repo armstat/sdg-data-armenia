@@ -6924,6 +6924,22 @@
             }
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "8.86",
+                "8.67",
+                "8.17",
+                "7.13",
+                "6.07",
+                "7.4",
+                "6.9",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -6961,6 +6977,15 @@
             "constraints": {
               "enum": [
                 "0-28 days",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
