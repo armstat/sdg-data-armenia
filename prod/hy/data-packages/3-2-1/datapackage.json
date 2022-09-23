@@ -27,6 +27,16 @@
             "title": "Units"
           },
           {
+            "name": "Sex",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Սեռ"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
