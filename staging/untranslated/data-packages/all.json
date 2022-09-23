@@ -8248,9 +8248,12 @@
           },
           {
             "name": "Sex",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "ընդամենը",
+                "տղամարդ",
+                "կին",
                 ""
               ]
             }
