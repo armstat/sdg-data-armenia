@@ -8997,9 +8997,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ընդամենը",
-                "տղամարդ",
-                "կին",
+                "Total",
+                "man",
+                "woman",
                 ""
               ]
             },
