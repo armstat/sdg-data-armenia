@@ -7522,7 +7522,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "мальчик",
                 "девочка",
                 ""
@@ -7570,7 +7569,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "мальчик",
                 "девочка",
                 ""
@@ -7629,7 +7627,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "мальчик",
                 "девочка",
                 ""
@@ -9000,7 +8997,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "мужчина",
                 "женщина",
                 ""

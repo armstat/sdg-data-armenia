@@ -6896,7 +6896,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "boy",
                 "girl",
                 ""
@@ -6940,7 +6939,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "boy",
                 "girl",
                 ""
@@ -6994,7 +6992,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "boy",
                 "girl",
                 ""
@@ -8249,7 +8246,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "male",
                 "female",
                 ""
