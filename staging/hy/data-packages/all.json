@@ -7523,8 +7523,8 @@
             "constraints": {
               "enum": [
                 "Total",
-                "boy",
-                "girl",
+                "տղա",
+                "աղջիկ",
                 ""
               ]
             },
@@ -7571,8 +7571,8 @@
             "constraints": {
               "enum": [
                 "Total",
-                "boy",
-                "girl",
+                "տղա",
+                "աղջիկ",
                 ""
               ]
             },
@@ -7630,8 +7630,8 @@
             "constraints": {
               "enum": [
                 "Total",
-                "boy",
-                "girl",
+                "տղա",
+                "աղջիկ",
                 ""
               ]
             },
