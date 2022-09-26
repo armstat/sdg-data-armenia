@@ -6939,7 +6939,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "boy",
                 "girl",
                 ""
