@@ -6937,9 +6937,12 @@
           },
           {
             "name": "Sex",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Total",
+                "boy",
+                "girl",
                 ""
               ]
             }
