@@ -32,8 +32,8 @@
             "constraints": {
               "enum": [
                 "Total",
-                "boy",
-                "girl",
+                "мальчик",
+                "девочка",
                 ""
               ]
             },
