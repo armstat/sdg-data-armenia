@@ -29,9 +29,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ընդամենը",
-                "տղա",
-                "աղջիկ",
+                "Total",
+                "boy",
+                "girl",
                 ""
               ]
             }
