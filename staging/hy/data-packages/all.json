@@ -7522,7 +7522,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "տղա",
                 "աղջիկ",
                 ""
