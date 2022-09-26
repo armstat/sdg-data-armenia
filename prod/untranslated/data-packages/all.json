@@ -6893,9 +6893,12 @@
           },
           {
             "name": "Sex",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "ընդամենը",
+                "տղա",
+                "աղջիկ",
                 ""
               ]
             }
@@ -6996,8 +6999,9 @@
             "constraints": {
               "enum": [
                 "Total",
-                "boy",
-                "girl",
+                "Ընդամենը",
+                "տղա",
+                "աղջիկ",
                 ""
               ]
             }
@@ -8247,9 +8251,12 @@
           },
           {
             "name": "Sex",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "ընդամենը",
+                "տղամարդ",
+                "կին",
                 ""
               ]
             }
