@@ -8250,8 +8250,8 @@
             "constraints": {
               "enum": [
                 "Total",
-                "man",
-                "woman",
+                "male",
+                "female",
                 ""
               ]
             }
