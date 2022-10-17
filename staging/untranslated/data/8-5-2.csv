@@ -70,3 +70,19 @@ Year,Units,Category,Age,Sex,Location,Value
 2018,%,with disabilities,15-75 age,,,17.7
 2019,%,with disabilities,15-75 age,,,17.7
 2020,%,with disabilities,15-75 age,,,13.7
+2021,%,total,15-24 age,,,30.5
+2021,%,,15-24 age,male,,28.2
+2021,%,,15-24 age,female,,33.6
+2021,%,,15-24 age,,urban,39.8
+2021,%,,15-24 age,,rural,18.7
+2021,%,total,15-74 age,,,15.5
+2021,%,,15-74 age,male,,15.7
+2021,%,,15-74 age,female,,15.2
+2021,%,,15-74 age,,urban,20.3
+2021,%,,15-74 age,,rural,8.8
+2021,%,total,15+ age,,,15.4
+2021,%,,15+ age,male,,15.6
+2021,%,,15+ age,female,,15.2
+2021,%,,15+ age,,urban,20.2
+2021,%,,15+ age,,rural,8.7
+2021,%,with disabilities,15-74 age,,,15.4
