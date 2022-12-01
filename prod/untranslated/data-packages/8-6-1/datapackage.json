@@ -30,6 +30,7 @@
             "constraints": {
               "enum": [
                 "total",
+                "disabilities ",
                 ""
               ]
             }
@@ -44,6 +45,7 @@
                 "20-24 age",
                 "15-24 age",
                 "25-29 age",
+                "total",
                 ""
               ]
             }
