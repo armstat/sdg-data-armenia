@@ -13001,12 +13001,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-74/75",
                 "15-29",
                 "30-44",
                 "45-59",
                 "60-74",
                 "15-64",
+                "total",
                 ""
               ]
             },
@@ -13020,6 +13020,7 @@
                 "total",
                 "male",
                 "female",
+                "with disabilities ",
                 ""
               ]
             },
