@@ -3,7 +3,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 15-24 age,5,1
 15-24,5,1
 15-29 age,5,1
-15-29,5,5
+15-29,6,6
 15-64,5,5
 15-74/75,1,1
 15-74,9,2
@@ -43,7 +43,7 @@ aged 7-9 years,9,2
 before age 15,1,1
 before age 18,1,1
 from 6 months to 1 year,3,1
-total,2,2
+total,1,1
 up to 1 year old,9,2
 up to 51 years old,6,2
 up to 6 months,3,1

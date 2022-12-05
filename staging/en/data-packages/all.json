@@ -12479,7 +12479,7 @@
             "constraints": {
               "enum": [
                 "total",
-                "disabilities ",
+                "with disabilities ",
                 ""
               ]
             },
@@ -12495,7 +12495,7 @@
                 "aged 20-24 years",
                 "aged 15-24 years",
                 "aged 25-29 years",
-                "total",
+                "15-29",
                 ""
               ]
             },
