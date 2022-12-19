@@ -68,6 +68,16 @@
             "title": "Место нахождения"
           },
           {
+            "name": "Category",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Категория"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
