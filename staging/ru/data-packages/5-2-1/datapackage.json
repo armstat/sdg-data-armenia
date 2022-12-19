@@ -27,6 +27,16 @@
             "title": "Units"
           },
           {
+            "name": "Age",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Возраст"
+          },
+          {
             "name": "Category",
             "type": "string",
             "constraints": {

@@ -10204,6 +10204,16 @@
             "title": "Units"
           },
           {
+            "name": "Age",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Տարիք"
+          },
+          {
             "name": "Category",
             "type": "string",
             "constraints": {
