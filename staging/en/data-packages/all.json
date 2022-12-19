@@ -12099,6 +12099,16 @@
             "title": "Year"
           },
           {
+            "name": "Category",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -12136,6 +12146,16 @@
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "Location",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Location"
           },
           {
             "name": "Value",

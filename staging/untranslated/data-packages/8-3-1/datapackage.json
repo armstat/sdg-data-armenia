@@ -15,6 +15,15 @@
             "type": "integer"
           },
           {
+            "name": "Category",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -46,6 +55,15 @@
               "enum": [
                 "male",
                 "female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }

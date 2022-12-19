@@ -12099,6 +12099,16 @@
             "title": "Տարի"
           },
           {
+            "name": "Category",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Կատեգորիա"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -12136,6 +12146,16 @@
               ]
             },
             "title": "Սեռ"
+          },
+          {
+            "name": "Location",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Գտնվելու վայրը"
           },
           {
             "name": "Value",

@@ -16,6 +16,16 @@
             "title": "Год"
           },
           {
+            "name": "Category",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Категория"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -53,6 +63,16 @@
               ]
             },
             "title": "Пол"
+          },
+          {
+            "name": "Location",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Место нахождения"
           },
           {
             "name": "Value",
