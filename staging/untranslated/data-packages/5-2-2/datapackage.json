@@ -15,6 +15,15 @@
             "type": "integer"
           },
           {
+            "name": "Age",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
