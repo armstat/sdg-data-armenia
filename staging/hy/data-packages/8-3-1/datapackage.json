@@ -16,16 +16,6 @@
             "title": "Տարի"
           },
           {
-            "name": "Category",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Կատեգորիա"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -73,6 +63,16 @@
               ]
             },
             "title": "Գտնվելու վայրը"
+          },
+          {
+            "name": "Category",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Կատեգորիա"
           },
           {
             "name": "Value",

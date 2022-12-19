@@ -12099,16 +12099,6 @@
             "title": "Год"
           },
           {
-            "name": "Category",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Категория"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -12156,6 +12146,16 @@
               ]
             },
             "title": "Место нахождения"
+          },
+          {
+            "name": "Category",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Категория"
           },
           {
             "name": "Value",

@@ -11087,15 +11087,6 @@
             "type": "integer"
           },
           {
-            "name": "Category",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -11133,6 +11124,15 @@
           },
           {
             "name": "Location",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category",
             "type": "number",
             "constraints": {
               "enum": [

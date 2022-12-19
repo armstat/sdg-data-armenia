@@ -16,16 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Category",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Category"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -73,6 +63,16 @@
               ]
             },
             "title": "Location"
+          },
+          {
+            "name": "Category",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Category"
           },
           {
             "name": "Value",
