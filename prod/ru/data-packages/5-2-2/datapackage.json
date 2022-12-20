@@ -16,6 +16,16 @@
             "title": "Год"
           },
           {
+            "name": "Age",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Возраст"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {

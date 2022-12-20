@@ -1,5 +1,5 @@
-Year,Units,Category,Value
-2015,%,physical violence,4.5
-2015,%,sexual violence,0.3
-2021,%,physical violence,3.5
-2021,%,sexual violence,1.9
+Year,Units,Age,Category,Value
+2015,%,,physical violence,4.5
+2015,%,,sexual violence,0.3
+2021,%,,physical violence,3.5
+2021,%,,sexual violence,1.9

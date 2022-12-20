@@ -58,6 +58,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-6-1-a,Sex,1
 #4-a-1,Category,1
 #5-2-1,Category,1
+#5-2-2,Group,1
 #5-3-1,Age,1
 #5-5-1,Category,1
 #5-5-1-a,Category,1
@@ -85,4 +86,3 @@ Indicator,Disaggregations,Number of disaggregations
 #9-1-2,"Category, Transportation type",2
 #9-2-1,Category,1
 #9-2-2,"Sex, Location, Age",3
-#9-2-2 (1),"Sex, Location, Age",3

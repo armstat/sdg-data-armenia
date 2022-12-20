@@ -55,6 +55,26 @@
             "title": "Սեռ"
           },
           {
+            "name": "Location",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Գտնվելու վայրը"
+          },
+          {
+            "name": "Category",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Կատեգորիա"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

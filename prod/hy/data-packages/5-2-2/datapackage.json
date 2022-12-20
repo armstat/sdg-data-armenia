@@ -16,6 +16,16 @@
             "title": "Տարի"
           },
           {
+            "name": "Age",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Տարիք"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
