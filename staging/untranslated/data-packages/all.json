@@ -11921,7 +11921,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
                 "male",
                 "female",
                 ""
