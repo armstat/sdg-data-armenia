@@ -11423,7 +11423,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
                 "with disabilities ",
                 ""
               ]
@@ -11434,12 +11433,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-29 age",
-                "15-19 age",
-                "20-24 age",
-                "15-24 age",
-                "25-29 age",
                 "15-29",
+                "15-19",
+                "20-24",
+                "15-24",
+                "25-29",
                 ""
               ]
             }
