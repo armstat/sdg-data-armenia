@@ -12397,7 +12397,6 @@
                 "60-74",
                 "15-24",
                 "15-64",
-                "15-74",
                 ""
               ]
             },
@@ -12467,7 +12466,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
                 "with disabilities ",
                 ""
               ]
@@ -12479,12 +12477,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "aged 15-29 years",
-                "aged 15-19 years",
-                "aged 20-24 years",
-                "aged 15-24 years",
-                "aged 25-29 years",
                 "15-29",
+                "15-19",
+                "20-24",
+                "15-24",
+                "25-29",
                 ""
               ]
             },
