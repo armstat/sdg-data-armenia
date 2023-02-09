@@ -28,9 +28,13 @@
           },
           {
             "name": "Age",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-59",
                 ""
               ]
             },
@@ -43,6 +47,8 @@
               "enum": [
                 "physical violence",
                 "sexual violence",
+                "Physical and or sexual violence",
+                "Psychological violence",
                 ""
               ]
             },
