@@ -12113,9 +12113,11 @@
           },
           {
             "name": "Location",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "քաղաք",
+                "գյուղ",
                 ""
               ]
             },
@@ -12123,23 +12125,14 @@
           },
           {
             "name": "Category",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "with disabilities ",
                 ""
               ]
             },
             "title": "Կատեգորիա"
-          },
-          {
-            "name": "Location.1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Location.1"
           },
           {
             "name": "Value",
