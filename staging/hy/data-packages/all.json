@@ -10224,8 +10224,8 @@
               "enum": [
                 "ֆիզիկական բռնություն",
                 "սեռական բռնություն",
-                "Physical and or sexual violence",
-                "Psychological violence",
+                "physical and/or sexual violence",
+                "psychological violence",
                 ""
               ]
             },

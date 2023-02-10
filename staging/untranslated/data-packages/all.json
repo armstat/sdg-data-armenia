@@ -9371,8 +9371,8 @@
               "enum": [
                 "physical violence",
                 "sexual violence",
-                "Physical and or sexual violence",
-                "Psychological violence",
+                "physical and/or sexual violence",
+                "psychological violence",
                 ""
               ]
             }
