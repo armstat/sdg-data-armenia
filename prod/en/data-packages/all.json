@@ -10481,7 +10481,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
                 "15-29",
                 "30-44",
                 "45-59",
@@ -12132,6 +12131,16 @@
               ]
             },
             "title": "Category"
+          },
+          {
+            "name": "Location.1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Location.1"
           },
           {
             "name": "Value",

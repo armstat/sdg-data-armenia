@@ -9606,7 +9606,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
                 "15-29",
                 "30-44",
                 "45-59",
@@ -11111,6 +11110,15 @@
           },
           {
             "name": "Category",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location.1",
             "type": "number",
             "constraints": {
               "enum": [
