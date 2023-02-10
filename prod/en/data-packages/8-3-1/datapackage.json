@@ -55,9 +55,11 @@
           },
           {
             "name": "Location",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "urban",
+                "rural",
                 ""
               ]
             },
@@ -65,23 +67,14 @@
           },
           {
             "name": "Category",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "with disabilities ",
                 ""
               ]
             },
             "title": "Category"
-          },
-          {
-            "name": "Location.1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Location.1"
           },
           {
             "name": "Value",
