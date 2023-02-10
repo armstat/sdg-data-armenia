@@ -11118,6 +11118,15 @@
             }
           },
           {
+            "name": "Location.1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
