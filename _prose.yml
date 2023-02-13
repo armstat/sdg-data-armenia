@@ -111,6 +111,11 @@ prose:
             element: hidden
             label: "Metadata last updated"
             scope: national
+      - name: "national_indicator_note"
+        field:
+            element: text
+            label: "Note"            
+            scope: national
       ######### National Sources #########
       ## Source 1
       - name: source_active_1
