@@ -1,8 +1,13 @@
-Year,Units,Sex,Age,Value
+﻿Year,Units,Sex,Age,Value
 2015,number,,,39300
 2015,%,,,8.7
-2015,number,male,,27300.0
-2015,number,female,,12000.0
-2015,number,,aged 5-11 years,11200.0
-2015,number,,aged 12-15 years,14000.0
-2015,number,,aged 16-17 years,14100.0
+2015,number,boy,,27300
+2015,number,girl,,12000
+2015,number,,aged 5-11 years,11200
+2015,number,,aged 12-15 years,14000
+2015,number,,aged 16-17 years,14100
+2015,%,boy,,11.4
+2015,%,girl,,5.7
+2015,%,,aged 5-11 years,4.6
+2015,%,,aged 12-15 years,10.5
+2015,%,,aged 16-17 years,19.4
