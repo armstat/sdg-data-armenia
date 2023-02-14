@@ -12128,7 +12128,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "with disabilities ",
+                "имеющие инвалидность",
                 ""
               ]
             },
