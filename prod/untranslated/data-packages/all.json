@@ -11508,8 +11508,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "boy",
+                "girl",
                 ""
               ]
             }
