@@ -36,7 +36,6 @@
                 "45-59",
                 "60-74",
                 "15-64",
-                "with disabilities ",
                 ""
               ]
             },
@@ -68,9 +67,10 @@
           },
           {
             "name": "Category",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "имеющие инвалидность",
                 ""
               ]
             },
