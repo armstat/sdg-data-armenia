@@ -11114,7 +11114,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "with disabilities ",
+                "with disabilities",
                 ""
               ]
             }
