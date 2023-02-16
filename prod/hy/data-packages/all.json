@@ -12580,6 +12580,16 @@
             "title": "Տարիք"
           },
           {
+            "name": "Location",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Գտնվելու վայրը"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
