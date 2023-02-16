@@ -53,6 +53,16 @@
             "title": "Age"
           },
           {
+            "name": "Location",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
