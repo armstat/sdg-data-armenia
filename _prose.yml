@@ -65,6 +65,11 @@ prose:
             element: text
             label: "Note"            
             scope: global
+       - name: "REC_USE_LIM"
+        field:
+            element: text
+            label: "Comment and limitations"            
+            scope: global
       ######### National Metadata #########
       - name: "national_indicator_available"
         field:
