@@ -65,7 +65,7 @@ prose:
             element: text
             label: "Note"            
             scope: global
-       - name: "REC_USE_LIM"
+      - name: "REC_USE_LIM"
         field:
             element: text
             label: "Comment and limitations"            
