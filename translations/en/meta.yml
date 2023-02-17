@@ -102,7 +102,7 @@ comments-17-3-1-a: "The main sources of data collection are the organizations wi
 description-8-5-1-a: Тhе source of information օn wages / salaries before 2018 was the data submitted by the establishments trough the statistical reports and since 2018 - the database of the Personal Income Tax and Social Tax (Payment), authorized by the State Revenue Committee of the RA covering establishments with at least 1 paid employees.
 definitions-8-5-1-a: "Nominal wage is the amount of employee's pretax gross compensation, which characterizes the level of payout of link with the prices of goods and services. Employees’ remuneration and other payments equal to it are the gross wages/salaries in return for the job done in cash and (or) in kind before deduction of compulsory taxes defined by law."
 calculations-8-5-1-a: "Average monthly nominal wage is calculated as the sum of remuneration and other payments equal to it (both in cash and in kind) divided by the average monthly payroll number of employees."
-comments-8-5-1-a: https://www.armstat.am/file/article/trud_2019_11.pdf
+comments-8-5-1-a: "Until 2018 the source of data was state statistical reports collected from organizations covered by statistical monitoring and a sample survey conducted in small and micro commercial organizations." https://www.armstat.am/file/article/trud_2019_11.pdf 
 description-12-3-1-a: "Food loss is the sum of losses of all product groups / product types included in the RA National Food Balance."
 comments-12-3-1-a: "https://www.armstat.am/am/?nid=82&id=2283"
 description-2-4-1-a: "National Indicator includes the data on arable land and perennial plantings and agricultural crop areas.
@@ -298,5 +298,4 @@ comments-8-3-1: "The methodology of LFS was revised since 2018 in line with the 
 comments-8-5-2: "The methodology of LFS was revised since 2018 in line with the core concepts of “Resolution concerning statistics of work, employment and labour underutilization” adopted by the 19th International Conference of Labour Statisticians (19th ICLS) in October 2013."  
 comments-5-2-1: "Refers to the women aged 15-59 years old."
 comments-5-2-2: "Refers to the women aged 15-59 years old."
-comments-8-5-1-a: "Until 2018 the source of data was state statistical reports collected from organizations covered by statistical monitoring and a sample survey conducted in small and micro commercial organizations."
 comments-8-6-1: "The methodology of LFS was revised since 2018 in line with the core concepts of “Resolution concerning statistics of work, employment and labour underutilization” adopted by the 19th International Conference of Labour Statisticians (19th ICLS) in October 2013. Refers to the youth aged 15-29 years old."
