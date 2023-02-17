@@ -12581,9 +12581,11 @@
           },
           {
             "name": "Location",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "urban",
+                "rural",
                 ""
               ]
             },
