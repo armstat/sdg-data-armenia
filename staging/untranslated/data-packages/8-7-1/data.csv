@@ -13,3 +13,5 @@ Year,Units,Sex,Age,Location,Value
 2015,%,,aged 16-17 years,,19.4
 2015,%,,,urban,1.9
 2015,%,,,rural,16.8
+2015,number,,,urban,4800.0
+2015,number,,,rural,34500.0
