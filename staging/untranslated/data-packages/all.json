@@ -1492,19 +1492,18 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "2.0",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },

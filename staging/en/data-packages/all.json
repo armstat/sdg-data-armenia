@@ -1625,20 +1625,19 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "2.0",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Unit"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
