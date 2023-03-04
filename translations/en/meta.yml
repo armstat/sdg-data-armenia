@@ -83,29 +83,17 @@ name-17-1-1-a: Total central government revenue as a proportion of GDP
 name-17-3-1-a: Foreign direct investments (FDI)
 name-17-4-1-a: External public debt service as a proportion of exports of goods and services
 name-17-8-1-a: Proportion of individuals using the Internet by sex and age groups 
-
 description-9-5-1: "This statistic is conducted only for public sector"
 description-9-5-2: "This statistic is conducted only for public sector"
 description-8-8-1: "This statistic does not apply to migrants"
-comments-8-5-1-a: "* Since 2018 the source of information for the average wage calculation is the database of the Individual records on income tax and social security tax authorized by the State Revenue Committee of the Republic of Armenia (SRC RA). In order to provide comparability of indicators on wages/salaries for 2017-2018 the 2017 indicator is provided by the database of SRC RA."
 comments-5-b-1: "Data collected since 2017"
-available-8-4-2: "Household Final Consumption Expenditure on goods, the same per capita and in relation to GDP"
-description-8-4-2: "The value of goods purchased by RA resident households for final consumption, 
-the same per capita and in relation to GDP"
-calculations-8-4-2: "The value of purchased goods is separated from the total final consumption expenditures of households for the reporting period (in mln. AMD). To calculate the same indicator per capita, this value is divided to the average annual population for the same period (in AMD), and in relation to GDP, this value is divided to GDP for the same period (in %)."
-calculations-8-4-2: "The value of purchased goods is separated from the total final consumption expenditures of households for the reporting period (in mln. AMD). To calculate the same indicator per capita, this value is divided to the average annual population for the same period (in AMD), and in relation to GDP, this value is divided to GDP for the same period (in %)."
-available-12-2-2: "Household Final Consumption Expenditure on goods, the same per capita and in relation to GDP"
-description-12-2-2: "The value of goods purchased by RA resident households for final consumption,
-the same per capita and in relation to GDP"
-calculations-12-2-2: "The value of purchased goods is separated from the total final consumption expenditures of households for the reporting period (in mln. AMD). To calculate the same indicator per capita, this value is divided to the average annual population for the same period (in AMD), and in relation to GDP, this value is divided to GDP for the same period (in %)."
-comments-12-2-2: "The basis for estimating the value of purchased goods for household’s final consumption expenditures is the GDP structure by expenditure components distributed by GDP expenditure classification, which is compiled under the International Comparison Program to calculate GDP at purchasing power parity. https://www.worldbank.org/en/programs/icp http://www.cisstat.org/icp/"
 coverage-17-3-1-a: "All marzes of RA and Yerevan city are included."
 calculations-17-3-1-a: "The calculations are carried out in accordance with the filling procedure specified in the statistical reporting form"
 comments-17-3-1-a: "The main sources of data collection are the organizations with foreign investments and organizations that carry out foreign investments abroad, as well as data and additional calculations received from RA Central Bank on indicators of foreign investments. The data collection is implemented by the statistical reporting form in accordance with the Annual and Five-Year Statistical Programs (https://www.armstat.am/am/?nid=80&id=2271)."
 description-8-5-1-a: "The source of information on wages / salaries before 2018 was the data submitted by the establishments trough the statistical reports and since 2018 - the database of the Personal Income Tax and Social Tax (Payment), authorized by the State Revenue Committee of the RA covering establishments with at least 1 paid employee." 
 definitions-8-5-1-a: "Nominal wage is the amount of employee's pretax gross compensation, which characterizes the level of payout of link with the prices of goods and services. Employees’ remuneration and other payments equal to it are the gross wages/salaries in return for the job done in cash and (or) in kind before deduction of compulsory taxes defined by law."
 calculations-8-5-1-a: "Average monthly nominal wage is calculated as the sum of remuneration and other payments equal to it (both in cash and in kind) divided by the average monthly payroll number of employees."
-comments-8-5-1-a: "https://www.armstat.am/file/article/trud_2019_11.pdf"
+comments-8-5-1-a: "* Since 2018 the source of information for the average wage calculation is the database of the Individual records on income tax and social security tax authorized by the State Revenue Committee of the Republic of Armenia (SRC RA). In order to provide comparability of indicators on wages/salaries for 2017-2018 the 2017 indicator is provided by the database of SRC RA. https://www.armstat.am/file/article/trud_2019_11.pdf"
 description-12-3-1-a: "Food loss is the sum of losses of all product groups / product types included in the RA National Food Balance."
 comments-12-3-1-a: "https://www.armstat.am/am/?nid=82&id=2283"
 description-2-4-1-a: """National Indicator includes the data on arable land and perennial plantings and agricultural crop areas. 
