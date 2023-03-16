@@ -238,3 +238,34 @@ comments-14-3-1-a: "Link to SDG 14.3.1 global indicator (https://unstats.un.org/
 description-14-5-1-a: "The indicator describes the share of wetlands with special conservation status defined by the Ramsar Convention in the total water area of the country."
 definitions-14-5-1-a: "Specially protected areas: land (including surface and groundwater and subsoil) and areas of the respective air basin, separated by the law and separate natural objects, which are of ecological, scientific, educational, health, historical-cultural, recreational, tourism, aesthetic value and for which a special protection regime is established. Wetlands: areas occupied by water bodies - rivers, natural and artificial reservoirs, lakes, as well as areas designated for hydraulic, water management and other facilities necessary for the use and protection of water bodies."
 calculations-14-5-1-a: "The share of the total area of Lake Sevan and Arpa (water areas with special status) in the water lands of the Republic of Armenia."
+description-15-1-2-a: "The indicator describes the number of areas with special protection regime and the ratio to the total area of the country according to the categories defined by the International Organization for Conservation of Nature. "
+description-15-3-1-a: "The indicator describes the share of degraded lands in the total land area of the country."
+calculations-15-3-1-a: "Lands in need of improvement / total land area * 100"
+description-16-1-1-a: "It is the number of murders per 100.000 inhabitants."
+definitions-16-1-1-a: "Murder is the unlawful intentional killing of another person."
+calculations-16-1-1-a: "The number of registered murders per 100,000 inhabitants."
+comments-16-1-1-a: "https://armstat.am/file/article/soc_vich_2019_31.pdf"
+description-16-3-2: "The indicator is the percentage of the number of prisoners who did not receive a sentence from the total number of prisoners."
+definitions-16-3-2: "Verdict - decesions held in Court of first instance and the Court of Appeals on the guilt or innocence of the defendant, whether apply or not to apply a sentence against him, or other issues."
+calculations-16-3-2: "The ratio of arrested to the total number of prisoners."
+comments-16-3-2: "https://armstat.am/file/article/soc_vich_2019_33.pdf"
+coverage-17-3-1-a: "All marzes of RA and Yerevan city are included."
+calculations-17-3-1-a: "The calculations are carried out in accordance with the filling procedure specified in the statistical reporting form"
+comments-17-3-1-a: "The main sources of data collection are the organizations with foreign investments and organizations that carry out foreign investments abroad, as well as data and additional calculations received from RA Central Bank on indicators of foreign investments. The data collection is implemented by the statistical reporting form in accordance with the Annual and Five-Year Statistical Programs (https://www.armstat.am/am/?nid=80&id=2271)."
+description-17-4-1-a: "The indicator provides an opportunity to assess the problems related to the country's foreign debt service. The source of information is the references provided by the Ministry of Finance of the Republic of Armenia on the external public debt of the Republic of Armenia, which is considered as an administrative register, including the external public debt of the Republic of Armenia formed by credit-loan agreements, debt service, foreign loan receipts."
+definitions-17-4-1-a: "External public debt is the sum of debt obligations assumed on behalf of the Republic of Armenia and on behalf of the Central Bank to non-residents of the Republic of Armenia and to foreign states, and existing debt liabilities at a certain point. ‘Exports of goods and services’ data concepts correspond to the sixth edition of the Balance of Payments and International Investment Position Manual (BPM6)."
+calculations-17-4-1-a: "External public debt service as a proportion of exports of goods and services is calculated as a ratio of External public debt service to Exports of goods and services in percent."
+comments-17-4-1-a: "http://www.minfin.am/hy/page/avelin/"
+description-17-8-1-a: "Dividing the number of people using the Internet during the last 3 months by the total number of people."
+calculations-17-8-1-a: "The indicator is calculated by dividing the number of people using the Internet (from anywhere) during the last 3 months by the total number of people."
+comments-17-8-1-a: "The main source of information is an Integrated Living Conditions Survey (ILCS) (https://www.armstat.am/en/?nid=82&id=2217)."
+definitions-15-1-2-a: "Specially protected area: land (including surface and groundwater and subsoils) and areas of the respective air basin, separated bylawand separate natural objects, which are of ecological, scientific, educational, health, historical-cultural, recreational, tourism, aesthetic value. և for which a special protection regime is established.
+National park - an area of international (or) national significance representing environmental, scientific, historical-cultural, aesthetic, recreational values, which can be used for scientific, educational, recreational, cultural-economic purposes due to the combination of natural landscapes and cultural values and has a special protection mode.
+Sanctuary - an area of scientific, educational, historical-cultural, economic value, where the protection of ecosystems և their components և natural reproduction are ensured.
+Reserve - an area of international and(or) national significance with special environmental, aesthetic features of scientific, educational, historical and cultural value, where the processes of development of the natural environment take place without direct human intervention."
+calculations-15-1-2-a: "National parks + reserves + sanctuaries (ha) / total area * 100
+National parks (ha) / total area * 100
+Reserves (ha) / total area * 100
+Sanctuaries (ha) / total area * 100."
+comments-15-1-2-a: "Number and proportion of protected areas in the country by categories
+https://armstatbank.am/pxweb/hy/ArmStatBank/ArmStatBank__8%20Environment__(D)%20%20Biodiversity/EE-d1.px/table/tableViewLayout2/?rxid=b319419d-982a-4a31-9b26-864a2445955d."
