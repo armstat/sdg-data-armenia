@@ -263,7 +263,7 @@ definitions-15-1-2-a: "Specially protected area: land (including surface and gro
 National park - an area of international (or) national significance representing environmental, scientific, historical-cultural, aesthetic, recreational values, which can be used for scientific, educational, recreational, cultural-economic purposes due to the combination of natural landscapes and cultural values and has a special protection mode.
 Sanctuary - an area of scientific, educational, historical-cultural, economic value, where the protection of ecosystems և their components և natural reproduction are ensured.
 Reserve - an area of international and(or) national significance with special environmental, aesthetic features of scientific, educational, historical and cultural value, where the processes of development of the natural environment take place without direct human intervention."
-calculations-15-1-2-a: "National parks + reserves + sanctuaries (ha) / total area * 100
+calculations-15-1-2-a: "National parks + reserves + sanctuaries (ha) / total area * 100 
 National parks (ha) / total area * 100
 Reserves (ha) / total area * 100
 Sanctuaries (ha) / total area * 100."
