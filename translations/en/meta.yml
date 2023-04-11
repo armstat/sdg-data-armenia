@@ -208,6 +208,7 @@ comments-6-3-1-a: "Reference to the relevant UNECE indicator published on Armsta
 description-6-3-1-a: "The indicator describes the proportion of insufficiently treated wastewater in the treated wastewater. Normative clean wastewater is not included."
 definitions-6-3-1-a: "Wastewater - water contaminated as a result of the use of water resources for industrial or domestic purposes, as well as rain, melt or drainage water discharged from the territories of settlements, economic or other facilities that do not meet the requirements of the maximum allowable outflow. Insufficiently treated wastewater - wastewater of primary or mechanical treatment."
 calculations-6-3-1-a: "Insufficiently treated wastewater / polluted (without treatment) + insufficiently treated wastewater * 100."
+description-7-1-1-a: "The main source of information is a Integrated Living Conditions Survey (ILCS) (https://www.armstat.am/en/?nid=82&id=2217)."
 calculations-7-1-1-a: "The indicator is calculated by dividing the number of households with electricity by the total number of households. "
 comments-7-1-1-a: " The main source of information is a Integrated Living Conditions Survey (ILCS) (https://www.armstat.am/en/?nid=82&id=2217)"
 description-7-1-2-a: "Dividing the number of households primarily dependent on clean fuel and technology by the total number of households."
@@ -233,6 +234,7 @@ comments-12-2-2-a: "The basis for estimating the value of purchased goods for ho
 description-12-3-1-a: "Food loss is the sum of losses of all product groups / product types included in the RA National Food Balance."
 comments-12-3-1-a: "https://www.armstat.am/am/?nid=82&id=2283"
 description-14-3-1-a: "14.3.1global indicator is mainly based on observations that contain/limit the carbon system required to determine the variability of water acidity in a water management zone. The carbon system in this context refers to 4 main measurable indicators. pH (sliding scale hydrogen ion concentration), CT (total dissolved inorganic carbon), pCO2 (partial pressure of carbon dioxide) and AT (total alkalinity). Only pH is presented as a national indicator."
+definitions-14-3-1-a: "Acidification of Lake Sana'a water is the decrease in water pH over a period of decades or more that results mainly from the absorption of carbon dioxide from the atmosphere. Water area services These are the benefits provided by the lake to people, which can be recreational, economic, environmental (providing coastal protection) or cultural. pH is the average annual value. Representative sampling stations are those stations that: 1) have a frequency of measurement sufficient to convey important information on changes in the acidification of the carbonates in the chemical composition of the lake և trends of impacts on water systems; 2) Ensures sufficient data quality and comprehensive metadata information to enable integration with data from other stations in the country. For the monitoring of Lake Sevan, sampling is carried out at 17 observation points, twice a year, both from the lake surface and from different depths."
 calculations-14-3-1-a: "The value of the indicator is obtained by means of a corresponding measuring device."
 comments-14-3-1-a: "Link to SDG 14.3.1 global indicator (https://unstats.un.org/sdgs/tierIII-indicators/files/Tier3-14-03-01.pdf)."
 description-14-5-1-a: "The indicator describes the share of wetlands with special conservation status defined by the Ramsar Convention in the total water area of the country."
@@ -267,7 +269,7 @@ calculations-15-1-2-a: " National parks + reserves + sanctuaries (ha) / total ar
 National parks (ha) / total area * 100
 Reserves (ha) / total area * 100
 Sanctuaries (ha) / total area * 100 "
-comments-15-1-2-a: " Number and proportion of protected areas in the country by categories
+comments-15-1-2-a: "Number and proportion of protected areas in the country by categories
 https://armstatbank.am/pxweb/hy/ArmStatBank/ArmStatBank__8%20Environment__(D)%20%20Biodiversity/EE-d1.px/table/tableViewLayout2/?rxid=b319419d-982a-4a31-9b26-864a2445955d "
 definitions-15-3-1-a: "Soil erased by wind - these soils decompose under the influence of wind (wind erosion-deflation).
 Soil erased by water - these soils degrade under the influence of water (water erosion).
