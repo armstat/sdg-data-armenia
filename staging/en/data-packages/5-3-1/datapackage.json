@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "up to 15 years",
-                "up to 18 years",
+                "before age 15",
+                "before age 18",
                 ""
               ]
             },

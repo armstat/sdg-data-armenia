@@ -1,16 +1,16 @@
-Year,Units,education type,Value
+Year,Units,Education type,Value
 2015,%,primary,1.0
 2016,%,primary,1.0
 2017,%,primary,1.0
 2018,%,primary,1.01
 2019,%,primary,1.01
 2020,%,primary,1.01
-2015,%,Basic,1.01
-2016,%,Basic,1.01
-2017,%,Basic,1.01
-2018,%,Basic,1.01
-2019,%,Basic,1.01
-2020,%,Basic,1.01
+2015,%,lower secondary,1.01
+2016,%,lower secondary,1.01
+2017,%,lower secondary,1.01
+2018,%,lower secondary,1.01
+2019,%,lower secondary,1.01
+2020,%,lower secondary,1.01
 2015,%,high,1.2
 2016,%,high,1.21
 2017,%,high,1.17
@@ -48,7 +48,7 @@ Year,Units,education type,Value
 2019,%,master,2.24
 2020,%,master,2.36
 2021,%,primary,1.01
-2021,%,Basic,1.01
+2021,%,lower secondary,1.01
 2021,%,high,1.21
 2021,%,secondary,1.04
 2021,%,preliminary vocational,0.38

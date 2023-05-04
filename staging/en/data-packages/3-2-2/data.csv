@@ -1,22 +1,22 @@
 Year,Units,Category,Sex,Value
-2015,"per 1,000 life births",aged 0-28 days,,6.3
-2016,"per 1,000 life births",aged 0-28 days,,6.1
-2017,"per 1,000 life births",aged 0-28 days,,6.2
-2018,"per 1,000 life births",aged 0-28 days,,5.0
-2019,"per 1,000 life births",aged 0-28 days,,4.7
-2020,"per 1,000 life births",aged 0-28 days,,5.6
-2021,"per 1,000 life births",aged 0-28 days,,4.9
-2015,"per 1,000 life births",aged 0-28 days,boy,6.5
-2016,"per 1,000 life births",aged 0-28 days,boy,7.1
-2017,"per 1,000 life births",aged 0-28 days,boy,6.8
-2018,"per 1,000 life births",aged 0-28 days,boy,5.2
-2019,"per 1,000 life births",aged 0-28 days,boy,5.6
-2020,"per 1,000 life births",aged 0-28 days,boy,6.7
-2021,"per 1,000 life births",aged 0-28 days,boy,5.5
-2015,"per 1,000 life births",aged 0-28 days,girl,6.0
-2016,"per 1,000 life births",aged 0-28 days,girl,5.1
-2017,"per 1,000 life births",aged 0-28 days,girl,5.6
-2018,"per 1,000 life births",aged 0-28 days,girl,4.7
-2019,"per 1,000 life births",aged 0-28 days,girl,3.7
-2020,"per 1,000 life births",aged 0-28 days,girl,4.5
-2021,"per 1,000 life births",aged 0-28 days,girl,4.3
+2015,"per 1,000 life births",0-28 days,,6.3
+2016,"per 1,000 life births",0-28 days,,6.1
+2017,"per 1,000 life births",0-28 days,,6.2
+2018,"per 1,000 life births",0-28 days,,5.0
+2019,"per 1,000 life births",0-28 days,,4.7
+2020,"per 1,000 life births",0-28 days,,5.6
+2021,"per 1,000 life births",0-28 days,,4.9
+2015,"per 1,000 life births",0-28 days,boy,6.5
+2016,"per 1,000 life births",0-28 days,boy,7.1
+2017,"per 1,000 life births",0-28 days,boy,6.8
+2018,"per 1,000 life births",0-28 days,boy,5.2
+2019,"per 1,000 life births",0-28 days,boy,5.6
+2020,"per 1,000 life births",0-28 days,boy,6.7
+2021,"per 1,000 life births",0-28 days,boy,5.5
+2015,"per 1,000 life births",0-28 days,girl,6.0
+2016,"per 1,000 life births",0-28 days,girl,5.1
+2017,"per 1,000 life births",0-28 days,girl,5.6
+2018,"per 1,000 life births",0-28 days,girl,4.7
+2019,"per 1,000 life births",0-28 days,girl,3.7
+2020,"per 1,000 life births",0-28 days,girl,4.5
+2021,"per 1,000 life births",0-28 days,girl,4.3

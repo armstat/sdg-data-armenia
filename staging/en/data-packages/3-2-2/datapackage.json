@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "aged 0-28 days",
+                "0-28 days",
                 ""
               ]
             },

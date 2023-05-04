@@ -32,7 +32,7 @@
             "constraints": {
               "enum": [
                 "primary",
-                "Basic",
+                "lower secondary",
                 "high",
                 "secondary",
                 "preliminary vocational",
@@ -42,7 +42,7 @@
                 ""
               ]
             },
-            "title": "education type"
+            "title": "Education type"
           },
           {
             "name": "Value",

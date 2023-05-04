@@ -163,7 +163,7 @@
                 "aged 0-5 years",
                 "aged 6-17 years",
                 "aged 18-64 years",
-                "aged 65 and over",
+                "aged 65 and older",
                 ""
               ]
             },
@@ -246,7 +246,7 @@
                 "aged 0-5 years",
                 "aged 6-17 years",
                 "aged 18-64 years",
-                "aged 65 and over",
+                "aged 65 and older",
                 ""
               ]
             },
@@ -319,7 +319,7 @@
                 "aged 0-17 years",
                 "aged 18-39 years",
                 "aged 40-62 years",
-                "aged 63 and over",
+                "aged 63 and older",
                 ""
               ]
             },
@@ -456,7 +456,7 @@
                 "partially",
                 "disability",
                 "in case of losing a breadwinner",
-                "defined by other laws",
+                "by other laws",
                 "related to military service",
                 ""
               ]
@@ -469,9 +469,9 @@
             "constraints": {
               "enum": [
                 "up to 51 years old",
-                "aged 51-55 years",
-                "aged 56-62 years",
-                "aged 63 and over",
+                "aged 51 - 55 years",
+                "aged 56 - 62 years",
+                "aged 63 and older",
                 ""
               ]
             },
@@ -660,9 +660,9 @@
             "constraints": {
               "enum": [
                 "up to 51 years old",
-                "aged 51-55 years",
-                "aged 56-62 years",
-                "aged 63 and over",
+                "aged 51 - 55 years",
+                "aged 56 - 62 years",
+                "aged 63 and older",
                 ""
               ]
             },
@@ -1160,7 +1160,7 @@
               "enum": [
                 "household access to centralized water supply",
                 "household access to centralized sewerage system",
-                "household access to garbage disposal (garbage collector system and/or disposal by truck, garbage piled up for disposal)",
+                "household access to garbage disposal",
                 "internet accessibility for household",
                 "internet accessibility for household members",
                 "share of households with electricity supply",
@@ -1287,7 +1287,7 @@
                 ""
               ]
             },
-            "title": "disaster type"
+            "title": "Disaster type"
           },
           {
             "name": "Value",
@@ -2287,7 +2287,7 @@
                 ""
               ]
             },
-            "title": "disaster type"
+            "title": "Disaster type"
           },
           {
             "name": "Value",
@@ -2746,7 +2746,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mln. Dram",
+                "mln. dram",
                 "dram",
                 "%",
                 ""
@@ -3267,7 +3267,7 @@
                 ""
               ]
             },
-            "title": "disaster type"
+            "title": "Disaster type"
           },
           {
             "name": "Value",
@@ -3907,7 +3907,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mln. Dram",
+                "mln. dram",
                 ""
               ]
             },
@@ -4097,14 +4097,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total area of specially protected areas as a percentage of country area",
-                "Total number of state reserves (category Ib)",
-                "Total area of state reserves (category Ib) in % of the country's territory",
-                "Total number of national parks (category II)",
-                "Total area of national parks (category II) in % of the country's territory",
-                "Total number of state preserves (category IV)",
-                "Total area of state preserves (category IV) in % of the country's territory",
-                "Total number of natural monuments (category III)",
+                "Share of total areas under protection in the total area of the country",
+                "State reserves(Category Ib), quantity",
+                "Share of State reserves(Category Ib) in the total area of the country",
+                "National parks (Category II ), quantity",
+                "Share of National parks (Category II ) in the total area of the country",
+                "State preserves (Category IV), quantity",
+                "Share of State preserves (Category IV) in the total area of the country",
+                "Monuments of Nature(Category III), quantity",
                 ""
               ]
             },
@@ -4151,14 +4151,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total area of specially protected areas as a percentage of country area",
-                "Total number of state reserves (category Ib)",
-                "Total area of state reserves (category Ib) in % of the country's territory",
-                "Total number of national parks (category II)",
-                "Total area of national parks (category II) in % of the country's territory",
-                "Total number of state preserves (category IV)",
-                "Total area of state preserves (category IV) in % of the country's territory",
-                "Total number of natural monuments (category III)",
+                "Share of total areas under protection in the total area of the country",
+                "State reserves(Category Ib), quantity",
+                "Share of State reserves(Category Ib) in the total area of the country",
+                "National parks (Category II ), quantity",
+                "Share of National parks (Category II ) in the total area of the country",
+                "State preserves (Category IV), quantity",
+                "Share of State preserves (Category IV) in the total area of the country",
+                "Monuments of Nature(Category III), quantity",
                 ""
               ]
             },
@@ -4434,7 +4434,7 @@
                 ""
               ]
             },
-            "title": "education type"
+            "title": "Education type"
           },
           {
             "name": "Category",
@@ -5427,7 +5427,7 @@
                 "garbage disposal",
                 "landline telephone",
                 "electricity supply",
-                "postal services",
+                "postal service",
                 "bank services",
                 "irrigation",
                 "healthcare",
@@ -6635,7 +6635,7 @@
                 "aged 0-5 years",
                 "aged 5-14 years",
                 "aged 15-24 years",
-                "aged 25 and over",
+                "aged 25 and older",
                 ""
               ]
             },
@@ -7568,7 +7568,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "aged 0-28 days",
+                "0-28 days",
                 ""
               ]
             },
@@ -9636,16 +9636,16 @@
               "enum": [
                 "secondary",
                 "primary",
-                "Basic",
+                "lower secondary",
                 "high",
-                "Preliminary (craftsmenship) vocational education",
-                "middle vocational",
+                "pre-specialized (vocational) education",
+                "specialized secondary education",
                 "specialized high education, first stage (bachelor's Degree)",
                 "post-graduate education, second stage (master's Degree)",
                 ""
               ]
             },
-            "title": "education type"
+            "title": "Education type"
           },
           {
             "name": "Sex",
@@ -9807,7 +9807,7 @@
             "constraints": {
               "enum": [
                 "primary",
-                "Basic",
+                "lower secondary",
                 "high",
                 "secondary",
                 "preliminary vocational",
@@ -9817,7 +9817,7 @@
                 ""
               ]
             },
-            "title": "education type"
+            "title": "Education type"
           },
           {
             "name": "Value",
@@ -10315,8 +10315,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "up to 15 years",
-                "up to 18 years",
+                "before age 15",
+                "before age 18",
                 ""
               ]
             },
@@ -10434,8 +10434,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) national parliaments",
-                "b) local governments",
+                "national parliaments",
+                "local governments",
                 ""
               ]
             },
@@ -12199,7 +12199,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mln. Dram",
+                "mln. dram",
                 "dram",
                 "%",
                 ""
@@ -12915,7 +12915,7 @@
                 ""
               ]
             },
-            "title": "transportation type"
+            "title": "Transportation type"
           },
           {
             "name": "Value",

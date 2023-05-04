@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) national parliaments",
-                "b) local governments",
+                "national parliaments",
+                "local governments",
                 ""
               ]
             },

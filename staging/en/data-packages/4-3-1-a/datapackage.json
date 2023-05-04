@@ -33,16 +33,16 @@
               "enum": [
                 "secondary",
                 "primary",
-                "Basic",
+                "lower secondary",
                 "high",
-                "Preliminary (craftsmenship) vocational education",
-                "middle vocational",
+                "pre-specialized (vocational) education",
+                "specialized secondary education",
                 "specialized high education, first stage (bachelor's Degree)",
                 "post-graduate education, second stage (master's Degree)",
                 ""
               ]
             },
-            "title": "education type"
+            "title": "Education type"
           },
           {
             "name": "Sex",
