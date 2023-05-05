@@ -7757,7 +7757,6 @@
               "enum": [
                 "urban",
                 "rural",
-                "Total",
                 ""
               ]
             }

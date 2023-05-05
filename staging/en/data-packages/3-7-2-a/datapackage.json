@@ -33,7 +33,6 @@
               "enum": [
                 "urban",
                 "rural",
-                "Total",
                 ""
               ]
             },

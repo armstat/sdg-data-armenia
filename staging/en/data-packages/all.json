@@ -8463,7 +8463,6 @@
               "enum": [
                 "urban",
                 "rural",
-                "Total",
                 ""
               ]
             },
