@@ -173,6 +173,7 @@ person: person
 liter: liter
 per 1,000 women: per 1,000 women
 per 10,000 population: per 10,000 population
+per 1,000 uninfected population: per 1,000 uninfected population
 unit: unit
 yes=1, no=0: yes=1, no=0
 mln. dram: mln. Dram
