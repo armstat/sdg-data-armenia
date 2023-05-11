@@ -20,3 +20,6 @@ Year,Units,Category,Value
 2021,%,equal to or greater than 256 kbit/s and less than 2 Mbit/s,0.04
 2021,%,equal to or greater than 2 Mbit/s and less than 10 Mbit/s,4.59
 2021,%,equal to or greater than 10 Mbit/s,11.12
+2022,%,equal to or greater than 256 kbit/s and less than 2 Mbit/s,0.02
+2022,%,equal to or greater than 2 Mbit/s and less than 10 Mbit/s,3.01
+2022,%,equal to or greater than 10 Mbit/s,14.18
