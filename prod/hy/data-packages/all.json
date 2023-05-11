@@ -2057,7 +2057,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100000 population",
+                "per 100 000 population",
                 ""
               ]
             },
@@ -7755,7 +7755,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 1,000 uninfected population",
+                "1,000 չվարակված բնակչի հաշվով",
                 ""
               ]
             },
@@ -8463,7 +8463,6 @@
               "enum": [
                 "քաղաք",
                 "գյուղ",
-                "Total",
                 ""
               ]
             },
