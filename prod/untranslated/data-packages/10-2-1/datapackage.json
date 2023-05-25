@@ -15,11 +15,10 @@
             "type": "integer"
           },
           {
-            "name": "Unit",
-            "type": "string",
+            "name": "Unnamed: 1",
+            "type": "number",
             "constraints": {
               "enum": [
-                "2.0",
                 ""
               ]
             }
