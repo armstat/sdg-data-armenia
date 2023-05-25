@@ -16,15 +16,14 @@
             "title": "Год"
           },
           {
-            "name": "Unit",
-            "type": "string",
+            "name": "Unnamed: 1",
+            "type": "number",
             "constraints": {
               "enum": [
-                "2.0",
                 ""
               ]
             },
-            "title": "Unit"
+            "title": "Unnamed: 1"
           },
           {
             "name": "Value",
