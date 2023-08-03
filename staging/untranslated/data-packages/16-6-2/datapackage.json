@@ -35,15 +35,6 @@
             }
           },
           {
-            "name": "Unnamed: 2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -87,6 +78,20 @@
               "enum": [
                 "disabled",
                 "not disabled",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Quintiles",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1.0",
+                "2.0",
+                "3.0",
+                "4.0",
+                "5.0",
                 ""
               ]
             }
