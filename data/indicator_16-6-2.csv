@@ -1,4 +1,4 @@
-﻿Year,Services,,Sex,Location,Age,Disability,Value
+﻿Year,Services,Sex,Location,Age,Disability,Quintiles,Value
 2015,water supply,,,,,,83
 2016,water supply,,,,,,85.8
 2017,water supply,,,,,,85.8
@@ -61,19 +61,24 @@
 2018,healthcare,,,,,,62.3
 2019,healthcare,,,,,,78.1
 2020,healthcare,,,,,,87.1
-2021,healthcare,,,,,,91.0
-2021,healthcare,,male,,,,90.8
-2021,healthcare,,female,,,,89.0
-2021,healthcare,,,urban,,,88.5
-2021,healthcare,,,rural,,,94.7
-2021,healthcare,,,,aged 0-25 years,,85.6
-2021,healthcare,,,,aged 25-34 years,,94.2
-2021,healthcare,,,,aged 35-44 years,,89.9
-2021,healthcare,,,,aged 45-54 years,,90.2
-2021,healthcare,,,,aged 55-64 years,,90.0
-2021,healthcare,,,,aged 65 and over,,89.5
-2021,healthcare,,,,,disabled,87.5
-2021,healthcare,,,,,not disabled,90.0
+2021,healthcare,,,,,,91
+2021,healthcare,male,,,,,90.8
+2021,healthcare,female,,,,,89
+2021,healthcare,,urban,,,,88.5
+2021,healthcare,,rural,,,,94.7
+2021,healthcare,,,aged 0-25 years,,,85.6
+2021,healthcare,,,aged 25-34 years,,,94.2
+2021,healthcare,,,aged 35-44 years,,,89.9
+2021,healthcare,,,aged 45-54 years,,,90.2
+2021,healthcare,,,aged 55-64 years,,,90
+2021,healthcare,,,aged 65 and over,,,89.5
+2021,healthcare,,,,disabled,,87.5
+2021,healthcare,,,,not disabled,,90
+2021,healthcare,,,,,1,93.8
+2021,healthcare,,,,,2,90.6
+2021,healthcare,,,,,3,90.6
+2021,healthcare,,,,,4,90.7
+2021,healthcare,,,,,5,89.7
 2015,education,,,,,,52.3
 2016,education,,,,,,53.8
 2017,education,,,,,,56.3
@@ -81,22 +86,27 @@
 2019,education,,,,,,85.1
 2020,education,,,,,,90.5
 2021,education,,,,,,89.1
-2021,education,,male,,,,89.2
-2021,education,,female,,,,88.6
-2021,education,,,urban,,,86.1
-2021,education,,,rural,,,92.6
-2021,education,,,,aged 0-25 years,,84.5
-2021,education,,,,aged 25-34 years,,91.8
-2021,education,,,,aged 35-44 years,,85.0
-2021,education,,,,aged 45-54 years,,90.0
-2021,education,,,,aged 55-64 years,,91.2
-2021,education,,,,aged 65 and over,,89.6
-2021,education,,,,,disabled,89.2
-2021,education,,,,,not disabled,89.0
+2021,education,male,,,,,89.2
+2021,education,female,,,,,88.6
+2021,education,,urban,,,,86.1
+2021,education,,rural,,,,92.6
+2021,education,,,aged 0-25 years,,,84.5
+2021,education,,,aged 25-34 years,,,91.8
+2021,education,,,aged 35-44 years,,,85
+2021,education,,,aged 45-54 years,,,90
+2021,education,,,aged 55-64 years,,,91.2
+2021,education,,,aged 65 and over,,,89.6
+2021,education,,,,disabled,,89.2
+2021,education,,,,not disabled,,89
+2021,education,,,,,1,89.5
+2021,education,,,,,2,89.1
+2021,education,,,,,3,86.4
+2021,education,,,,,4,88.7
+2021,education,,,,,5,92.6
 2015,public transportation,,,,,,81.2
 2016,public transportation,,,,,,82.2
 2017,public transportation,,,,,,76.6
 2018,public transportation,,,,,,72.1
 2019,public transportation,,,,,,75.9
 2020,public transportation,,,,,,82.8
-2021,public transportation,,,,,,79.0
+2021,public transportation,,,,,,79
