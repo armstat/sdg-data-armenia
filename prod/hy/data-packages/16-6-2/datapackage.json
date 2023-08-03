@@ -37,16 +37,6 @@
             "title": "Ծառայություններ"
           },
           {
-            "name": "Unnamed: 2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 2"
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -97,6 +87,21 @@
               ]
             },
             "title": "Disability"
+          },
+          {
+            "name": "Quintiles",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1.0",
+                "2.0",
+                "3.0",
+                "4.0",
+                "5.0",
+                ""
+              ]
+            },
+            "title": "Quintiles"
           },
           {
             "name": "Value",
