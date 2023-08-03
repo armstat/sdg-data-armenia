@@ -5451,27 +5451,6 @@
             "title": "Year"
           },
           {
-            "name": "Services",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "water supply",
-                "sewerage",
-                "garbage disposal",
-                "landline telephone",
-                "electricity supply",
-                "postal services",
-                "bank services",
-                "irrigation",
-                "healthcare",
-                "education",
-                "public transportation",
-                ""
-              ]
-            },
-            "title": "Services"
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -5537,6 +5516,27 @@
               ]
             },
             "title": "Quintiles"
+          },
+          {
+            "name": "Services",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "water supply",
+                "sewerage",
+                "garbage disposal",
+                "landline telephone",
+                "electricity supply",
+                "postal services",
+                "bank services",
+                "irrigation",
+                "healthcare",
+                "education",
+                "public transportation",
+                ""
+              ]
+            },
+            "title": "Services"
           },
           {
             "name": "Value",

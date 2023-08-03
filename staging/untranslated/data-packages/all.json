@@ -4998,26 +4998,6 @@
             "type": "integer"
           },
           {
-            "name": "Services",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "water supply",
-                "sewerage",
-                "garbage disposal",
-                "landline telephone",
-                "electricity supply",
-                "postal service",
-                "bank services",
-                "irrigation",
-                "healthcare",
-                "education",
-                "public transportation",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -5075,6 +5055,26 @@
                 "3.0",
                 "4.0",
                 "5.0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Services",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "water supply",
+                "sewerage",
+                "garbage disposal",
+                "landline telephone",
+                "electricity supply",
+                "postal service",
+                "bank services",
+                "irrigation",
+                "healthcare",
+                "education",
+                "public transportation",
                 ""
               ]
             }
