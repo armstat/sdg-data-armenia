@@ -16,20 +16,32 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "%",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "equal to or greater than 256 kbit/s and less than 2 Mbit/s",
+                "equal to or greater than 2 Mbit/s and less than 10 Mbit/s",
+                "equal to or greater than 10 Mbit/s",
+                ""
+              ]
+            },
+            "title": "Category"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

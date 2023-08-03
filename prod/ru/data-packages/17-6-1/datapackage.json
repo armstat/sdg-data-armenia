@@ -16,20 +16,32 @@
             "title": "Год"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "%",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "равно или больше скорости 256 Кбит/с и менее 2 Мбит/с",
+                "равно или больше скорости 2 Мбит/с и менее 10 Мбит/с",
+                "равно или больше скорости 10 Мбит/с",
+                ""
+              ]
+            },
+            "title": "Категория"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

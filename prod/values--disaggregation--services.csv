@@ -1,12 +1,12 @@
 Value,Disaggregation combinations using this value,Number of indicators
-bank services,1,1
-education,1,1
-electricity supply,1,1
-garbage disposal,1,1
-healthcare,1,1
-irrigation,1,1
-landline telephone,1,1
-postal service,1,1
-public transportation,1,1
-sewerage,1,1
-water supply,1,1
+bank services,7,1
+education,7,1
+electricity supply,7,1
+garbage disposal,7,1
+healthcare,7,1
+irrigation,5,1
+landline telephone,7,1
+postal service,7,1
+public transportation,7,1
+sewerage,7,1
+water supply,6,1
