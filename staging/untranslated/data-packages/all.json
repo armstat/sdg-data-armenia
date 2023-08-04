@@ -5040,7 +5040,7 @@
             "constraints": {
               "enum": [
                 "disabled",
-                "not disabled",
+                "non-disabled",
                 ""
               ]
             }

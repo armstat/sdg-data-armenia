@@ -61,7 +61,7 @@
             "constraints": {
               "enum": [
                 "հաշմանդամներ",
-                "not disabled",
+                "non-disabled",
                 ""
               ]
             },
