@@ -52,7 +52,7 @@
             }
           },
           {
-            "name": "Disability",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
