@@ -73,7 +73,7 @@ Year,Sex,Location,Age,Category,Quintiles,Services,Value
 2021,,,aged 55-64 years,,,healthcare,90.0
 2021,,,aged 65 and over,,,healthcare,89.5
 2021,,,,disabled,,healthcare,87.5
-2021,,,,not disabled,,healthcare,90.0
+2021,,,,non-disabled,,healthcare,90.0
 2021,,,,,1.0,healthcare,93.8
 2021,,,,,2.0,healthcare,90.6
 2021,,,,,3.0,healthcare,90.6
@@ -97,7 +97,7 @@ Year,Sex,Location,Age,Category,Quintiles,Services,Value
 2021,,,aged 55-64 years,,,education,91.2
 2021,,,aged 65 and over,,,education,89.6
 2021,,,,disabled,,education,89.2
-2021,,,,not disabled,,education,89.0
+2021,,,,non-disabled,,education,89.0
 2021,,,,,1.0,education,89.5
 2021,,,,,2.0,education,89.1
 2021,,,,,3.0,education,86.4
