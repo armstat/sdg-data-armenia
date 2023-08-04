@@ -5491,7 +5491,7 @@
             "title": "Age"
           },
           {
-            "name": "Disability",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5500,7 +5500,7 @@
                 ""
               ]
             },
-            "title": "Disability"
+            "title": "Category"
           },
           {
             "name": "Quintiles",

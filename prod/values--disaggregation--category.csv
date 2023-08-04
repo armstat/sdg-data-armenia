@@ -16,6 +16,7 @@ Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years
 chronic respiratory disease,1,1
 diabetes,1,1
 disability,6,2
+disabled,2,1
 domestic material consumption per capita,2,2
 domestic material consumption per GDP,2,2
 domestic material consumption,2,2
@@ -43,6 +44,7 @@ long-term service,3,1
 Lung cancer in adults (estimated above 25 years),3,1
 modern contraceptive methods,1,1
 national parliaments,1,1
+not disabled,2,1
 number of teachers per computer,1,1
 old age,3,1
 on privileged terms,3,1

@@ -56,7 +56,7 @@
             "title": "Տարիք"
           },
           {
-            "name": "Disability",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -65,7 +65,7 @@
                 ""
               ]
             },
-            "title": "Disability"
+            "title": "Կատեգորիա"
           },
           {
             "name": "Quintiles",
