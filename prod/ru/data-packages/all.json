@@ -5495,8 +5495,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "инвалиды",
-                "non-disabled",
+                "имеющие инвалидность",
+                "without disabilities",
                 ""
               ]
             },

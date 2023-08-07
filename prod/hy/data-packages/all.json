@@ -5495,8 +5495,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "հաշմանդամներ",
-                "non-disabled",
+                "հաշմանդամություն ունեցող",
+                "without disabilities",
                 ""
               ]
             },
