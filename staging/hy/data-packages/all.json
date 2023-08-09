@@ -2436,6 +2436,50 @@
       "title": "Աղետների պատճառած տնտեսական ուղղակի վնասը կապված գլոբալ ՀՆԱ-ի հետ, ներառյալ աղետների պատճառած վնասը կարևորագույն ենթակառուցվածքներին, և հիմնական ծառայությունների խաթարումը"
     },
     {
+      "path": "11-5-3-a/data.csv",
+      "name": "11-5-3-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Տարի"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Կատեգորիա"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "11-5-3-a"
+    },
+    {
       "path": "11-6-1-a/data.csv",
       "name": "11-6-1-a",
       "profile": "tabular-data-resource",

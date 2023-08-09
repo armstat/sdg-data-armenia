@@ -2234,6 +2234,46 @@
       "title": "global_indicators.11-5-2-title"
     },
     {
+      "path": "11-5-3-a/data.csv",
+      "name": "11-5-3-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "11-5-3-a"
+    },
+    {
       "path": "11-6-1-a/data.csv",
       "name": "11-6-1-a",
       "profile": "tabular-data-resource",
