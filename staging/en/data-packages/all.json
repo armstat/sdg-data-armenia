@@ -7746,6 +7746,8 @@
               "enum": [
                 "boy",
                 "girl",
+                "urban",
+                "rural",
                 ""
               ]
             },
