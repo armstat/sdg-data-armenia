@@ -20,6 +20,7 @@
             "constraints": {
               "enum": [
                 "per 100,000 live births",
+                "per 100,000 life births",
                 ""
               ]
             }

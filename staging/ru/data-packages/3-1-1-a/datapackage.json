@@ -21,6 +21,7 @@
             "constraints": {
               "enum": [
                 "на 100,000 живорожденных",
+                "per 100,000 life births",
                 ""
               ]
             },

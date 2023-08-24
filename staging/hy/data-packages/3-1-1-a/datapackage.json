@@ -21,6 +21,7 @@
             "constraints": {
               "enum": [
                 "100,000 կենդանածնի հաշվով",
+                "per 100,000 life births",
                 ""
               ]
             },
