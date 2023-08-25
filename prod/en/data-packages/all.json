@@ -7579,6 +7579,7 @@
             "constraints": {
               "enum": [
                 "per 100,000 live births",
+                "per 100,000 life births",
                 ""
               ]
             },
@@ -7696,6 +7697,8 @@
               "enum": [
                 "boy",
                 "girl",
+                "urban",
+                "rural",
                 ""
               ]
             },
@@ -7743,6 +7746,8 @@
               "enum": [
                 "boy",
                 "girl",
+                "urban",
+                "rural",
                 ""
               ]
             },
@@ -7801,6 +7806,8 @@
               "enum": [
                 "boy",
                 "girl",
+                "urban",
+                "rural",
                 ""
               ]
             },
