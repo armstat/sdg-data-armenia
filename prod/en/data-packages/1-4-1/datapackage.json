@@ -68,6 +68,16 @@
             "title": "Sex"
           },
           {
+            "name": "Poverty",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Poverty"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
