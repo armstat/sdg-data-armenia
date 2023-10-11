@@ -1108,6 +1108,15 @@
             }
           },
           {
+            "name": "Poverty",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
