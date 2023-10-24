@@ -60,8 +60,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "имеющие инвалидность",
-                "without disabilities",
+                "инвалиды",
                 ""
               ]
             },

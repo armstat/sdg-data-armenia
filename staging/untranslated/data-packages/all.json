@@ -5145,8 +5145,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "with disabilities",
-                "without disabilities",
+                "disabled",
                 ""
               ]
             }
