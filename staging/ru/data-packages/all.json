@@ -1208,9 +1208,12 @@
           },
           {
             "name": "Poverty",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "non poor",
+                "poor",
+                "very poor",
                 ""
               ]
             },
