@@ -1158,13 +1158,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "household access to centralized water supply",
-                "household access to centralized sewerage system",
-                "household access to garbage disposal (garbage collector system and/or disposal by truck, garbage piled up for disposal)",
+                "centralized water supply accessibility for household members",
+                "centralized sewerage system accessibility for household members",
+                "garbage disposal accessibility for household members",
                 "internet accessibility for household",
                 "internet accessibility for household members",
-                "share of households with electricity supply",
+                "electricity supply accessibility for household members",
                 "proportion of households with primary reliance on clean fuels and technology",
+                "proportion of household members with primary reliance on clean fuels and technology",
                 ""
               ]
             },

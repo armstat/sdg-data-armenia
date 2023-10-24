@@ -20,13 +20,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "տնային տնտեսությունների հասանելիությունը կենտրոնացված ջրամատակարարմանը",
-                "տնային տնտեսությունների հասանելիությունը կենտրոնացված կոյուղու համակարգ",
-                "տնային տնտեսությունների հասանելիությունը կենտրոնացված աղբահանությանը (աղբամուղ և/կամ հավաքվում է բեռնատարով. թափվում է աղբակույտի մեջ)",
+                "centralized water supply accessibility for household members",
+                "centralized sewerage system accessibility for household members",
+                "garbage disposal accessibility for household members",
                 "ինտերնետային կապի հասանելիությունը տնային տնտեսությանը",
                 "ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին",
-                "էլեկտրաէներգիայի մատակարարմամբ տնային տնտեսությունների մասնաբաժինը",
+                "electricity supply accessibility for household members",
                 "մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների մասնաբաժինը",
+                "proportion of household members with primary reliance on clean fuels and technology",
                 ""
               ]
             },
