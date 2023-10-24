@@ -1064,13 +1064,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "household access to centralized water supply",
-                "household access to centralized sewerage system",
-                "household access to garbage disposal",
+                "centralized water supply accessibility for household members",
+                "centralized sewerage system accessibility for household members",
+                "garbage disposal accessibility for household members",
                 "internet accessibility for household",
                 "internet accessibility for household members",
-                "share of households with electricity supply",
+                "electricity supply accessibility for household members",
                 "proportion of households with primary reliance on clean fuels and technology",
+                "proportion of household members with primary reliance on clean fuels and technology",
                 ""
               ]
             }
@@ -1109,9 +1110,12 @@
           },
           {
             "name": "Poverty",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "non poor",
+                "poor",
+                "very poor",
                 ""
               ]
             }
@@ -5141,8 +5145,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "with disabilities",
-                "without disabilities",
+                "disabled",
                 ""
               ]
             }
