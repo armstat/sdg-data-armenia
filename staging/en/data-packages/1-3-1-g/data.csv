@@ -167,3 +167,27 @@ Year,Units,Sex,Category,Age,Value
 2021,%,,,aged 63 and over,3.52
 2021,%,male,,aged 63 and over,2.15
 2021,%,female,,aged 63 and over,4.42
+2022,%,,,,3.03
+2022,%,male,,,3.15
+2022,%,female,,,2.93
+2022,%,,old age,,0.59
+2022,%,male,old age,,0.3
+2022,%,female,old age,,0.85
+2022,%,,disability,,1.98
+2022,%,male,disability,,2.44
+2022,%,female,disability,,1.58
+2022,%,,in case of losing a breadwinner,,0.46
+2022,%,male,in case of losing a breadwinner,,0.42
+2022,%,female,in case of losing a breadwinner,,0.5
+2022,%,,,up to 51 years old,2.62
+2022,%,male,,up to 51 years old,3.08
+2022,%,female,,up to 51 years old,2.17
+2022,%,,,aged 51-55 years,3.95
+2022,%,male,,aged 51-55 years,4.92
+2022,%,female,,aged 51-55 years,3.2
+2022,%,,,aged 56-62 years,3.01
+2022,%,male,,aged 56-62 years,3.26
+2022,%,female,,aged 56-62 years,2.82
+2022,%,,,aged 63 and over,4.51
+2022,%,male,,aged 63 and over,2.83
+2022,%,female,,aged 63 and over,5.61
