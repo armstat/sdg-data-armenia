@@ -269,3 +269,42 @@ Year,Units,Sex,Category,Age,Value
 2021,%,,,aged 63 and older,90.14
 2021,%,male,,aged 63 and older,88.22
 2021,%,female,,aged 63 and older,91.41
+2022,%,,,,15.67
+2022,%,male,,,13.03
+2022,%,female,,,18.02
+2022,%,,age-related,,11.62
+2022,%,male,age-related,,9.42
+2022,%,female,age-related,,13.59
+2022,%,,on privileged terms,,0.03
+2022,%,male,on privileged terms,,0.05
+2022,%,female,on privileged terms,,0.02
+2022,%,,long-term service,,0.01
+2022,%,male,long-term service,,0.02
+2022,%,female,long-term service,,0.01
+2022,%,,partially,,0.3
+2022,%,male,partially,,0.05
+2022,%,female,partially,,0.52
+2022,%,,disability,,3.47
+2022,%,male,disability,,3.35
+2022,%,female,disability,,3.59
+2022,%,,in case of losing a breadwinner,,0.23
+2022,%,male,in case of losing a breadwinner,,0.14
+2022,%,female,in case of losing a breadwinner,,0.3
+2022,%,,by other laws,,0.03
+2022,%,male,by other laws,,0.05
+2022,%,female,by other laws,,0.004
+2022,%,,related to military service,,0.05
+2022,%,male,related to military service,,0.11
+2022,%,female,related to military service,,0.0004
+2022,%,,,up to 51 years old,0.5
+2022,%,male,,up to 51 years old,0.53
+2022,%,female,,up to 51 years old,0.47
+2022,%,,,aged 51 - 55 years,3.03
+2022,%,male,,aged 51 - 55 years,3.32
+2022,%,female,,aged 51 - 55 years,2.81
+2022,%,,,aged 56 - 62 years,11.24
+2022,%,male,,aged 56 - 62 years,10.71
+2022,%,female,,aged 56 - 62 years,11.63
+2022,%,,,aged 63 and older,88.48
+2022,%,male,,aged 63 and older,87.05
+2022,%,female,,aged 63 and older,89.42
