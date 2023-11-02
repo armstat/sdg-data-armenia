@@ -251,3 +251,39 @@ Year,Units,Sex,Age,Category,Value
 2021,%,,aged 16-17 years,,0.38
 2021,%,male,aged 16-17 years,,0.38
 2021,%,female,aged 16-17 years,,0.38
+2022,person,,,,746.0
+2022,person,male,,,389.0
+2022,person,female,,,357.0
+2022,person,,up to 1 year old,,33.0
+2022,person,male,up to 1 year old,,15.0
+2022,person,female,up to 1 year old,,18.0
+2022,person,,aged 1-6 years,,126.0
+2022,person,male,aged 1-6 years,,69.0
+2022,person,female,aged 1-6 years,,57.0
+2022,person,,aged 7-9 years,,85.0
+2022,person,male,aged 7-9 years,,44.0
+2022,person,female,aged 7-9 years,,41.0
+2022,person,,aged 10-15 years,,244.0
+2022,person,male,aged 10-15 years,,128.0
+2022,person,female,aged 10-15 years,,116.0
+2022,person,,aged 16-17 years,,276.0
+2022,person,male,aged 16-17 years,,151.0
+2022,person,female,aged 16-17 years,,125.0
+2022,%,,,total to the population of respective age,0.1
+2022,%,male,,total to the population of respective age,0.1
+2022,%,female,,total to the population of respective age,0.11
+2022,%,,up to 1 year old,,0.09
+2022,%,male,up to 1 year old,,0.08
+2022,%,female,up to 1 year old,,0.11
+2022,%,,aged 1-6 years,,0.06
+2022,%,male,aged 1-6 years,,0.06
+2022,%,female,aged 1-6 years,,0.05
+2022,%,,aged 7-9 years,,0.07
+2022,%,male,aged 7-9 years,,0.07
+2022,%,female,aged 7-9 years,,0.07
+2022,%,,aged 10-15 years,,0.1
+2022,%,male,aged 10-15 years,,0.1
+2022,%,female,aged 10-15 years,,0.1
+2022,%,,aged 16-17 years,,0.37
+2022,%,male,aged 16-17 years,,0.38
+2022,%,female,aged 16-17 years,,0.36
