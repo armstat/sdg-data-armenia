@@ -125,3 +125,21 @@ Year,Units,Sex,Age,Value
 2021,person,,aged 16-17 years,2
 2021,person,male,aged 16-17 years,1
 2021,person,female,aged 16-17 years,1
+2022,person,,,49
+2022,person,male,,23
+2022,person,female,,26
+2022,person,,up to 1 year old,3
+2022,person,male,up to 1 year old,2
+2022,person,female,up to 1 year old,1
+2022,person,,aged 1-6 years,22
+2022,person,male,aged 1-6 years,7
+2022,person,female,aged 1-6 years,15
+2022,person,,aged 7-9 years,7
+2022,person,male,aged 7-9 years,5
+2022,person,female,aged 7-9 years,2
+2022,person,,aged 10-15 years,8
+2022,person,male,aged 10-15 years,7
+2022,person,female,aged 10-15 years,1
+2022,person,,aged 16-17 years,9
+2022,person,male,aged 16-17 years,2
+2022,person,female,aged 16-17 years,7
