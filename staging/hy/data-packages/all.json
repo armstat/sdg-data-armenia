@@ -6878,6 +6878,16 @@
             "title": "Սեռ"
           },
           {
+            "name": "Age",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Տարիք"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
