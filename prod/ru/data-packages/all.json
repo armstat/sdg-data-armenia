@@ -6878,6 +6878,16 @@
             "title": "Пол"
           },
           {
+            "name": "Age",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Возраст"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
