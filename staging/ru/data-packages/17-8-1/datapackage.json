@@ -50,9 +50,13 @@
           },
           {
             "name": "Age",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "0-5 лет",
+                "5-14 лет",
+                "15-24 лет",
+                "25+",
                 ""
               ]
             },

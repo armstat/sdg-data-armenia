@@ -6307,9 +6307,13 @@
           },
           {
             "name": "Age",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "aged 0-5 years",
+                "aged 5-14 years",
+                "aged 15-24 years",
+                "25+",
                 ""
               ]
             }
