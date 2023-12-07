@@ -12464,28 +12464,6 @@
         ]
       },
       "title": "global_indicators.9-c-1-title"
-    },
-    {
-      "path": "17-8-1-a/data.csv",
-      "name": "17-8-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "meta.name-17-8-1-a"
     }
   ]
 }
