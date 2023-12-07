@@ -12,45 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "տղամարդ",
-                "կին",
-                ""
-              ]
-            },
-            "title": "Սեռ"
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0-5 տարեկան",
-                "5-14 տարեկան",
-                "15-24 տարեկան",
-                "25 և բարձր տարիքի",
-                ""
-              ]
-            },
-            "title": "Տարիք"
           },
           {
             "name": "Value",
