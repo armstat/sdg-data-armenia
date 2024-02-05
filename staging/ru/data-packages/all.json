@@ -11344,6 +11344,16 @@
             "title": "Units"
           },
           {
+            "name": "Location",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Место нахождения"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
