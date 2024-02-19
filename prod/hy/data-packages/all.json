@@ -11346,9 +11346,11 @@
           },
           {
             "name": "Location",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "քաղաք",
+                "գյուղ",
                 ""
               ]
             },
@@ -11391,9 +11393,11 @@
           },
           {
             "name": "Location",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "քաղաք",
+                "գյուղ",
                 ""
               ]
             },
