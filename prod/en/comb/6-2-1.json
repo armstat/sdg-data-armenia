@@ -1,1 +1,1 @@
-{"data":{"Year":[2015,2015,2015,2020,2020,2020,2021,2021,2021],"Units":["%","%","%","%","%","%","%","%","%"],"Category":[null,null,null,null,null,null,null,null,null],"Location":[null,"urban","rural",null,"urban","rural",null,"urban","rural"],"Value":[76.6,96.1,48.6,97.6,99.1,94.7,98.1,99.5,96.1]},"edges":[]}
+{"data":{"Year":[2022,2022,2022],"Units":["%","%","%"],"Category":[null,null,null],"Location":[null,"urban","rural"],"Value":[98.8,99.9,96.6]},"edges":[]}

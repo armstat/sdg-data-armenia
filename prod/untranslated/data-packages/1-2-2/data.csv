@@ -22,7 +22,7 @@ Year,Units,Sex,Category,Age,Value
 2017,%,,children,,29.5
 2018,%,,children,,25.5
 2020,%,,children,,20.0
-2021,%,,children,,18.5
+2021,%,,children,,19.3
 2015,%,,,aged 0-5 years,26.3
 2016,%,,,aged 0-5 years,27.7
 2017,%,,,aged 0-5 years,25.7
@@ -47,3 +47,11 @@ Year,Units,Sex,Category,Age,Value
 2018,%,,,aged 65 and older,35.0
 2020,%,,,aged 65 and older,32.1
 2021,%,,,aged 65 and older,31.5
+2022,%,,,,20.7
+2022,%,male,,,19.4
+2022,%,female,,,21.8
+2022,%,,children,,21.1
+2022,%,,,aged 0-5 years,17.7
+2022,%,,,aged 6-17 years,22.6
+2022,%,,,aged 18-64 years,17.6
+2022,%,,,aged 65 and older,30.5
