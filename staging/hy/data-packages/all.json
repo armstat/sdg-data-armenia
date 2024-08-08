@@ -3574,42 +3574,6 @@
       "title": "Երկրների թիվը, որոնք (բացասական հետևանքների) մեղմացման, հարմարվողականության, ազդեցության նվազեցման և վաղ նախազգուշացման թեմաներն ընդգրկել են տարրական, միջնակարգ և բարձրագույն ուսումնական ծրագրերում"
     },
     {
-      "path": "13-3-2/data.csv",
-      "name": "13-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Տարի"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Երկրների թիվը, որոնք հայտնել են հարմարվողականության, (բացասական հետևանքների) մեղմացման ու տեխնոլոգիաների փոխանցման, ինչպես նաև զարգացման գործողությունների կատարման ուղղությամբ իրենց ինստիտուցիոնալ, համակարգային և անհատական կարողությունների ստեղծման հզորացման մասին"
-    },
-    {
       "path": "13-a-1/data.csv",
       "name": "13-a-1",
       "profile": "tabular-data-resource",
@@ -4864,41 +4828,6 @@
       "title": "Որսագողությամբ կամ ապօրինի ձևով վաճառված վայրի բնության նմուշների համամասնությունը"
     },
     {
-      "path": "16-1-1-a/data.csv",
-      "name": "16-1-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "100,000 բնակչի հաշվով",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Սպանությունների թիվը 100 000 բնակչի հաշվով"
-    },
-    {
       "path": "16-1-1/data.csv",
       "name": "16-1-1",
       "profile": "tabular-data-resource",
@@ -4933,6 +4862,41 @@
         ]
       },
       "title": "Դիտավորյալ սպանությունների զոհերի թիվը 100 հազար բնակչի հաշվով՝ ըստ սեռի և տարիքի"
+    },
+    {
+      "path": "16-1-1-a/data.csv",
+      "name": "16-1-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Տարի"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "100,000 բնակչի հաշվով",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Սպանությունների թիվը 100 000 բնակչի հաշվով"
     },
     {
       "path": "16-1-2/data.csv",
@@ -13590,6 +13554,30 @@
         ]
       },
       "title": "Բջջային ցանցի ծածկույթ ունեցող բնակչության համամասնությունը ըստ տեխնոլոգիայի"
+    },
+    {
+      "path": "13-3-2/data.csv",
+      "name": "13-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Տարի"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Երկրների թիվը, որոնք հայտնել են հարմարվողականության, (բացասական հետևանքների) մեղմացման ու տեխնոլոգիաների փոխանցման, ինչպես նաև զարգացման գործողությունների կատարման ուղղությամբ իրենց ինստիտուցիոնալ, համակարգային և անհատական կարողությունների ստեղծման հզորացման մասին"
     },
     {
       "path": "8-9-2/data.csv",
