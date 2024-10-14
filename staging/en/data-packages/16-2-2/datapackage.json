@@ -28,9 +28,11 @@
           },
           {
             "name": "Sex",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "male",
+                "female",
                 ""
               ]
             },
@@ -38,9 +40,11 @@
           },
           {
             "name": "Category",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "work  exploitation",
+                "sexual  exploitation",
                 ""
               ]
             },
@@ -48,9 +52,13 @@
           },
           {
             "name": "Age",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "aged 0-17 years",
+                "aged 18-44 years",
+                "aged 45-64 years",
+                "aged 65 and over",
                 ""
               ]
             },
