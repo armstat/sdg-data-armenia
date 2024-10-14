@@ -5151,9 +5151,11 @@
           },
           {
             "name": "Sex",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "տղամարդ",
+                "կին",
                 ""
               ]
             },
@@ -5161,9 +5163,11 @@
           },
           {
             "name": "Category",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "work  exploitation",
+                "sexual  exploitation",
                 ""
               ]
             },
@@ -5171,9 +5175,13 @@
           },
           {
             "name": "Age",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "0-17 տարեկան",
+                "aged 18-44 years",
+                "aged 45-64 years",
+                "65 և բարձր տարիքի",
                 ""
               ]
             },

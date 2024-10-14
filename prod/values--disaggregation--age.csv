@@ -11,7 +11,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 35-44,4,1
 45-59,8,5
 60-74,4,4
-aged 0-17 years,4,2
+aged 0-17 years,7,3
 aged 0-25 years,10,1
 aged 0-4 years,3,1
 aged 0-5 years,4,3
@@ -25,12 +25,14 @@ aged 15-24 years,1,1
 aged 15 years,3,1
 aged 16-17 years,17,5
 aged 18-39 years,3,1
+aged 18-44 years,3,1
 aged 18-64 years,3,2
 aged 18-66 years,1,1
 aged 25-34 years,10,1
 aged 35-44 years,10,1
 aged 40-62 years,3,1
 aged 45-54 years,10,1
+aged 45-64 years,3,1
 aged 5-11 years,2,1
 aged 5-14 years,1,1
 aged 5-9 years,3,1
@@ -40,7 +42,7 @@ aged 56 - 62 years,6,2
 aged 6-17 years,3,2
 aged 6-9 years,3,1
 aged 63 and older,9,3
-aged 65 and older,3,2
+aged 65 and older,6,3
 aged 65 and over,10,1
 aged 7-9 years,9,2
 before age 15,1,1

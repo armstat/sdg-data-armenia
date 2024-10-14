@@ -1,7 +1,7 @@
 Disaggregation,Number of indicators,Number of values
 Access to servises,1,9
-Age,21,51
-Category,35,75
+Age,22,53
+Category,36,77
 Disaster type,3,3
 Education type,3,13
 Employment status,1,11
@@ -10,7 +10,7 @@ Location,25,3
 Poverty,1,3
 Quintiles,1,5
 Services,1,11
-Sex,41,9
+Sex,42,9
 Transportation type,1,6
 Type,5,16
 UNITS,1,1
