@@ -1,21 +1,25 @@
-﻿Year,Units,Category,Value
-2018,%,,43.8
-2019,%,,42.8
-2020,%,,45.3
-2018,%,education,10.1
-2019,%,education,9.5
-2020,%,education,9.1
-2018,%,health,5.4
-2019,%,health,6
-2020,%,health,7.7
-2018,%,social protection,28.3
-2019,%,social protection,27.3
-2020,%,social protection,28.5
-2021,%,,47
-2021,%,education,9
-2021,%,health,7.8
-2021,%,social protection,30.2
-2022,%,,41.5
-2022,%,education,8.9
-2022,%,health,6.1
-2022,%,social protection,26.5
+﻿"Year","Units","Category","Value"
+"2018","%","","43.8"
+"2019","%","","42.8"
+"2020","%","","45.3"
+"2018","%","education","10.1"
+"2019","%","education","9.5"
+"2020","%","education","9.1"
+"2018","%","health","5.4"
+"2019","%","health","6.0"
+"2020","%","health","7.7"
+"2018","%","social protection","28.3"
+"2019","%","social protection","27.3"
+"2020","%","social protection","28.5"
+"2021","%","","47.0"
+"2021","%","education","9.0"
+"2021","%","health","7.8"
+"2021","%","social protection","30.2"
+"2022","%","","41.5"
+"2022","%","education","8.9"
+"2022","%","health","6.1"
+"2022","%","social protection","26.5"
+"2023","%","","41.0"
+"2023","%","education","8.8"
+"2023","%","health","5.4"
+"2023","%","social protection","26.8"
