@@ -25,6 +25,16 @@
             }
           },
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Food loss",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
