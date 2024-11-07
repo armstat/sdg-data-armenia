@@ -2928,6 +2928,17 @@
             "title": "Units"
           },
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Food loss",
+                ""
+              ]
+            },
+            "title": "Կատեգորիա"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
