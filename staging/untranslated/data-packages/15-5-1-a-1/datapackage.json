@@ -12,28 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "unit",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "registered in the Red Book of RA",
-                "included in the specially protected natural areas",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

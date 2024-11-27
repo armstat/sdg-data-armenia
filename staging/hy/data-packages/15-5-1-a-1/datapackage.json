@@ -12,31 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "միավոր",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "գրանցված ՀՀ Կարմիր գրքում",
-                "ներառված են բնության հատուկ պահպանվող տարածքներում",
-                ""
-              ]
-            },
-            "title": "Կատեգորիա"
           },
           {
             "name": "Value",

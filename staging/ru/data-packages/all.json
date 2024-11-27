@@ -4265,41 +4265,6 @@
       "title": "Прогресс в переходе на неистощительное ведение лесного хозяйства"
     },
     {
-      "path": "15-3-1-a/data.csv",
-      "name": "15-3-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Год"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Доля земель, нуждающиеся в улучшении, по отношению к общей площади суши"
-    },
-    {
       "path": "15-3-1/data.csv",
       "name": "15-3-1",
       "profile": "tabular-data-resource",
@@ -4406,53 +4371,6 @@
         ]
       },
       "title": "Индекс растительного покрова гор и доля де-градировавших горных земель"
-    },
-    {
-      "path": "15-5-1-a-1/data.csv",
-      "name": "15-5-1-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Год"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "единица",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "занесенные в Красную книгу РА",
-                "включены в особо охраняемые природные территории",
-                ""
-              ]
-            },
-            "title": "Категория"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Зарегистрированные виды позвоночных и беспозвоночных, из которых"
     },
     {
       "path": "15-5-1-a-2/data.csv",
@@ -13566,6 +13484,54 @@
         ]
       },
       "title": "Доля населения, охваченного мобильными сетями, в разбивке по технологиям"
+    },
+    {
+      "path": "15-3-1-a/data.csv",
+      "name": "15-3-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Доля земель, нуждающиеся в улучшении, по отношению к общей площади суши"
+    },
+    {
+      "path": "15-5-1-a-1/data.csv",
+      "name": "15-5-1-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Зарегистрированные виды позвоночных и беспозвоночных, из которых"
     }
   ]
 }
