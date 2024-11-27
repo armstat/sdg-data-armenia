@@ -4265,41 +4265,6 @@
       "title": "Անտառների կայուն կառավարման նկատմամբ առաջընթաց"
     },
     {
-      "path": "15-3-1-a/data.csv",
-      "name": "15-3-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Բարելավման կարիք ունեցող հողերի համամասնությունը ընդհանուր հողային տարածքների նկատմամբ"
-    },
-    {
       "path": "15-3-1/data.csv",
       "name": "15-3-1",
       "profile": "tabular-data-resource",
@@ -4406,63 +4371,6 @@
         ]
       },
       "title": "Լեռների կանաչ ծածկույթի ինդեքսը և դեգրադացված լեռնային հողերի համամասնությունը"
-    },
-    {
-      "path": "15-5-1-a-2/data.csv",
-      "name": "15-5-1-a-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "միավոր",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Education type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ՀՀ Կարմիր գրքում գրանցված բարձրակարգ բուսատեսակներ",
-                ""
-              ]
-            },
-            "title": "Կրթության տեսակ"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ներառված են բնության հատուկ պահպանվող տարածքներում",
-                ""
-              ]
-            },
-            "title": "Կատեգորիա"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Հաշվառված բարձրակարգ և ստորակարգ բույսերի տեսակներ, որից"
     },
     {
       "path": "15-5-1/data.csv",
@@ -13521,6 +13429,30 @@
       "title": "Բջջային ցանցի ծածկույթ ունեցող բնակչության համամասնությունը ըստ տեխնոլոգիայի"
     },
     {
+      "path": "15-3-1-a/data.csv",
+      "name": "15-3-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Տարի"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Բարելավման կարիք ունեցող հողերի համամասնությունը ընդհանուր հողային տարածքների նկատմամբ"
+    },
+    {
       "path": "15-5-1-a-1/data.csv",
       "name": "15-5-1-a-1",
       "profile": "tabular-data-resource",
@@ -13543,6 +13475,30 @@
         ]
       },
       "title": "Հաշվառված ողնաշարավոր և անողնաշար կենդանիների տեսակներ, որից"
+    },
+    {
+      "path": "15-5-1-a-2/data.csv",
+      "name": "15-5-1-a-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Տարի"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Հաշվառված բարձրակարգ և ստորակարգ բույսերի տեսակներ, որից"
     }
   ]
 }

@@ -12,41 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "միավոր",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Education type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ՀՀ Կարմիր գրքում գրանցված բարձրակարգ բուսատեսակներ",
-                ""
-              ]
-            },
-            "title": "Կրթության տեսակ"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ներառված են բնության հատուկ պահպանվող տարածքներում",
-                ""
-              ]
-            },
-            "title": "Կատեգորիա"
           },
           {
             "name": "Value",

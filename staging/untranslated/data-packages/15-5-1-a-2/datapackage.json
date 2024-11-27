@@ -12,37 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "unit",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Education type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "high plant species registered in the Red Book of RA",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "included in the specially protected natural areas",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

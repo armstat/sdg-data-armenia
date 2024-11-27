@@ -12,41 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Год"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "единица",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Education type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "высшие виды растений, занесенные в Красную книгу РА",
-                ""
-              ]
-            },
-            "title": "тип образования"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "включены в особо охраняемые природные территории",
-                ""
-              ]
-            },
-            "title": "Категория"
           },
           {
             "name": "Value",
