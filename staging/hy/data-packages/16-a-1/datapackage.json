@@ -17,10 +17,9 @@
           },
           {
             "name": "Units",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "այո=1, ոչ=0",
                 ""
               ]
             },

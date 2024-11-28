@@ -5670,10 +5670,9 @@
           },
           {
             "name": "Units",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "да=1, нет=0",
                 ""
               ]
             },
