@@ -213,6 +213,27 @@ ivetanih:
   indicators:
   - 3-5-1
   - 3-a-1  
+MoIA-of-RA:
+  indicators:
+  - 1.5.3
+  - 5.2.1
+  - 5.2.2
+  - 10.7.2
+  - 10.7.3
+  - 11.b.1
+  - 11.b.2
+  - 13.1.2
+  - 13.1.3
+ArturAkojyan:
+  indicators:
+  - 8.10.1
+  - 8.10.2
+  - 9.3.2
+  - 17.3.1
+Toma-HESC:
+  indicators:
+  - 9.5.1
+  - 9.5.2
 SDGArmenia: administrator
 brockfanning: administrator
 Arminaprog: administrator
