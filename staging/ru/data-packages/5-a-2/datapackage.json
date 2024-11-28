@@ -16,14 +16,16 @@
             "title": "Год"
           },
           {
-            "name": "Units",
-            "type": "number",
+            "name": "Group",
+            "type": "string",
             "constraints": {
               "enum": [
+                "A",
+                "B",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Group"
           },
           {
             "name": "Value",

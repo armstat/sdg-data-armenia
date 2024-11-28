@@ -15,10 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Units",
-            "type": "number",
+            "name": "Group",
+            "type": "string",
             "constraints": {
               "enum": [
+                "A",
+                "B",
                 ""
               ]
             }
