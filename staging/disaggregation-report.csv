@@ -3,6 +3,7 @@ Access to servises,1,9
 Age,22,53
 Category,35,77
 Disaster type,3,3
+Education level,1,1
 Education type,2,12
 Employment status,1,11
 Group,3,8
@@ -11,6 +12,7 @@ Poverty,1,3
 Quintiles,1,5
 Services,1,11
 Sex,42,9
+Subject,1,1
 Transportation type,1,6
 Type,5,16
 UNITS,1,1
