@@ -4488,12 +4488,10 @@
             "type": "integer"
           },
           {
-            "name": "Group",
-            "type": "string",
+            "name": "Units",
+            "type": "number",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             }
@@ -9996,12 +9994,10 @@
             "type": "integer"
           },
           {
-            "name": "Group",
-            "type": "string",
+            "name": "Units",
+            "type": "number",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             }
