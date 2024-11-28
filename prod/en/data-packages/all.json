@@ -1286,7 +1286,6 @@
             "constraints": {
               "enum": [
                 "per 100,000 population",
-                "man-made disaster",
                 ""
               ]
             },
@@ -4266,41 +4265,6 @@
       "title": "Progress towards sustainable forest management"
     },
     {
-      "path": "15-3-1-a/data.csv",
-      "name": "15-3-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of lands in need of improvement over total land area"
-    },
-    {
       "path": "15-3-1/data.csv",
       "name": "15-3-1",
       "profile": "tabular-data-resource",
@@ -4407,110 +4371,6 @@
         ]
       },
       "title": "Mountain Green Cover Index and proportion of degraded mountain land"
-    },
-    {
-      "path": "15-5-1-a-1/data.csv",
-      "name": "15-5-1-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "unit",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "registered in the Red Book of RA",
-                "included in the specially protected natural areas",
-                ""
-              ]
-            },
-            "title": "Category"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Registered vertebrate and invertebrate species, of which"
-    },
-    {
-      "path": "15-5-1-a-2/data.csv",
-      "name": "15-5-1-a-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "unit",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Education type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "high plant species registered in the Red Book of RA",
-                ""
-              ]
-            },
-            "title": "education type"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "included in the specially protected natural areas",
-                ""
-              ]
-            },
-            "title": "Category"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Registered high and low plant species, of which"
     },
     {
       "path": "15-5-1/data.csv",
@@ -5030,24 +4890,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -5807,7 +5665,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -5815,7 +5673,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "yes=1, no=0",
                 ""
               ]
             },
@@ -5823,7 +5680,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -8213,7 +8070,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -8422,24 +8279,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -9574,16 +9429,37 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "%",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary",
+                ""
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "Subject",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mathematics",
+                ""
+              ]
+            },
+            "title": "Subject"
           },
           {
             "name": "Value",
@@ -9639,7 +9515,7 @@
           }
         ]
       },
-      "title": "The share of children at the end of primary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics"
+      "title": "meta.name-4-1-1d"
     },
     {
       "path": "4-1-1c/data.csv",
@@ -9689,6 +9565,74 @@
       "title": "The share of children at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics"
     },
     {
+      "path": "4-1-1d/data.csv",
+      "name": "4-1-1d",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "4-1-1d"
+    },
+    {
+      "path": "4-1-1e/data.csv",
+      "name": "4-1-1e",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "meta.name-4-1-1e"
+    },
+    {
       "path": "4-1-2/data.csv",
       "name": "4-1-2",
       "profile": "tabular-data-resource",
@@ -9704,14 +9648,14 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -9817,24 +9761,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -9905,6 +9847,74 @@
         ]
       },
       "title": "Gross Enrollment Ration in general educatioin"
+    },
+    {
+      "path": "4-3-1-b/data.csv",
+      "name": "4-3-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "meta.name-4-3-1-b"
+    },
+    {
+      "path": "4-3-1-c/data.csv",
+      "name": "4-3-1-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "meta.name-4-3-1-c"
     },
     {
       "path": "4-3-1/data.csv",
@@ -10078,24 +10088,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -10197,24 +10205,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -10283,24 +10289,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -10354,7 +10358,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -10362,8 +10366,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
@@ -10371,7 +10373,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -10390,24 +10392,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -11047,24 +11047,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]

@@ -15,12 +15,31 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Subject",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mathematics",
                 ""
               ]
             }

@@ -21,7 +21,6 @@
             "constraints": {
               "enum": [
                 "per 100,000 population",
-                "man-made disaster",
                 ""
               ]
             },

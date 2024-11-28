@@ -16,16 +16,37 @@
             "title": "Տարի"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "%",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary",
+                ""
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "Subject",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mathematics",
+                ""
+              ]
+            },
+            "title": "Subject"
           },
           {
             "name": "Value",
