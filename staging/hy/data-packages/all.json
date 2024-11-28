@@ -4890,12 +4890,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
             "name": "Units",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
                 ""
@@ -4905,7 +4905,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -10900,12 +10900,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
             "name": "Units",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
                 ""
@@ -10915,7 +10915,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
