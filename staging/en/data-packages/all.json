@@ -9434,16 +9434,14 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "string",
+            "name": "Units",
+            "type": "number",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
           },
           {
             "name": "Value",
