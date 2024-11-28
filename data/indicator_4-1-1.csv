@@ -1,2 +1,5 @@
-Year,Units,Value
-
+﻿"Year","Units","Education level","Subject","Value"
+"2003","%","Primary ","Mathematics","43"
+"2011","%","Primary ","Mathematics","41"
+"2015","%","Primary ","Mathematics","55"
+"2019","%","Primary ","Mathematics","64"
