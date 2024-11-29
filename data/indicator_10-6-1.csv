@@ -1,7 +1,8 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+﻿"Year","Group","UN General Assembly ","UN Security Council ","UN Economic and Social Council","International Monetary Fund ","International Bank for Reconstruction and Development","International Finance Corporation","African Development Bank ","Asian Development Bank ","Inter-American Development Bank ","World Trade Organization","Financial Stability Board","Value"
+"2015","","1","0","0","1","1","1","0","1","0","1","0","1"
+"2016","","1","0","0","1","1","1","0","1","0","1","0","3"
+"2017","","1","0","0","1","1","1","0","1","0","1","0","2"
+"2018","","1","0","0","1","1","1","0","1","0","1","0","1"
+"2019","","1","0","1","1","1","1","0","1","0","1","0","3"
+"2020","","1","0","1","1","1","1","0","1","0","1","0","2"
+"2021","","1","0","1","1","1","1","0","1","0","1","0",""
