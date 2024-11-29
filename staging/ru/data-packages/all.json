@@ -10126,7 +10126,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -10134,14 +10134,26 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "point",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Completion rate adjusted GPI by education level",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Upper secondary",
+                ""
+              ]
+            },
+            "title": "Completion rate adjusted GPI by education level"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]

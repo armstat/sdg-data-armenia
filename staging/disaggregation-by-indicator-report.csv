@@ -59,6 +59,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-2-2,Age group,1
 #4-2-2-a,Sex,1
 #4-3-1-a,"Sex, Education type",2
+#4-5-1,Completion rate adjusted GPI by education level,1
 #4-5-1-a,Education type,1
 #4-6-1-a,Sex,1
 #4-a-1,Category,1

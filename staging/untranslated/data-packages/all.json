@@ -9279,20 +9279,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "point",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Completion rate adjusted GPI by education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Upper secondary",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
