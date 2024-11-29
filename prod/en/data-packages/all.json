@@ -4880,7 +4880,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           },
           {
@@ -4888,6 +4888,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4",
+                "Q5",
+                "Q6",
+                "Q7",
+                "Q8",
+                "Score",
                 ""
               ]
             },
@@ -4895,7 +4904,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -8267,7 +8276,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -8275,6 +8284,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "a.v.",
                 ""
               ]
             },
@@ -8282,7 +8292,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -9564,7 +9574,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -9572,14 +9582,26 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Subject",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Armenian language",
+                ""
+              ]
+            },
+            "title": "Subject"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -9598,7 +9620,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -9606,14 +9628,26 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Subject",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Mathematics",
+                ""
+              ]
+            },
+            "title": "Subject"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -9632,7 +9666,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -9640,14 +9674,28 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Education level",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary",
+                "Lower secondary",
+                "Upper secondary",
+                ""
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -9749,7 +9797,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -9757,14 +9805,26 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Age group",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "One year before than official primary entry age (5 years old)",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -10076,7 +10136,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -10084,14 +10144,26 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "point",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Completion rate adjusted GPI by education level",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Upper secondary",
+                ""
+              ]
+            },
+            "title": "Completion rate adjusted GPI by education level"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -10277,7 +10349,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -10285,6 +10357,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "millions USD",
                 ""
               ]
             },
@@ -10292,7 +10365,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -10346,7 +10419,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -10354,6 +10427,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Pre-primary",
+                "Primary",
+                "Lower secondary",
+                "Upper secondary",
                 ""
               ]
             },
@@ -10361,7 +10438,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
