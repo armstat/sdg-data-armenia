@@ -10418,7 +10418,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -10426,6 +10426,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Pre-primary",
+                "Primary",
+                "Lower secondary",
+                "Upper secondary",
                 ""
               ]
             },
@@ -10433,7 +10437,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
