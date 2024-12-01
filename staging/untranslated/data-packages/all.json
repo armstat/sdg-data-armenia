@@ -9063,37 +9063,6 @@
       "title": "meta.name-4-3-1-a"
     },
     {
-      "path": "4-3-1-c/data.csv",
-      "name": "4-3-1-c",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "string"
-          }
-        ]
-      },
-      "title": "meta.name-4-3-1-c"
-    },
-    {
       "path": "4-3-1/data.csv",
       "name": "4-3-1",
       "profile": "tabular-data-resource",
@@ -12463,6 +12432,28 @@
         ]
       },
       "title": "meta.name-4-3-1-b"
+    },
+    {
+      "path": "4-3-1-c/data.csv",
+      "name": "4-3-1-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "meta.name-4-3-1-c"
     }
   ]
 }
