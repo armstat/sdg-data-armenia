@@ -4870,7 +4870,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -4878,19 +4878,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                "Q5",
-                "Q6",
-                "Q7",
-                "Q8",
-                "Score",
+                "Points",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Question",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                ""
+              ]
+            },
+            "title": "Question"
           },
           {
             "name": "Value",
