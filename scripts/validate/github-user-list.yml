@@ -196,8 +196,6 @@ Tamara-ESCS:
   - 4-1-1e
   - 4-1-2
   - 4-2-2
-  - 4-3-1-b
-  - 4-3-1-c
   - 4-5-1
   - 4-7-1
   - 4-a-1
@@ -252,6 +250,11 @@ Tken-kzn:
   indicators:
   - 7-a-1
   - 7-b-1
+Anna-svg-prog:
+  indicators:
+  - 13-2-1
+  - 13-a-1
+  - 13-b-1  
 SDGArmenia: administrator
 brockfanning: administrator
 Arminaprog: administrator
