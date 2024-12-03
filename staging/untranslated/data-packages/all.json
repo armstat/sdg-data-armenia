@@ -1628,20 +1628,38 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Agency",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "WTO",
+                "UNGA",
+                "IRDB",
+                "IRBD",
+                "IMF",
+                "IFC",
+                "ECOSOC",
+                "ADB",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
