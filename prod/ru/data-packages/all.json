@@ -5643,7 +5643,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -5662,7 +5662,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -5670,6 +5670,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "1=compliant, 0=partially compliant",
                 ""
               ]
             },
@@ -5677,7 +5678,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -10385,7 +10386,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -10393,14 +10394,29 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Area 1: Overarching legal frameworks and public life",
+                "Area 2: Violence against women",
+                "Area 3: Employment and economic benefits",
+                "Area 4: Marriage and family",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
             "title": "Value"
           }
         ]
