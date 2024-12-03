@@ -5600,7 +5600,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -5608,14 +5608,33 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Agency",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "WTO",
+                "UNGA",
+                "IRDB",
+                "IRBD",
+                "IMF",
+                "IFC",
+                "ECOSOC",
+                "ADB",
+                ""
+              ]
+            },
+            "title": "Agency"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
