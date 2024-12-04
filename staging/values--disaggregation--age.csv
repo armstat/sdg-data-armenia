@@ -48,7 +48,10 @@ aged 7-9 years,9,2
 before age 15,1,1
 before age 18,1,1
 from 6 months to 1 year,3,1
-total,4,1
+total (15-49),1,1
+total (15-59),1,1
+total(15-49),2,1
+total(15-59),3,1
 up to 1 year old,9,2
 up to 51 years old,6,2
 up to 6 months,3,1
