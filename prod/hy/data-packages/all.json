@@ -7245,8 +7245,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Total",
                 ""
               ]
             },
@@ -7254,7 +7253,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

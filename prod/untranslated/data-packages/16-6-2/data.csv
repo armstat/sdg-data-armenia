@@ -406,3 +406,173 @@ Year,Sex,Location,Age,Category,Quintiles,Services,Value
 2022,,,,,3.0,public transportation,84.8
 2022,,,,,4.0,public transportation,80.8
 2022,,,,,5.0,public transportation,77.9
+2023,,,,,,water supply,90.7
+2023,male,,,,,water supply,90.7
+2023,female,,,,,water supply,90.8
+2023,,urban,,,,water supply,93.3
+2023,,rural,,,,water supply,86.6
+2023,,,aged 0-25 years,,,water supply,90.4
+2023,,,aged 25-34 years,,,water supply,91.5
+2023,,,aged 35-44 years,,,water supply,90.7
+2023,,,aged 45-54 years,,,water supply,90.3
+2023,,,aged 55-64 years,,,water supply,90.2
+2023,,,aged 65 and over,,,water supply,91.5
+2023,,,,disabled,,water supply,88.8
+2023,,,,,1.0,water supply,86.8
+2023,,,,,2.0,water supply,90.0
+2023,,,,,3.0,water supply,92.0
+2023,,,,,4.0,water supply,92.0
+2023,,,,,5.0,water supply,92.6
+2023,,,,,,sewerage,97.5
+2023,male,,,,,sewerage,97.8
+2023,female,,,,,sewerage,97.2
+2023,,urban,,,,sewerage,97.2
+2023,,rural,,,,sewerage,98.3
+2023,,,aged 0-25 years,,,sewerage,97.4
+2023,,,aged 25-34 years,,,sewerage,98.1
+2023,,,aged 35-44 years,,,sewerage,96.8
+2023,,,aged 45-54 years,,,sewerage,97.5
+2023,,,aged 55-64 years,,,sewerage,98.1
+2023,,,aged 65 and over,,,sewerage,97.4
+2023,,,,disabled,,sewerage,96.6
+2023,,,,,1.0,sewerage,97.5
+2023,,,,,2.0,sewerage,97.8
+2023,,,,,3.0,sewerage,96.7
+2023,,,,,4.0,sewerage,98.8
+2023,,,,,5.0,sewerage,96.7
+2023,,,,,,garbage disposal,96.5
+2023,male,,,,,garbage disposal,96.6
+2023,female,,,,,garbage disposal,96.4
+2023,,urban,,,,garbage disposal,95.4
+2023,,rural,,,,garbage disposal,98.3
+2023,,,aged 0-25 years,,,garbage disposal,96.7
+2023,,,aged 25-34 years,,,garbage disposal,96.5
+2023,,,aged 35-44 years,,,garbage disposal,95.9
+2023,,,aged 45-54 years,,,garbage disposal,96.4
+2023,,,aged 55-64 years,,,garbage disposal,96.2
+2023,,,aged 65 and over,,,garbage disposal,97.1
+2023,,,,disabled,,garbage disposal,96.6
+2023,,,,,1.0,garbage disposal,96.6
+2023,,,,,2.0,garbage disposal,96.4
+2023,,,,,3.0,garbage disposal,97.2
+2023,,,,,4.0,garbage disposal,96.4
+2023,,,,,5.0,garbage disposal,96.0
+2023,,,,,,landline telephone,99.2
+2023,male,,,,,landline telephone,99.3
+2023,female,,,,,landline telephone,99.2
+2023,,urban,,,,landline telephone,99.2
+2023,,rural,,,,landline telephone,100.0
+2023,,,aged 0-25 years,,,landline telephone,99.5
+2023,,,aged 25-34 years,,,landline telephone,97.7
+2023,,,aged 35-44 years,,,landline telephone,100.0
+2023,,,aged 45-54 years,,,landline telephone,99.8
+2023,,,aged 55-64 years,,,landline telephone,98.9
+2023,,,aged 65 and over,,,landline telephone,99.3
+2023,,,,disabled,,landline telephone,99.3
+2023,,,,,1.0,landline telephone,97.5
+2023,,,,,2.0,landline telephone,100.0
+2023,,,,,3.0,landline telephone,98.9
+2023,,,,,4.0,landline telephone,99.7
+2023,,,,,5.0,landline telephone,99.5
+2023,,,,,,electricity supply,99.0
+2023,male,,,,,electricity supply,99.0
+2023,female,,,,,electricity supply,99.0
+2023,,urban,,,,electricity supply,98.9
+2023,,rural,,,,electricity supply,99.0
+2023,,,aged 0-25 years,,,electricity supply,98.8
+2023,,,aged 25-34 years,,,electricity supply,99.3
+2023,,,aged 35-44 years,,,electricity supply,98.7
+2023,,,aged 45-54 years,,,electricity supply,99.2
+2023,,,aged 55-64 years,,,electricity supply,99.0
+2023,,,aged 65 and over,,,electricity supply,99.2
+2023,,,,disabled,,electricity supply,99.1
+2023,,,,,1.0,electricity supply,99.5
+2023,,,,,2.0,electricity supply,98.9
+2023,,,,,3.0,electricity supply,98.7
+2023,,,,,4.0,electricity supply,99.2
+2023,,,,,5.0,electricity supply,98.5
+2023,,,,,,postal service,97.8
+2023,male,,,,,postal service,97.8
+2023,female,,,,,postal service,97.8
+2023,,urban,,,,postal service,98.5
+2023,,rural,,,,postal service,97.0
+2023,,,aged 0-25 years,,,postal service,97.7
+2023,,,aged 25-34 years,,,postal service,97.8
+2023,,,aged 35-44 years,,,postal service,97.7
+2023,,,aged 45-54 years,,,postal service,97.6
+2023,,,aged 55-64 years,,,postal service,98.1
+2023,,,aged 65 and over,,,postal service,97.9
+2023,,,,disabled,,postal service,98.7
+2023,,,,,1.0,postal service,99.0
+2023,,,,,2.0,postal service,97.9
+2023,,,,,3.0,postal service,98.0
+2023,,,,,4.0,postal service,97.1
+2023,,,,,5.0,postal service,96.8
+2023,,,,,,bank services,92.2
+2023,male,,,,,bank services,92.2
+2023,female,,,,,bank services,92.1
+2023,,urban,,,,bank services,90.0
+2023,,rural,,,,bank services,95.2
+2023,,,aged 0-25 years,,,bank services,91.2
+2023,,,aged 25-34 years,,,bank services,90.9
+2023,,,aged 35-44 years,,,bank services,91.3
+2023,,,aged 45-54 years,,,bank services,92.7
+2023,,,aged 55-64 years,,,bank services,92.4
+2023,,,aged 65 and over,,,bank services,95.0
+2023,,,,disabled,,bank services,92.5
+2023,,,,,1.0,bank services,96.2
+2023,,,,,2.0,bank services,94.6
+2023,,,,,3.0,bank services,91.3
+2023,,,,,4.0,bank services,89.5
+2023,,,,,5.0,bank services,89.5
+2023,,,,,,healthcare,91.2
+2023,male,,,,,healthcare,91.5
+2023,female,,,,,healthcare,90.9
+2023,,urban,,,,healthcare,88.2
+2023,,rural,,,,healthcare,95.7
+2023,,,aged 0-25 years,,,healthcare,91.9
+2023,,,aged 25-34 years,,,healthcare,91.4
+2023,,,aged 35-44 years,,,healthcare,91.7
+2023,,,aged 45-54 years,,,healthcare,90.9
+2023,,,aged 55-64 years,,,healthcare,91.6
+2023,,,aged 65 and over,,,healthcare,89.3
+2023,,,,disabled,,healthcare,86.9
+2023,,,,,1.0,healthcare,94.9
+2023,,,,,2.0,healthcare,93.4
+2023,,,,,3.0,healthcare,90.2
+2023,,,,,4.0,healthcare,89.7
+2023,,,,,5.0,healthcare,88.1
+2023,,,,,,education,93.4
+2023,male,,,,,education,93.4
+2023,female,,,,,education,93.3
+2023,,urban,,,,education,92.2
+2023,,rural,,,,education,94.7
+2023,,,aged 0-25 years,,,education,92.9
+2023,,,aged 25-34 years,,,education,94.6
+2023,,,aged 35-44 years,,,education,93.3
+2023,,,aged 45-54 years,,,education,93.2
+2023,,,aged 55-64 years,,,education,94.7
+2023,,,aged 65 and over,,,education,92.9
+2023,,,,disabled,,education,92.9
+2023,,,,,1.0,education,96.1
+2023,,,,,2.0,education,94.9
+2023,,,,,3.0,education,92.6
+2023,,,,,4.0,education,91.6
+2023,,,,,5.0,education,89.6
+2023,,,,,,public transportation,85.0
+2023,male,,,,,public transportation,84.7
+2023,female,,,,,public transportation,85.3
+2023,,urban,,,,public transportation,87.3
+2023,,rural,,,,public transportation,81.0
+2023,,,aged 0-25 years,,,public transportation,85.0
+2023,,,aged 25-34 years,,,public transportation,84.6
+2023,,,aged 35-44 years,,,public transportation,84.2
+2023,,,aged 45-54 years,,,public transportation,85.8
+2023,,,aged 55-64 years,,,public transportation,82.6
+2023,,,aged 65 and over,,,public transportation,87.3
+2023,,,,disabled,,public transportation,85.3
+2023,,,,,1.0,public transportation,88.9
+2023,,,,,2.0,public transportation,84.9
+2023,,,,,3.0,public transportation,85.8
+2023,,,,,4.0,public transportation,82.7
+2023,,,,,5.0,public transportation,83.0
