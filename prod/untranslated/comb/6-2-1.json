@@ -1,1 +1,1 @@
-{"data":{"Year":[2022,2022,2022],"Units":["%","%","%"],"Category":[null,null,null],"Location":[null,"urban","rural"],"Value":[98.8,99.9,96.6]},"edges":[]}
+{"data":{"Year":[2022,2022,2022,2023,2023,2023],"Units":["%","%","%","%","%","%"],"Category":[null,null,null,null,null,null],"Location":[null,"urban","rural",null,"urban","rural"],"Value":[98.8,99.9,96.6,98.6,99.6,97.2]},"edges":[]}

@@ -1,8 +1,8 @@
 Year,Units,Age,Category,Value
-2015,%,total,physical violence,4.5
-2015,%,total,sexual violence,0.3
-2021,%,total,physical violence,3.5
-2021,%,total,sexual violence,1.9
+2015,%,total(15-49),physical violence,4.5
+2015,%,total(15-49),sexual violence,0.3
+2021,%,total(15-59),physical violence,3.5
+2021,%,total(15-59),sexual violence,1.9
 2021,%,15-24,physical violence,3.1
 2021,%,25-34,physical violence,4.1
 2021,%,35-44,physical violence,4.0
@@ -11,13 +11,14 @@ Year,Units,Age,Category,Value
 2021,%,25-34,sexual violence,1.6
 2021,%,35-44,sexual violence,2.5
 2021,%,45-59,sexual violence,1.6
-2021,%,total,physical and/or sexual violence,4.6
+2021,%,total (15-59),physical and/or sexual violence,4.6
 2021,%,15-24,physical and/or sexual violence,5.7
 2021,%,25-34,physical and/or sexual violence,5.0
 2021,%,35-44,physical and/or sexual violence,5.3
 2021,%,45-59,physical and/or sexual violence,3.8
-2021,%,total,psychological violence,13.0
+2021,%,total(15-59),psychological violence,13.0
 2021,%,15-24,psychological violence,15.7
 2021,%,25-34,psychological violence,34.8
 2021,%,35-44,psychological violence,29.9
 2021,%,45-59,psychological violence,30.0
+2015,%,total (15-49),physical and/or sexual violence,8.2

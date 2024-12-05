@@ -1595,22 +1595,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -3724,20 +3722,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Membership",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UNCLOS",
+                "Part_XI",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       },
@@ -9615,11 +9625,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
+                "total(15-49)",
+                "total(15-59)",
                 "15-24",
                 "25-34",
                 "35-44",
                 "45-59",
+                "total (15-59)",
+                "total (15-49)",
                 ""
               ]
             }
@@ -10249,6 +10262,7 @@
             "constraints": {
               "enum": [
                 "%",
+                "male",
                 ""
               ]
             }
