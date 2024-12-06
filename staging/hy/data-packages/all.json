@@ -11105,7 +11105,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -11113,14 +11113,26 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Number of applicable proxies",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Proxy E",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Not available",
+                ""
+              ]
+            },
+            "title": "Proxy E"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
             "title": "Value"
           }
         ]

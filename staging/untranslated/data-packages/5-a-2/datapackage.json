@@ -12,20 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "Number of applicable proxies",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Proxy E",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Not available",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       }
