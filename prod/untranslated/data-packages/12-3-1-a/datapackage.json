@@ -20,6 +20,7 @@
             "constraints": {
               "enum": [
                 "1,000 tons",
+                "%",
                 ""
               ]
             }
@@ -30,6 +31,7 @@
             "constraints": {
               "enum": [
                 "Food loss",
+                "Share of food loss in total supply",
                 ""
               ]
             }

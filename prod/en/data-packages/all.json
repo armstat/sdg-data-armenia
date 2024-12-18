@@ -2930,6 +2930,7 @@
             "constraints": {
               "enum": [
                 "1,000 tons",
+                "%",
                 ""
               ]
             },
@@ -2941,6 +2942,7 @@
             "constraints": {
               "enum": [
                 "Food loss",
+                "Share of food loss in total supply",
                 ""
               ]
             },
@@ -11105,7 +11107,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -11113,14 +11115,26 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Number of applicable proxies",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Proxy E",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Not available",
+                ""
+              ]
+            },
+            "title": "Proxy E"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -12164,7 +12178,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -12172,6 +12186,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "kv",
                 ""
               ]
             },
@@ -12179,7 +12194,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
