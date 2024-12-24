@@ -11254,11 +11254,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
                 ""
@@ -11267,7 +11267,7 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
