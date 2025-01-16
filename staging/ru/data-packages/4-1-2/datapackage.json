@@ -31,13 +31,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Начальное",
+                "Primary",
                 "Lower secondary",
                 "Upper secondary",
                 ""
               ]
             },
-            "title": "Уровень образования"
+            "title": "Education level"
           },
           {
             "name": "Value",

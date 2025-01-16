@@ -1,5 +1,5 @@
-Year,Units,Уровень образования,Subject,Value
-2003,%,Начальное,Математика,43
-2011,%,Начальное,Математика,41
-2015,%,Начальное,Математика,55
-2019,%,Начальное,Математика,64
+Year,Units,Education level,Subject,Value
+2003,%,Primary,Mathematics,43
+2011,%,Primary,Mathematics,41
+2015,%,Primary,Mathematics,55
+2019,%,Primary,Mathematics,64

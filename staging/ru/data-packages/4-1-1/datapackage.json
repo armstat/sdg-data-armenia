@@ -31,18 +31,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Начальное",
+                "Primary",
                 ""
               ]
             },
-            "title": "Уровень образования"
+            "title": "Education level"
           },
           {
             "name": "Subject",
             "type": "string",
             "constraints": {
               "enum": [
-                "Математика",
+                "Mathematics",
                 ""
               ]
             },
