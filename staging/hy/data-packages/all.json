@@ -9489,18 +9489,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary",
+                "Տարրական",
                 ""
               ]
             },
-            "title": "Education level"
+            "title": "Կրթական մակարդակ"
           },
           {
             "name": "Subject",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mathematics",
+                "Մաթեմատիկա",
                 ""
               ]
             },
@@ -9686,7 +9686,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mathematics",
+                "Մաթեմատիկա",
                 ""
               ]
             },
@@ -9732,13 +9732,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary",
+                "Տարրական",
                 "Lower secondary",
                 "Upper secondary",
                 ""
               ]
             },
-            "title": "Education level"
+            "title": "Կրթական մակարդակ"
           },
           {
             "name": "Value",
@@ -10405,7 +10405,7 @@
             "constraints": {
               "enum": [
                 "Pre-primary",
-                "Primary",
+                "Տարրական",
                 "Lower secondary",
                 "Upper secondary",
                 ""

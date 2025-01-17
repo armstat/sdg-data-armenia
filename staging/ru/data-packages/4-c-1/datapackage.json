@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Pre-primary",
-                "Primary",
+                "Начальное",
                 "Lower secondary",
                 "Upper secondary",
                 ""

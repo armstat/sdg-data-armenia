@@ -31,18 +31,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary",
+                "Տարրական",
                 ""
               ]
             },
-            "title": "Education level"
+            "title": "Կրթական մակարդակ"
           },
           {
             "name": "Subject",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mathematics",
+                "Մաթեմատիկա",
                 ""
               ]
             },

@@ -9489,18 +9489,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary",
+                "Начальное",
                 ""
               ]
             },
-            "title": "Education level"
+            "title": "Уровень образования"
           },
           {
             "name": "Subject",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mathematics",
+                "Математика",
                 ""
               ]
             },
@@ -9686,7 +9686,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mathematics",
+                "Математика",
                 ""
               ]
             },
@@ -9732,13 +9732,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary",
+                "Начальное",
                 "Lower secondary",
                 "Upper secondary",
                 ""
               ]
             },
-            "title": "Education level"
+            "title": "Уровень образования"
           },
           {
             "name": "Value",
@@ -10405,7 +10405,7 @@
             "constraints": {
               "enum": [
                 "Pre-primary",
-                "Primary",
+                "Начальное",
                 "Lower secondary",
                 "Upper secondary",
                 ""

@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Pre-primary",
-                "Primary",
+                "Տարրական",
                 "Lower secondary",
                 "Upper secondary",
                 ""
