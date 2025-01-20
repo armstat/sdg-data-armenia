@@ -84,6 +84,7 @@ child with two parents: child with two parents
 single mother child: single mother child
 left without parental care: left without parental care
 other: other
+point: point
 natural disaster: natural disaster
 man-made disaster: man-made disaster
 social-biological disaster: social-biological disaster
@@ -226,4 +227,7 @@ boy: boy
 girl: girl
 Education level: Education level
 Primary: Primary
+Upper secondary: Upper secondary
+Lower secondary: Lower secondary
+
 Mathematics: Mathematics
