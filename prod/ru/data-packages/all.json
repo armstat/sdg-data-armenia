@@ -1790,18 +1790,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "WTO",
-                "UNGA",
+                "ВТО",
+                "ГАООН",
                 "IRDB",
                 "IRBD",
-                "IMF",
-                "IFC",
-                "ECOSOC",
-                "ADB",
+                "МВФ",
+                "МФК",
+                "ЕКАСОС",
+                "АзБР",
                 ""
               ]
             },
-            "title": "Agency"
+            "title": "Агентство"
           },
           {
             "name": "Value",
@@ -5630,18 +5630,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "WTO",
-                "UNGA",
+                "ВТО",
+                "ГАООН",
                 "IRDB",
                 "IRBD",
-                "IMF",
-                "IFC",
-                "ECOSOC",
-                "ADB",
+                "МВФ",
+                "МФК",
+                "ЕКАСОС",
+                "АзБР",
                 ""
               ]
             },
-            "title": "Agency"
+            "title": "Агентство"
           },
           {
             "name": "Value",
