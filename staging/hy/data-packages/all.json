@@ -9733,8 +9733,8 @@
             "constraints": {
               "enum": [
                 "Տարրական",
-                "Lower secondary",
-                "Upper secondary",
+                "Միջին",
+                "Ավագ",
                 ""
               ]
             },
@@ -10132,7 +10132,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Upper secondary",
+                "Ավագ",
                 ""
               ]
             },
@@ -10406,8 +10406,8 @@
               "enum": [
                 "Pre-primary",
                 "Տարրական",
-                "Lower secondary",
-                "Upper secondary",
+                "Միջին",
+                "Ավագ",
                 ""
               ]
             },

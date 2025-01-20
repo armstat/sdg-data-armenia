@@ -22,8 +22,8 @@
               "enum": [
                 "Pre-primary",
                 "Տարրական",
-                "Lower secondary",
-                "Upper secondary",
+                "Միջին",
+                "Ավագ",
                 ""
               ]
             },

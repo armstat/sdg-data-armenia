@@ -22,8 +22,8 @@
               "enum": [
                 "Pre-primary",
                 "Начальное",
-                "Lower secondary",
-                "Upper secondary",
+                "Среднее",
+                "Высшее",
                 ""
               ]
             },

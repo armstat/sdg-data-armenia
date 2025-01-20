@@ -32,8 +32,8 @@
             "constraints": {
               "enum": [
                 "Տարրական",
-                "Lower secondary",
-                "Upper secondary",
+                "Միջին",
+                "Ավագ",
                 ""
               ]
             },

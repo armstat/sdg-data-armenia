@@ -9733,8 +9733,8 @@
             "constraints": {
               "enum": [
                 "Начальное",
-                "Lower secondary",
-                "Upper secondary",
+                "Среднее",
+                "Высшее",
                 ""
               ]
             },
@@ -10132,7 +10132,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Upper secondary",
+                "Высшее",
                 ""
               ]
             },
@@ -10406,8 +10406,8 @@
               "enum": [
                 "Pre-primary",
                 "Начальное",
-                "Lower secondary",
-                "Upper secondary",
+                "Среднее",
+                "Высшее",
                 ""
               ]
             },

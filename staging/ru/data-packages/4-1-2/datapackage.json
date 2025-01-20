@@ -32,8 +32,8 @@
             "constraints": {
               "enum": [
                 "Начальное",
-                "Lower secondary",
-                "Upper secondary",
+                "Среднее",
+                "Высшее",
                 ""
               ]
             },
