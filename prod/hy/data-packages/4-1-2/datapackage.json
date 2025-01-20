@@ -31,13 +31,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary",
-                "Lower secondary",
-                "Upper secondary",
+                "Տարրական",
+                "Միջին",
+                "Ավագ",
                 ""
               ]
             },
-            "title": "Education level"
+            "title": "Կրթական մակարդակ"
           },
           {
             "name": "Value",
