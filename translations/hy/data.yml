@@ -225,10 +225,14 @@ unit macro: մլն. դրամ, դրամ, %
 boy: տղա
 girl: աղջիկ
 Education level: Կրթական մակարդակ
-Primary: Տարրական
-Lower secondary: Միջին
-Upper secondary: Ավագ
-Mathematics: Մաթեմատիկա
+Pre-primary: նախադպրոցական
+Primary: տարրական
+Lower secondary: հիմնական
+Upper secondary: ավագ
+Mathematics: մաթեմատիկա
+Completion rate based on the adjusted gender parity index: Ավարտելիության մակարդակն ըստ ճշգրտված գենդերային հավասարության համաթվի
+Subject: Առարկա
+Armenian language: Հայոց լեզու
 Data last updated: Տվյալների վերջին թարմացում
 Metadata last updated: Մեթատվյալների վերջին թարմացում
 Agency: Գործակալություն
