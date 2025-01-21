@@ -9489,7 +9489,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Տարրական",
+                "տարրական",
                 ""
               ]
             },
@@ -9500,11 +9500,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Մաթեմատիկա",
+                "մաթեմատիկա",
                 ""
               ]
             },
-            "title": "Subject"
+            "title": "Առարկա"
           },
           {
             "name": "Value",
@@ -9640,11 +9640,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Armenian language",
+                "Հայոց լեզու",
                 ""
               ]
             },
-            "title": "Subject"
+            "title": "Առարկա"
           },
           {
             "name": "Value",
@@ -9686,11 +9686,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Մաթեմատիկա",
+                "մաթեմատիկա",
                 ""
               ]
             },
-            "title": "Subject"
+            "title": "Առարկա"
           },
           {
             "name": "Value",
@@ -9732,9 +9732,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Տարրական",
-                "Միջին",
-                "Ավագ",
+                "տարրական",
+                "հիմնական",
+                "ավագ",
                 ""
               ]
             },
@@ -9859,15 +9859,16 @@
             "title": "Units"
           },
           {
-            "name": "Age group",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "One year before than official primary entry age (5 years old)",
+                "5 years",
+                "5 years old",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Տարիք"
           },
           {
             "name": "Value",
@@ -10132,7 +10133,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ավագ",
+                "ավագ",
                 ""
               ]
             },
@@ -10404,10 +10405,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Pre-primary",
-                "Տարրական",
-                "Միջին",
-                "Ավագ",
+                "նախադպրոցական",
+                "տարրական",
+                "հիմնական",
+                "ավագ",
                 ""
               ]
             },

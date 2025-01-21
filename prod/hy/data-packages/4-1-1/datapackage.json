@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Տարրական",
+                "տարրական",
                 ""
               ]
             },
@@ -42,11 +42,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Մաթեմատիկա",
+                "մաթեմատիկա",
                 ""
               ]
             },
-            "title": "Subject"
+            "title": "Առարկա"
           },
           {
             "name": "Value",
