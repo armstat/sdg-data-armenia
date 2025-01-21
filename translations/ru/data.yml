@@ -225,10 +225,14 @@ unit macro: млн. драм, драм, %
 boy: мальчик
 girl: девочка
 Education level: Уровень образования
-Primary: Начальное
-Lower secondary: Среднее
-Upper secondary: Высшее
-Mathematics: Математика
+Pre-primary: дошкольное
+Primary: nачальное
+Lower secondary: nеполное среднее
+Upper secondary: pолное среднее
+Mathematics: mатематика
+Completion rate based on the adjusted gender parity index: Уровень завершения по скорректированному индексу гендерного равенства
+Subject: Предмет
+Armenian language: Армянский язык
 Data last updated: Последнее обновление данных
 Metadata last updated: Последнее обновление метаданных
 Agency: Агентство
