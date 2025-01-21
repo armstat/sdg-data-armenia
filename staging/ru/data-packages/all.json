@@ -9489,7 +9489,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Начальное",
+                "nачальное",
                 ""
               ]
             },
@@ -9500,11 +9500,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Математика",
+                "mатематика",
                 ""
               ]
             },
-            "title": "Subject"
+            "title": "Предмет"
           },
           {
             "name": "Value",
@@ -9640,11 +9640,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Armenian language",
+                "Армянский язык",
                 ""
               ]
             },
-            "title": "Subject"
+            "title": "Предмет"
           },
           {
             "name": "Value",
@@ -9686,11 +9686,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Математика",
+                "mатематика",
                 ""
               ]
             },
-            "title": "Subject"
+            "title": "Предмет"
           },
           {
             "name": "Value",
@@ -9732,9 +9732,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Начальное",
-                "Среднее",
-                "Высшее",
+                "nачальное",
+                "nеполное среднее",
+                "pолное среднее",
                 ""
               ]
             },
@@ -10133,7 +10133,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Высшее",
+                "pолное среднее",
                 ""
               ]
             },
@@ -10405,10 +10405,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Pre-primary",
-                "Начальное",
-                "Среднее",
-                "Высшее",
+                "дошкольное",
+                "nачальное",
+                "nеполное среднее",
+                "pолное среднее",
                 ""
               ]
             },
