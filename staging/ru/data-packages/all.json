@@ -9489,7 +9489,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "nачальное",
+                "Начальное",
                 ""
               ]
             },
@@ -9500,11 +9500,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mатематика",
+                "Математика",
                 ""
               ]
             },
-            "title": "Предмет"
+            "title": "Subject"
           },
           {
             "name": "Value",
@@ -9640,11 +9640,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Армянский язык",
+                "Armenian language",
                 ""
               ]
             },
-            "title": "Предмет"
+            "title": "Subject"
           },
           {
             "name": "Value",
@@ -9686,11 +9686,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mатематика",
+                "Математика",
                 ""
               ]
             },
-            "title": "Предмет"
+            "title": "Subject"
           },
           {
             "name": "Value",
@@ -9732,9 +9732,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "nачальное",
-                "nеполное среднее",
-                "pолное среднее",
+                "Начальное",
+                "Среднее",
+                "Высшее",
                 ""
               ]
             },
@@ -10133,7 +10133,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "pолное среднее",
+                "Высшее",
                 ""
               ]
             },
@@ -10405,10 +10405,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "дошкольное",
-                "nачальное",
-                "nеполное среднее",
-                "pолное среднее",
+                "Pre-primary",
+                "Начальное",
+                "Среднее",
+                "Высшее",
                 ""
               ]
             },
