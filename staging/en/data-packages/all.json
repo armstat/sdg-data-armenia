@@ -9859,15 +9859,16 @@
             "title": "Units"
           },
           {
-            "name": "Age group",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "One year before than official primary entry age (5 years old)",
+                "5 years",
+                "5 years old",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Age"
           },
           {
             "name": "Value",
