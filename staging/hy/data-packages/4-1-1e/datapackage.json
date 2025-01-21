@@ -31,11 +31,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Մաթեմատիկա",
+                "մաթեմատիկա",
                 ""
               ]
             },
-            "title": "Subject"
+            "title": "Առարկա"
           },
           {
             "name": "Value",
