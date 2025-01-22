@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UNCLOS",
+                "Конвенция ООН по морскому праву",
                 "Part_XI",
                 ""
               ]

@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "5 years",
-                "5 years old",
+                "5 лет",
+                "5 лет",
                 ""
               ]
             },
