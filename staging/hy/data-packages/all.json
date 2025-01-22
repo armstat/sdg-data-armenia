@@ -4081,8 +4081,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ՄԱԿ Ծովային իրավունքի մասին կոնվենցիա",
-                "Մաս_XI",
+                "UNCLOS",
+                "Part_XI",
                 ""
               ]
             },
@@ -9863,8 +9863,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "5 տարեկան",
-                "5 տարեկան",
+                "5 years",
+                "5 years old",
                 ""
               ]
             },
@@ -10335,7 +10335,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "միլիոն ԱՄՆ դոլար",
+                "millions USD",
                 ""
               ]
             },
