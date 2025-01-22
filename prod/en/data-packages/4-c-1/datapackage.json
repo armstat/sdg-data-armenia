@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
@@ -27,7 +27,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Education level"
           },
           {
             "name": "Value",

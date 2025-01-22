@@ -9531,7 +9531,7 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [

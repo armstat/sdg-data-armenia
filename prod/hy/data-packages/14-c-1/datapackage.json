@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UNCLOS",
-                "Part_XI",
+                "ՄԱԿ Ծովային իրավունքի մասին կոնվենցիա",
+                "Մաս_XI",
                 ""
               ]
             },
