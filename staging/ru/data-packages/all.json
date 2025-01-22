@@ -4081,7 +4081,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Конвенция ООН по морскому праву",
+                "UNCLOS",
                 "Part_XI",
                 ""
               ]
@@ -9863,8 +9863,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "5 лет",
-                "5 лет",
+                "5 years",
+                "5 years old",
                 ""
               ]
             },
@@ -10335,7 +10335,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "миллион долларов США",
+                "millions USD",
                 ""
               ]
             },
