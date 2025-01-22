@@ -16,18 +16,18 @@
             "title": "Год"
           },
           {
-            "name": "Group",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
-                "Pre-primary",
-                "Начальное",
-                "Среднее",
-                "Высшее",
+                "дошкольное",
+                "nачальное",
+                "nеполное среднее",
+                "pолное среднее",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Уровень образования"
           },
           {
             "name": "Value",

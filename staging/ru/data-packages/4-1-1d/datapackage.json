@@ -31,11 +31,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Armenian language",
+                "Армянский язык",
                 ""
               ]
             },
-            "title": "Subject"
+            "title": "Предмет"
           },
           {
             "name": "Value",

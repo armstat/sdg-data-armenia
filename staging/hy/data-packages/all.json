@@ -10401,7 +10401,7 @@
             "title": "Տարի"
           },
           {
-            "name": "Group",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10412,7 +10412,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Կրթական մակարդակ"
           },
           {
             "name": "Value",
