@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Food loss",
-                "Share of food loss in total supply",
+                "Պարենի կորուստ",
+                "Պարենի կորստի մասնաբաժինն ամբողջական առաջարկում",
                 ""
               ]
             },

@@ -2941,8 +2941,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Food loss",
-                "Share of food loss in total supply",
+                "Պարենի կորուստ",
+                "Պարենի կորստի մասնաբաժինն ամբողջական առաջարկում",
                 ""
               ]
             },
@@ -4086,7 +4086,7 @@
                 ""
               ]
             },
-            "title": "Membership"
+            "title": "անդամակցություն"
           },
           {
             "name": "Value",
@@ -4932,7 +4932,7 @@
                 ""
               ]
             },
-            "title": "Question"
+            "title": "Հարց"
           },
           {
             "name": "Value",
@@ -10122,7 +10122,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "point",
+                "միավոր",
                 ""
               ]
             },
@@ -10137,7 +10137,7 @@
                 ""
               ]
             },
-            "title": "Completion rate adjusted GPI by education level"
+            "title": "Ավարտելիության մակարդակն ըստ ճշգրտված գենդերային հավասարության համաթվի"
           },
           {
             "name": "Value",
