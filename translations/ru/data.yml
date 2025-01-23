@@ -208,6 +208,8 @@ public transportation: общественный транспорт
 Services: услуги
 disabled: инвалиды
 proportion of households with primary reliance on clean fuels and technology: доля домашних хозяйств, которые в первую очередь полагаются на чистое топливо и технологии
+Food loss: Потери продовольствия
+Share of food loss in total supply: Доля потерь продовольствия в общем объеме
 Share of total areas under protection in the total area of the country: общая площадь особо охраняемых природных территорий в процентах от площади страны
 State reserves(Category Ib), quantity: общее количество государственных заповедников (категория Ib)
 Share of State reserves(Category Ib) in the total area of the country: общая площадь государственных заповедников (категория Iб) в % от территории страны
@@ -230,7 +232,8 @@ Primary: nачальное
 Lower secondary: nеполное среднее
 Upper secondary: pолное среднее
 Mathematics: mатематика
-Completion rate based on the adjusted gender parity index: Уровень завершения по скорректированному индексу гендерного равенства
+Completion rate adjusted GPI by education level: Уровень завершения по скорректированному индексу гендерного равенства
+point: единица
 5 years: 5 лет
 5 years old: 5 лет
 millions USD: миллион долларов США
@@ -250,6 +253,7 @@ ADB: АзБР
 IDB: МАБР 
 WTO: ВТО
 FSB: СФС
-membership: членство
+Membership: членство
 UNCLOS: Конвенция ООН по морскому праву
 Part_XI: Part_XI
+Question: Вопрос
