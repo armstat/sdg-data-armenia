@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "единица",
+                "point",
                 ""
               ]
             },
@@ -35,7 +35,7 @@
                 ""
               ]
             },
-            "title": "Уровень завершения по скорректированному индексу гендерного равенства"
+            "title": "Completion rate adjusted GPI by education level"
           },
           {
             "name": "Value",
