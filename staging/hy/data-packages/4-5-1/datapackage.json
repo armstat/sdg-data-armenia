@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "point",
+                "միավոր",
                 ""
               ]
             },
@@ -35,7 +35,7 @@
                 ""
               ]
             },
-            "title": "Completion rate adjusted GPI by education level"
+            "title": "Ավարտելիության մակարդակն ըստ ճշգրտված գենդերային հավասարության համաթվի"
           },
           {
             "name": "Value",

@@ -2941,8 +2941,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Food loss",
-                "Share of food loss in total supply",
+                "Потери продовольствия",
+                "Доля потерь продовольствия в общем объеме",
                 ""
               ]
             },
@@ -4086,7 +4086,7 @@
                 ""
               ]
             },
-            "title": "Membership"
+            "title": "членство"
           },
           {
             "name": "Value",
@@ -4932,7 +4932,7 @@
                 ""
               ]
             },
-            "title": "Question"
+            "title": "Вопрос"
           },
           {
             "name": "Value",
@@ -10122,7 +10122,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "point",
+                "единица",
                 ""
               ]
             },
@@ -10137,7 +10137,7 @@
                 ""
               ]
             },
-            "title": "Completion rate adjusted GPI by education level"
+            "title": "Уровень завершения по скорректированному индексу гендерного равенства"
           },
           {
             "name": "Value",
