@@ -208,6 +208,8 @@ healthcare: healthcare
 public transportation: public transportation
 Services: Services
 disabled: disabled
+Food loss: Food loss
+Share of food loss in total supply: Share of food loss in total supply
 proportion of households with primary reliance on clean fuels and technology: proportion of households with primary reliance on clean fuels and technology
 Share of total areas under protection in the total area of the country: Total area of specially protected areas as a percentage of country area
 State reserves(Category Ib), quantity: Total number of state reserves (category Ib)
@@ -232,7 +234,8 @@ Armenian language: Armenian language
 Upper secondary: Upper secondary
 Lower secondary: Lower secondary
 Mathematics: Mathematics
-Completion rate based on the adjusted gender parity index: Completion rate based on the adjusted gender parity index
+Completion rate adjusted GPI by education level: Completion rate adjusted GPI by education level
+point: point
 5 years: 5 years
 5 years old: 5 years old
 millions USD: millions USD
@@ -250,6 +253,7 @@ ADB: ADB
 IDB: IDB 
 WTO: WTO
 FSB: FSB
-membership: membership
+Membership: membership
 UNCLOS: UNCLOS
 Part_XI: Part_XI
+Question: Question
