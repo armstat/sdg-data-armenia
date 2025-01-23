@@ -208,6 +208,8 @@ public transportation: հասարակական տրանսպորտ
 Services: Ծառայություններ
 disabled: հաշմանդամներ
 proportion of households with primary reliance on clean fuels and technology: մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների մասնաբաժինը
+Food loss: Պարենի կորուստ
+Share of food loss in total supply: Պարենի կորստի մասնաբաժինն ամբողջական առաջարկում
 Share of total areas under protection in the total area of the country: Հատուկ պահպանվող տարածքների ընդհանուր մակերեսը %-ով երկրի տարածքի նկատմամբ
 State reserves(Category Ib), quantity: Պետական արգելոցների (կատեգորիա Ib) ընդհանուր քանակը
 Share of State reserves(Category Ib) in the total area of the country: Պետական արգելոցների (կատեգորիա Ib) ընդհանուր մակերեսը %-ով երկրի տարածքի նկատմամբ
@@ -230,7 +232,8 @@ Primary: տարրական
 Lower secondary: հիմնական
 Upper secondary: ավագ
 Mathematics: մաթեմատիկա
-Completion rate based on the adjusted gender parity index: Ավարտելիության մակարդակն ըստ ճշգրտված գենդերային հավասարության համաթվի
+Completion rate adjusted GPI by education level: Ավարտելիության մակարդակն ըստ ճշգրտված գենդերային հավասարության համաթվի
+point: միավոր
 5 years: 5 տարեկան
 5 years old: 5 տարեկան
 millions USD: միլիոն ԱՄՆ դոլար
@@ -250,6 +253,7 @@ ADB: ԱԶԲ (Ասիական զարգացման բանկ)
 IDB: ՄԱԶԲ (Միջամերիկյան զարգացման բանկ)
 WTO: ԱՀԿ (Առևտրի համաշխարհային կազմակերպություն)
 FSB: ՖԿԽ (Ֆինանսական կայունության խորհուրդ)
-membership: անդամակցություն
+Membership: անդամակցություն
 UNCLOS: ՄԱԿ Ծովային իրավունքի մասին կոնվենցիա
 Part_XI: Մաս_XI
+Question: Հարց
