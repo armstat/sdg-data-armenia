@@ -9630,7 +9630,7 @@
           }
         ]
       },
-      "title": "meta.name-4-1-1b"
+      "title": "4-1-1b"
     },
     {
       "path": "4-1-1c/data.csv",
@@ -9723,7 +9723,7 @@
           }
         ]
       },
-      "title": "meta.name-4-1-1d"
+      "title": "4-1-1d"
     },
     {
       "path": "4-1-1e/data.csv",
@@ -13706,6 +13706,30 @@
       "title": "Բջջային ցանցի ծածկույթ ունեցող բնակչության համամասնությունը ըստ տեխնոլոգիայի"
     },
     {
+      "path": "4-1-1-b/data.csv",
+      "name": "4-1-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Տարի"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Երեխաների մասնաբաժինը տարրական դպրոցն ավարտելիս, ովքեր ձեռք են բերել առնվազն գիտելիքների նվազագույն մակարդակ (i)ընթերցանությունից և (ii) մաթեմատիկայից"
+    },
+    {
       "path": "4-1-1-c/data.csv",
       "name": "4-1-1-c",
       "profile": "tabular-data-resource",
@@ -13728,6 +13752,30 @@
         ]
       },
       "title": "Երեխաների մասնաբաժինը հիմնական դպրոցն ավարտելիս, ովքեր ձեռք են բերել առնվազն գիտելիքների նվազագույն մակարդակ (i) ընթերցանությունից և (ii) մաթեմատիկայից"
+    },
+    {
+      "path": "4-1-1-d/data.csv",
+      "name": "4-1-1-d",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Տարի"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Երեխաների և երիտասարդների համամասնությունը հիմնական դպրոցն ավարտելիս, ովքեր ստացել են առնվազն նվազագույն միավոր 9-րդ դասարանի ավարտական քննություններից (i) հայոց լեզվից"
     }
   ]
 }

@@ -9630,7 +9630,7 @@
           }
         ]
       },
-      "title": "meta.name-4-1-1b"
+      "title": "4-1-1b"
     },
     {
       "path": "4-1-1c/data.csv",
@@ -9723,7 +9723,7 @@
           }
         ]
       },
-      "title": "meta.name-4-1-1d"
+      "title": "4-1-1d"
     },
     {
       "path": "4-1-1e/data.csv",
@@ -13706,6 +13706,30 @@
       "title": "Proportion of population covered by a mobile network, by technology"
     },
     {
+      "path": "4-1-1-b/data.csv",
+      "name": "4-1-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "The share of children at the end of primary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics"
+    },
+    {
       "path": "4-1-1-c/data.csv",
       "name": "4-1-1-c",
       "profile": "tabular-data-resource",
@@ -13728,6 +13752,30 @@
         ]
       },
       "title": "The share of children at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics"
+    },
+    {
+      "path": "4-1-1-d/data.csv",
+      "name": "4-1-1-d",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of children and young people who, at the end of lower secondary education, achieved at least the minimum score in the 9th-grade completion exam in (i) Armenian language"
     }
   ]
 }
