@@ -9669,6 +9669,52 @@
       "title": "Երեխաների և երիտասարդների համամասնությունը հիմնական դպրոցն ավարտելիս, ովքեր ստացել են առնվազն նվազագույն միավոր 9-րդ դասարանի ավարտական քննություններից (i) հայոց լեզվից"
     },
     {
+      "path": "4-1-1-e/data.csv",
+      "name": "4-1-1-e",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Տարի"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Subject",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "մաթեմատիկա",
+                ""
+              ]
+            },
+            "title": "Առարկա"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Երեխաների և երիտասարդների համամասնությունը հիմնական դպրոցն ավարտելիս, ովքեր ստացել են առնվազն նվազագույն միավոր 9-րդ դասարանի ավարտական քննություններից (ii) մաթեմատիկայից"
+    },
+    {
       "path": "4-1-1/data.csv",
       "name": "4-1-1",
       "profile": "tabular-data-resource",
@@ -9724,52 +9770,6 @@
         ]
       },
       "title": "Երեխաների և երիտասարդների համամասնությունը՝ (ա) 2-րդ կամ 3-րդ դասարաններում, (բ) տարրական դպրոցն ավարտելիս, (գ) հիմնական դպրոցն ավարտելիս, ովքեր ձեռք են բերել առնվազն գիտելիքների նվազագույն մակարդակ (i) ընթերցանությունից և (ii) մաթեմատիկայից՝ ըստ սեռի"
-    },
-    {
-      "path": "4-1-1e/data.csv",
-      "name": "4-1-1e",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Subject",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "մաթեմատիկա",
-                ""
-              ]
-            },
-            "title": "Առարկա"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "4-1-1e"
     },
     {
       "path": "4-1-2/data.csv",
@@ -13704,30 +13704,6 @@
         ]
       },
       "title": "Բջջային ցանցի ծածկույթ ունեցող բնակչության համամասնությունը ըստ տեխնոլոգիայի"
-    },
-    {
-      "path": "4-1-1-e/data.csv",
-      "name": "4-1-1-e",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Տարի"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Երեխաների և երիտասարդների համամասնությունը հիմնական դպրոցն ավարտելիս, ովքեր ստացել են առնվազն նվազագույն միավոր 9-րդ դասարանի ավարտական քննություններից (ii) մաթեմատիկայից"
     }
   ]
 }
