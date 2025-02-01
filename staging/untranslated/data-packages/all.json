@@ -8732,6 +8732,49 @@
       "title": "global_indicators.3-d-2-title"
     },
     {
+      "path": "4-1-1-b/data.csv",
+      "name": "4-1-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "male",
+                "female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "meta.name-4-1-1-b"
+    },
+    {
       "path": "4-1-1/data.csv",
       "name": "4-1-1",
       "profile": "tabular-data-resource",
@@ -8782,49 +8825,6 @@
         ]
       },
       "title": "global_indicators.4-1-1-title"
-    },
-    {
-      "path": "4-1-1b/data.csv",
-      "name": "4-1-1b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "male",
-                "female",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "4-1-1b"
     },
     {
       "path": "4-1-1c/data.csv",
@@ -12556,28 +12556,6 @@
         ]
       },
       "title": "global_indicators.9-c-1-title"
-    },
-    {
-      "path": "4-1-1-b/data.csv",
-      "name": "4-1-1-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "meta.name-4-1-1-b"
     },
     {
       "path": "4-1-1-c/data.csv",

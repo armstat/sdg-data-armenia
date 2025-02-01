@@ -12,8 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "мужчина",
+                "женщина",
+                ""
+              ]
+            },
+            "title": "Пол"
           },
           {
             "name": "Value",
