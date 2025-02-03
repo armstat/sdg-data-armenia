@@ -29,6 +29,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-10-2,Question,1
 #16-2-1,Sex,1
 #16-2-2,"Sex, Age, Category",3
+#16-6-1,Division,1
 #16-6-2,"Sex, Location, Age, Category, Quintiles, Services",6
 #16-8-1,Agency,1
 #16-9-1,Sex,1

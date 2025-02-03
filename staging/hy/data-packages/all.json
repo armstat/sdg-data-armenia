@@ -5464,7 +5464,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -5472,14 +5472,35 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Division",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "general public services",
+                "defence",
+                "public order, security and judicial activities",
+                "economic relations",
+                "environmental protection",
+                "housing construction and communal services",
+                "առողջապահություն",
+                "recreation, culture and religion",
+                "կրթություն",
+                "սոցիալական պաշտպանություն",
+                ""
+              ]
+            },
+            "title": "Division"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
