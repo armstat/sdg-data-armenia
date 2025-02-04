@@ -31,14 +31,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "general public services",
-                "defence",
-                "public order, security and judicial activities",
-                "economic relations",
-                "environmental protection",
-                "housing construction and communal services",
-                "здравоохранение",
-                "recreation, culture and religion",
+                "государственные услуги общего характера",
+                "защита",
+                "общественный порядок, безопасность и судебная деятельность",
+                "экономические отношения",
+                "защита окружающей среды",
+                "жилищное строительство и коммунальние услуги",
+                "здоровье",
+                "отдых, культура и религия",
                 "образование",
                 "социальная защита",
                 ""
