@@ -1282,8 +1282,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "non poor",
-                "poor",
+                null,
+                null,
                 "very poor",
                 ""
               ]
