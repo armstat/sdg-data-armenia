@@ -12095,53 +12095,6 @@
       "title": "Доля населения, имеющего доступ к электроэнергии"
     },
     {
-      "path": "7-1-2-a/data.csv",
-      "name": "7-1-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Год"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "город",
-                "село",
-                ""
-              ]
-            },
-            "title": "Место нахождения"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Доля домохозяйств, которые в первую очередь полагаются на чистое топливо и технологии"
-    },
-    {
       "path": "7-1-2/data.csv",
       "name": "7-1-2",
       "profile": "tabular-data-resource",
@@ -13725,6 +13678,30 @@
         ]
       },
       "title": "Доля населения, охваченного мобильными сетями, в разбивке по технологиям"
+    },
+    {
+      "path": "7-1-2-a/data.csv",
+      "name": "7-1-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Доля домохозяйств, которые в первую очередь полагаются на чистое топливо и технологии"
     }
   ]
 }
