@@ -5483,14 +5483,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "general public services",
-                "defence",
-                "public order, security and judicial activities",
-                "economic relations",
-                "environmental protection",
-                "housing construction and communal services",
+                "ընդհանուր բնույթի հանրային ծառայություններ",
+                "պաշտպանություն",
+                "հասարակական կարգ,  անվտանգություն եվ դատական գործունեություն",
+                "տնտեսական հարաբերություններ",
+                "շրջակա  միջավայրի պաշտպանություն",
+                "բնակարանային շինարարություն եվ կոմունալ ծառայություններ",
                 "առողջապահություն",
-                "recreation, culture and religion",
+                "հանգիստ, մշակույթ եվ կրոն",
                 "կրթություն",
                 "սոցիալական պաշտպանություն",
                 ""
