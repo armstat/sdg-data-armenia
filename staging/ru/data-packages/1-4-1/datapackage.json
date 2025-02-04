@@ -74,13 +74,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "non poor",
-                "poor",
+                "не бедный",
+                "бедный",
                 "very poor",
                 ""
               ]
             },
-            "title": "Poverty"
+            "title": "Бедность"
           },
           {
             "name": "Value",
