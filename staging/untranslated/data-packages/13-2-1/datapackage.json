@@ -12,20 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "Nationally Determined Contributions",
+                "Nationally Adaptation Plan",
+                "Long Tearm Strategy",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       }

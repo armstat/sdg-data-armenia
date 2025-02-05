@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -20,6 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Nationally Determined Contributions",
+                "Nationally Adaptation Plan",
+                "Long Tearm Strategy",
                 ""
               ]
             },
@@ -27,7 +30,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
