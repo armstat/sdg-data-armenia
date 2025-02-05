@@ -7734,6 +7734,38 @@
       "title": "global_indicators.3-5-1-title"
     },
     {
+      "path": "3-5-2-a (1)/data.csv",
+      "name": "3-5-2-a (1)",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "liter",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "3-5-2-a (1)"
+    },
+    {
       "path": "3-5-2-a/data.csv",
       "name": "3-5-2-a",
       "profile": "tabular-data-resource",
@@ -8613,38 +8645,6 @@
       "title": "global_indicators.3-b-3-title"
     },
     {
-      "path": "3-c-1-a/data.csv",
-      "name": "3-c-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "per 10,000 population",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "meta.name-3-c-1-a"
-    },
-    {
       "path": "3-c-1/data.csv",
       "name": "3-c-1",
       "profile": "tabular-data-resource",
@@ -8687,6 +8687,38 @@
         ]
       },
       "title": "global_indicators.3-c-1-title"
+    },
+    {
+      "path": "3-c-1-a/data.csv",
+      "name": "3-c-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per 10,000 population",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "meta.name-3-c-1-a"
     },
     {
       "path": "3-d-1/data.csv",
