@@ -17,18 +17,20 @@ Indicator,Disaggregations,Number of disaggregations
 #1-a-2,Category,1
 #10-1-1,Category,1
 #10-6-1,Agency,1
-#11-1-1-a,UNITS,1
+#11-1-1-a,"Sex, Location, Category, Poverty, UNITS, Quintiles",6
 #11-5-1,Disaster type,1
 #12-2-2-a,Category,1
 #12-3-1-a,Category,1
 #12-4-2,Type,1
 #13-1-1,Disaster type,1
+#13-2-1,Group,1
 #14-c-1,Membership,1
 #15-1-2-a,Type,1
 #15-5-1,Group,1
 #16-10-2,Question,1
 #16-2-1,Sex,1
 #16-2-2,"Sex, Age, Category",3
+#16-6-1,Division,1
 #16-6-2,"Sex, Location, Age, Category, Quintiles, Services",6
 #16-8-1,Agency,1
 #16-9-1,Sex,1
@@ -84,9 +86,7 @@ Indicator,Disaggregations,Number of disaggregations
 #6-2-1-a,Location,1
 #6-2-1-b,Location,1
 #7-1-1,Location,1
-#7-1-1-a,Location,1
 #7-1-2,Location,1
-#7-1-2-a,Location,1
 #8-10-2,Sex,1
 #8-3-1,"Sex, Location, Age, Category",4
 #8-4-2-a,Category,1

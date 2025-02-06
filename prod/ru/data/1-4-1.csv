@@ -1,4 +1,4 @@
-Year,Access to servises,Units,Место нахождения,Пол,Poverty,Value
+Year,Access to servises,Units,Место нахождения,Пол,Бедность,Value
 2015,centralized water supply accessibility for household members,%,,,,97.3
 2016,centralized water supply accessibility for household members,%,,,,97.9
 2017,centralized water supply accessibility for household members,%,,,,97.3
@@ -62,27 +62,6 @@ Year,Access to servises,Units,Место нахождения,Пол,Poverty,Val
 2019,garbage disposal accessibility for household members,%,село,,,89.0
 2020,garbage disposal accessibility for household members,%,село,,,92.6
 2021,garbage disposal accessibility for household members,%,село,,,89.5
-2015,доступ домашнего хозяйства к интернету,%,,,,61.2
-2016,доступ домашнего хозяйства к интернету,%,,,,74.7
-2017,доступ домашнего хозяйства к интернету,%,,,,64.7
-2018,доступ домашнего хозяйства к интернету,%,,,,68.2
-2019,доступ домашнего хозяйства к интернету,%,,,,69.1
-2020,доступ домашнего хозяйства к интернету,%,,,,73.0
-2021,доступ домашнего хозяйства к интернету,%,,,,73.3
-2015,доступ домашнего хозяйства к интернету,%,город,,,64.4
-2016,доступ домашнего хозяйства к интернету,%,город,,,77.9
-2017,доступ домашнего хозяйства к интернету,%,город,,,68.1
-2018,доступ домашнего хозяйства к интернету,%,город,,,73.1
-2019,доступ домашнего хозяйства к интернету,%,город,,,61.2
-2020,доступ домашнего хозяйства к интернету,%,город,,,71.6
-2021,доступ домашнего хозяйства к интернету,%,город,,,68.5
-2015,доступ домашнего хозяйства к интернету,%,село,,,55.3
-2016,доступ домашнего хозяйства к интернету,%,село,,,68.7
-2017,доступ домашнего хозяйства к интернету,%,село,,,59.4
-2018,доступ домашнего хозяйства к интернету,%,село,,,60.3
-2019,доступ домашнего хозяйства к интернету,%,село,,,66.4
-2020,доступ домашнего хозяйства к интернету,%,село,,,72.5
-2021,доступ домашнего хозяйства к интернету,%,село,,,71.6
 2015,доступ членов домашнего хозяйства к интернету,%,,,,59.1
 2016,доступ членов домашнего хозяйства к интернету,%,,,,64.3
 2017,доступ членов домашнего хозяйства к интернету,%,,,,64.7
@@ -125,8 +104,6 @@ Year,Access to servises,Units,Место нахождения,Пол,Poverty,Val
 2019,electricity supply accessibility for household members,%,село,,,100.0
 2020,electricity supply accessibility for household members,%,село,,,100.0
 2021,electricity supply accessibility for household members,%,село,,,100.0
-2015,"доля домашних хозяйств, которые в первую очередь полагаются на чистое топливо и технологии",%,,,,58.8
-2016,"доля домашних хозяйств, которые в первую очередь полагаются на чистое топливо и технологии",%,,,,57.1
 2017,proportion of household members with primary reliance on clean fuels and technology,%,,,,57.0
 2018,proportion of household members with primary reliance on clean fuels and technology,%,,,,59.3
 2019,proportion of household members with primary reliance on clean fuels and technology,%,,,,69.2
@@ -148,141 +125,125 @@ Year,Access to servises,Units,Место нахождения,Пол,Poverty,Val
 2021,proportion of household members with primary reliance on clean fuels and technology,%,село,,,40.5
 2021,centralized water supply accessibility for household members,%,,мужчина,,94.9
 2021,centralized water supply accessibility for household members,%,,женщина,,95.7
-2021,centralized water supply accessibility for household members,%,,,non poor,95.8
-2021,centralized water supply accessibility for household members,%,,,poor,94.8
+2021,centralized water supply accessibility for household members,%,,,не бедный,95.8
+2021,centralized water supply accessibility for household members,%,,,бедный,94.8
 2021,centralized water supply accessibility for household members,%,,,very poor,95.7
 2021,centralized sewerage system accessibility for household members,%,,мужчина,,75.2
 2021,centralized sewerage system accessibility for household members,%,,женщина,,78.1
-2021,centralized sewerage system accessibility for household members,%,,,non poor,81.5
-2021,centralized sewerage system accessibility for household members,%,,,poor,71.3
+2021,centralized sewerage system accessibility for household members,%,,,не бедный,81.5
+2021,centralized sewerage system accessibility for household members,%,,,бедный,71.3
 2021,centralized sewerage system accessibility for household members,%,,,very poor,63.4
 2021,garbage disposal accessibility for household members,%,,мужчина,,95.2
 2021,garbage disposal accessibility for household members,%,,женщина,,96.1
-2021,garbage disposal accessibility for household members,%,,,non poor,95.1
-2021,garbage disposal accessibility for household members,%,,,poor,96.3
+2021,garbage disposal accessibility for household members,%,,,не бедный,95.1
+2021,garbage disposal accessibility for household members,%,,,бедный,96.3
 2021,garbage disposal accessibility for household members,%,,,very poor,100.0
-2021,доступ членов домашнего хозяйства к интернету,%,,,non poor,81.4
-2021,доступ членов домашнего хозяйства к интернету,%,,,poor,75.7
+2021,доступ членов домашнего хозяйства к интернету,%,,,не бедный,81.4
+2021,доступ членов домашнего хозяйства к интернету,%,,,бедный,75.7
 2021,доступ членов домашнего хозяйства к интернету,%,,,very poor,59.9
 2021,electricity supply accessibility for household members,%,,мужчина,,100.0
 2021,electricity supply accessibility for household members,%,,женщина,,100.0
-2021,electricity supply accessibility for household members,%,,,non poor,100.0
-2021,electricity supply accessibility for household members,%,,,poor,100.0
+2021,electricity supply accessibility for household members,%,,,не бедный,100.0
+2021,electricity supply accessibility for household members,%,,,бедный,100.0
 2021,electricity supply accessibility for household members,%,,,very poor,100.0
 2021,proportion of household members with primary reliance on clean fuels and technology,%,,мужчина,,67.8
 2021,proportion of household members with primary reliance on clean fuels and technology,%,,женщина,,71.8
-2021,proportion of household members with primary reliance on clean fuels and technology,%,,,non poor,76.9
-2021,proportion of household members with primary reliance on clean fuels and technology,%,,,poor,62.2
+2021,proportion of household members with primary reliance on clean fuels and technology,%,,,не бедный,76.9
+2021,proportion of household members with primary reliance on clean fuels and technology,%,,,бедный,62.2
 2021,proportion of household members with primary reliance on clean fuels and technology,%,,,very poor,43.4
 2022,centralized water supply accessibility for household members,%,,,,94.6
 2022,centralized water supply accessibility for household members,%,город,,,99.6
 2022,centralized water supply accessibility for household members,%,село,,,87.3
 2022,centralized water supply accessibility for household members,%,,мужчина,,94.2
 2022,centralized water supply accessibility for household members,%,,женщина,,95.0
-2022,centralized water supply accessibility for household members,%,,,non poor,94.6
-2022,centralized water supply accessibility for household members,%,,,poor,94.8
+2022,centralized water supply accessibility for household members,%,,,не бедный,94.6
+2022,centralized water supply accessibility for household members,%,,,бедный,94.8
 2022,centralized water supply accessibility for household members,%,,,very poor,82.2
 2022,centralized sewerage system accessibility for household members,%,,,,78.4
 2022,centralized sewerage system accessibility for household members,%,город,,,98.1
 2022,centralized sewerage system accessibility for household members,%,село,,,48.9
 2022,centralized sewerage system accessibility for household members,%,,мужчина,,77.0
 2022,centralized sewerage system accessibility for household members,%,,женщина,,79.6
-2022,centralized sewerage system accessibility for household members,%,,,non poor,79.6
-2022,centralized sewerage system accessibility for household members,%,,,poor,74.6
+2022,centralized sewerage system accessibility for household members,%,,,не бедный,79.6
+2022,centralized sewerage system accessibility for household members,%,,,бедный,74.6
 2022,centralized sewerage system accessibility for household members,%,,,very poor,71.5
 2022,garbage disposal accessibility for household members,%,,,,95.7
 2022,garbage disposal accessibility for household members,%,город,,,99.9
 2022,garbage disposal accessibility for household members,%,село,,,89.4
 2022,garbage disposal accessibility for household members,%,,мужчина,,95.4
 2022,garbage disposal accessibility for household members,%,,женщина,,95.9
-2022,garbage disposal accessibility for household members,%,,,non poor,96.0
-2022,garbage disposal accessibility for household members,%,,,poor,94.9
+2022,garbage disposal accessibility for household members,%,,,не бедный,96.0
+2022,garbage disposal accessibility for household members,%,,,бедный,94.9
 2022,garbage disposal accessibility for household members,%,,,very poor,84.3
 2022,доступ членов домашнего хозяйства к интернету,%,,,,77.0
 2022,доступ членов домашнего хозяйства к интернету,%,город,,,79.5
 2022,доступ членов домашнего хозяйства к интернету,%,село,,,73.3
 2022,доступ членов домашнего хозяйства к интернету,%,,мужчина,,74.4
 2022,доступ членов домашнего хозяйства к интернету,%,,женщина,,79.3
-2022,доступ членов домашнего хозяйства к интернету,%,,,non poor,78.4
-2022,доступ членов домашнего хозяйства к интернету,%,,,poor,72.7
+2022,доступ членов домашнего хозяйства к интернету,%,,,не бедный,78.4
+2022,доступ членов домашнего хозяйства к интернету,%,,,бедный,72.7
 2022,доступ членов домашнего хозяйства к интернету,%,,,very poor,62.8
 2022,electricity supply accessibility for household members,%,,,,100.0
 2022,electricity supply accessibility for household members,%,город,,,100.0
 2022,electricity supply accessibility for household members,%,село,,,100.0
 2022,electricity supply accessibility for household members,%,,мужчина,,100.0
 2022,electricity supply accessibility for household members,%,,женщина,,100.0
-2022,electricity supply accessibility for household members,%,,,non poor,100.0
-2022,electricity supply accessibility for household members,%,,,poor,100.0
+2022,electricity supply accessibility for household members,%,,,не бедный,100.0
+2022,electricity supply accessibility for household members,%,,,бедный,100.0
 2022,electricity supply accessibility for household members,%,,,very poor,100.0
-2022,"доля домашних хозяйств, которые в первую очередь полагаются на чистое топливо и технологии",%,,,,72.1
-2022,"доля домашних хозяйств, которые в первую очередь полагаются на чистое топливо и технологии",%,город,,,90.5
-2022,"доля домашних хозяйств, которые в первую очередь полагаются на чистое топливо и технологии",%,село,,,44.5
-2022,"доля домашних хозяйств, которые в первую очередь полагаются на чистое топливо и технологии",%,,мужчина,,70.3
-2022,"доля домашних хозяйств, которые в первую очередь полагаются на чистое топливо и технологии",%,,женщина,,73.7
-2022,"доля домашних хозяйств, которые в первую очередь полагаются на чистое топливо и технологии",%,,,non poor,75.2
-2022,"доля домашних хозяйств, которые в первую очередь полагаются на чистое топливо и технологии",%,,,poor,62.6
-2022,"доля домашних хозяйств, которые в первую очередь полагаются на чистое топливо и технологии",%,,,very poor,44.2
 2022,proportion of population using hand-washing facility with soap,%,,,,98.0
 2022,proportion of population using hand-washing facility with soap,%,город,,,99.2
 2022,proportion of population using hand-washing facility with soap,%,село,,,96.2
 2022,proportion of population using hand-washing facility with soap,%,,мужчина,,98.0
 2022,proportion of population using hand-washing facility with soap,%,,женщина,,98.0
-2022,proportion of population using hand-washing facility with soap,%,,,non poor,98.4
-2022,proportion of population using hand-washing facility with soap,%,,,poor,97.5
+2022,proportion of population using hand-washing facility with soap,%,,,не бедный,98.4
+2022,proportion of population using hand-washing facility with soap,%,,,бедный,97.5
 2022,proportion of population using hand-washing facility with soap,%,,,very poor,94.2
 2023,centralized water supply accessibility for household members,%,,,,94.2
 2023,centralized water supply accessibility for household members,%,город,,,99.0
 2023,centralized water supply accessibility for household members,%,село,,,87.4
 2023,centralized water supply accessibility for household members,%,,мужчина,,93.9
 2023,centralized water supply accessibility for household members,%,,женщина,,94.6
-2023,centralized water supply accessibility for household members,%,,,non poor,95.1
-2023,centralized water supply accessibility for household members,%,,,poor,91.4
+2023,centralized water supply accessibility for household members,%,,,не бедный,95.1
+2023,centralized water supply accessibility for household members,%,,,бедный,91.4
 2023,centralized water supply accessibility for household members,%,,,very poor,79.2
 2023,centralized sewerage system accessibility for household members,%,,,,77.4
 2023,centralized sewerage system accessibility for household members,%,город,,,97.0
 2023,centralized sewerage system accessibility for household members,%,село,,,48.8
 2023,centralized sewerage system accessibility for household members,%,,мужчина,,76.1
 2023,centralized sewerage system accessibility for household members,%,,женщина,,78.4
-2023,centralized sewerage system accessibility for household members,%,,,non poor,78.0
-2023,centralized sewerage system accessibility for household members,%,,,poor,75.2
+2023,centralized sewerage system accessibility for household members,%,,,не бедный,78.0
+2023,centralized sewerage system accessibility for household members,%,,,бедный,75.2
 2023,centralized sewerage system accessibility for household members,%,,,very poor,63.9
 2023,garbage disposal accessibility for household members,%,,,,96.4
 2023,garbage disposal accessibility for household members,%,город,,,99.7
 2023,garbage disposal accessibility for household members,%,село,,,91.6
 2023,garbage disposal accessibility for household members,%,,мужчина,,96.2
 2023,garbage disposal accessibility for household members,%,,женщина,,96.6
-2023,garbage disposal accessibility for household members,%,,,non poor,97.0
-2023,garbage disposal accessibility for household members,%,,,poor,94.3
+2023,garbage disposal accessibility for household members,%,,,не бедный,97.0
+2023,garbage disposal accessibility for household members,%,,,бедный,94.3
 2023,garbage disposal accessibility for household members,%,,,very poor,88.4
 2023,доступ членов домашнего хозяйства к интернету,%,,,,80.0
 2023,доступ членов домашнего хозяйства к интернету,%,город,,,83.5
 2023,доступ членов домашнего хозяйства к интернету,%,село,,,74.9
 2023,доступ членов домашнего хозяйства к интернету,%,,мужчина,,77.9
 2023,доступ членов домашнего хозяйства к интернету,%,,женщина,,81.9
-2023,доступ членов домашнего хозяйства к интернету,%,,,non poor,81.1
-2023,доступ членов домашнего хозяйства к интернету,%,,,poor,76.3
+2023,доступ членов домашнего хозяйства к интернету,%,,,не бедный,81.1
+2023,доступ членов домашнего хозяйства к интернету,%,,,бедный,76.3
 2023,доступ членов домашнего хозяйства к интернету,%,,,very poor,61.0
 2023,electricity supply accessibility for household members,%,,,,100.0
 2023,electricity supply accessibility for household members,%,город,,,100.0
 2023,electricity supply accessibility for household members,%,село,,,100.0
 2023,electricity supply accessibility for household members,%,,мужчина,,100.0
 2023,electricity supply accessibility for household members,%,,женщина,,100.0
-2023,electricity supply accessibility for household members,%,,,non poor,100.0
-2023,electricity supply accessibility for household members,%,,,poor,100.0
+2023,electricity supply accessibility for household members,%,,,не бедный,100.0
+2023,electricity supply accessibility for household members,%,,,бедный,100.0
 2023,electricity supply accessibility for household members,%,,,very poor,100.0
-2023,"доля домашних хозяйств, которые в первую очередь полагаются на чистое топливо и технологии",%,,,,73.8
-2023,"доля домашних хозяйств, которые в первую очередь полагаются на чистое топливо и технологии",%,город,,,92.8
-2023,"доля домашних хозяйств, которые в первую очередь полагаются на чистое топливо и технологии",%,село,,,46.3
-2023,"доля домашних хозяйств, которые в первую очередь полагаются на чистое топливо и технологии",%,,мужчина,,72.0
-2023,"доля домашних хозяйств, которые в первую очередь полагаются на чистое топливо и технологии",%,,женщина,,75.4
-2023,"доля домашних хозяйств, которые в первую очередь полагаются на чистое топливо и технологии",%,,,non poor,77.8
-2023,"доля домашних хозяйств, которые в первую очередь полагаются на чистое топливо и технологии",%,,,poor,60.9
-2023,"доля домашних хозяйств, которые в первую очередь полагаются на чистое топливо и технологии",%,,,very poor,24.8
 2023,proportion of population using hand-washing facility with soap,%,,,,97.9
 2023,proportion of population using hand-washing facility with soap,%,город,,,98.9
 2023,proportion of population using hand-washing facility with soap,%,село,,,96.5
 2023,proportion of population using hand-washing facility with soap,%,,мужчина,,97.8
 2023,proportion of population using hand-washing facility with soap,%,,женщина,,98.0
-2023,proportion of population using hand-washing facility with soap,%,,,non poor,98.3
-2023,proportion of population using hand-washing facility with soap,%,,,poor,96.6
+2023,proportion of population using hand-washing facility with soap,%,,,не бедный,98.3
+2023,proportion of population using hand-washing facility with soap,%,,,бедный,96.6
 2023,proportion of population using hand-washing facility with soap,%,,,very poor,95.6

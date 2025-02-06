@@ -23,10 +23,8 @@
                 "centralized water supply accessibility for household members",
                 "centralized sewerage system accessibility for household members",
                 "garbage disposal accessibility for household members",
-                "internet accessibility for household",
                 "internet accessibility for household members",
                 "electricity supply accessibility for household members",
-                "proportion of households with primary reliance on clean fuels and technology",
                 "proportion of household members with primary reliance on clean fuels and technology",
                 "proportion of population using hand-washing facility with soap",
                 ""
@@ -74,8 +72,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "non poor",
-                "poor",
+                null,
+                null,
                 "very poor",
                 ""
               ]

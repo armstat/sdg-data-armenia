@@ -1033,41 +1033,6 @@
       "title": "Number of beneficiaries receiving maternity benefits granted to non-employed person at the end of the year"
     },
     {
-      "path": "1-3-1-ka (8)/data.csv",
-      "name": "1-3-1-ka (8)",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "1-3-1-ka (8)"
-    },
-    {
       "path": "1-3-1-ka/data.csv",
       "name": "1-3-1-ka",
       "profile": "tabular-data-resource",
@@ -1101,41 +1066,6 @@
         ]
       },
       "title": "Share of poor population who receive family benefit"
-    },
-    {
-      "path": "1-3-1-kb (1)/data.csv",
-      "name": "1-3-1-kb (1)",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "1-3-1-kb (1)"
     },
     {
       "path": "1-3-1-kb/data.csv",
@@ -1231,10 +1161,8 @@
                 "centralized water supply accessibility for household members",
                 "centralized sewerage system accessibility for household members",
                 "garbage disposal accessibility for household members",
-                "internet accessibility for household",
                 "internet accessibility for household members",
                 "electricity supply accessibility for household members",
-                "proportion of households with primary reliance on clean fuels and technology",
                 "proportion of household members with primary reliance on clean fuels and technology",
                 "proportion of population using hand-washing facility with soap",
                 ""
@@ -1282,8 +1210,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "non poor",
-                "poor",
+                null,
+                null,
                 "very poor",
                 ""
               ]
@@ -2223,6 +2151,71 @@
               ]
             },
             "title": "UNITS"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Uban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Poverty",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Non poor",
+                "Poor",
+                "Extreme poor",
+                ""
+              ]
+            },
+            "title": "Poverty"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disabled",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Quintiles",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "I quintile",
+                "I quintlie",
+                "II quintile",
+                "III quintile",
+                "IV quintile",
+                "V quintile",
+                ""
+              ]
+            },
+            "title": "Quintiles"
           },
           {
             "name": "Value",
@@ -3530,7 +3523,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -3538,6 +3531,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Nationally Determined Contributions",
+                "Nationally Adaptation Plan",
+                "Long Tearm Strategy",
                 ""
               ]
             },
@@ -3545,7 +3541,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -5464,7 +5460,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -5472,14 +5468,35 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Division",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "general public services",
+                "defence",
+                "public order, security and judicial activities",
+                "economic relations",
+                "environmental protection",
+                "housing construction and communal services",
+                "health",
+                "recreation, culture and religion",
+                "education",
+                "social protection",
+                ""
+              ]
+            },
+            "title": "Division"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -8417,41 +8434,6 @@
       "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
     },
     {
-      "path": "3-5-2-a/data.csv",
-      "name": "3-5-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "liter",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "The volume of alcoholic beverages consumed by the household during a year (pure alcohol in liters)."
-    },
-    {
       "path": "3-5-2/data.csv",
       "name": "3-5-2",
       "profile": "tabular-data-resource",
@@ -8480,7 +8462,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -11980,53 +11962,6 @@
       "title": "Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management"
     },
     {
-      "path": "7-1-1-a/data.csv",
-      "name": "7-1-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural",
-                ""
-              ]
-            },
-            "title": "Location"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of households with access to electricity"
-    },
-    {
       "path": "7-1-1/data.csv",
       "name": "7-1-1",
       "profile": "tabular-data-resource",
@@ -12072,53 +12007,6 @@
         ]
       },
       "title": "Proportion of population with access to electricity"
-    },
-    {
-      "path": "7-1-2-a/data.csv",
-      "name": "7-1-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural",
-                ""
-              ]
-            },
-            "title": "Location"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of households with primary reliance on clean fuels and technology"
     },
     {
       "path": "7-1-2/data.csv",
@@ -13529,6 +13417,41 @@
       "title": "CO2 emission per unit of value added"
     },
     {
+      "path": "9-5-1-a/data.csv",
+      "name": "9-5-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of researchers (full-time equivalent) conducting research work funded by the state budget per million inhabitants"
+    },
+    {
       "path": "9-5-1/data.csv",
       "name": "9-5-1",
       "profile": "tabular-data-resource",
@@ -13562,6 +13485,41 @@
         ]
       },
       "title": "Research and development expenditure as a proportion of GDP"
+    },
+    {
+      "path": "9-5-2-a/data.csv",
+      "name": "9-5-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per million population",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of researchers (full-time equivalent) conducting research work funded by the state budget per million inhabitants"
     },
     {
       "path": "9-5-2/data.csv",

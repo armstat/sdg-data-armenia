@@ -62,27 +62,6 @@ Year,Access to servises,Units,Location,Sex,Poverty,Value
 2019,garbage disposal accessibility for household members,%,rural,,,89.0
 2020,garbage disposal accessibility for household members,%,rural,,,92.6
 2021,garbage disposal accessibility for household members,%,rural,,,89.5
-2015,internet accessibility for household,%,,,,61.2
-2016,internet accessibility for household,%,,,,74.7
-2017,internet accessibility for household,%,,,,64.7
-2018,internet accessibility for household,%,,,,68.2
-2019,internet accessibility for household,%,,,,69.1
-2020,internet accessibility for household,%,,,,73.0
-2021,internet accessibility for household,%,,,,73.3
-2015,internet accessibility for household,%,urban,,,64.4
-2016,internet accessibility for household,%,urban,,,77.9
-2017,internet accessibility for household,%,urban,,,68.1
-2018,internet accessibility for household,%,urban,,,73.1
-2019,internet accessibility for household,%,urban,,,61.2
-2020,internet accessibility for household,%,urban,,,71.6
-2021,internet accessibility for household,%,urban,,,68.5
-2015,internet accessibility for household,%,rural,,,55.3
-2016,internet accessibility for household,%,rural,,,68.7
-2017,internet accessibility for household,%,rural,,,59.4
-2018,internet accessibility for household,%,rural,,,60.3
-2019,internet accessibility for household,%,rural,,,66.4
-2020,internet accessibility for household,%,rural,,,72.5
-2021,internet accessibility for household,%,rural,,,71.6
 2015,internet accessibility for household members,%,,,,59.1
 2016,internet accessibility for household members,%,,,,64.3
 2017,internet accessibility for household members,%,,,,64.7
@@ -125,8 +104,6 @@ Year,Access to servises,Units,Location,Sex,Poverty,Value
 2019,electricity supply accessibility for household members,%,rural,,,100.0
 2020,electricity supply accessibility for household members,%,rural,,,100.0
 2021,electricity supply accessibility for household members,%,rural,,,100.0
-2015,proportion of households with primary reliance on clean fuels and technology,%,,,,58.8
-2016,proportion of households with primary reliance on clean fuels and technology,%,,,,57.1
 2017,proportion of household members with primary reliance on clean fuels and technology,%,,,,57.0
 2018,proportion of household members with primary reliance on clean fuels and technology,%,,,,59.3
 2019,proportion of household members with primary reliance on clean fuels and technology,%,,,,69.2
@@ -214,14 +191,6 @@ Year,Access to servises,Units,Location,Sex,Poverty,Value
 2022,electricity supply accessibility for household members,%,,,non poor,100.0
 2022,electricity supply accessibility for household members,%,,,poor,100.0
 2022,electricity supply accessibility for household members,%,,,very poor,100.0
-2022,proportion of households with primary reliance on clean fuels and technology,%,,,,72.1
-2022,proportion of households with primary reliance on clean fuels and technology,%,urban,,,90.5
-2022,proportion of households with primary reliance on clean fuels and technology,%,rural,,,44.5
-2022,proportion of households with primary reliance on clean fuels and technology,%,,male,,70.3
-2022,proportion of households with primary reliance on clean fuels and technology,%,,female,,73.7
-2022,proportion of households with primary reliance on clean fuels and technology,%,,,non poor,75.2
-2022,proportion of households with primary reliance on clean fuels and technology,%,,,poor,62.6
-2022,proportion of households with primary reliance on clean fuels and technology,%,,,very poor,44.2
 2022,proportion of population using hand-washing facility with soap,%,,,,98.0
 2022,proportion of population using hand-washing facility with soap,%,urban,,,99.2
 2022,proportion of population using hand-washing facility with soap,%,rural,,,96.2
@@ -270,14 +239,6 @@ Year,Access to servises,Units,Location,Sex,Poverty,Value
 2023,electricity supply accessibility for household members,%,,,non poor,100.0
 2023,electricity supply accessibility for household members,%,,,poor,100.0
 2023,electricity supply accessibility for household members,%,,,very poor,100.0
-2023,proportion of households with primary reliance on clean fuels and technology,%,,,,73.8
-2023,proportion of households with primary reliance on clean fuels and technology,%,urban,,,92.8
-2023,proportion of households with primary reliance on clean fuels and technology,%,rural,,,46.3
-2023,proportion of households with primary reliance on clean fuels and technology,%,,male,,72.0
-2023,proportion of households with primary reliance on clean fuels and technology,%,,female,,75.4
-2023,proportion of households with primary reliance on clean fuels and technology,%,,,non poor,77.8
-2023,proportion of households with primary reliance on clean fuels and technology,%,,,poor,60.9
-2023,proportion of households with primary reliance on clean fuels and technology,%,,,very poor,24.8
 2023,proportion of population using hand-washing facility with soap,%,,,,97.9
 2023,proportion of population using hand-washing facility with soap,%,urban,,,98.9
 2023,proportion of population using hand-washing facility with soap,%,rural,,,96.5

@@ -25,6 +25,66 @@
             }
           },
           {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Uban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Poverty",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Non poor",
+                "Poor",
+                "Extreme poor",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disabled",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Quintiles",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "I quintile",
+                "I quintlie",
+                "II quintile",
+                "III quintile",
+                "IV quintile",
+                "V quintile",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

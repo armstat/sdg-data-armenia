@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -20,14 +20,35 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Division",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "general public services",
+                "defence",
+                "public order, security and judicial activities",
+                "economic relations",
+                "environmental protection",
+                "housing construction and communal services",
+                "health",
+                "recreation, culture and religion",
+                "education",
+                "social protection",
+                ""
+              ]
+            },
+            "title": "Division"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
