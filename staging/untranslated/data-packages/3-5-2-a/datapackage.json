@@ -12,17 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "liter",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
