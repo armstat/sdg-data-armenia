@@ -2,7 +2,7 @@ Disaggregation,Number of indicators,Number of values
 Access to servises,1,7
 Age,23,58
 Agency,2,8
-Category,36,79
+Category,37,79
 Completion rate adjusted GPI by education level,1,1
 Disaster type,3,3
 Division,1,10
@@ -10,14 +10,14 @@ Education level,3,4
 Education type,2,12
 Employment status,1,11
 Group,6,11
-Location,24,6
+Location,25,6
 Membership,1,2
-Poverty,2,6
+Poverty,3,6
 Proxy E,1,1
 Question,1,8
-Quintiles,2,11
+Quintiles,3,11
 Services,1,11
-Sex,43,9
+Sex,44,9
 Subject,3,2
 Transportation type,1,6
 Type,5,16
