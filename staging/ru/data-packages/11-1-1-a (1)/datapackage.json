@@ -1,0 +1,106 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "UNITS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "UNITS"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Uban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Место нахождения"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Poverty",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Non poor",
+                "Poor",
+                "Extreme poor",
+                ""
+              ]
+            },
+            "title": "Бедность"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disabled",
+                ""
+              ]
+            },
+            "title": "Категория"
+          },
+          {
+            "name": "Quintiles",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "I quintile",
+                "I quintlie",
+                "II quintile",
+                "III quintile",
+                "IV quintile",
+                "V quintile",
+                ""
+              ]
+            },
+            "title": "Quintiles"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-1-1-a (1)",
+  "title": "11-1-1-a (1)"
+}
