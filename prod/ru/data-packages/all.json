@@ -1158,13 +1158,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "centralized water supply accessibility for household members",
-                "centralized sewerage system accessibility for household members",
-                "garbage disposal accessibility for household members",
+                "Доступ к централизованному водоснабжению для членов домохозяства",
+                "Доступ к централизованной канализации для членов домохозяйства",
+                "Услуга доступа к мусору для членов семьи",
                 "доступ членов домашнего хозяйства к интернету",
-                "electricity supply accessibility for household members",
-                "proportion of household members with primary reliance on clean fuels and technology",
-                "proportion of population using hand-washing facility with soap",
+                "Доступ к электроэнергии для членов семьи",
+                "Доля членов домохозяйств, в первую очередь зависящих от экологически чистых видов топлива и технологий.",
+                "Доля населения, имеющая доступ к средствам для мытья рук с мылом и водой.",
                 ""
               ]
             },
@@ -8450,11 +8450,9 @@
           },
           {
             "name": "Group",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },

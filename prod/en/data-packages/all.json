@@ -1210,8 +1210,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                null,
-                null,
+                "non poor",
+                "poor",
                 "very poor",
                 ""
               ]
@@ -8450,11 +8450,9 @@
           },
           {
             "name": "Group",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },

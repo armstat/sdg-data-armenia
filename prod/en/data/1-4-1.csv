@@ -125,125 +125,125 @@ Year,Access to servises,Units,Location,Sex,Poverty,Value
 2021,proportion of household members with primary reliance on clean fuels and technology,%,rural,,,40.5
 2021,centralized water supply accessibility for household members,%,,male,,94.9
 2021,centralized water supply accessibility for household members,%,,female,,95.7
-2021,centralized water supply accessibility for household members,%,,,,95.8
-2021,centralized water supply accessibility for household members,%,,,,94.8
+2021,centralized water supply accessibility for household members,%,,,non poor,95.8
+2021,centralized water supply accessibility for household members,%,,,poor,94.8
 2021,centralized water supply accessibility for household members,%,,,very poor,95.7
 2021,centralized sewerage system accessibility for household members,%,,male,,75.2
 2021,centralized sewerage system accessibility for household members,%,,female,,78.1
-2021,centralized sewerage system accessibility for household members,%,,,,81.5
-2021,centralized sewerage system accessibility for household members,%,,,,71.3
+2021,centralized sewerage system accessibility for household members,%,,,non poor,81.5
+2021,centralized sewerage system accessibility for household members,%,,,poor,71.3
 2021,centralized sewerage system accessibility for household members,%,,,very poor,63.4
 2021,garbage disposal accessibility for household members,%,,male,,95.2
 2021,garbage disposal accessibility for household members,%,,female,,96.1
-2021,garbage disposal accessibility for household members,%,,,,95.1
-2021,garbage disposal accessibility for household members,%,,,,96.3
+2021,garbage disposal accessibility for household members,%,,,non poor,95.1
+2021,garbage disposal accessibility for household members,%,,,poor,96.3
 2021,garbage disposal accessibility for household members,%,,,very poor,100.0
-2021,internet accessibility for household members,%,,,,81.4
-2021,internet accessibility for household members,%,,,,75.7
+2021,internet accessibility for household members,%,,,non poor,81.4
+2021,internet accessibility for household members,%,,,poor,75.7
 2021,internet accessibility for household members,%,,,very poor,59.9
 2021,electricity supply accessibility for household members,%,,male,,100.0
 2021,electricity supply accessibility for household members,%,,female,,100.0
-2021,electricity supply accessibility for household members,%,,,,100.0
-2021,electricity supply accessibility for household members,%,,,,100.0
+2021,electricity supply accessibility for household members,%,,,non poor,100.0
+2021,electricity supply accessibility for household members,%,,,poor,100.0
 2021,electricity supply accessibility for household members,%,,,very poor,100.0
 2021,proportion of household members with primary reliance on clean fuels and technology,%,,male,,67.8
 2021,proportion of household members with primary reliance on clean fuels and technology,%,,female,,71.8
-2021,proportion of household members with primary reliance on clean fuels and technology,%,,,,76.9
-2021,proportion of household members with primary reliance on clean fuels and technology,%,,,,62.2
+2021,proportion of household members with primary reliance on clean fuels and technology,%,,,non poor,76.9
+2021,proportion of household members with primary reliance on clean fuels and technology,%,,,poor,62.2
 2021,proportion of household members with primary reliance on clean fuels and technology,%,,,very poor,43.4
 2022,centralized water supply accessibility for household members,%,,,,94.6
 2022,centralized water supply accessibility for household members,%,urban,,,99.6
 2022,centralized water supply accessibility for household members,%,rural,,,87.3
 2022,centralized water supply accessibility for household members,%,,male,,94.2
 2022,centralized water supply accessibility for household members,%,,female,,95.0
-2022,centralized water supply accessibility for household members,%,,,,94.6
-2022,centralized water supply accessibility for household members,%,,,,94.8
+2022,centralized water supply accessibility for household members,%,,,non poor,94.6
+2022,centralized water supply accessibility for household members,%,,,poor,94.8
 2022,centralized water supply accessibility for household members,%,,,very poor,82.2
 2022,centralized sewerage system accessibility for household members,%,,,,78.4
 2022,centralized sewerage system accessibility for household members,%,urban,,,98.1
 2022,centralized sewerage system accessibility for household members,%,rural,,,48.9
 2022,centralized sewerage system accessibility for household members,%,,male,,77.0
 2022,centralized sewerage system accessibility for household members,%,,female,,79.6
-2022,centralized sewerage system accessibility for household members,%,,,,79.6
-2022,centralized sewerage system accessibility for household members,%,,,,74.6
+2022,centralized sewerage system accessibility for household members,%,,,non poor,79.6
+2022,centralized sewerage system accessibility for household members,%,,,poor,74.6
 2022,centralized sewerage system accessibility for household members,%,,,very poor,71.5
 2022,garbage disposal accessibility for household members,%,,,,95.7
 2022,garbage disposal accessibility for household members,%,urban,,,99.9
 2022,garbage disposal accessibility for household members,%,rural,,,89.4
 2022,garbage disposal accessibility for household members,%,,male,,95.4
 2022,garbage disposal accessibility for household members,%,,female,,95.9
-2022,garbage disposal accessibility for household members,%,,,,96.0
-2022,garbage disposal accessibility for household members,%,,,,94.9
+2022,garbage disposal accessibility for household members,%,,,non poor,96.0
+2022,garbage disposal accessibility for household members,%,,,poor,94.9
 2022,garbage disposal accessibility for household members,%,,,very poor,84.3
 2022,internet accessibility for household members,%,,,,77.0
 2022,internet accessibility for household members,%,urban,,,79.5
 2022,internet accessibility for household members,%,rural,,,73.3
 2022,internet accessibility for household members,%,,male,,74.4
 2022,internet accessibility for household members,%,,female,,79.3
-2022,internet accessibility for household members,%,,,,78.4
-2022,internet accessibility for household members,%,,,,72.7
+2022,internet accessibility for household members,%,,,non poor,78.4
+2022,internet accessibility for household members,%,,,poor,72.7
 2022,internet accessibility for household members,%,,,very poor,62.8
 2022,electricity supply accessibility for household members,%,,,,100.0
 2022,electricity supply accessibility for household members,%,urban,,,100.0
 2022,electricity supply accessibility for household members,%,rural,,,100.0
 2022,electricity supply accessibility for household members,%,,male,,100.0
 2022,electricity supply accessibility for household members,%,,female,,100.0
-2022,electricity supply accessibility for household members,%,,,,100.0
-2022,electricity supply accessibility for household members,%,,,,100.0
+2022,electricity supply accessibility for household members,%,,,non poor,100.0
+2022,electricity supply accessibility for household members,%,,,poor,100.0
 2022,electricity supply accessibility for household members,%,,,very poor,100.0
 2022,proportion of population using hand-washing facility with soap,%,,,,98.0
 2022,proportion of population using hand-washing facility with soap,%,urban,,,99.2
 2022,proportion of population using hand-washing facility with soap,%,rural,,,96.2
 2022,proportion of population using hand-washing facility with soap,%,,male,,98.0
 2022,proportion of population using hand-washing facility with soap,%,,female,,98.0
-2022,proportion of population using hand-washing facility with soap,%,,,,98.4
-2022,proportion of population using hand-washing facility with soap,%,,,,97.5
+2022,proportion of population using hand-washing facility with soap,%,,,non poor,98.4
+2022,proportion of population using hand-washing facility with soap,%,,,poor,97.5
 2022,proportion of population using hand-washing facility with soap,%,,,very poor,94.2
 2023,centralized water supply accessibility for household members,%,,,,94.2
 2023,centralized water supply accessibility for household members,%,urban,,,99.0
 2023,centralized water supply accessibility for household members,%,rural,,,87.4
 2023,centralized water supply accessibility for household members,%,,male,,93.9
 2023,centralized water supply accessibility for household members,%,,female,,94.6
-2023,centralized water supply accessibility for household members,%,,,,95.1
-2023,centralized water supply accessibility for household members,%,,,,91.4
+2023,centralized water supply accessibility for household members,%,,,non poor,95.1
+2023,centralized water supply accessibility for household members,%,,,poor,91.4
 2023,centralized water supply accessibility for household members,%,,,very poor,79.2
 2023,centralized sewerage system accessibility for household members,%,,,,77.4
 2023,centralized sewerage system accessibility for household members,%,urban,,,97.0
 2023,centralized sewerage system accessibility for household members,%,rural,,,48.8
 2023,centralized sewerage system accessibility for household members,%,,male,,76.1
 2023,centralized sewerage system accessibility for household members,%,,female,,78.4
-2023,centralized sewerage system accessibility for household members,%,,,,78.0
-2023,centralized sewerage system accessibility for household members,%,,,,75.2
+2023,centralized sewerage system accessibility for household members,%,,,non poor,78.0
+2023,centralized sewerage system accessibility for household members,%,,,poor,75.2
 2023,centralized sewerage system accessibility for household members,%,,,very poor,63.9
 2023,garbage disposal accessibility for household members,%,,,,96.4
 2023,garbage disposal accessibility for household members,%,urban,,,99.7
 2023,garbage disposal accessibility for household members,%,rural,,,91.6
 2023,garbage disposal accessibility for household members,%,,male,,96.2
 2023,garbage disposal accessibility for household members,%,,female,,96.6
-2023,garbage disposal accessibility for household members,%,,,,97.0
-2023,garbage disposal accessibility for household members,%,,,,94.3
+2023,garbage disposal accessibility for household members,%,,,non poor,97.0
+2023,garbage disposal accessibility for household members,%,,,poor,94.3
 2023,garbage disposal accessibility for household members,%,,,very poor,88.4
 2023,internet accessibility for household members,%,,,,80.0
 2023,internet accessibility for household members,%,urban,,,83.5
 2023,internet accessibility for household members,%,rural,,,74.9
 2023,internet accessibility for household members,%,,male,,77.9
 2023,internet accessibility for household members,%,,female,,81.9
-2023,internet accessibility for household members,%,,,,81.1
-2023,internet accessibility for household members,%,,,,76.3
+2023,internet accessibility for household members,%,,,non poor,81.1
+2023,internet accessibility for household members,%,,,poor,76.3
 2023,internet accessibility for household members,%,,,very poor,61.0
 2023,electricity supply accessibility for household members,%,,,,100.0
 2023,electricity supply accessibility for household members,%,urban,,,100.0
 2023,electricity supply accessibility for household members,%,rural,,,100.0
 2023,electricity supply accessibility for household members,%,,male,,100.0
 2023,electricity supply accessibility for household members,%,,female,,100.0
-2023,electricity supply accessibility for household members,%,,,,100.0
-2023,electricity supply accessibility for household members,%,,,,100.0
+2023,electricity supply accessibility for household members,%,,,non poor,100.0
+2023,electricity supply accessibility for household members,%,,,poor,100.0
 2023,electricity supply accessibility for household members,%,,,very poor,100.0
 2023,proportion of population using hand-washing facility with soap,%,,,,97.9
 2023,proportion of population using hand-washing facility with soap,%,urban,,,98.9
 2023,proportion of population using hand-washing facility with soap,%,rural,,,96.5
 2023,proportion of population using hand-washing facility with soap,%,,male,,97.8
 2023,proportion of population using hand-washing facility with soap,%,,female,,98.0
-2023,proportion of population using hand-washing facility with soap,%,,,,98.3
-2023,proportion of population using hand-washing facility with soap,%,,,,96.6
+2023,proportion of population using hand-washing facility with soap,%,,,non poor,98.3
+2023,proportion of population using hand-washing facility with soap,%,,,poor,96.6
 2023,proportion of population using hand-washing facility with soap,%,,,very poor,95.6
