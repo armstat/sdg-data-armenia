@@ -258,13 +258,13 @@ UNCLOS: UNCLOS
 Part_XI: Part_XI
 Question: Question
 Access to services: Access to services
-Centralized water supply accessibility for household members: Centralized water supply accessibility for household members
-Centralized sewerage system accessibility for household members: Centralized sewerage system accessibility for household members
-Garbage disposal accessibility for household members: Garbage disposal accessibility for household members
-Electricity supply accessibility for household members: Electricity supply accessibility for household members
-Proportion of household members with primary reliance on clean fuels and technology: Proportion of household members with primary reliance on clean fuels and technology
-Proportion of population using hand wahing facility with soap: Proportion of population using hand wahing facility with soap
+centralized water supply accessibility for household members: centralized water supply accessibility for household members
+centralized sewerage system accessibility for household members: centralized sewerage system accessibility for household members
+garbage disposal accessibility for household members: garbage disposal accessibility for household members
+electricity supply accessibility for household members: electricity supply accessibility for household members
+proportion of household members with primary reliance on clean fuels and technology: proportion of household members with primary reliance on clean fuels and technology
+proportion of population using hand-washing facility with soap: proportion of population using hand-washing facility with soap
 Poverty: Poverty
-non poor: 
-poor: 
-extreme poor: 
+non poor: non poor
+poor: poor
+extreme poor: extreme poor
