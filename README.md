@@ -14,7 +14,7 @@ This will create a new "1.2.z" indicator called "Title of indicator".
 > This script requires the `pyyaml` package. Here is the command to install
 > this package:
 >
-> `py -m pip install pyyaml`
+> `py -m pip install pyyaml `
 
 Note that this only creates template files. You will still need to customize
 these files as needed, and then add/commit/push them with Git.
