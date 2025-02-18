@@ -1,67 +1,67 @@
-Year,Access to servises,Units,Գտնվելու վայրը,Սեռ,Poverty,Value
-2015,centralized water supply accessibility for household members,%,,,,97.3
-2016,centralized water supply accessibility for household members,%,,,,97.9
-2017,centralized water supply accessibility for household members,%,,,,97.3
-2018,centralized water supply accessibility for household members,%,,,,97.9
-2019,centralized water supply accessibility for household members,%,,,,96.1
-2020,centralized water supply accessibility for household members,%,,,,95.5
-2021,centralized water supply accessibility for household members,%,,,,95.3
-2015,centralized water supply accessibility for household members,%,քաղաք,,,99.9
-2016,centralized water supply accessibility for household members,%,քաղաք,,,100.0
-2017,centralized water supply accessibility for household members,%,քաղաք,,,99.9
-2018,centralized water supply accessibility for household members,%,քաղաք,,,99.7
-2019,centralized water supply accessibility for household members,%,քաղաք,,,99.5
-2020,centralized water supply accessibility for household members,%,քաղաք,,,99.7
-2021,centralized water supply accessibility for household members,%,քաղաք,,,99.9
-2015,centralized water supply accessibility for household members,%,գյուղ,,,92.5
-2016,centralized water supply accessibility for household members,%,գյուղ,,,94.0
-2017,centralized water supply accessibility for household members,%,գյուղ,,,93.3
-2018,centralized water supply accessibility for household members,%,գյուղ,,,94.4
-2019,centralized water supply accessibility for household members,%,գյուղ,,,90.6
-2020,centralized water supply accessibility for household members,%,գյուղ,,,89.6
-2021,centralized water supply accessibility for household members,%,գյուղ,,,89.6
-2015,centralized sewerage system accessibility for household members,%,,,,69.9
-2016,centralized sewerage system accessibility for household members,%,,,,69.7
-2017,centralized sewerage system accessibility for household members,%,,,,69.8
-2018,centralized sewerage system accessibility for household members,%,,,,71.9
-2019,centralized sewerage system accessibility for household members,%,,,,74.7
-2020,centralized sewerage system accessibility for household members,%,,,,77.9
-2021,centralized sewerage system accessibility for household members,%,,,,76.7
-2015,centralized sewerage system accessibility for household members,%,քաղաք,,,96.4
-2016,centralized sewerage system accessibility for household members,%,քաղաք,,,96.1
-2017,centralized sewerage system accessibility for household members,%,քաղաք,,,97.8
-2018,centralized sewerage system accessibility for household members,%,քաղաք,,,98.1
-2019,centralized sewerage system accessibility for household members,%,քաղաք,,,97.3
-2020,centralized sewerage system accessibility for household members,%,քաղաք,,,98.7
-2021,centralized sewerage system accessibility for household members,%,քաղաք,,,99.3
-2015,centralized sewerage system accessibility for household members,%,գյուղ,,,20.3
-2016,centralized sewerage system accessibility for household members,%,գյուղ,,,20.3
-2017,centralized sewerage system accessibility for household members,%,գյուղ,,,25.3
-2018,centralized sewerage system accessibility for household members,%,գյուղ,,,28.6
-2019,centralized sewerage system accessibility for household members,%,գյուղ,,,38.1
-2020,centralized sewerage system accessibility for household members,%,գյուղ,,,48.6
-2021,centralized sewerage system accessibility for household members,%,գյուղ,,,47.5
-2015,garbage disposal accessibility for household members,%,,,,87.6
-2016,garbage disposal accessibility for household members,%,,,,86.6
-2017,garbage disposal accessibility for household members,%,,,,91.7
-2018,garbage disposal accessibility for household members,%,,,,93.6
-2019,garbage disposal accessibility for household members,%,,,,95.7
-2020,garbage disposal accessibility for household members,%,,,,97.0
-2021,garbage disposal accessibility for household members,%,,,,95.7
-2015,garbage disposal accessibility for household members,%,քաղաք,,,98.7
-2016,garbage disposal accessibility for household members,%,քաղաք,,,98.7
-2017,garbage disposal accessibility for household members,%,քաղաք,,,99.8
-2018,garbage disposal accessibility for household members,%,քաղաք,,,99.4
-2019,garbage disposal accessibility for household members,%,քաղաք,,,99.9
-2020,garbage disposal accessibility for household members,%,քաղաք,,,99.4
-2021,garbage disposal accessibility for household members,%,քաղաք,,,99.8
-2015,garbage disposal accessibility for household members,%,գյուղ,,,66.7
-2016,garbage disposal accessibility for household members,%,գյուղ,,,63.6
-2017,garbage disposal accessibility for household members,%,գյուղ,,,78.7
-2018,garbage disposal accessibility for household members,%,գյուղ,,,84.2
-2019,garbage disposal accessibility for household members,%,գյուղ,,,89.0
-2020,garbage disposal accessibility for household members,%,գյուղ,,,92.6
-2021,garbage disposal accessibility for household members,%,գյուղ,,,89.5
+Year,Access to servises,Units,Գտնվելու վայրը,Սեռ,Աղքատություն,Value
+2015,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,,97.3
+2016,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,,97.9
+2017,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,,97.3
+2018,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,,97.9
+2019,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,,96.1
+2020,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,,95.5
+2021,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,,95.3
+2015,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,քաղաք,,,99.9
+2016,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,քաղաք,,,100.0
+2017,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,քաղաք,,,99.9
+2018,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,քաղաք,,,99.7
+2019,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,քաղաք,,,99.5
+2020,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,քաղաք,,,99.7
+2021,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,քաղաք,,,99.9
+2015,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,գյուղ,,,92.5
+2016,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,գյուղ,,,94.0
+2017,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,գյուղ,,,93.3
+2018,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,գյուղ,,,94.4
+2019,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,գյուղ,,,90.6
+2020,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,գյուղ,,,89.6
+2021,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,գյուղ,,,89.6
+2015,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,,69.9
+2016,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,,69.7
+2017,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,,69.8
+2018,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,,71.9
+2019,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,,74.7
+2020,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,,77.9
+2021,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,,76.7
+2015,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,քաղաք,,,96.4
+2016,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,քաղաք,,,96.1
+2017,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,քաղաք,,,97.8
+2018,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,քաղաք,,,98.1
+2019,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,քաղաք,,,97.3
+2020,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,քաղաք,,,98.7
+2021,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,քաղաք,,,99.3
+2015,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,գյուղ,,,20.3
+2016,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,գյուղ,,,20.3
+2017,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,գյուղ,,,25.3
+2018,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,գյուղ,,,28.6
+2019,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,գյուղ,,,38.1
+2020,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,գյուղ,,,48.6
+2021,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,գյուղ,,,47.5
+2015,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,,,,87.6
+2016,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,,,,86.6
+2017,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,,,,91.7
+2018,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,,,,93.6
+2019,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,,,,95.7
+2020,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,,,,97.0
+2021,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,,,,95.7
+2015,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,քաղաք,,,98.7
+2016,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,քաղաք,,,98.7
+2017,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,քաղաք,,,99.8
+2018,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,քաղաք,,,99.4
+2019,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,քաղաք,,,99.9
+2020,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,քաղաք,,,99.4
+2021,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,քաղաք,,,99.8
+2015,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,գյուղ,,,66.7
+2016,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,գյուղ,,,63.6
+2017,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,գյուղ,,,78.7
+2018,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,գյուղ,,,84.2
+2019,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,գյուղ,,,89.0
+2020,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,գյուղ,,,92.6
+2021,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,գյուղ,,,89.5
 2015,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,,,59.1
 2016,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,,,64.3
 2017,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,,,64.7
@@ -83,167 +83,167 @@ Year,Access to servises,Units,Գտնվելու վայրը,Սեռ,Poverty,Value
 2019,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,կին,,67.2
 2020,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,կին,,78.1
 2021,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,կին,,81.4
-2015,electricity supply accessibility for household members,%,,,,99.6
-2016,electricity supply accessibility for household members,%,,,,99.8
-2017,electricity supply accessibility for household members,%,,,,99.7
-2018,electricity supply accessibility for household members,%,,,,99.9
-2019,electricity supply accessibility for household members,%,,,,100.0
-2020,electricity supply accessibility for household members,%,,,,100.0
-2021,electricity supply accessibility for household members,%,,,,100.0
-2015,electricity supply accessibility for household members,%,քաղաք,,,95.5
-2016,electricity supply accessibility for household members,%,քաղաք,,,99.8
-2017,electricity supply accessibility for household members,%,քաղաք,,,99.8
-2018,electricity supply accessibility for household members,%,քաղաք,,,99.9
-2019,electricity supply accessibility for household members,%,քաղաք,,,100.0
-2020,electricity supply accessibility for household members,%,քաղաք,,,100.0
-2021,electricity supply accessibility for household members,%,քաղաք,,,100.0
-2015,electricity supply accessibility for household members,%,գյուղ,,,96.7
-2016,electricity supply accessibility for household members,%,գյուղ,,,99.7
-2017,electricity supply accessibility for household members,%,գյուղ,,,99.7
-2018,electricity supply accessibility for household members,%,գյուղ,,,99.9
-2019,electricity supply accessibility for household members,%,գյուղ,,,100.0
-2020,electricity supply accessibility for household members,%,գյուղ,,,100.0
-2021,electricity supply accessibility for household members,%,գյուղ,,,100.0
-2017,proportion of household members with primary reliance on clean fuels and technology,%,,,,57.0
-2018,proportion of household members with primary reliance on clean fuels and technology,%,,,,59.3
-2019,proportion of household members with primary reliance on clean fuels and technology,%,,,,69.2
-2020,proportion of household members with primary reliance on clean fuels and technology,%,,,,73.3
-2021,proportion of household members with primary reliance on clean fuels and technology,%,,,,69.9
-2015,proportion of household members with primary reliance on clean fuels and technology,%,քաղաք,,,82.5
-2016,proportion of household members with primary reliance on clean fuels and technology,%,քաղաք,,,81.3
-2017,proportion of household members with primary reliance on clean fuels and technology,%,քաղաք,,,84.0
-2018,proportion of household members with primary reliance on clean fuels and technology,%,քաղաք,,,85.1
-2019,proportion of household members with primary reliance on clean fuels and technology,%,քաղաք,,,92.9
-2020,proportion of household members with primary reliance on clean fuels and technology,%,քաղաք,,,94.8
-2021,proportion of household members with primary reliance on clean fuels and technology,%,քաղաք,,,93.4
-2015,proportion of household members with primary reliance on clean fuels and technology,%,գյուղ,,,15.5
-2016,proportion of household members with primary reliance on clean fuels and technology,%,գյուղ,,,13.3
-2017,proportion of household members with primary reliance on clean fuels and technology,%,գյուղ,,,14.5
-2018,proportion of household members with primary reliance on clean fuels and technology,%,գյուղ,,,17.2
-2019,proportion of household members with primary reliance on clean fuels and technology,%,գյուղ,,,31.5
-2020,proportion of household members with primary reliance on clean fuels and technology,%,գյուղ,,,42.7
-2021,proportion of household members with primary reliance on clean fuels and technology,%,գյուղ,,,40.5
-2021,centralized water supply accessibility for household members,%,,տղամարդ,,94.9
-2021,centralized water supply accessibility for household members,%,,կին,,95.7
-2021,centralized water supply accessibility for household members,%,,,non poor,95.8
-2021,centralized water supply accessibility for household members,%,,,poor,94.8
-2021,centralized water supply accessibility for household members,%,,,very poor,95.7
-2021,centralized sewerage system accessibility for household members,%,,տղամարդ,,75.2
-2021,centralized sewerage system accessibility for household members,%,,կին,,78.1
-2021,centralized sewerage system accessibility for household members,%,,,non poor,81.5
-2021,centralized sewerage system accessibility for household members,%,,,poor,71.3
-2021,centralized sewerage system accessibility for household members,%,,,very poor,63.4
-2021,garbage disposal accessibility for household members,%,,տղամարդ,,95.2
-2021,garbage disposal accessibility for household members,%,,կին,,96.1
-2021,garbage disposal accessibility for household members,%,,,non poor,95.1
-2021,garbage disposal accessibility for household members,%,,,poor,96.3
-2021,garbage disposal accessibility for household members,%,,,very poor,100.0
-2021,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,,non poor,81.4
-2021,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,,poor,75.7
+2015,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,,,,99.6
+2016,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,,,,99.8
+2017,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,,,,99.7
+2018,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,,,,99.9
+2019,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,,,,100.0
+2020,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,,,,100.0
+2021,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,,,,100.0
+2015,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,քաղաք,,,95.5
+2016,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,քաղաք,,,99.8
+2017,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,քաղաք,,,99.8
+2018,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,քաղաք,,,99.9
+2019,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,քաղաք,,,100.0
+2020,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,քաղաք,,,100.0
+2021,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,քաղաք,,,100.0
+2015,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,գյուղ,,,96.7
+2016,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,գյուղ,,,99.7
+2017,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,գյուղ,,,99.7
+2018,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,գյուղ,,,99.9
+2019,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,գյուղ,,,100.0
+2020,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,գյուղ,,,100.0
+2021,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,գյուղ,,,100.0
+2017,մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը,%,,,,57.0
+2018,մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը,%,,,,59.3
+2019,մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը,%,,,,69.2
+2020,մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը,%,,,,73.3
+2021,մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը,%,,,,69.9
+2015,մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը,%,քաղաք,,,82.5
+2016,մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը,%,քաղաք,,,81.3
+2017,մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը,%,քաղաք,,,84.0
+2018,մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը,%,քաղաք,,,85.1
+2019,մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը,%,քաղաք,,,92.9
+2020,մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը,%,քաղաք,,,94.8
+2021,մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը,%,քաղաք,,,93.4
+2015,մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը,%,գյուղ,,,15.5
+2016,մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը,%,գյուղ,,,13.3
+2017,մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը,%,գյուղ,,,14.5
+2018,մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը,%,գյուղ,,,17.2
+2019,մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը,%,գյուղ,,,31.5
+2020,մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը,%,գյուղ,,,42.7
+2021,մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը,%,գյուղ,,,40.5
+2021,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,տղամարդ,,94.9
+2021,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,կին,,95.7
+2021,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,ոչ աղքատ,95.8
+2021,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,աղքատ,94.8
+2021,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,very poor,95.7
+2021,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,տղամարդ,,75.2
+2021,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,կին,,78.1
+2021,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,ոչ աղքատ,81.5
+2021,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,աղքատ,71.3
+2021,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,very poor,63.4
+2021,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,,տղամարդ,,95.2
+2021,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,,կին,,96.1
+2021,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,,,ոչ աղքատ,95.1
+2021,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,,,աղքատ,96.3
+2021,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,,,very poor,100.0
+2021,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,,ոչ աղքատ,81.4
+2021,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,,աղքատ,75.7
 2021,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,,very poor,59.9
-2021,electricity supply accessibility for household members,%,,տղամարդ,,100.0
-2021,electricity supply accessibility for household members,%,,կին,,100.0
-2021,electricity supply accessibility for household members,%,,,non poor,100.0
-2021,electricity supply accessibility for household members,%,,,poor,100.0
-2021,electricity supply accessibility for household members,%,,,very poor,100.0
-2021,proportion of household members with primary reliance on clean fuels and technology,%,,տղամարդ,,67.8
-2021,proportion of household members with primary reliance on clean fuels and technology,%,,կին,,71.8
-2021,proportion of household members with primary reliance on clean fuels and technology,%,,,non poor,76.9
-2021,proportion of household members with primary reliance on clean fuels and technology,%,,,poor,62.2
-2021,proportion of household members with primary reliance on clean fuels and technology,%,,,very poor,43.4
-2022,centralized water supply accessibility for household members,%,,,,94.6
-2022,centralized water supply accessibility for household members,%,քաղաք,,,99.6
-2022,centralized water supply accessibility for household members,%,գյուղ,,,87.3
-2022,centralized water supply accessibility for household members,%,,տղամարդ,,94.2
-2022,centralized water supply accessibility for household members,%,,կին,,95.0
-2022,centralized water supply accessibility for household members,%,,,non poor,94.6
-2022,centralized water supply accessibility for household members,%,,,poor,94.8
-2022,centralized water supply accessibility for household members,%,,,very poor,82.2
-2022,centralized sewerage system accessibility for household members,%,,,,78.4
-2022,centralized sewerage system accessibility for household members,%,քաղաք,,,98.1
-2022,centralized sewerage system accessibility for household members,%,գյուղ,,,48.9
-2022,centralized sewerage system accessibility for household members,%,,տղամարդ,,77.0
-2022,centralized sewerage system accessibility for household members,%,,կին,,79.6
-2022,centralized sewerage system accessibility for household members,%,,,non poor,79.6
-2022,centralized sewerage system accessibility for household members,%,,,poor,74.6
-2022,centralized sewerage system accessibility for household members,%,,,very poor,71.5
-2022,garbage disposal accessibility for household members,%,,,,95.7
-2022,garbage disposal accessibility for household members,%,քաղաք,,,99.9
-2022,garbage disposal accessibility for household members,%,գյուղ,,,89.4
-2022,garbage disposal accessibility for household members,%,,տղամարդ,,95.4
-2022,garbage disposal accessibility for household members,%,,կին,,95.9
-2022,garbage disposal accessibility for household members,%,,,non poor,96.0
-2022,garbage disposal accessibility for household members,%,,,poor,94.9
-2022,garbage disposal accessibility for household members,%,,,very poor,84.3
+2021,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,,տղամարդ,,100.0
+2021,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,,կին,,100.0
+2021,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,,,ոչ աղքատ,100.0
+2021,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,,,աղքատ,100.0
+2021,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,,,very poor,100.0
+2021,մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը,%,,տղամարդ,,67.8
+2021,մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը,%,,կին,,71.8
+2021,մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը,%,,,ոչ աղքատ,76.9
+2021,մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը,%,,,աղքատ,62.2
+2021,մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը,%,,,very poor,43.4
+2022,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,,94.6
+2022,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,քաղաք,,,99.6
+2022,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,գյուղ,,,87.3
+2022,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,տղամարդ,,94.2
+2022,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,կին,,95.0
+2022,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,ոչ աղքատ,94.6
+2022,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,աղքատ,94.8
+2022,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,very poor,82.2
+2022,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,,78.4
+2022,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,քաղաք,,,98.1
+2022,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,գյուղ,,,48.9
+2022,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,տղամարդ,,77.0
+2022,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,կին,,79.6
+2022,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,ոչ աղքատ,79.6
+2022,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,աղքատ,74.6
+2022,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,very poor,71.5
+2022,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,,,,95.7
+2022,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,քաղաք,,,99.9
+2022,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,գյուղ,,,89.4
+2022,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,,տղամարդ,,95.4
+2022,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,,կին,,95.9
+2022,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,,,ոչ աղքատ,96.0
+2022,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,,,աղքատ,94.9
+2022,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,,,very poor,84.3
 2022,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,,,77.0
 2022,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,քաղաք,,,79.5
 2022,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,գյուղ,,,73.3
 2022,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,տղամարդ,,74.4
 2022,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,կին,,79.3
-2022,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,,non poor,78.4
-2022,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,,poor,72.7
+2022,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,,ոչ աղքատ,78.4
+2022,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,,աղքատ,72.7
 2022,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,,very poor,62.8
-2022,electricity supply accessibility for household members,%,,,,100.0
-2022,electricity supply accessibility for household members,%,քաղաք,,,100.0
-2022,electricity supply accessibility for household members,%,գյուղ,,,100.0
-2022,electricity supply accessibility for household members,%,,տղամարդ,,100.0
-2022,electricity supply accessibility for household members,%,,կին,,100.0
-2022,electricity supply accessibility for household members,%,,,non poor,100.0
-2022,electricity supply accessibility for household members,%,,,poor,100.0
-2022,electricity supply accessibility for household members,%,,,very poor,100.0
-2022,proportion of population using hand-washing facility with soap,%,,,,98.0
-2022,proportion of population using hand-washing facility with soap,%,քաղաք,,,99.2
-2022,proportion of population using hand-washing facility with soap,%,գյուղ,,,96.2
-2022,proportion of population using hand-washing facility with soap,%,,տղամարդ,,98.0
-2022,proportion of population using hand-washing facility with soap,%,,կին,,98.0
-2022,proportion of population using hand-washing facility with soap,%,,,non poor,98.4
-2022,proportion of population using hand-washing facility with soap,%,,,poor,97.5
-2022,proportion of population using hand-washing facility with soap,%,,,very poor,94.2
-2023,centralized water supply accessibility for household members,%,,,,94.2
-2023,centralized water supply accessibility for household members,%,քաղաք,,,99.0
-2023,centralized water supply accessibility for household members,%,գյուղ,,,87.4
-2023,centralized water supply accessibility for household members,%,,տղամարդ,,93.9
-2023,centralized water supply accessibility for household members,%,,կին,,94.6
-2023,centralized water supply accessibility for household members,%,,,non poor,95.1
-2023,centralized water supply accessibility for household members,%,,,poor,91.4
-2023,centralized water supply accessibility for household members,%,,,very poor,79.2
-2023,centralized sewerage system accessibility for household members,%,,,,77.4
-2023,centralized sewerage system accessibility for household members,%,քաղաք,,,97.0
-2023,centralized sewerage system accessibility for household members,%,գյուղ,,,48.8
-2023,centralized sewerage system accessibility for household members,%,,տղամարդ,,76.1
-2023,centralized sewerage system accessibility for household members,%,,կին,,78.4
-2023,centralized sewerage system accessibility for household members,%,,,non poor,78.0
-2023,centralized sewerage system accessibility for household members,%,,,poor,75.2
-2023,centralized sewerage system accessibility for household members,%,,,very poor,63.9
-2023,garbage disposal accessibility for household members,%,,,,96.4
-2023,garbage disposal accessibility for household members,%,քաղաք,,,99.7
-2023,garbage disposal accessibility for household members,%,գյուղ,,,91.6
-2023,garbage disposal accessibility for household members,%,,տղամարդ,,96.2
-2023,garbage disposal accessibility for household members,%,,կին,,96.6
-2023,garbage disposal accessibility for household members,%,,,non poor,97.0
-2023,garbage disposal accessibility for household members,%,,,poor,94.3
-2023,garbage disposal accessibility for household members,%,,,very poor,88.4
+2022,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,,,,100.0
+2022,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,քաղաք,,,100.0
+2022,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,գյուղ,,,100.0
+2022,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,,տղամարդ,,100.0
+2022,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,,կին,,100.0
+2022,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,,,ոչ աղքատ,100.0
+2022,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,,,աղքատ,100.0
+2022,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,,,very poor,100.0
+2022,"բնակչության մասնաբաժինը, որոնց հասանելի է  օճառով և ջրով ձեռքերը լվանալու հարմարությունները",%,,,,98.0
+2022,"բնակչության մասնաբաժինը, որոնց հասանելի է  օճառով և ջրով ձեռքերը լվանալու հարմարությունները",%,քաղաք,,,99.2
+2022,"բնակչության մասնաբաժինը, որոնց հասանելի է  օճառով և ջրով ձեռքերը լվանալու հարմարությունները",%,գյուղ,,,96.2
+2022,"բնակչության մասնաբաժինը, որոնց հասանելի է  օճառով և ջրով ձեռքերը լվանալու հարմարությունները",%,,տղամարդ,,98.0
+2022,"բնակչության մասնաբաժինը, որոնց հասանելի է  օճառով և ջրով ձեռքերը լվանալու հարմարությունները",%,,կին,,98.0
+2022,"բնակչության մասնաբաժինը, որոնց հասանելի է  օճառով և ջրով ձեռքերը լվանալու հարմարությունները",%,,,ոչ աղքատ,98.4
+2022,"բնակչության մասնաբաժինը, որոնց հասանելի է  օճառով և ջրով ձեռքերը լվանալու հարմարությունները",%,,,աղքատ,97.5
+2022,"բնակչության մասնաբաժինը, որոնց հասանելի է  օճառով և ջրով ձեռքերը լվանալու հարմարությունները",%,,,very poor,94.2
+2023,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,,94.2
+2023,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,քաղաք,,,99.0
+2023,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,գյուղ,,,87.4
+2023,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,տղամարդ,,93.9
+2023,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,կին,,94.6
+2023,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,ոչ աղքատ,95.1
+2023,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,աղքատ,91.4
+2023,կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,very poor,79.2
+2023,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,,77.4
+2023,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,քաղաք,,,97.0
+2023,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,գյուղ,,,48.8
+2023,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,տղամարդ,,76.1
+2023,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,կին,,78.4
+2023,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,ոչ աղքատ,78.0
+2023,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,աղքատ,75.2
+2023,կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին,%,,,very poor,63.9
+2023,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,,,,96.4
+2023,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,քաղաք,,,99.7
+2023,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,գյուղ,,,91.6
+2023,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,,տղամարդ,,96.2
+2023,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,,կին,,96.6
+2023,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,,,ոչ աղքատ,97.0
+2023,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,,,աղքատ,94.3
+2023,աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին,%,,,very poor,88.4
 2023,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,,,80.0
 2023,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,քաղաք,,,83.5
 2023,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,գյուղ,,,74.9
 2023,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,տղամարդ,,77.9
 2023,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,կին,,81.9
-2023,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,,non poor,81.1
-2023,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,,poor,76.3
+2023,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,,ոչ աղքատ,81.1
+2023,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,,աղքատ,76.3
 2023,ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին,%,,,very poor,61.0
-2023,electricity supply accessibility for household members,%,,,,100.0
-2023,electricity supply accessibility for household members,%,քաղաք,,,100.0
-2023,electricity supply accessibility for household members,%,գյուղ,,,100.0
-2023,electricity supply accessibility for household members,%,,տղամարդ,,100.0
-2023,electricity supply accessibility for household members,%,,կին,,100.0
-2023,electricity supply accessibility for household members,%,,,non poor,100.0
-2023,electricity supply accessibility for household members,%,,,poor,100.0
-2023,electricity supply accessibility for household members,%,,,very poor,100.0
-2023,proportion of population using hand-washing facility with soap,%,,,,97.9
-2023,proportion of population using hand-washing facility with soap,%,քաղաք,,,98.9
-2023,proportion of population using hand-washing facility with soap,%,գյուղ,,,96.5
-2023,proportion of population using hand-washing facility with soap,%,,տղամարդ,,97.8
-2023,proportion of population using hand-washing facility with soap,%,,կին,,98.0
-2023,proportion of population using hand-washing facility with soap,%,,,non poor,98.3
-2023,proportion of population using hand-washing facility with soap,%,,,poor,96.6
-2023,proportion of population using hand-washing facility with soap,%,,,very poor,95.6
+2023,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,,,,100.0
+2023,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,քաղաք,,,100.0
+2023,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,գյուղ,,,100.0
+2023,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,,տղամարդ,,100.0
+2023,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,,կին,,100.0
+2023,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,,,ոչ աղքատ,100.0
+2023,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,,,աղքատ,100.0
+2023,էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին,%,,,very poor,100.0
+2023,"բնակչության մասնաբաժինը, որոնց հասանելի է  օճառով և ջրով ձեռքերը լվանալու հարմարությունները",%,,,,97.9
+2023,"բնակչության մասնաբաժինը, որոնց հասանելի է  օճառով և ջրով ձեռքերը լվանալու հարմարությունները",%,քաղաք,,,98.9
+2023,"բնակչության մասնաբաժինը, որոնց հասանելի է  օճառով և ջրով ձեռքերը լվանալու հարմարությունները",%,գյուղ,,,96.5
+2023,"բնակչության մասնաբաժինը, որոնց հասանելի է  օճառով և ջրով ձեռքերը լվանալու հարմարությունները",%,,տղամարդ,,97.8
+2023,"բնակչության մասնաբաժինը, որոնց հասանելի է  օճառով և ջրով ձեռքերը լվանալու հարմարությունները",%,,կին,,98.0
+2023,"բնակչության մասնաբաժինը, որոնց հասանելի է  օճառով և ջրով ձեռքերը լվանալու հարմարությունները",%,,,ոչ աղքատ,98.3
+2023,"բնակչության մասնաբաժինը, որոնց հասանելի է  օճառով և ջրով ձեռքերը լվանալու հարմարությունները",%,,,աղքատ,96.6
+2023,"բնակչության մասնաբաժինը, որոնց հասանելի է  օճառով և ջրով ձեռքերը լվանալու հարմարությունները",%,,,very poor,95.6

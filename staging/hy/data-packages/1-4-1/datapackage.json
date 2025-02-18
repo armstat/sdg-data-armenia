@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "centralized water supply accessibility for household members",
-                "centralized sewerage system accessibility for household members",
-                "garbage disposal accessibility for household members",
+                "կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին",
+                "կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին",
+                "աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին",
                 "ինտերնետային կապի հասանելիությունը տնային տնտեսության անդամներին",
-                "electricity supply accessibility for household members",
-                "proportion of household members with primary reliance on clean fuels and technology",
-                "proportion of population using hand-washing facility with soap",
+                "էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին",
+                "մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը",
+                "բնակչության մասնաբաժինը, որոնց հասանելի է  օճառով և ջրով ձեռքերը լվանալու հարմարությունները",
                 ""
               ]
             },
@@ -72,13 +72,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "non poor",
-                "poor",
+                "ոչ աղքատ",
+                "աղքատ",
                 "very poor",
                 ""
               ]
             },
-            "title": "Poverty"
+            "title": "Աղքատություն"
           },
           {
             "name": "Value",
