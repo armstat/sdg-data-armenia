@@ -1212,7 +1212,7 @@
               "enum": [
                 "non poor",
                 "poor",
-                "very poor",
+                "extreme poor",
                 ""
               ]
             },
