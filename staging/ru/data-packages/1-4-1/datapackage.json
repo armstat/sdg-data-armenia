@@ -16,7 +16,7 @@
             "title": "Год"
           },
           {
-            "name": "Access to servises",
+            "name": "Access to services",
             "type": "string",
             "constraints": {
               "enum": [
@@ -30,7 +30,7 @@
                 ""
               ]
             },
-            "title": "Access to servises"
+            "title": "Доступ к услугам"
           },
           {
             "name": "Units",

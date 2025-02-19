@@ -1060,7 +1060,7 @@
             "type": "integer"
           },
           {
-            "name": "Access to servises",
+            "name": "Access to services",
             "type": "string",
             "constraints": {
               "enum": [

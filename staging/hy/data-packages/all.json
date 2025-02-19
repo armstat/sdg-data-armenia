@@ -1154,7 +1154,7 @@
             "title": "Տարի"
           },
           {
-            "name": "Access to servises",
+            "name": "Access to services",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1168,7 +1168,7 @@
                 ""
               ]
             },
-            "title": "Access to servises"
+            "title": "Ծառայությունների հասանելիություն"
           },
           {
             "name": "Units",
