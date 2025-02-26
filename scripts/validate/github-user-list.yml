@@ -239,9 +239,8 @@ Wmanagement-max:
   indicators:
   - 11-6-1
   - 11-6-1-a
-Tken-kzn:
+TkenKzn:
   indicators:
-  - 7-a-1
   - 7-b-1
 Anna-svg-prog:
   indicators:
@@ -250,7 +249,10 @@ Anna-svg-prog:
   - 13-b-1 
 MinFinaccountingdepartment:
   indicators:
-  - 16-6-1  
+  - 16-6-1 
+cadastre2024:
+  indicators:
+  - 1-4-2-a    
 SDGArmenia: administrator
 brockfanning: administrator
 Arminaprog: administrator
