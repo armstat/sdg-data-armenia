@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bank branches per 100,000 adults",
-                "ATMs per 100,000 adults",
+                "Отделения банков на 100,000 взрослых",
+                "Банкоматы на 100,000 взрослых",
                 ""
               ]
             },
