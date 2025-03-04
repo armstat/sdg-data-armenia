@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bank branches per 100,000 adults",
-                "ATMs per 100,000 adults",
+                "Բանկերի մասնաճյուղեր՝ 100,000 չափահասի հաշվով",
+                "ԱԳՄ-ներ՝ 100,000 չափահասի հաշվով",
                 ""
               ]
             },

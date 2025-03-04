@@ -3534,6 +3534,8 @@
                 "Nationally Determined Contributions",
                 "Nationally Adaptation Plan",
                 "Long Tearm Strategy",
+                "National Communication, https://unfccc.int/sites/default/files/resource/NC4_Armenia_.pdf",
+                "National Greenhouse Gas Inventory Report, https://unfccc.int/sites/default/files/resource/NIR%202019_EN.pdf",
                 ""
               ]
             },
@@ -12246,8 +12248,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bank branches per 100,000 adults",
-                "ATMs per 100,000 adults",
+                "Отделения банков на 100,000 взрослых",
+                "Банкоматы на 100,000 взрослых",
                 ""
               ]
             },
