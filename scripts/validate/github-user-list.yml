@@ -29,7 +29,6 @@ nairam67:
   - 6-3-1-a
   - 6-4-1
   - 6-4-2
-  - 6-5-2
   - 9-4-1
   - 11-5-1
   - 11-6-1
@@ -217,7 +216,7 @@ ivetanih:
   indicators:
   - 3-5-1
   - 3-a-1  
-ArturAkojyan:
+CBA-statistics:
   indicators:
   - 8-10-1
   - 10-5-1
@@ -245,8 +244,9 @@ TkenKzn:
 Anna-svg-prog:
   indicators:
   - 13-2-1
-  - 13-a-1
-  - 13-b-1 
+ENV-Hovhannisyan:
+  indicators:
+  - 6-5-2  
 MinFinaccountingdepartment:
   indicators:
   - 16-6-1 
