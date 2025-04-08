@@ -1,4 +1,4 @@
-# Open SDG - Data - Armenia
+# Open SDG - Data -  Armenia
 
 This is the data repository for the Armenian implementation of Open SDG.
 
