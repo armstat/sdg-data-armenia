@@ -5721,8 +5721,7 @@
               "enum": [
                 "WTO",
                 "UNGA",
-                "IRDB",
-                "IRBD",
+                "IBRD",
                 "IMF",
                 "IFC",
                 "ECOSOC",
