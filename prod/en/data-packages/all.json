@@ -1790,8 +1790,7 @@
               "enum": [
                 "WTO",
                 "UNGA",
-                "IRDB",
-                "IRBD",
+                "IBRD",
                 "IMF",
                 "IFC",
                 "ECOSOC",
@@ -5721,8 +5720,7 @@
               "enum": [
                 "WTO",
                 "UNGA",
-                "IRDB",
-                "IRBD",
+                "IBRD",
                 "IMF",
                 "IFC",
                 "ECOSOC",
