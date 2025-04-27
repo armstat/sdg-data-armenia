@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1=compliant, 0=partially compliant",
+                "1=համապատասխանում է, 0=մասնակի է համապատասխանում",
                 ""
               ]
             },

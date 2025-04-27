@@ -20,15 +20,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nationally Determined Contributions",
-                "Nationally Adaptation Plan",
-                "Long Tearm Strategy",
+                "Определенные на национальном уровне вклады",
+                "Национальный план по адаптации",
+                "Долгосрочная стратегия",
                 "National Communication, https://unfccc.int/sites/default/files/resource/NC4_Armenia_.pdf",
                 "National Greenhouse Gas Inventory Report, https://unfccc.int/sites/default/files/resource/NIR%202019_EN.pdf",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Группа"
           },
           {
             "name": "Value",

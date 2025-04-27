@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100000 population",
+                "100,000 բնակչի հաշվով",
                 ""
               ]
             },

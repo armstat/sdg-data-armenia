@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "USD/m3",
+                "ԱՄՆ դոլար/խորանարդ մետր",
                 ""
               ]
             },

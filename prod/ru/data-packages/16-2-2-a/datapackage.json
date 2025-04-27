@@ -23,7 +23,18 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Группа"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "случай",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

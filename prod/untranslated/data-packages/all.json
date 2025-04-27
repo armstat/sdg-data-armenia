@@ -4661,6 +4661,16 @@
             }
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "case",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -9733,6 +9743,16 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
                 ""
               ]
             }

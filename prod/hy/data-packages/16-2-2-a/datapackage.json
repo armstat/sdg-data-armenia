@@ -23,7 +23,18 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "դեպք",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
