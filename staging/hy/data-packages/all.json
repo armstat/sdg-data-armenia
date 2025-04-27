@@ -1127,7 +1127,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -1252,7 +1252,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -1336,7 +1336,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -1406,7 +1406,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -1442,7 +1442,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -1526,7 +1526,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -1643,7 +1643,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -1834,7 +1834,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -2006,7 +2006,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -2042,7 +2042,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -2078,7 +2078,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -2114,7 +2114,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -2285,7 +2285,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -2356,7 +2356,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -2392,7 +2392,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -2476,7 +2476,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -2582,7 +2582,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -2618,7 +2618,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -2654,7 +2654,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -2690,7 +2690,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -2795,7 +2795,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -2866,7 +2866,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -3044,7 +3044,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -3080,7 +3080,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -3167,7 +3167,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -3203,7 +3203,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -3239,7 +3239,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -3275,7 +3275,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -3311,7 +3311,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -3347,7 +3347,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -3383,7 +3383,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -3530,15 +3530,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nationally Determined Contributions",
-                "Nationally Adaptation Plan",
-                "Long Tearm Strategy",
+                "Ազգային մակարդակով սահմանված գործողություններ",
+                "Հարմարվողականության ազգային շրագիր",
+                "Երկարաժամկետ ռազմավարություն",
                 "National Communication, https://unfccc.int/sites/default/files/resource/NC4_Armenia_.pdf",
                 "National Greenhouse Gas Inventory Report, https://unfccc.int/sites/default/files/resource/NIR%202019_EN.pdf",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -3609,7 +3609,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -3643,7 +3643,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -3713,7 +3713,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -3749,7 +3749,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -3820,7 +3820,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -3856,7 +3856,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -3927,7 +3927,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -3963,7 +3963,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -3999,7 +3999,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -4070,7 +4070,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -4106,7 +4106,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -4332,7 +4332,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -4368,7 +4368,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -4404,7 +4404,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -4440,7 +4440,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -4479,7 +4479,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -4515,7 +4515,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -4551,7 +4551,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -4587,7 +4587,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -4623,7 +4623,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -4659,7 +4659,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -4695,7 +4695,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -4731,7 +4731,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -4802,7 +4802,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -4838,7 +4838,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -4874,7 +4874,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -4910,7 +4910,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -4946,7 +4946,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -4977,7 +4977,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Points",
+                "միավորներ",
                 ""
               ]
             },
@@ -5080,7 +5080,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Units",
@@ -5200,7 +5200,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -5236,7 +5236,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -5305,7 +5305,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -5341,7 +5341,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -5377,7 +5377,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -5413,7 +5413,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -5449,7 +5449,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -5651,7 +5651,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -5687,7 +5687,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -5817,7 +5817,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1=compliant, 0=partially compliant",
+                "1=համապատասխանում է, 0=մասնակի է համապատասխանում",
                 ""
               ]
             },
@@ -5857,7 +5857,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -5963,7 +5963,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -5999,7 +5999,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -6035,7 +6035,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -6105,7 +6105,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -6141,7 +6141,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -6177,7 +6177,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -6213,7 +6213,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -6438,7 +6438,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -6509,7 +6509,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -6615,7 +6615,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -6651,7 +6651,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -6735,7 +6735,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -6842,7 +6842,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -7108,7 +7108,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -7144,7 +7144,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -7276,7 +7276,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -7312,7 +7312,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -7347,7 +7347,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -7383,7 +7383,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -7419,7 +7419,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -7490,7 +7490,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -8279,7 +8279,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -8467,7 +8467,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -8833,7 +8833,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -8958,7 +8958,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100000 population",
+                "100,000 բնակչի հաշվով",
                 ""
               ]
             },
@@ -9320,7 +9320,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -9356,7 +9356,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -9835,7 +9835,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -10030,7 +10030,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -10281,7 +10281,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -10633,7 +10633,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Units",
@@ -10727,7 +10727,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -10763,7 +10763,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -10942,7 +10942,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -10978,7 +10978,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -11157,7 +11157,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -11203,7 +11203,7 @@
                 ""
               ]
             },
-            "title": "Proxy E"
+            "title": "Պրոքսի E"
           },
           {
             "name": "Value",
@@ -11334,7 +11334,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -11685,7 +11685,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -11721,7 +11721,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -11752,7 +11752,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "USD/m3",
+                "ԱՄՆ դոլար/խորանարդ մետր",
                 ""
               ]
             },
@@ -11827,7 +11827,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -11898,7 +11898,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -11934,7 +11934,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -11970,7 +11970,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -12476,7 +12476,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -12653,7 +12653,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -12979,7 +12979,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -13015,7 +13015,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -13051,7 +13051,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -13087,7 +13087,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -13123,7 +13123,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -13355,7 +13355,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -13598,7 +13598,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
@@ -13634,7 +13634,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Խումբ"
           },
           {
             "name": "Value",
