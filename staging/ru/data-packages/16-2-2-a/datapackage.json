@@ -23,14 +23,14 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Группа"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "случаи",
+                "случай",
                 ""
               ]
             },
