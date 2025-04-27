@@ -201,7 +201,6 @@ Tamara-ESCS:
   - 4-1-2
   - 4-2-2
   - 4-5-1
-  - 4-7-1
   - 4-a-1
   - 4-b-1
   - 4-c-1  
@@ -238,15 +237,13 @@ Wmanagement-max:
   indicators:
   - 11-6-1
   - 11-6-1-a
-TkenKzn:
-  indicators:
-  - 7-b-1
+# TkenKzn:
+#  indicators:
+#  - 7-b-1
 Anna-svg-prog:
   indicators:
   - 13-2-1
-ENV-Hovhannisyan:
-  indicators:
-  - 6-5-2  
+  - 6-5-2
 MinFinaccountingdepartment:
   indicators:
   - 16-6-1 
