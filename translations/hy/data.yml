@@ -296,3 +296,9 @@ USD/m3: ԱՄՆ դոլար/խորանարդ մետր
 case: դեպք
 Points: միավորներ
 1=compliant, 0=partially compliant: 1=համապատասխանում է, 0=մասնակի է համապատասխանում 
+kg/USD constant 2017 PPP GDP: կգ/ԱՄՆ դոլար (ԳԳՀ, 2017 թ.)
+Gg CO2-equivalent: Գգ CO₂-ի համարժեքով
+mln. USD: մլն. ԱՄՆ դոլար
+Tenure_TYPE: Իրավունքի տեսակ
+neutral: չեզոք
+Number of applicable proxies: Կիրառելի պրոքսիների քանակը
