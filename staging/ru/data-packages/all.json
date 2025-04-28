@@ -1250,7 +1250,7 @@
                 ""
               ]
             },
-            "title": "Tenure_TYPE"
+            "title": "тип права"
           },
           {
             "name": "Sex",
@@ -3609,7 +3609,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gg CO2-equivalent",
+                "Гг CO₂-эквивалент",
                 ""
               ]
             },
@@ -6509,7 +6509,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mln. USD",
+                "млн. долл. США",
                 ""
               ]
             },
@@ -11237,7 +11237,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of applicable proxies",
+                "Количество применимых прокси",
                 ""
               ]
             },
@@ -13493,7 +13493,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "kg/USD constant 2017 PPP GDP",
+                "кг/долл. США (ППС, 2017 г.)",
                 ""
               ]
             },
