@@ -16,14 +16,34 @@
             "title": "Տարի"
           },
           {
-            "name": "Group",
+            "name": "Tenure_TYPE",
             "type": "string",
             "constraints": {
               "enum": [
                 ""
               ]
             },
-            "title": "Խումբ"
+            "title": "Tenure_TYPE"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Սեռ"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

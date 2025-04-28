@@ -15,7 +15,25 @@
             "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Tenure_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [

@@ -1243,14 +1243,34 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Tenure_TYPE",
             "type": "string",
             "constraints": {
               "enum": [
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Tenure_TYPE"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

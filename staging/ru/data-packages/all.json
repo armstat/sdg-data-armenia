@@ -1243,14 +1243,34 @@
             "title": "Год"
           },
           {
-            "name": "Group",
+            "name": "Tenure_TYPE",
             "type": "string",
             "constraints": {
               "enum": [
                 ""
               ]
             },
-            "title": "Группа"
+            "title": "Tenure_TYPE"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
