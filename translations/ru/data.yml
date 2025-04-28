@@ -296,3 +296,9 @@ USD/m3: доллар США/кубический метр
 case: случай
 oints: баллы
 1=compliant, 0=partially compliant: 1=соответствует, 0=частично соответствует
+kg/USD constant 2017 PPP GDP: кг/долл. США (ППС, 2017 г.)
+Gg CO2-equivalent: Гг CO₂-эквивалент
+mln. USD: млн. долл. США
+Tenure_TYPE: тип права
+neutral: нейтральный
+Number of applicable proxies: Количество применимых прокси
