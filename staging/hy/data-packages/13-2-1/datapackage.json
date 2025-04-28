@@ -31,6 +31,17 @@
             "title": "Խումբ"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "այո=1, ոչ=0",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
