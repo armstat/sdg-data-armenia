@@ -1250,7 +1250,7 @@
                 ""
               ]
             },
-            "title": "Tenure_TYPE"
+            "title": "Իրավունքի տեսակ"
           },
           {
             "name": "Sex",
@@ -3609,7 +3609,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gg CO2-equivalent",
+                "Գգ CO₂-ի համարժեքով",
                 ""
               ]
             },
@@ -6509,7 +6509,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mln. USD",
+                "մլն. ԱՄՆ դոլար",
                 ""
               ]
             },
@@ -11237,7 +11237,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of applicable proxies",
+                "Կիրառելի պրոքսիների քանակը",
                 ""
               ]
             },
@@ -13493,7 +13493,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "kg/USD constant 2017 PPP GDP",
+                "կգ/ԱՄՆ դոլար (ԳԳՀ, 2017 թ.)",
                 ""
               ]
             },

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gg CO2-equivalent",
+                "Գգ CO₂-ի համարժեքով",
                 ""
               ]
             },
