@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of applicable proxies",
+                "Количество применимых прокси",
                 ""
               ]
             },

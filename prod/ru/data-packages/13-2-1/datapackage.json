@@ -31,6 +31,17 @@
             "title": "Группа"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "да=1, нет=0",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"

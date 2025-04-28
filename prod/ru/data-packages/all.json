@@ -1239,24 +1239,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Год"
           },
           {
-            "name": "Group",
+            "name": "Tenure_TYPE",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Группа"
+            "title": "тип права"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -1608,6 +1626,17 @@
               ]
             },
             "title": "Unnamed: 1"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -3541,6 +3570,17 @@
             "title": "Группа"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "да=1, нет=0",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -3569,7 +3609,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gg CO2-equivalent",
+                "Гг CO₂-эквивалент",
                 ""
               ]
             },
@@ -6469,7 +6509,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mln. USD",
+                "млн. долл. США",
                 ""
               ]
             },
@@ -6496,7 +6536,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Год"
           },
           {
@@ -6504,8 +6544,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
@@ -6513,7 +6551,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -10476,6 +10514,17 @@
             "title": "Уровень образования"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -11188,7 +11237,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of applicable proxies",
+                "Количество применимых прокси",
                 ""
               ]
             },
@@ -11863,6 +11912,19 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "FOR YEARS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2014-2016",
+                "2017-2019",
+                "2020-2022",
+                ""
+              ]
+            },
+            "title": "FOR YEARS"
           },
           {
             "name": "Value",
@@ -13358,6 +13420,17 @@
             "title": "Группа"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -13420,7 +13493,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "kg/USD constant 2017 PPP GDP",
+                "кг/долл. США (ППС, 2017 г.)",
                 ""
               ]
             },

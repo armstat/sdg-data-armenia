@@ -1239,24 +1239,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Tenure_TYPE",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Tenure_TYPE"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -1608,6 +1626,17 @@
               ]
             },
             "title": "Unnamed: 1"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -3539,6 +3568,17 @@
               ]
             },
             "title": "Group"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "yes=1, no=0",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -6496,7 +6536,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -6504,8 +6544,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
@@ -6513,7 +6551,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -10476,6 +10514,17 @@
             "title": "Education level"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -11863,6 +11912,19 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "FOR YEARS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2014-2016",
+                "2017-2019",
+                "2020-2022",
+                ""
+              ]
+            },
+            "title": "FOR YEARS"
           },
           {
             "name": "Value",
@@ -13356,6 +13418,17 @@
               ]
             },
             "title": "Group"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
