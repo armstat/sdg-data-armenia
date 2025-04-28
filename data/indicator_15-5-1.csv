@@ -1,6 +1,6 @@
-Year,Group,Value
-2010,Red List Index,0.60
-2010,Vertebrates,0.71
-2010,Invertebrates,0.58
-2010,Higher plants,0.57
-2010,Fungi,0.63
+Year,Group,Value, Units
+2010,Red List Index,0.60,
+2010,Vertebrates,0.71,
+2010,Invertebrates,0.58,
+2010,Higher plants,0.57,
+2010,Fungi,0.63,
