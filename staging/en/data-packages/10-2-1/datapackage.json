@@ -16,16 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Unnamed: 1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 1"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
