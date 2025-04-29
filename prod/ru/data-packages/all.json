@@ -1618,16 +1618,6 @@
             "title": "Год"
           },
           {
-            "name": "Unnamed: 1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 1"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -13717,6 +13707,41 @@
         ]
       },
       "title": "Доля добавленной стоимости продукции среднетехнологичных и высокотехнологичных отраслей в общем объеме добавленной стоимости"
+    },
+    {
+      "path": "9-c-1 (1)/data.csv",
+      "name": "9-c-1 (1)",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-c-1 (1)"
     },
     {
       "path": "9-c-1/data.csv",
