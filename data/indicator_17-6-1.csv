@@ -26,3 +26,6 @@
 "2023","%","equal to or greater than 256 kbit/s and less than 2 Mbit/s","0.01"
 "2023","%","equal to or greater than 2 Mbit/s and less than 10 Mbit/s","2.42"
 "2023","%","equal to or greater than 10 Mbit/s","15.98"
+"2024","%","equal to or greater than 256 kbit/s and less than 2 Mbit/s","0.008"
+"2024","%","equal to or greater than 2 Mbit/s and less than 10 Mbit/s","1.73"
+"2024","%","equal to or greater than 10 Mbit/s","18.16"
