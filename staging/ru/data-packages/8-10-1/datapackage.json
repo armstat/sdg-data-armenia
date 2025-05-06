@@ -20,12 +20,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Отделения банков на 100,000 взрослых",
-                "Банкоматы на 100,000 взрослых",
+                "per 100,000 adults",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Branches/ATMs",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ATMs",
+                "Branches",
+                ""
+              ]
+            },
+            "title": "Branches/ATMs"
           },
           {
             "name": "Value",
