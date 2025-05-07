@@ -1,1 +1,126 @@
-Year,Value
+Year,Իրավունքի տեսակ,Սեռ,Units,Value
+2015,,,դեպք,94167
+2016,,,դեպք,94748
+2017,,,դեպք,103978
+2018,,,դեպք,125524
+2019,,,դեպք,158793
+2020,,,դեպք,159189
+2021,,,դեպք,200701
+2022,,,դեպք,246958
+2023,,,դեպք,233930
+2024,,,դեպք,262616
+2015,,տղամարդ,դեպք,70428
+2016,,տղամարդ,դեպք,69362
+2017,,տղամարդ,դեպք,75751
+2018,,տղամարդ,դեպք,90719
+2019,,տղամարդ,դեպք,115842
+2020,,տղամարդ,դեպք,116904
+2021,,տղամարդ,դեպք,141646
+2022,,տղամարդ,դեպք,177406
+2023,,տղամարդ,դեպք,158372
+2024,,տղամարդ,դեպք,170599
+2015,,կին,դեպք,23738
+2016,,կին,դեպք,25385
+2017,,կին,դեպք,28226
+2018,,կին,դեպք,34805
+2019,,կին,դեպք,42951
+2020,,կին,դեպք,42285
+2021,,կին,դեպք,59055
+2022,,կին,դեպք,69548
+2023,,կին,դեպք,69548
+2024,,կին,դեպք,91991
+2015,,չեզոք,դեպք,1
+2016,,չեզոք,դեպք,1
+2017,,չեզոք,դեպք,1
+2018,,չեզոք,դեպք,0
+2019,,չեզոք,դեպք,0
+2020,,չեզոք,դեպք,0
+2021,,չեզոք,դեպք,0
+2022,,չեզոք,դեպք,2
+2023,,չեզոք,դեպք,0
+2024,,չեզոք,դեպք,26
+2015,Ownership,տղամարդ,դեպք,36048
+2015,Common jointly ownership,տղամարդ,դեպք,11714
+2015,Common shared ownership,տղամարդ,դեպք,18407
+2015,Lease,տղամարդ,դեպք,2065
+2015,Sublease,տղամարդ,դեպք,61
+2015,Pledge,տղամարդ,դեպք,283
+2015,A right to land development,տղամարդ,դեպք,583
+2015,Gratuitous use,տղամարդ,դեպք,59
+2015,Use of the residential premises,տղամարդ,դեպք,5
+2015,Servitude,տղամարդ,դեպք,5
+2015,Right of constructor or unauthorised buidlings,տղամարդ,դեպք,1091
+2015,Use,տղամարդ,դեպք,14
+2015,Having the right to purchase immovable property under construction,տղամարդ,դեպք,93
+2016,Ownership,տղամարդ,դեպք,34508
+2016,Common jointly ownership,տղամարդ,դեպք,11817
+2016,Common shared ownership,տղամարդ,դեպք,18308
+2016,Lease,տղամարդ,դեպք,2333
+2016,Sublease,տղամարդ,դեպք,41
+2016,Pledge,տղամարդ,դեպք,262
+2016,A right to land development,տղամարդ,դեպք,570
+2016,Gratuitous use,տղամարդ,դեպք,79
+2016,Servitude,տղամարդ,դեպք,5
+2016,Right of constructor or unauthorised buidlings,տղամարդ,դեպք,1037
+2016,Having the right to purchase immovable property under construction,տղամարդ,դեպք,21
+2016,Use,տղամարդ,դեպք,380
+2016,Use of the residential premises,տղամարդ,դեպք,1
+2017,Ownership,տղամարդ,դեպք,38934
+2017,Common jointly ownership,տղամարդ,դեպք,11531
+2017,Common shared ownership,տղամարդ,դեպք,19430
+2017,Lease,տղամարդ,դեպք,3211
+2017,Sublease,տղամարդ,դեպք,48
+2017,Pledge,տղամարդ,դեպք,247
+2017,A right to land development,տղամարդ,դեպք,598
+2017,Gratuitous use,տղամարդ,դեպք,66
+2017,Servitude,տղամարդ,դեպք,8
+2017,Trust management,տղամարդ,դեպք,2
+2017,Right of constructor or unauthorised buidlings,տղամարդ,դեպք,1133
+2017,Use,տղամարդ,դեպք,9
+2017,Having the right to purchase immovable property under construction,տղամարդ,դեպք,530
+2017,Use of unauthorised,տղամարդ,դեպք,2
+2017,Use of the residential premises,տղամարդ,դեպք,2
+2018,Ownership,տղամարդ,դեպք,46585
+2018,Common jointly ownership,տղամարդ,դեպք,12801
+2018,Common shared ownership,տղամարդ,դեպք,24446
+2018,Lease,տղամարդ,դեպք,2984
+2018,Sublease,տղամարդ,դեպք,58
+2018,Pledge,տղամարդ,դեպք,279
+2018,A right to land development,տղամարդ,դեպք,644
+2018,Gratuitous use,տղամարդ,դեպք,80
+2018,Use of the residential premises,տղամարդ,դեպք,2
+2018,Servitude,տղամարդ,դեպք,8
+2018,Trust management,տղամարդ,դեպք,1
+2018,Right of constructor or unauthorised buidlings,տղամարդ,դեպք,1682
+2018,Use,տղամարդ,դեպք,10
+2018,Having the right to purchase immovable property under construction,տղամարդ,դեպք,1139
+2019,Ownership,տղամարդ,դեպք,57327
+2019,Common jointly ownership,տղամարդ,դեպք,19255
+2019,Common shared ownership,տղամարդ,դեպք,27812
+2019,Lease,տղամարդ,դեպք,5072
+2019,Sublease,տղամարդ,դեպք,54
+2019,Pledge,տղամարդ,դեպք,245
+2019,A right to land development,տղամարդ,դեպք,658
+2019,Gratuitous use,տղամարդ,դեպք,93
+2019,Use of the residential premises,տղամարդ,դեպք,5
+2019,Servitude,տղամարդ,դեպք,33
+2019,Right of constructor or unauthorised buidlings,տղամարդ,դեպք,1917
+2019,Use,տղամարդ,դեպք,17
+2019,Having the right to purchase immovable property under construction,տղամարդ,դեպք,3352
+2019,Use of unauthorised,տղամարդ,դեպք,1
+2019,Trust management,տղամարդ,դեպք,1
+2020,Ownership,տղամարդ,դեպք,55119
+2020,Common jointly ownership,տղամարդ,դեպք,22596
+2020,Common shared ownership,տղամարդ,դեպք,24985
+2020,Lease,տղամարդ,դեպք,5401
+2020,Sublease,տղամարդ,դեպք,45
+2020,Pledge,տղամարդ,դեպք,187
+2020,A right to land development,տղամարդ,դեպք,485
+2020,Gratuitous use,տղամարդ,դեպք,88
+2020,Use of the residential premises,տղամարդ,դեպք,3
+2020,Servitude,տղամարդ,դեպք,26
+2020,Right of constructor or unauthorised buidlings,տղամարդ,դեպք,1871
+2020,Use,տղամարդ,դեպք,32
+2020,Having the right to purchase immovable property under construction,տղամարդ,դեպք,6061
+2020,Use of unauthorised,տղամարդ,դեպք,4
+2020,Trust management,տղամարդ,դեպք,1

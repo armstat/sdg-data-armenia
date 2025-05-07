@@ -1,10 +1,11 @@
 Value,Disaggregation combinations using this value,Number of indicators
 boy,5,4
-female,139,37
+female,140,38
 Female,7,2
 girl,5,4
-male,138,37
+male,154,38
 Male,7,2
+neutral,1,1
 rural,3,3
 Total,6,1
 urban,3,3
