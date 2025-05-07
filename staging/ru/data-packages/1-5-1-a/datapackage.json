@@ -12,8 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "на 100,000 населения",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Disaster type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "стихийные бедствия",
+                "техногенные бедствия",
+                "социально-биологические бедствия",
+                ""
+              ]
+            },
+            "title": "тип бедствия"
           },
           {
             "name": "Value",
