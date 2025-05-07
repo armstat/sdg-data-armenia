@@ -2564,7 +2564,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -2572,7 +2572,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100,000 population",
                 ""
               ]
             },
@@ -2583,9 +2582,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "natural disaster",
-                "man-made disaster",
-                "social-biological disaster",
                 ""
               ]
             },
@@ -2593,7 +2589,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -3603,7 +3599,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -3611,7 +3607,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100,000 population",
                 ""
               ]
             },
@@ -3622,9 +3617,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "natural disaster",
-                "man-made disaster",
-                "social-biological disaster",
                 ""
               ]
             },
@@ -3632,7 +3624,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]

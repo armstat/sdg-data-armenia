@@ -2564,7 +2564,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
@@ -2572,7 +2572,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "100,000 բնակչի հաշվով",
                 ""
               ]
             },
@@ -2583,9 +2582,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "տարերային աղետներ",
-                "տեխնածին աղետներ",
-                "սոցիալ-կենսաբանական աղետներ",
                 ""
               ]
             },
@@ -2593,7 +2589,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -3603,7 +3599,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
@@ -3611,7 +3607,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "100,000 բնակչի հաշվով",
                 ""
               ]
             },
@@ -3622,9 +3617,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "տարերային աղետներ",
-                "տեխնածին աղետներ",
-                "սոցիալ-կենսաբանական աղետներ",
                 ""
               ]
             },
@@ -3632,7 +3624,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
