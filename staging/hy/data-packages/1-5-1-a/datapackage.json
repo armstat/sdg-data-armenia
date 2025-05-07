@@ -12,32 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "100,000 բնակչի հաշվով",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Disaster type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "տարերային աղետներ",
-                "տեխնածին աղետներ",
-                "սոցիալ-կենսաբանական աղետներ",
-                ""
-              ]
-            },
-            "title": "Աղետի տեսակ"
           },
           {
             "name": "Value",

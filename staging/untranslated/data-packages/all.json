@@ -1197,50 +1197,6 @@
       "title": "global_indicators.1-4-2-title"
     },
     {
-      "path": "1-5-1-a/data.csv",
-      "name": "1-5-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "per 100,000 population",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Disaster type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "natural disaster",
-                "man-made disaster",
-                "social-biological disaster",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "meta.name-1-5-1-a"
-    },
-    {
       "path": "1-5-1/data.csv",
       "name": "1-5-1",
       "profile": "tabular-data-resource",
@@ -12710,6 +12666,28 @@
         ]
       },
       "title": "global_indicators.9-c-1-title"
+    },
+    {
+      "path": "1-5-1-a/data.csv",
+      "name": "1-5-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "meta.name-1-5-1-a"
     },
     {
       "path": "11-5-1-a/data.csv",

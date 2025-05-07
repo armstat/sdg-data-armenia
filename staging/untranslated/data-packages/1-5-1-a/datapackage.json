@@ -12,29 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "per 100,000 population",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Disaster type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "natural disaster",
-                "man-made disaster",
-                "social-biological disaster",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

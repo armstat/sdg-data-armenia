@@ -1302,54 +1302,6 @@
       "title": "Հողի զբաղեցման ապահով իրավունք ունեցող չափահաս բնակչության ամբողջական թիվը՝ ըստ սեռի ու զբաղեցման իրավունքի տեսակի, իրավական փաստաթղթերով և ովքեր կարող են վկայել իրենց իրավունքի ապահով լինելու մասին"
     },
     {
-      "path": "1-5-1-a/data.csv",
-      "name": "1-5-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "100,000 բնակչի հաշվով",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Disaster type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "տարերային աղետներ",
-                "տեխնածին աղետներ",
-                "սոցիալ-կենսաբանական աղետներ",
-                ""
-              ]
-            },
-            "title": "Աղետի տեսակ"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Աղետների պատճառով մահվան դեպքերի, անհետ կորածների, տուժածների թիվը 100 000 բնակչի հաշվով ըստ աղետների տեսակի"
-    },
-    {
       "path": "1-5-1/data.csv",
       "name": "1-5-1",
       "profile": "tabular-data-resource",
@@ -13870,6 +13822,30 @@
         ]
       },
       "title": "Բջջային ցանցի ծածկույթ ունեցող բնակչության համամասնությունը ըստ տեխնոլոգիայի"
+    },
+    {
+      "path": "1-5-1-a/data.csv",
+      "name": "1-5-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Տարի"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Աղետների պատճառով մահվան դեպքերի, անհետ կորածների, տուժածների թիվը 100 000 բնակչի հաշվով ըստ աղետների տեսակի"
     },
     {
       "path": "11-5-1-a/data.csv",
