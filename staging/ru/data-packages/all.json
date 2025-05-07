@@ -1302,8 +1302,8 @@
       "title": "Доля совокупного взрослого населения, обладающего гарантированными правами землевладения, a) которые подтверждены признанными законом документами, и b) считающего свои права на землю гарантированными, в разбивке по полу и по формам землевладения"
     },
     {
-      "path": "1-5-1/data.csv",
-      "name": "1-5-1",
+      "path": "1-5-1-a/data.csv",
+      "name": "1-5-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1343,6 +1343,50 @@
           {
             "name": "Value",
             "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Число смертей, временно эвакуированных и непосредственно пострадавших лиц в результате стихийных бедствий, на 100 000 человек населения по видам стихийных бедствий"
+    },
+    {
+      "path": "1-5-1/data.csv",
+      "name": "1-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Год"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Disaster type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "тип бедствия"
+          },
+          {
+            "name": "Value",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -13826,30 +13870,6 @@
         ]
       },
       "title": "Доля населения, охваченного мобильными сетями, в разбивке по технологиям"
-    },
-    {
-      "path": "1-5-1-a/data.csv",
-      "name": "1-5-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Число смертей, временно эвакуированных и непосредственно пострадавших лиц в результате стихийных бедствий, на 100 000 человек населения по видам стихийных бедствий"
     },
     {
       "path": "11-5-1-a/data.csv",
