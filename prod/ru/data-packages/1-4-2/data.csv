@@ -1,1 +1,335 @@
-Year,Value
+Year,тип права,Пол,Units,Value
+2015,,,случай,94167
+2016,,,случай,94748
+2017,,,случай,103978
+2018,,,случай,125524
+2019,,,случай,158793
+2020,,,случай,159189
+2021,,,случай,200701
+2022,,,случай,246958
+2023,,,случай,233930
+2024,,,случай,262616
+2015,,мужчина,случай,70428
+2016,,мужчина,случай,69362
+2017,,мужчина,случай,75751
+2018,,мужчина,случай,90719
+2019,,мужчина,случай,115842
+2020,,мужчина,случай,116904
+2021,,мужчина,случай,141646
+2022,,мужчина,случай,177406
+2023,,мужчина,случай,158372
+2024,,мужчина,случай,170599
+2015,,женщина,случай,23738
+2016,,женщина,случай,25385
+2017,,женщина,случай,28226
+2018,,женщина,случай,34805
+2019,,женщина,случай,42951
+2020,,женщина,случай,42285
+2021,,женщина,случай,59055
+2022,,женщина,случай,69548
+2023,,женщина,случай,69548
+2024,,женщина,случай,91991
+2015,,нейтральный,случай,1
+2016,,нейтральный,случай,1
+2017,,нейтральный,случай,1
+2018,,нейтральный,случай,0
+2019,,нейтральный,случай,0
+2020,,нейтральный,случай,0
+2021,,нейтральный,случай,0
+2022,,нейтральный,случай,2
+2023,,нейтральный,случай,0
+2024,,нейтральный,случай,26
+2015,Ownership,мужчина,случай,36048
+2015,Common jointly ownership,мужчина,случай,11714
+2015,Common shared ownership,мужчина,случай,18407
+2015,Lease,мужчина,случай,2065
+2015,Sublease,мужчина,случай,61
+2015,Pledge,мужчина,случай,283
+2015,A right to land development,мужчина,случай,583
+2015,Gratuitous use,мужчина,случай,59
+2015,Use of the residential premises,мужчина,случай,5
+2015,Servitude,мужчина,случай,5
+2015,Right of constructor or unauthorised buidlings,мужчина,случай,1091
+2015,Use,мужчина,случай,14
+2015,Having the right to purchase immovable property under construction,мужчина,случай,93
+2016,Ownership,мужчина,случай,34508
+2016,Common jointly ownership,мужчина,случай,11817
+2016,Common shared ownership,мужчина,случай,18308
+2016,Lease,мужчина,случай,2333
+2016,Sublease,мужчина,случай,41
+2016,Pledge,мужчина,случай,262
+2016,A right to land development,мужчина,случай,570
+2016,Gratuitous use,мужчина,случай,79
+2016,Servitude,мужчина,случай,5
+2016,Right of constructor or unauthorised buidlings,мужчина,случай,1037
+2016,Having the right to purchase immovable property under construction,мужчина,случай,21
+2016,Use,мужчина,случай,380
+2016,Use of the residential premises,мужчина,случай,1
+2017,Ownership,мужчина,случай,38934
+2017,Common jointly ownership,мужчина,случай,11531
+2017,Common shared ownership,мужчина,случай,19430
+2017,Lease,мужчина,случай,3211
+2017,Sublease,мужчина,случай,48
+2017,Pledge,мужчина,случай,247
+2017,A right to land development,мужчина,случай,598
+2017,Gratuitous use,мужчина,случай,66
+2017,Servitude,мужчина,случай,8
+2017,Trust management,мужчина,случай,2
+2017,Right of constructor or unauthorised buidlings,мужчина,случай,1133
+2017,Use,мужчина,случай,9
+2017,Having the right to purchase immovable property under construction,мужчина,случай,530
+2017,Use of unauthorised,мужчина,случай,2
+2017,Use of the residential premises,мужчина,случай,2
+2018,Ownership,мужчина,случай,46585
+2018,Common jointly ownership,мужчина,случай,12801
+2018,Common shared ownership,мужчина,случай,24446
+2018,Lease,мужчина,случай,2984
+2018,Sublease,мужчина,случай,58
+2018,Pledge,мужчина,случай,279
+2018,A right to land development,мужчина,случай,644
+2018,Gratuitous use,мужчина,случай,80
+2018,Use of the residential premises,мужчина,случай,2
+2018,Servitude,мужчина,случай,8
+2018,Trust management,мужчина,случай,1
+2018,Right of constructor or unauthorised buidlings,мужчина,случай,1682
+2018,Use,мужчина,случай,10
+2018,Having the right to purchase immovable property under construction,мужчина,случай,1139
+2019,Ownership,мужчина,случай,57327
+2019,Common jointly ownership,мужчина,случай,19255
+2019,Common shared ownership,мужчина,случай,27812
+2019,Lease,мужчина,случай,5072
+2019,Sublease,мужчина,случай,54
+2019,Pledge,мужчина,случай,245
+2019,A right to land development,мужчина,случай,658
+2019,Gratuitous use,мужчина,случай,93
+2019,Use of the residential premises,мужчина,случай,5
+2019,Servitude,мужчина,случай,33
+2019,Right of constructor or unauthorised buidlings,мужчина,случай,1917
+2019,Use,мужчина,случай,17
+2019,Having the right to purchase immovable property under construction,мужчина,случай,3352
+2019,Use of unauthorised,мужчина,случай,1
+2019,Trust management,мужчина,случай,1
+2020,Ownership,мужчина,случай,55119
+2020,Common jointly ownership,мужчина,случай,22596
+2020,Common shared ownership,мужчина,случай,24985
+2020,Lease,мужчина,случай,5401
+2020,Sublease,мужчина,случай,45
+2020,Pledge,мужчина,случай,187
+2020,A right to land development,мужчина,случай,485
+2020,Gratuitous use,мужчина,случай,88
+2020,Use of the residential premises,мужчина,случай,3
+2020,Servitude,мужчина,случай,26
+2020,Right of constructor or unauthorised buidlings,мужчина,случай,1871
+2020,Use,мужчина,случай,32
+2020,Having the right to purchase immovable property under construction,мужчина,случай,6061
+2020,Use of unauthorised,мужчина,случай,4
+2020,Trust management,мужчина,случай,1
+2021,Ownership,мужчина,случай,67894
+2021,Common jointly ownership,мужчина,случай,20941
+2021,Common shared ownership,мужчина,случай,33969
+2021,Lease,мужчина,случай,6252
+2021,Sublease,мужчина,случай,48
+2021,Pledge,мужчина,случай,226
+2021,A right to land development,мужчина,случай,580
+2021,Gratuitous use,мужчина,случай,80
+2021,Use of the residential premises,мужчина,случай,3
+2021,Servitude,мужчина,случай,26
+2021,Right of constructor or unauthorised buidlings,мужчина,случай,1861
+2021,Use,мужчина,случай,12
+2021,Having the right to purchase immovable property under construction,мужчина,случай,9725
+2021,Trust management,мужчина,случай,1
+2021,Leasing,мужчина,случай,1
+2021,Use of unauthorised,мужчина,случай,27
+2022,Ownership,мужчина,случай,77057
+2022,Common jointly ownership,мужчина,случай,20368
+2022,Common shared ownership,мужчина,случай,42337
+2022,Lease,мужчина,случай,4670
+2022,Sublease,мужчина,случай,55
+2022,Pledge,мужчина,случай,324
+2022,A right to land development,мужчина,случай,854
+2022,Gratuitous use,мужчина,случай,137
+2022,Use of the residential premises,мужчина,случай,1
+2022,Servitude,мужчина,случай,47
+2022,Trust management,мужчина,случай,1
+2022,Right of constructor or unauthorised buidlings,мужчина,случай,3034
+2022,Use,мужчина,случай,51
+2022,Having the right to purchase immovable property under construction,мужчина,случай,16726
+2022,Leasing,мужчина,случай,2
+2022,Use of unauthorised,мужчина,случай,11742
+2023,Ownership,мужчина,случай,65981
+2023,Common jointly ownership,мужчина,случай,19670
+2023,Common shared ownership,мужчина,случай,43443
+2023,Lease,мужчина,случай,3368
+2023,Sublease,мужчина,случай,40
+2023,Pledge,мужчина,случай,166
+2023,A right to land development,мужчина,случай,443
+2023,Gratuitous use,мужчина,случай,87
+2023,Use of the residential premises,мужчина,случай,2
+2023,Servitude,мужчина,случай,65
+2023,Trust management,мужчина,случай,5
+2023,Right of constructor or unauthorised buidlings,мужчина,случай,2971
+2023,Use,мужчина,случай,12
+2023,Having the right to purchase immovable property under construction,мужчина,случай,14335
+2023,Leasing,мужчина,случай,1
+2023,Use of unauthorised,мужчина,случай,7783
+2024,Ownership,мужчина,случай,72972
+2024,Common jointly ownership,мужчина,случай,16058
+2024,Common shared ownership,мужчина,случай,52621
+2024,Lease,мужчина,случай,3710
+2024,Sublease,мужчина,случай,391
+2024,Pledge,мужчина,случай,167
+2024,A right to land development,мужчина,случай,433
+2024,Gratuitous use,мужчина,случай,98
+2024,Use of the residential premises,мужчина,случай,2
+2024,Servitude,мужчина,случай,36
+2024,Trust management,мужчина,случай,3
+2024,Right of constructor or unauthorised buidlings,мужчина,случай,2848
+2024,Use,мужчина,случай,11
+2024,Having the right to purchase immovable property under construction,мужчина,случай,19556
+2024,Use of unauthorised,мужчина,случай,1693
+2015,Ownership,женщина,случай,9514
+2015,Common jointly ownership,женщина,случай,5116
+2015,Common shared ownership,женщина,случай,8355
+2015,Lease,женщина,случай,346
+2015,Sublease,женщина,случай,3
+2015,Pledge,женщина,случай,7
+2015,A right to land development,женщина,случай,117
+2015,Gratuitous use,женщина,случай,16
+2015,Use of the residential premises,женщина,случай,3
+2015,Servitude,женщина,случай,6
+2015,Right of constructor or unauthorised buidlings,женщина,случай,250
+2015,Use,женщина,случай,4
+2015,Having the right to purchase immovable property under construction,женщина,случай,1
+2016,Ownership,женщина,случай,10144
+2016,Common jointly ownership,женщина,случай,5636
+2016,Common shared ownership,женщина,случай,8655
+2016,Lease,женщина,случай,381
+2016,Sublease,женщина,случай,4
+2016,Pledge,женщина,случай,11
+2016,A right to land development,женщина,случай,121
+2016,Gratuitous use,женщина,случай,22
+2016,Use of the residential premises,женщина,случай,2
+2016,Servitude,женщина,случай,2
+2016,Right of constructor or unauthorised buidlings,женщина,случай,296
+2016,Use,женщина,случай,1
+2016,Having the right to purchase immovable property under construction,женщина,случай,109
+2016,Use of unauthorised,женщина,случай,1
+2017,Ownership,женщина,случай,11435
+2017,Common jointly ownership,женщина,случай,5837
+2017,Common shared ownership,женщина,случай,9784
+2017,Lease,женщина,случай,588
+2017,Sublease,женщина,случай,7
+2017,Pledge,женщина,случай,8
+2017,A right to land development,женщина,случай,131
+2017,Gratuitous use,женщина,случай,31
+2017,Use of the residential premises,женщина,случай,2
+2017,Servitude,женщина,случай,6
+2017,Right of constructor or unauthorised buidlings,женщина,случай,325
+2017,Use,женщина,случай,6
+2017,Having the right to purchase immovable property under construction,женщина,случай,66
+2018,Ownership,женщина,случай,13959
+2018,Common jointly ownership,женщина,случай,6615
+2018,Common shared ownership,женщина,случай,12736
+2018,Lease,женщина,случай,519
+2018,Sublease,женщина,случай,6
+2018,Pledge,женщина,случай,23
+2018,A right to land development,женщина,случай,170
+2018,Gratuitous use,женщина,случай,24
+2018,Servitude,женщина,случай,2
+2018,Right of constructor or unauthorised buidlings,женщина,случай,482
+2018,Use,женщина,случай,3
+2018,Having the right to purchase immovable property under construction,женщина,случай,265
+2018,Use of unauthorised,женщина,случай,1
+2019,Ownership,женщина,случай,16206
+2019,Common jointly ownership,женщина,случай,9784
+2019,Common shared ownership,женщина,случай,14682
+2019,Lease,женщина,случай,657
+2019,Sublease,женщина,случай,6
+2019,Pledge,женщина,случай,16
+2019,A right to land development,женщина,случай,155
+2019,Gratuitous use,женщина,случай,25
+2019,Use of the residential premises,женщина,случай,3
+2019,Servitude,женщина,случай,3
+2019,Right of constructor or unauthorised buidlings,женщина,случай,563
+2019,Use,женщина,случай,5
+2019,Having the right to purchase immovable property under construction,женщина,случай,843
+2019,Use of unauthorised,женщина,случай,3
+2020,Ownership,женщина,случай,14938
+2020,Common jointly ownership,женщина,случай,10786
+2020,Common shared ownership,женщина,случай,13450
+2020,Lease,женщина,случай,648
+2020,Sublease,женщина,случай,10
+2020,Pledge,женщина,случай,22
+2020,A right to land development,женщина,случай,99
+2020,Gratuitous use,женщина,случай,25
+2020,Use of the residential premises,женщина,случай,1
+2020,Servitude,женщина,случай,5
+2020,Right of constructor or unauthorised buidlings,женщина,случай,498
+2020,Use,женщина,случай,27
+2020,Having the right to purchase immovable property under construction,женщина,случай,1776
+2021,Ownership,женщина,случай,20720
+2021,Common jointly ownership,женщина,случай,9044
+2021,Common shared ownership,женщина,случай,22905
+2021,Lease,женщина,случай,947
+2021,Sublease,женщина,случай,11
+2021,Pledge,женщина,случай,27
+2021,A right to land development,женщина,случай,182
+2021,Gratuitous use,женщина,случай,43
+2021,Use of the residential premises,женщина,случай,3
+2021,Servitude,женщина,случай,11
+2021,Trust management,женщина,случай,1
+2021,Right of constructor or unauthorised buidlings,женщина,случай,550
+2021,Use,женщина,случай,6
+2021,Having the right to purchase immovable property under construction,женщина,случай,4599
+2021,Use of unauthorised,женщина,случай,6
+2022,Ownership,женщина,случай,23063
+2022,Common jointly ownership,женщина,случай,7935
+2022,Common shared ownership,женщина,случай,25159
+2022,Lease,женщина,случай,943
+2022,Sublease,женщина,случай,6
+2022,Pledge,женщина,случай,41
+2022,A right to land development,женщина,случай,255
+2022,Gratuitous use,женщина,случай,143
+2022,Use of the residential premises,женщина,случай,3
+2022,Servitude,женщина,случай,6
+2022,Right of constructor or unauthorised buidlings,женщина,случай,814
+2022,Use,женщина,случай,17
+2022,Having the right to purchase immovable property under construction,женщина,случай,7157
+2022,Use of unauthorised,женщина,случай,4006
+2023,Ownership,женщина,случай,23685
+2023,Common jointly ownership,женщина,случай,10031
+2023,Common shared ownership,женщина,случай,28183
+2023,Lease,женщина,случай,1056
+2023,Sublease,женщина,случай,6
+2023,Pledge,женщина,случай,28
+2023,A right to land development,женщина,случай,180
+2023,Gratuitous use,женщина,случай,37
+2023,Use of the residential premises,женщина,случай,1
+2023,Servitude,женщина,случай,14
+2023,Right of constructor or unauthorised buidlings,женщина,случай,978
+2023,Use,женщина,случай,6
+2023,Having the right to purchase immovable property under construction,женщина,случай,8652
+2023,Use of unauthorised,женщина,случай,2701
+2024,Ownership,женщина,случай,27090
+2024,Common jointly ownership,женщина,случай,9957
+2024,Common shared ownership,женщина,случай,37603
+2024,Lease,женщина,случай,1444
+2024,Sublease,женщина,случай,9
+2024,Pledge,женщина,случай,47
+2024,A right to land development,женщина,случай,188
+2024,Gratuitous use,женщина,случай,63
+2024,Use of the residential premises,женщина,случай,2
+2024,Servitude,женщина,случай,10
+2024,Trust management,женщина,случай,1
+2024,Right of constructor or unauthorised buidlings,женщина,случай,1011
+2024,Use,женщина,случай,5
+2024,Having the right to purchase immovable property under construction,женщина,случай,14105
+2024,Use of unauthorised,женщина,случай,456
+2015,Ownership,нейтральный,случай,1
+2016,Ownership,нейтральный,случай,1
+2017,Common shared ownership,нейтральный,случай,1
+2022,Common shared ownership,нейтральный,случай,1
+2024,Ownership,нейтральный,случай,9
+2024,Common jointly ownership,нейтральный,случай,3
+2024,Common shared ownership,нейтральный,случай,10
+2024,Having the right to purchase immovable property under construction,нейтральный,случай,4

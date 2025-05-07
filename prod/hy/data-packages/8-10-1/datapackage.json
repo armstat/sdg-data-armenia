@@ -20,12 +20,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Բանկերի մասնաճյուղեր՝ 100,000 չափահասի հաշվով",
-                "ԱԳՄ-ներ՝ 100,000 չափահասի հաշվով",
+                "per 100,000 adults",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Branches/ATMs",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ATMs",
+                "Branches",
+                ""
+              ]
+            },
+            "title": "Branches/ATMs"
           },
           {
             "name": "Value",

@@ -1239,7 +1239,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -1247,6 +1247,22 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Ownership",
+                "Common jointly ownership",
+                "Common shared ownership",
+                "Lease",
+                "Sublease",
+                "Pledge",
+                "A right to land development",
+                "Gratuitous use",
+                "Use of the residential premises",
+                "Servitude",
+                "Right of constructor or unauthorised buidlings",
+                "Use",
+                "Having the right to purchase immovable property under construction",
+                "Trust management",
+                "Use of unauthorised",
+                "Leasing",
                 ""
               ]
             },
@@ -1257,6 +1273,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "տղամարդ",
+                "կին",
+                "չեզոք",
                 ""
               ]
             },
@@ -1267,6 +1286,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "դեպք",
                 ""
               ]
             },
@@ -1274,7 +1294,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -1282,8 +1302,8 @@
       "title": "Հողի զբաղեցման ապահով իրավունք ունեցող չափահաս բնակչության ամբողջական թիվը՝ ըստ սեռի ու զբաղեցման իրավունքի տեսակի, իրավական փաստաթղթերով և ովքեր կարող են վկայել իրենց իրավունքի ապահով լինելու մասին"
     },
     {
-      "path": "1-5-1/data.csv",
-      "name": "1-5-1",
+      "path": "1-5-1-a/data.csv",
+      "name": "1-5-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1323,6 +1343,50 @@
           {
             "name": "Value",
             "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Գրանցված արտակարգ դեպքերից և պատահարներից տուժածների թիվը 100,000 մարդու հաշվով"
+    },
+    {
+      "path": "1-5-1/data.csv",
+      "name": "1-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Տարի"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Disaster type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Աղետի տեսակ"
+          },
+          {
+            "name": "Value",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -1754,7 +1818,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -1762,14 +1826,32 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Percentage (%)",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Financial Soundness Indicators",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Regulatory capital to risk-weighted assets",
+                "Tier 1 capital to risk-weighted assets",
+                "Common Equity Tier 1 capital to risk-weighted assets",
+                "Return on assets",
+                "Return on equity",
+                "Liquid assets to total assets",
+                "Liquid assets to short-term liabilities",
+                ""
+              ]
+            },
+            "title": "Financial Soundness Indicators"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -2423,8 +2505,8 @@
       "title": "Մշակութային և բնական ժառանգության բոլոր օբյեկտների պահպանման ու պաշտպանության մեկ շնչին ընկնող ընդհանուր ծախսը (պետական և մասնավոր)՝ ըստ ժառանգության տեսակի (մշակութային, բնական, խառը և Համաշխարհային ժառանգության կենտրոնի նշումով), կառավարման մակարդակի (պետական, մարզային և տեղական/քաղաքային), ծախսերի տեսակի (գործառնական ծախսում/ներդրում) և մասնավոր ֆինանսավորման տեսակի (բնեղեն նվիրատվություններ, մասնավոր շահույթ չհետապնդող հատված և հովանավորչություն)"
     },
     {
-      "path": "11-5-1/data.csv",
-      "name": "11-5-1",
+      "path": "11-5-1-a/data.csv",
+      "name": "11-5-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2464,6 +2546,50 @@
           {
             "name": "Value",
             "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Գրանցված արտակարգ դեպքերից և պատահարներից տուժածների թիվը 100,000 մարդու հաշվով"
+    },
+    {
+      "path": "11-5-1/data.csv",
+      "name": "11-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Տարի"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Disaster type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Աղետի տեսակ"
+          },
+          {
+            "name": "Value",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -3414,8 +3540,8 @@
       "title": "Հանածո վառելիքի սուբսիդիաների քանակը ՀՆԱ-ի մեկ միավորի հաշվով (արտադրություն և սպառում) և որպես հանածո վառելանյութերի վրա կատարված ազգային ընդհանուր ծախսերի համամասնությունը"
     },
     {
-      "path": "13-1-1/data.csv",
-      "name": "13-1-1",
+      "path": "13-1-1-a/data.csv",
+      "name": "13-1-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3455,6 +3581,50 @@
           {
             "name": "Value",
             "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "13-1-1-a"
+    },
+    {
+      "path": "13-1-1/data.csv",
+      "name": "13-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Տարի"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Disaster type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Աղետի տեսակ"
+          },
+          {
+            "name": "Value",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -4773,41 +4943,6 @@
       "title": "Որսագողությամբ կամ ապօրինի ձևով վաճառված վայրի բնության նմուշների համամասնությունը"
     },
     {
-      "path": "16-1-1-a/data.csv",
-      "name": "16-1-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "100,000 բնակչի հաշվով",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Սպանությունների թիվը 100 000 բնակչի հաշվով"
-    },
-    {
       "path": "16-1-1/data.csv",
       "name": "16-1-1",
       "profile": "tabular-data-resource",
@@ -4842,6 +4977,41 @@
         ]
       },
       "title": "Դիտավորյալ սպանությունների զոհերի թիվը 100 հազար բնակչի հաշվով՝ ըստ սեռի և տարիքի"
+    },
+    {
+      "path": "16-1-1-a/data.csv",
+      "name": "16-1-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Տարի"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "100,000 բնակչի հաշվով",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Սպանությունների թիվը 100 000 բնակչի հաշվով"
     },
     {
       "path": "16-1-2/data.csv",
@@ -12320,12 +12490,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Բանկերի մասնաճյուղեր՝ 100,000 չափահասի հաշվով",
-                "ԱԳՄ-ներ՝ 100,000 չափահասի հաշվով",
+                "per 100,000 adults",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Branches/ATMs",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ATMs",
+                "Branches",
+                ""
+              ]
+            },
+            "title": "Branches/ATMs"
           },
           {
             "name": "Value",

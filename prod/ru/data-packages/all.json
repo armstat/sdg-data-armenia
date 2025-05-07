@@ -1239,7 +1239,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -1247,6 +1247,22 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Ownership",
+                "Common jointly ownership",
+                "Common shared ownership",
+                "Lease",
+                "Sublease",
+                "Pledge",
+                "A right to land development",
+                "Gratuitous use",
+                "Use of the residential premises",
+                "Servitude",
+                "Right of constructor or unauthorised buidlings",
+                "Use",
+                "Having the right to purchase immovable property under construction",
+                "Trust management",
+                "Use of unauthorised",
+                "Leasing",
                 ""
               ]
             },
@@ -1257,6 +1273,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "мужчина",
+                "женщина",
+                "нейтральный",
                 ""
               ]
             },
@@ -1267,6 +1286,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "случай",
                 ""
               ]
             },
@@ -1274,7 +1294,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -1282,8 +1302,8 @@
       "title": "Доля совокупного взрослого населения, обладающего гарантированными правами землевладения, a) которые подтверждены признанными законом документами, и b) считающего свои права на землю гарантированными, в разбивке по полу и по формам землевладения"
     },
     {
-      "path": "1-5-1/data.csv",
-      "name": "1-5-1",
+      "path": "1-5-1-a/data.csv",
+      "name": "1-5-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1323,6 +1343,50 @@
           {
             "name": "Value",
             "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Число пострадавших в результате зарегистрированных чрезвычайных ситуаций и несчастных случаев на 100,000 человек"
+    },
+    {
+      "path": "1-5-1/data.csv",
+      "name": "1-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Год"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Disaster type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "тип бедствия"
+          },
+          {
+            "name": "Value",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -1754,7 +1818,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -1762,14 +1826,32 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Percentage (%)",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Financial Soundness Indicators",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Regulatory capital to risk-weighted assets",
+                "Tier 1 capital to risk-weighted assets",
+                "Common Equity Tier 1 capital to risk-weighted assets",
+                "Return on assets",
+                "Return on equity",
+                "Liquid assets to total assets",
+                "Liquid assets to short-term liabilities",
+                ""
+              ]
+            },
+            "title": "Financial Soundness Indicators"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -2423,8 +2505,8 @@
       "title": "Общая сумма расходов (государственных и частных) в расчете на душу населения на цели сохранения и защиты всего культурного и природного наследия в разбивке по видам наследия (культурное, природное, смешанного характера и признанное объектом всемирного наследия Центром всемирного наследия), уровню государственной подведомственности (национальный, региональный и местный/ муниципальный), видам расходов (эксплуатационные расходы/капиталовложения) и видам частного финансирования (пожертвования в натуральной форме, частный некоммерческий сектор и спонсорство)"
     },
     {
-      "path": "11-5-1/data.csv",
-      "name": "11-5-1",
+      "path": "11-5-1-a/data.csv",
+      "name": "11-5-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2464,6 +2546,50 @@
           {
             "name": "Value",
             "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Число пострадавших в результате зарегистрированных чрезвычайных ситуаций и несчастных случаев на 100,000 человек"
+    },
+    {
+      "path": "11-5-1/data.csv",
+      "name": "11-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Год"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Disaster type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "тип бедствия"
+          },
+          {
+            "name": "Value",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -3414,8 +3540,8 @@
       "title": "Сумма субсидий на ископаемое топливо на единицу ВВП (производство и потребление) и их доля в совокупных национальных расходах на ископаемое топливо"
     },
     {
-      "path": "13-1-1/data.csv",
-      "name": "13-1-1",
+      "path": "13-1-1-a/data.csv",
+      "name": "13-1-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3455,6 +3581,50 @@
           {
             "name": "Value",
             "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "13-1-1-a"
+    },
+    {
+      "path": "13-1-1/data.csv",
+      "name": "13-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Год"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Disaster type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "тип бедствия"
+          },
+          {
+            "name": "Value",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -4773,41 +4943,6 @@
       "title": "Доля диких животных, являющихся объектом браконьерства или незаконного оборота, среди видов, которыми ведется торговля"
     },
     {
-      "path": "16-1-1-a/data.csv",
-      "name": "16-1-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Год"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "на 100,000 населения",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Количество убийств на 100 000 населения"
-    },
-    {
       "path": "16-1-1/data.csv",
       "name": "16-1-1",
       "profile": "tabular-data-resource",
@@ -4842,6 +4977,41 @@
         ]
       },
       "title": "Число  жертв умышленных убийств на 100 000 человек в разбивке по полу и возрасту"
+    },
+    {
+      "path": "16-1-1-a/data.csv",
+      "name": "16-1-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "на 100,000 населения",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Количество убийств на 100 000 населения"
     },
     {
       "path": "16-1-2/data.csv",
@@ -12320,12 +12490,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Отделения банков на 100,000 взрослых",
-                "Банкоматы на 100,000 взрослых",
+                "per 100,000 adults",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Branches/ATMs",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ATMs",
+                "Branches",
+                ""
+              ]
+            },
+            "title": "Branches/ATMs"
           },
           {
             "name": "Value",

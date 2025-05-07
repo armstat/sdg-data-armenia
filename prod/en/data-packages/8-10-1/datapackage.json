@@ -20,12 +20,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bank branches per 100,000 adults",
-                "ATMs per 100,000 adults",
+                "per 100,000 adults",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Branches/ATMs",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ATMs",
+                "Branches",
+                ""
+              ]
+            },
+            "title": "Branches/ATMs"
           },
           {
             "name": "Value",

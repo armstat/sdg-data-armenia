@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -20,14 +20,32 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Percentage (%)",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Financial Soundness Indicators",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Regulatory capital to risk-weighted assets",
+                "Tier 1 capital to risk-weighted assets",
+                "Common Equity Tier 1 capital to risk-weighted assets",
+                "Return on assets",
+                "Return on equity",
+                "Liquid assets to total assets",
+                "Liquid assets to short-term liabilities",
+                ""
+              ]
+            },
+            "title": "Financial Soundness Indicators"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]

@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Год"
           },
           {
@@ -20,7 +20,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 100,000 населения",
                 ""
               ]
             },
@@ -31,9 +30,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "стихийные бедствия",
-                "техногенные бедствия",
-                "социально-биологические бедствия",
                 ""
               ]
             },
@@ -41,7 +37,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]

@@ -1239,7 +1239,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -1247,6 +1247,22 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Ownership",
+                "Common jointly ownership",
+                "Common shared ownership",
+                "Lease",
+                "Sublease",
+                "Pledge",
+                "A right to land development",
+                "Gratuitous use",
+                "Use of the residential premises",
+                "Servitude",
+                "Right of constructor or unauthorised buidlings",
+                "Use",
+                "Having the right to purchase immovable property under construction",
+                "Trust management",
+                "Use of unauthorised",
+                "Leasing",
                 ""
               ]
             },
@@ -1257,6 +1273,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "male",
+                "female",
+                "neutral",
                 ""
               ]
             },
@@ -1267,6 +1286,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "case",
                 ""
               ]
             },
@@ -1274,7 +1294,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -1282,8 +1302,8 @@
       "title": "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure"
     },
     {
-      "path": "1-5-1/data.csv",
-      "name": "1-5-1",
+      "path": "1-5-1-a/data.csv",
+      "name": "1-5-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1323,6 +1343,50 @@
           {
             "name": "Value",
             "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of people affected from registered emergencies and accidents per 100,000 population"
+    },
+    {
+      "path": "1-5-1/data.csv",
+      "name": "1-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Disaster type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "disaster type"
+          },
+          {
+            "name": "Value",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -1754,7 +1818,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -1762,14 +1826,32 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Percentage (%)",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Financial Soundness Indicators",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Regulatory capital to risk-weighted assets",
+                "Tier 1 capital to risk-weighted assets",
+                "Common Equity Tier 1 capital to risk-weighted assets",
+                "Return on assets",
+                "Return on equity",
+                "Liquid assets to total assets",
+                "Liquid assets to short-term liabilities",
+                ""
+              ]
+            },
+            "title": "Financial Soundness Indicators"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -2423,8 +2505,8 @@
       "title": "Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)"
     },
     {
-      "path": "11-5-1/data.csv",
-      "name": "11-5-1",
+      "path": "11-5-1-a/data.csv",
+      "name": "11-5-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2464,6 +2546,50 @@
           {
             "name": "Value",
             "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of people affected from registered emergencies and accidents per 100,000 population"
+    },
+    {
+      "path": "11-5-1/data.csv",
+      "name": "11-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Disaster type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "disaster type"
+          },
+          {
+            "name": "Value",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -3414,8 +3540,8 @@
       "title": "Amount of fossil-fuel subsidies per unit of GDP (production and consumption)"
     },
     {
-      "path": "13-1-1/data.csv",
-      "name": "13-1-1",
+      "path": "13-1-1-a/data.csv",
+      "name": "13-1-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3455,6 +3581,50 @@
           {
             "name": "Value",
             "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "13-1-1-a"
+    },
+    {
+      "path": "13-1-1/data.csv",
+      "name": "13-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Disaster type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "disaster type"
+          },
+          {
+            "name": "Value",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -4773,41 +4943,6 @@
       "title": "Proportion of traded wildlife that was poached or illicitly trafficked"
     },
     {
-      "path": "16-1-1-a/data.csv",
-      "name": "16-1-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "per 100,000 population",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of homicide cases per 100,000 population"
-    },
-    {
       "path": "16-1-1/data.csv",
       "name": "16-1-1",
       "profile": "tabular-data-resource",
@@ -4842,6 +4977,41 @@
         ]
       },
       "title": "Number of victims of intentional homicide per 100,000 population, by sex and age"
+    },
+    {
+      "path": "16-1-1-a/data.csv",
+      "name": "16-1-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per 100,000 population",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of homicide cases per 100,000 population"
     },
     {
       "path": "16-1-2/data.csv",
@@ -12320,12 +12490,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bank branches per 100,000 adults",
-                "ATMs per 100,000 adults",
+                "per 100,000 adults",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Branches/ATMs",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ATMs",
+                "Branches",
+                ""
+              ]
+            },
+            "title": "Branches/ATMs"
           },
           {
             "name": "Value",

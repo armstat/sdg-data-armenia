@@ -1,0 +1,54 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "на 100,000 населения",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Disaster type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "стихийные бедствия",
+                "техногенные бедствия",
+                "социально-биологические бедствия",
+                ""
+              ]
+            },
+            "title": "тип бедствия"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-5-1-a",
+  "title": "Число пострадавших в результате зарегистрированных чрезвычайных ситуаций и несчастных случаев на 100,000 человек"
+}
