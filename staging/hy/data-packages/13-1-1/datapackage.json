@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -20,6 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "person per 100,000 population",
                 ""
               ]
             },
@@ -30,6 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "տարերային աղետներ",
+                "տեխնածին աղետներ",
+                "սոցիալ-կենսաբանական աղետներ",
                 ""
               ]
             },
@@ -37,7 +41,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
