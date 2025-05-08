@@ -2442,7 +2442,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "thsd. tones",
                 ""
               ]
             }
@@ -4089,7 +4089,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
