@@ -1252,13 +1252,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "person per 100,000 population",
                 ""
               ]
             }
@@ -1268,13 +1269,16 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "natural disaster",
+                "man-made disaster",
+                "social-biological disaster",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -2354,13 +2358,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "person per 100,000 population",
                 ""
               ]
             }
@@ -2370,13 +2375,16 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "natural disaster",
+                "man-made disaster",
+                "social-biological disaster",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -3302,13 +3310,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "person per 100,000 population",
                 ""
               ]
             }
@@ -3318,13 +3327,16 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "natural disaster",
+                "man-made disaster",
+                "social-biological disaster",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
