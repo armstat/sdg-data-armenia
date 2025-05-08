@@ -2660,7 +2660,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "thsd. tones",
                 ""
               ]
             },
