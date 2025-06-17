@@ -9192,11 +9192,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Lung cancer in adults (estimated above 25 years)",
-                "Ischaemic heart diseases (IHD) in adults (estimated above 25 years)",
-                "Cerebrovascular (stroke) in adults (estimated above 25 years)",
-                "Acute  respiratory infections in young children  (estimated under 5 years of age)",
-                "Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years)",
+                "Злокачественные новообразования легких (старше 25 лет)",
+                "Ишемическая болезнь сердца (ИБС) у взрослых (старше 25 лет)",
+                "Цереброваскулярные заболевания (инсульт) у взрослых (старше 25 лет)",
+                "Острые респираторные инфекции у детей младшего возраста (младше 5 лет)",
+                "Хроническая обструктивная болезнь легких (ХОБЛ) у взрослых (старше 25 лет)",
                 "SDG 3.9.1",
                 ""
               ]
@@ -11503,7 +11503,6 @@
             "constraints": {
               "enum": [
                 "%",
-                "мужчина",
                 ""
               ]
             },

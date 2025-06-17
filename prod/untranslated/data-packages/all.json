@@ -10544,7 +10544,6 @@
             "constraints": {
               "enum": [
                 "%",
-                "male",
                 ""
               ]
             }

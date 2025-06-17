@@ -44,11 +44,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Lung cancer in adults (estimated above 25 years)",
-                "Ischaemic heart diseases (IHD) in adults (estimated above 25 years)",
-                "Cerebrovascular (stroke) in adults (estimated above 25 years)",
-                "Acute  respiratory infections in young children  (estimated under 5 years of age)",
-                "Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years)",
+                "Թոքերի  չարորակ նորագոյացություն մեծահասակների մոտ  (≥25)",
+                "Սրտի իշեմիկ հիվանդություններ մեծահասակների մոտ (≥25)",
+                "Գլխուղեղային հիվանդությունները (կաթված) մեծահասակների մոտ(≥25)",
+                "Սուր շնչառական վարակները մինչև 5 տ. Երեխաների շրջանում (<5)",
+                "Թոքերի քրոնիկ  օբստրուկտիվ հիվանդություն մեծահասակների շրջանում (≥25)",
                 "SDG 3.9.1",
                 ""
               ]
