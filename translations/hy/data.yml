@@ -268,9 +268,9 @@ recreation, culture and religion: հանգիստ, մշակույթ եվ կրոն
 education: կրթություն
 social protection: սոցիալական պաշտպանություն
 Access to services: Ծառայությունների հասանելիություն
-centralized water supply accessibility for household members: կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտըեսության անդամներին
-centralized sewerage system accessibility for household members: կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտըեսության անդամներին
-garbage disposal accessibility for household members: աղբահանության հասանելիությանը ծառայություն տնային տնտեսության անդամներին
+centralized water supply accessibility for household members: կենտրոնացված ջրամտակարարման ծառայության հասանելիությունը տնային տնտեսության անդամներին
+centralized sewerage system accessibility for household members: կենտրոնացված ջրահեռացման ծառայության հասանելիությունը տնային տնտեսության անդամներին
+garbage disposal accessibility for household members: աղբահանության ծառայության հասանելիությունը տնային տնտեսության անդամներին
 electricity supply accessibility for household members: էլեկտրաէներգիայի հասանելիությունը տնային տնտեսության անդամներին
 proportion of household members with primary reliance on clean fuels and technology: մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների անդամների մասնաբաժինը
 proportion of population using hand-washing facility with soap: բնակչության մասնաբաժինը, որոնց հասանելի է  օճառով և ջրով ձեռքերը լվանալու հարմարությունները
@@ -318,3 +318,8 @@ Having the right to purchase immovable property under construction: Կառուց
 Trust management: Հավատարմագրային կառավարում
 Use of unauthorized: Ինքնակամի օգտագործում
 Leasing: Լիզինգ
+Lung cancer in adults (estimated above 25 years): Թոքերի  չարորակ նորագոյացություն մեծահասակների մոտ  (≥25)
+Ischaemic heart diseases (IHD) in adults (estimated above 25 years): Սրտի իշեմիկ հիվանդություններ մեծահասակների մոտ (≥25)
+Cerebrovascular (stroke) in adults (estimated above 25 years): Գլխուղեղային հիվանդությունները (կաթված) մեծահասակների մոտ(≥25)
+Acute  respiratory infections in young children  (estimated under 5 years of age): Սուր շնչառական վարակները մինչև 5 տ. Երեխաների շրջանում (<5)
+Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years): Թոքերի քրոնիկ  օբստրուկտիվ հիվանդություն մեծահասակների շրջանում (≥25)
