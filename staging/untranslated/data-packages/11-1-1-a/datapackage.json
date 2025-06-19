@@ -30,7 +30,6 @@
             "constraints": {
               "enum": [
                 "Urban",
-                "Uban",
                 "Rural",
                 ""
               ]
