@@ -30,7 +30,6 @@
             "constraints": {
               "enum": [
                 "Urban",
-                "Uban",
                 "Rural",
                 ""
               ]
@@ -75,7 +74,6 @@
             "constraints": {
               "enum": [
                 "I quintile",
-                "I quintlie",
                 "II quintile",
                 "III quintile",
                 "IV quintile",
