@@ -3399,7 +3399,7 @@
           }
         ]
       },
-      "title": "Degree of sustainable public procurement policies and action plan implementation"
+      "title": "Number of countries implementing sustainable public procurement policies and action plans"
     },
     {
       "path": "12-8-1/data.csv",
@@ -3757,7 +3757,7 @@
           }
         ]
       },
-      "title": "Number of countries with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications"
+      "title": "Number of countries with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change"
     },
     {
       "path": "13-2-2/data.csv",
@@ -3896,7 +3896,7 @@
           }
         ]
       },
-      "title": "Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications"
+      "title": "Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change"
     },
     {
       "path": "14-1-1/data.csv",
@@ -4659,7 +4659,7 @@
           }
         ]
       },
-      "title": "Mountain Green Cover Index"
+      "title": "Mountain Green Cover Index and proportion of degraded mountain land"
     },
     {
       "path": "15-5-1/data.csv",
@@ -5129,7 +5129,7 @@
           }
         ]
       },
-      "title": "Proportion of population that feel safe walking alone around the area they live"
+      "title": "Proportion of population that feel safe walking alone around the area they live after dark"
     },
     {
       "path": "16-10-1/data.csv",
@@ -6726,7 +6726,7 @@
           }
         ]
       },
-      "title": "Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income"
+      "title": "Additional financial resources mobilized for developing countries from multiple sources"
     },
     {
       "path": "17-3-2/data.csv",
