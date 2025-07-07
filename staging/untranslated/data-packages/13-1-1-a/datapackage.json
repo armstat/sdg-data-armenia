@@ -29,9 +29,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "natural disaster",
-                "man-made disaster",
-                "social-biological disaster",
+                "natural hazards",
+                "man-made emergency events",
+                "social-biological emergency events",
                 ""
               ]
             }

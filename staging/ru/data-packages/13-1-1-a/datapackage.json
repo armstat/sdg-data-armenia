@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "стихийные бедствия",
-                "техногенные бедствия",
-                "социально-биологические бедствия",
+                "natural hazards",
+                "man-made emergency events",
+                "social-biological emergency events",
                 ""
               ]
             },
