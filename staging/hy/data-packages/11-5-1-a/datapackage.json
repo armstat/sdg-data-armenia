@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "natural hazards",
-                "man-made emergency events",
-                "social-biological emergency events",
+                "Տարերային վտանգավոր երևույթներ",
+                "Տեխնածին արտակարգ դեպքեր",
+                "Սոցիալ-կենսաբանական արտակարգ դեպքեր",
                 ""
               ]
             },
