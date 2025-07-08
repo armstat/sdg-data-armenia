@@ -1332,9 +1332,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "natural hazards",
-                "man-made emergency events",
-                "social-biological emergency events",
+                "стихийные опасные явления",
+                "Տեխնածին արտակարգ դեպքեր",
+                "социально-биологические чрезвычайные происшествия",
                 ""
               ]
             },
@@ -2537,9 +2537,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "natural hazards",
-                "man-made emergency events",
-                "social-biological emergency events",
+                "стихийные опасные явления",
+                "Տեխնածին արտակարգ դեպքեր",
+                "социально-биологические чрезвычайные происшествия",
                 ""
               ]
             },
@@ -3576,9 +3576,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "natural hazards",
-                "man-made emergency events",
-                "social-biological emergency events",
+                "стихийные опасные явления",
+                "Տեխնածին արտակարգ դեպքեր",
+                "социально-биологические чрезвычайные происшествия",
                 ""
               ]
             },
