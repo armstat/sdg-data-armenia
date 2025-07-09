@@ -7861,6 +7861,17 @@
             }
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "male",
+                "female",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
