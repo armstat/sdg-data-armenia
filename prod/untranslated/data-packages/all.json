@@ -1225,9 +1225,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "natural disaster",
-                "man-made disaster",
-                "social-biological disaster",
+                "natural hazards",
+                "man-made emergency events",
+                "social-biological emergency events",
                 ""
               ]
             }
@@ -2329,9 +2329,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "natural disaster",
-                "man-made disaster",
-                "social-biological disaster",
+                "natural hazards",
+                "man-made emergency events",
+                "social-biological emergency events",
                 ""
               ]
             }
@@ -3281,9 +3281,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "natural disaster",
-                "man-made disaster",
-                "social-biological disaster",
+                "natural hazards",
+                "man-made emergency events",
+                "social-biological emergency events",
                 ""
               ]
             }
@@ -7856,6 +7856,17 @@
             "constraints": {
               "enum": [
                 "per 100,000 population",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "male",
+                "female",
                 ""
               ]
             }

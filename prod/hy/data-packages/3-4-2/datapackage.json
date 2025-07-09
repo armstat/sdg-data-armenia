@@ -27,6 +27,18 @@
             "title": "Units"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "տղամարդ",
+                "կին",
+                ""
+              ]
+            },
+            "title": "Սեռ"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

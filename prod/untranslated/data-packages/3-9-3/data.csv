@@ -51,5 +51,11 @@ Year,Units,Sex,Value
 2023,"per 100,000 population",,0.5
 2023,case,male,10.0
 2023,"per 100,000 population",male,0.7
-2023,case,female,15.0
-2023,"per 100,000 population",female,1.0
+2023,case,female,5.0
+2023,"per 100,000 population",female,0.3
+2024,case,,19.0
+2024,"per 100,000 population",,0.6
+2024,case,male,12.0
+2024,"per 100,000 population",male,0.8
+2024,case,female,7.0
+2024,"per 100,000 population",female,0.4

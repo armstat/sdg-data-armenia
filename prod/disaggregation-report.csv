@@ -5,7 +5,7 @@ Agency,2,7
 Branches/ATMs,1,2
 Category,36,79
 Completion rate adjusted GPI by education level,1,1
-Disaster type,6,3
+Disaster type,6,6
 Division,1,10
 Education level,3,4
 Education type,2,12
@@ -20,7 +20,7 @@ Proxy E,1,1
 Question,1,8
 Quintiles,2,10
 Services,1,11
-Sex,44,10
+Sex,45,10
 Subject,3,2
 Tenure_TYPE,1,16
 Transportation type,1,6
