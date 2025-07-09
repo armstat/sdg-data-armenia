@@ -302,7 +302,7 @@ mln. USD: մլն. ԱՄՆ դոլար
 Tenure_TYPE: Իրավունքի տեսակ
 neutral: չեզոք
 Number of applicable proxies: Կիրառելի պրոքսիների քանակը
-Ownership: Ենթավարձակալություն 
+Ownership: Սեփականություն 
 Common jointly ownership: Համատեղ սեփականություն
 Common shared ownership: Ընդհանուր բաժնային սեփականություն
 Lease: Վարձակալություն 
@@ -323,3 +323,7 @@ Ischaemic heart diseases (IHD) in adults (estimated above 25 years): Սրտի ի
 Cerebrovascular (stroke) in adults (estimated above 25 years): Գլխուղեղային հիվանդությունները (կաթված) մեծահասակների մոտ(≥25)
 Acute  respiratory infections in young children  (estimated under 5 years of age): Սուր շնչառական վարակները մինչև 5 տ. Երեխաների շրջանում (<5)
 Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years): Թոքերի քրոնիկ  օբստրուկտիվ հիվանդություն մեծահասակների շրջանում (≥25)
+natural hazards: Տարերային վտանգավոր երևույթներ
+man-made emergency events: Տեխնածին արտակարգ դեպքեր
+social-biological emergency events: Սոցիալ-կենսաբանական արտակարգ դեպքեր
+
