@@ -2658,7 +2658,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "thsd. tones",
+                "тысяч тонн",
                 ""
               ]
             },
