@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Female",
-                "Male",
+                "всего",
+                "женщина",
+                "мужчина",
                 ""
               ]
             },
