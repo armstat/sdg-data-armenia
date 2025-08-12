@@ -711,6 +711,8 @@
               "enum": [
                 "male",
                 "female",
+                "boys",
+                "girls",
                 ""
               ]
             },
