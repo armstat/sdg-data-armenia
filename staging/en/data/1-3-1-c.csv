@@ -347,3 +347,42 @@ Year,Units,Sex,Category,Age,Value
 2023,%,,,aged 63 and over,73.02
 2023,%,male,,aged 63 and over,70.97
 2023,%,female,,aged 63 and over,74.41
+2024,%,,,,16.27
+2024,%,male,,,13.69
+2024,%,female,,,18.58
+2024,%,,age-related,,12.38
+2024,%,male,age-related,,10.11
+2024,%,female,age-related,,14.41
+2024,%,,on privileged terms,,0.03
+2024,%,male,on privileged terms,,0.04
+2024,%,female,on privileged terms,,0.01
+2024,%,,long-term service,,0.01
+2024,%,male,long-term service,,0.01
+2024,%,female,long-term service,,0.0
+2024,%,,partially,,0.24
+2024,%,male,partially,,0.04
+2024,%,female,partially,,0.42
+2024,%,,disability,,3.34
+2024,%,male,disability,,3.21
+2024,%,female,disability,,3.46
+2024,%,,in case of losing a breadwinner,,0.2
+2024,%,male,in case of losing a breadwinner,,0.13
+2024,%,female,in case of losing a breadwinner,,0.26
+2024,%,,defined by other laws,,0.03
+2024,%,male,defined by other laws,,0.05
+2024,%,female,defined by other laws,,0.0
+2024,%,,related to military service,,0.05
+2024,%,male,related to military service,,0.1
+2024,%,female,related to military service,,0.0
+2024,%,,,up to 51 years old,0.47
+2024,%,male,,up to 51 years old,0.52
+2024,%,female,,up to 51 years old,0.42
+2024,%,,,aged 51-55 years,2.24
+2024,%,male,,aged 51-55 years,3.18
+2024,%,female,,aged 51-55 years,1.75
+2024,%,,,aged 56-62 years,8.64
+2024,%,male,,aged 56-62 years,6.73
+2024,%,female,,aged 56-62 years,10.66
+2024,%,,,aged 63 and over,73.3
+2024,%,male,,aged 63 and over,71.49
+2024,%,female,,aged 63 and over,74.52
