@@ -10,7 +10,7 @@ by other laws,3,1
 cancer,1,1
 cardiovascular disease,1,1
 Cerebrovascular (stroke) in adults (estimated above 25 years),3,1
-child with two parents,6,1
+child with two parents,10,1
 children,1,1
 Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years),3,1
 chronic respiratory disease,1,1
@@ -39,7 +39,7 @@ infectious and parasitic diseases,1,1
 Ischaemic heart diseases (IHD) in adults (estimated above 25 years),3,1
 jointly with someone else,2,2
 junior medical personnel,1,1
-left without parental care,6,1
+left without parental care,10,1
 local governments,1,1
 long-term service,3,1
 Lung cancer in adults (estimated above 25 years),3,1
@@ -48,7 +48,7 @@ national parliaments,1,1
 number of teachers per computer,1,1
 old age,3,1
 on privileged terms,3,1
-other,6,1
+other,10,1
 overweight,3,1
 paramedical personnel,1,1
 partially,3,1
@@ -67,12 +67,12 @@ sewerage,1,1
 sexual  exploitation,3,1
 sexual violence,6,1
 Share of food loss in total supply,1,1
-single mother child,6,1
+single mother child,10,1
 social protection,1,1
 sown areas,1,1
 total to children aged 0-17 years with disabilities,3,1
-total to the population of respective age,3,1
-total to the total number of children with disabilities (aged 0-17 years),3,1
+total to the population of respective age,5,1
+total to the total number of children with disabilities (aged 0-17 years),5,1
 wasting,3,1
 water supply,1,1
 with disabilities,3,3

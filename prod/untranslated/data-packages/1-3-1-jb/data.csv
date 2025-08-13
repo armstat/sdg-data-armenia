@@ -215,3 +215,27 @@ Year,Units,Category,Sex,Value
 2023,%,other,,16.67
 2023,%,other,male,25.0
 2023,%,other,female,10.0
+2024,person,child with two parents,,6.0
+2024,person,child with two parents,boys,2.0
+2024,person,child with two parents,girls,4.0
+2024,person,single mother child,,6.0
+2024,person,single mother child,boys,2.0
+2024,person,single mother child,girls,4.0
+2024,person,left without parental care,,6.0
+2024,person,left without parental care,boys,4.0
+2024,person,left without parental care,girls,2.0
+2024,person,other,,6.0
+2024,person,other,boys,4.0
+2024,person,other,girls,2.0
+2024,%,child with two parents,,25.0
+2024,%,child with two parents,boys,16.67
+2024,%,child with two parents,girls,33.33
+2024,%,single mother child,,25.0
+2024,%,single mother child,boys,16.67
+2024,%,single mother child,girls,33.33
+2024,%,left without parental care,,25.0
+2024,%,left without parental care,boys,33.33
+2024,%,left without parental care,girls,16.67
+2024,%,other,,25.0
+2024,%,other,boys,33.33
+2024,%,other,girls,16.67

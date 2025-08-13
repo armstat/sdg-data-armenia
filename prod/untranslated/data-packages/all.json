@@ -338,6 +338,8 @@
               "enum": [
                 "male",
                 "female",
+                "boys",
+                "girls",
                 ""
               ]
             }
@@ -435,6 +437,8 @@
                 "aged 51 - 55 years",
                 "aged 56 - 62 years",
                 "aged 63 and older",
+                "aged 51-55 years",
+                "aged 56-62 years",
                 ""
               ]
             }
@@ -654,6 +658,8 @@
               "enum": [
                 "male",
                 "female",
+                "boys",
+                "girls",
                 ""
               ]
             }
@@ -721,6 +727,8 @@
               "enum": [
                 "male",
                 "female",
+                "boys",
+                "girls",
                 ""
               ]
             }
@@ -779,6 +787,8 @@
               "enum": [
                 "male",
                 "female",
+                "boys",
+                "girls",
                 ""
               ]
             }
@@ -832,6 +842,8 @@
               "enum": [
                 "male",
                 "female",
+                "boys",
+                "girls",
                 ""
               ]
             }
@@ -904,6 +916,8 @@
               "enum": [
                 "male",
                 "female",
+                "boys",
+                "girls",
                 ""
               ]
             }
@@ -8424,9 +8438,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Female",
-                "Male",
+                "total",
+                "female",
+                "male",
                 ""
               ]
             }
