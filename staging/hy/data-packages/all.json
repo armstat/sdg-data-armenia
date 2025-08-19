@@ -2323,11 +2323,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "I quintile",
-                "II quintile",
-                "III quintile",
-                "IV quintile",
-                "V quintile",
+                "I-ին քվինտիլ",
+                "II-րդ քվինտիլ",
+                "III-րդ քվինտիլ",
+                "IV-րդ քվինտիլ",
+                "V-րդ քվինտիլ",
                 ""
               ]
             },
