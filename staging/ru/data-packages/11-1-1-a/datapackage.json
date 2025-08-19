@@ -79,11 +79,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "I quintile",
-                "II quintile",
-                "III quintile",
-                "IV quintile",
-                "V quintile",
+                "I-й квинтиль",
+                "II-ой квинтиль",
+                "III-й квинтиль",
+                "IV-й квинтиль",
+                "V-й квинтиль",
                 ""
               ]
             },
