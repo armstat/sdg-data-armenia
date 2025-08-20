@@ -2076,7 +2076,7 @@
             "type": "integer"
           },
           {
-            "name": "UNITS",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2090,8 +2090,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "urban",
+                "rural",
                 ""
               ]
             }
@@ -2101,8 +2101,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "male",
+                "female",
                 ""
               ]
             }
@@ -2112,9 +2112,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Non poor",
-                "Poor",
-                "Extreme poor",
+                "non poor",
+                "poor",
+                "extreme poor",
                 ""
               ]
             }
@@ -2124,7 +2124,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Disabled",
+                "disabled",
                 ""
               ]
             }

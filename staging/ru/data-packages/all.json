@@ -2260,7 +2260,7 @@
             "title": "Год"
           },
           {
-            "name": "UNITS",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2268,15 +2268,15 @@
                 ""
               ]
             },
-            "title": "UNITS"
+            "title": "Units"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "город",
+                "село",
                 ""
               ]
             },
@@ -2287,8 +2287,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "мужчина",
+                "женщина",
                 ""
               ]
             },
@@ -2299,9 +2299,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Non poor",
-                "Poor",
-                "Extreme poor",
+                "не бедный",
+                "бедный",
+                "крайне бедный",
                 ""
               ]
             },
@@ -2312,7 +2312,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Disabled",
+                "инвалиды",
                 ""
               ]
             },

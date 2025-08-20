@@ -16,7 +16,7 @@
             "title": "Տարի"
           },
           {
-            "name": "UNITS",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -24,15 +24,15 @@
                 ""
               ]
             },
-            "title": "UNITS"
+            "title": "Units"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "քաղաք",
+                "գյուղ",
                 ""
               ]
             },
@@ -43,8 +43,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "տղամարդ",
+                "կին",
                 ""
               ]
             },
@@ -55,9 +55,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Non poor",
-                "Poor",
-                "Extreme poor",
+                "ոչ աղքատ",
+                "աղքատ",
+                "ծայրահեղ աղքատ",
                 ""
               ]
             },
@@ -68,7 +68,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Disabled",
+                "հաշմանդամներ",
                 ""
               ]
             },
@@ -79,11 +79,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "I quintile",
-                "II quintile",
-                "III quintile",
-                "IV quintile",
-                "V quintile",
+                "I-ին քվինտիլ",
+                "II-րդ քվինտիլ",
+                "III-րդ քվինտիլ",
+                "IV-րդ քվինտիլ",
+                "V-րդ քվինտիլ",
                 ""
               ]
             },
