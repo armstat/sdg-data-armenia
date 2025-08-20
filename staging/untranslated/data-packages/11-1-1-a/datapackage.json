@@ -29,8 +29,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
@@ -40,8 +40,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "Male",
+                "Female",
                 ""
               ]
             }
@@ -51,9 +51,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "non poor",
-                "poor",
-                "extreme poor",
+                "Non poor",
+                "Poor",
+                "Extreme poor",
                 ""
               ]
             }
@@ -63,7 +63,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "disabled",
+                "Disabled",
                 ""
               ]
             }

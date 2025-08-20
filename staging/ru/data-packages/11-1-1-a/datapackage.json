@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "Urban",
+                "Rural",
                 ""
               ]
             },
@@ -43,8 +43,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "мужчина",
-                "женщина",
+                "Male",
+                "Female",
                 ""
               ]
             },
@@ -55,9 +55,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "не бедный",
-                "бедный",
-                "крайне бедный",
+                "Non poor",
+                "Poor",
+                "Extreme poor",
                 ""
               ]
             },
@@ -68,7 +68,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "инвалиды",
+                "Disabled",
                 ""
               ]
             },

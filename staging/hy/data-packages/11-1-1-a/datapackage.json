@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "Urban",
+                "Rural",
                 ""
               ]
             },
@@ -43,8 +43,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "տղամարդ",
-                "կին",
+                "Male",
+                "Female",
                 ""
               ]
             },
@@ -55,9 +55,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ոչ աղքատ",
-                "աղքատ",
-                "ծայրահեղ աղքատ",
+                "Non poor",
+                "Poor",
+                "Extreme poor",
                 ""
               ]
             },
@@ -68,7 +68,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "հաշմանդամներ",
+                "Disabled",
                 ""
               ]
             },
@@ -79,11 +79,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "I-ին քվինտիլ",
-                "II-րդ քվինտիլ",
-                "III-րդ քվինտիլ",
-                "IV-րդ քվինտիլ",
-                "V-րդ քվինտիլ",
+                "I quintile",
+                "II quintile",
+                "III quintile",
+                "IV quintile",
+                "V quintile",
                 ""
               ]
             },
