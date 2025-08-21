@@ -2260,7 +2260,7 @@
             "title": "Год"
           },
           {
-            "name": "UNITS",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2268,7 +2268,7 @@
                 ""
               ]
             },
-            "title": "UNITS"
+            "title": "Units"
           },
           {
             "name": "Location",
@@ -2331,7 +2331,7 @@
                 ""
               ]
             },
-            "title": "Quintiles"
+            "title": "Квинтили"
           },
           {
             "name": "Value",
@@ -5818,7 +5818,7 @@
                 ""
               ]
             },
-            "title": "Quintiles"
+            "title": "Квинтили"
           },
           {
             "name": "Services",

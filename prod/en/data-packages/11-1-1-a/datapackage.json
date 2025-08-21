@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "UNITS",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -24,7 +24,7 @@
                 ""
               ]
             },
-            "title": "UNITS"
+            "title": "Units"
           },
           {
             "name": "Location",

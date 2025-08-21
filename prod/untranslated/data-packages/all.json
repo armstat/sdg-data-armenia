@@ -2076,7 +2076,7 @@
             "type": "integer"
           },
           {
-            "name": "UNITS",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [

@@ -16,7 +16,7 @@
             "title": "Տարի"
           },
           {
-            "name": "UNITS",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -24,7 +24,7 @@
                 ""
               ]
             },
-            "title": "UNITS"
+            "title": "Units"
           },
           {
             "name": "Location",
@@ -87,7 +87,7 @@
                 ""
               ]
             },
-            "title": "Quintiles"
+            "title": "Քվինտիլներ"
           },
           {
             "name": "Value",
