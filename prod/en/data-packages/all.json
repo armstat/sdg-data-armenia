@@ -6041,7 +6041,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1=compliant, 0=partially compliantF",
+                "1=compliant, 0=partially compliant",
                 ""
               ]
             },
@@ -6706,7 +6706,7 @@
           }
         ]
       },
-      "title": "Foreign direct investments (FDI)"
+      "title": "Foreign direct investments"
     },
     {
       "path": "17-3-1/data.csv",
