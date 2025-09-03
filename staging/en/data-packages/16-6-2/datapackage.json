@@ -71,6 +71,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "I quintile",
+                "II quintile",
+                "III quintile",
+                "IV quintile",
+                "V quintile",
                 "1.0",
                 "2.0",
                 "3.0",

@@ -5810,6 +5810,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "I quintile",
+                "II quintile",
+                "III quintile",
+                "IV quintile",
+                "V quintile",
                 "1.0",
                 "2.0",
                 "3.0",
@@ -6706,7 +6711,7 @@
           }
         ]
       },
-      "title": "Foreign direct investments (FDI)"
+      "title": "Foreign direct investments"
     },
     {
       "path": "17-3-1/data.csv",
