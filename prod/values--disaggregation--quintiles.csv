@@ -1,11 +1,7 @@
 Value,Disaggregation combinations using this value,Number of indicators
-1.0,7,1
-2.0,7,1
-3.0,7,1
-4.0,7,1
-5.0,7,1
 I quintile,11,2
 II quintile,11,2
 III quintile,11,2
 IV quintile,11,2
+IVquintile,1,1
 V quintile,11,2
