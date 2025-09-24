@@ -2118,14 +2118,14 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -6469,7 +6469,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "Index from 0 to 100",
                 ""
               ]
             },
