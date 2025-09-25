@@ -12,20 +12,43 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "per 100000 population",
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Ukraine",
+                "Iraq",
+                "Iran",
+                "Syrian Arab Republic",
+                "Haiti",
+                "Egypt",
+                "Turkiye",
+                "Nigeria",
+                "Lebanon",
+                "Russia",
+                "Other countries",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }
