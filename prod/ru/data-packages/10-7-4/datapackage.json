@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -20,14 +20,38 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "на 100,000 населения",
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Country",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Ukraine",
+                "Iraq",
+                "Iran",
+                "Syrian Arab Republic",
+                "Haiti",
+                "Egypt",
+                "Turkiye",
+                "Nigeria",
+                "Lebanon",
+                "Russia",
+                "Other countries",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]

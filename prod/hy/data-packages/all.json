@@ -2114,7 +2114,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -2122,14 +2122,38 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "100,000 բնակչի հաշվով",
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Country",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Ukraine",
+                "Iraq",
+                "Iran",
+                "Syrian Arab Republic",
+                "Haiti",
+                "Egypt",
+                "Turkiye",
+                "Nigeria",
+                "Lebanon",
+                "Russia",
+                "Other countries",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -2651,6 +2675,40 @@
         ]
       },
       "title": "Աղետների պատճառած տնտեսական ուղղակի վնասը կապված ՀՆԱ-ի հետ"
+    },
+    {
+      "path": "11-5-3/data.csv",
+      "name": "11-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Տարի"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.11-5-3-title"
     },
     {
       "path": "11-6-1-a/data.csv",
@@ -3605,7 +3663,7 @@
           }
         ]
       },
-      "title": "13-1-1-a"
+      "title": "Գրանցված արտակարգ դեպքերից և պատահարներից տուժածների թիվը 100,000 մարդու հաշվով"
     },
     {
       "path": "13-1-1/data.csv",
@@ -4967,6 +5025,41 @@
       "title": "Որսագողությամբ կամ ապօրինի ձևով վաճառված վայրի բնության նմուշների համամասնությունը"
     },
     {
+      "path": "16-1-1-a/data.csv",
+      "name": "16-1-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Տարի"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "100,000 բնակչի հաշվով",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Սպանությունների թիվը 100 000 բնակչի հաշվով"
+    },
+    {
       "path": "16-1-1/data.csv",
       "name": "16-1-1",
       "profile": "tabular-data-resource",
@@ -5001,41 +5094,6 @@
         ]
       },
       "title": "Դիտավորյալ սպանությունների զոհերի թիվը 100 հազար բնակչի հաշվով՝ ըստ սեռի և տարիքի"
-    },
-    {
-      "path": "16-1-1-a/data.csv",
-      "name": "16-1-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "100,000 բնակչի հաշվով",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Սպանությունների թիվը 100 000 բնակչի հաշվով"
     },
     {
       "path": "16-1-2/data.csv",
@@ -6469,7 +6527,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Index from 0 to 100",
+                "Ինդեքս 0-ից մինչև 100",
                 ""
               ]
             },
@@ -7305,6 +7363,40 @@
         ]
       },
       "title": "2-2-3"
+    },
+    {
+      "path": "2-2-4/data.csv",
+      "name": "2-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Տարի"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.2-2-4-title"
     },
     {
       "path": "2-3-1/data.csv",
