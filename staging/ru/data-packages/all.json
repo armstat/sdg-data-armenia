@@ -13946,41 +13946,6 @@
       "title": "Выбросы CO2 на единицу добавленной стоимости"
     },
     {
-      "path": "9-5-1-a/data.csv",
-      "name": "9-5-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Год"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-5-1-a"
-    },
-    {
       "path": "9-5-1/data.csv",
       "name": "9-5-1",
       "profile": "tabular-data-resource",
