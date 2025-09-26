@@ -10614,8 +10614,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "women",
-                "men",
+                "female",
+                "male",
                 ""
               ]
             }
@@ -10625,7 +10625,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "39.7",
                 "75.2",
                 "alone",
                 "jointly with someone else",
