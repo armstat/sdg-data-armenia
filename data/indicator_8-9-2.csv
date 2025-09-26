@@ -1,1 +1,37 @@
-﻿"Year","Units","Sex","Employed","Value"
+﻿Year,Units,Sex,Employed,Value
+2020,Total,,Number of employees,53 761
+2020,Total,,,76 067
+2020,Total,,Number of non-employees,22 306
+2020,Total,Male,,50 998
+2020,Total,Female,,25 068
+2020,,Female,Number of employees,24 121
+2020,,Female,Number of non-employees,947
+2020,,Male,Number of employees,29 640
+2020,,Male,Number of non-employees,21 358
+2021,Total,,,69 806
+2021,Total,Male,,42 008
+2021,Total,Female,,27 797
+2021,Total,,Number of employees,53 015
+2021,Total,,Number of non-employees,16 791
+2021,,Female,Number of employees,27 024
+2021,,Female,Number of non-employees,773
+2021,,Male,Number of employees,25 991
+2021,,Male,Number of non-employees,16 017
+2022,Total,,,80 374
+2022,Total,Female,,29 630
+2022,Total,Male,,50 744
+2022,Total,,Number of employees,61 398
+2022,Total,,Number of non-employees,18 976
+2022,,Female,Number of employees,27 807
+2022,,Female,Number of non-employees,1 823
+2022,,Male,Number of employees,33 591
+2022,,Male,Number of non-employees,17 153
+2023,Total,,,89 491
+2023,Total,Female,,32 065
+2023,Total,Male,,57 426
+2023,Total,,Number of employees,62 351
+2023,Total,,Number of non-employees,27 140
+2023,,Female,Number of employees,28 831
+2023,,Female,Number of non-employees,3 234
+2023,,Male,Number of employees,33 520
+2023,,Male,Number of non-employees,23 906
