@@ -15,19 +15,66 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of households with ownership over agricultural land",
+                "Proportion of population age 15-49 with ownership (alone, jointly with someone else or both alone and jointly with someone else) over agricultural or non-agricultural land, who have a title deed and their name is listed on the title deed",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women",
+                "men",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "39.7",
+                "75.2",
+                "alone",
+                "jointly with someone else",
+                "alone and jointly with someone else",
+                "85.7",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

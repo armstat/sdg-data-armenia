@@ -2460,37 +2460,6 @@
       "title": "global_indicators.11-5-2-title"
     },
     {
-      "path": "11-5-3/data.csv",
-      "name": "11-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "string"
-          }
-        ]
-      },
-      "title": "global_indicators.11-5-3-title"
-    },
-    {
       "path": "11-6-1-a/data.csv",
       "name": "11-6-1-a",
       "profile": "tabular-data-resource",
@@ -4612,38 +4581,6 @@
       "title": "global_indicators.15-c-1-title"
     },
     {
-      "path": "16-1-1-a/data.csv",
-      "name": "16-1-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "per 100,000 population",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "meta.name-16-1-1-a"
-    },
-    {
       "path": "16-1-1/data.csv",
       "name": "16-1-1",
       "profile": "tabular-data-resource",
@@ -4675,6 +4612,38 @@
         ]
       },
       "title": "global_indicators.16-1-1-title"
+    },
+    {
+      "path": "16-1-1-a/data.csv",
+      "name": "16-1-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per 100,000 population",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "meta.name-16-1-1-a"
     },
     {
       "path": "16-1-2/data.csv",
@@ -6755,37 +6724,6 @@
         ]
       },
       "title": "2-2-3"
-    },
-    {
-      "path": "2-2-4/data.csv",
-      "name": "2-2-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "string"
-          }
-        ]
-      },
-      "title": "global_indicators.2-2-4-title"
     },
     {
       "path": "2-3-1/data.csv",
@@ -9540,6 +9478,8 @@
                 "specialized secondary education",
                 "specialized high education, first stage (bachelor's Degree)",
                 "post-graduate education, second stage (master's Degree)",
+                "specialized high education, first stage (bachelor's degree)",
+                "post-graduate education, second stage (master's degree)",
                 ""
               ]
             }
@@ -9922,7 +9862,7 @@
           }
         ]
       },
-      "title": "meta.name-4-c-1-a"
+      "title": "4-c-1-a"
     },
     {
       "path": "4-c-1/data.csv",
@@ -10578,19 +10518,66 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of households with ownership over agricultural land",
+                "Proportion of population age 15-49 with ownership (alone, jointly with someone else or both alone and jointly with someone else) over agricultural or non-agricultural land, who have a title deed and their name is listed on the title deed",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women",
+                "men",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "39.7",
+                "75.2",
+                "alone",
+                "jointly with someone else",
+                "alone and jointly with someone else",
+                "85.7",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -12751,38 +12738,6 @@
         ]
       },
       "title": "global_indicators.9-4-1-title"
-    },
-    {
-      "path": "9-5-1-a/data.csv",
-      "name": "9-5-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "meta.name-9-5-1-a"
     },
     {
       "path": "9-5-1/data.csv",

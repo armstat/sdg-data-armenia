@@ -1,9 +1,12 @@
 Value,Disaggregation combinations using this value,Number of indicators
 0-28 days,5,1
+39.7,1,1
+75.2,1,1
+85.7,1,1
 Acute  respiratory infections in young children  (estimated under 5 years of age),3,1
 age-related,3,1
-alone and jointly with someone else,2,2
-alone,2,2
+alone and jointly with someone else,4,3
+alone,4,3
 any contraceptive method,1,1
 arable land,1,1
 by other laws,3,1
@@ -36,7 +39,7 @@ health,1,1
 in case of losing a breadwinner,6,2
 infectious and parasitic diseases,1,1
 Ischaemic heart diseases (IHD) in adults (estimated above 25 years),3,1
-jointly with someone else,2,2
+jointly with someone else,4,3
 junior medical personnel,1,1
 left without parental care,10,1
 local governments,1,1
