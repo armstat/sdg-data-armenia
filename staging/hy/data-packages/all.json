@@ -11538,7 +11538,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -11546,26 +11546,31 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Ownership",
+            "name": "Indicators",
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of households with ownership over agricultural land",
+                "Proportion of population age 15-49 with ownership (alone, jointly with someone else or both alone and jointly with someone else) over agricultural or non-agricultural land, who have a title deed and their name is listed on the title deed",
                 ""
               ]
             },
-            "title": "Սեփականություն"
+            "title": "Indicators"
           },
           {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
+                "քաղաք",
+                "գյուղ",
                 ""
               ]
             },
@@ -11576,14 +11581,32 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "women",
+                "men",
                 ""
               ]
             },
             "title": "Սեռ"
           },
           {
-            "name": "Value",
+            "name": "Category",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "39.7",
+                "75.2",
+                "միայնակ",
+                "մեկ ուրիշի հետ համատեղ",
+                "միայնակ և մեկ ուրիշի հետ համատեղ",
+                "85.7",
+                ""
+              ]
+            },
+            "title": "Կատեգորիա"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]

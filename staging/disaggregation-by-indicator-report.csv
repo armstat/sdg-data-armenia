@@ -82,6 +82,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-3-1,Age,1
 #5-5-1,Category,1
 #5-5-2,"Location, Age",2
+#5-a-1,"Sex, Location, Category, Indicators",4
 #5-a-1-a-a,Location,1
 #5-a-1-b-a-1,Category,1
 #5-a-1-b-a-2,Category,1

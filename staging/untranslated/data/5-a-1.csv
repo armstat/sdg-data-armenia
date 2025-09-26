@@ -1,1 +1,12 @@
-Year,Units,Ownership,Location,Sex,Value
+Year,Units,Indicators,Location,Sex,Category,Value
+2015,%,Proportion of households with ownership over agricultural land,,,39.7,
+2015,%,Proportion of households with ownership over agricultural land,urban,,,13.0
+2015,%,Proportion of households with ownership over agricultural land,rural,,,84.2
+2015,%,"Proportion of population age 15-49 with ownership (alone, jointly with someone else or both alone and jointly with someone else) over agricultural or non-agricultural land, who have a title deed and their name is listed on the title deed",,women,75.2,
+2015,%,"Proportion of population age 15-49 with ownership (alone, jointly with someone else or both alone and jointly with someone else) over agricultural or non-agricultural land, who have a title deed and their name is listed on the title deed",,women,alone,1.6
+2015,%,"Proportion of population age 15-49 with ownership (alone, jointly with someone else or both alone and jointly with someone else) over agricultural or non-agricultural land, who have a title deed and their name is listed on the title deed",,women,jointly with someone else,13.1
+2015,%,"Proportion of population age 15-49 with ownership (alone, jointly with someone else or both alone and jointly with someone else) over agricultural or non-agricultural land, who have a title deed and their name is listed on the title deed",,women,alone and jointly with someone else,1.0
+2015,%,"Proportion of population age 15-49 with ownership (alone, jointly with someone else or both alone and jointly with someone else) over agricultural or non-agricultural land, who have a title deed and their name is listed on the title deed",,men,85.7,
+2015,%,"Proportion of population age 15-49 with ownership (alone, jointly with someone else or both alone and jointly with someone else) over agricultural or non-agricultural land, who have a title deed and their name is listed on the title deed",,men,alone,7.7
+2015,%,"Proportion of population age 15-49 with ownership (alone, jointly with someone else or both alone and jointly with someone else) over agricultural or non-agricultural land, who have a title deed and their name is listed on the title deed",,men,jointly with someone else,26.6
+2015,%,"Proportion of population age 15-49 with ownership (alone, jointly with someone else or both alone and jointly with someone else) over agricultural or non-agricultural land, who have a title deed and their name is listed on the title deed",,men,alone and jointly with someone else,0.5
