@@ -7666,6 +7666,106 @@
             "title": "Group"
           },
           {
+            "name": "Unnamed: 3",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 3"
+          },
+          {
+            "name": "Unnamed: 4",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 4"
+          },
+          {
+            "name": "Unnamed: 5",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 5"
+          },
+          {
+            "name": "Unnamed: 6",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 6"
+          },
+          {
+            "name": "Unnamed: 7",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 7"
+          },
+          {
+            "name": "Unnamed: 8",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 8"
+          },
+          {
+            "name": "Unnamed: 9",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 9"
+          },
+          {
+            "name": "Unnamed: 10",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 10"
+          },
+          {
+            "name": "Unnamed: 11",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 11"
+          },
+          {
+            "name": "Unnamed: 12",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 12"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -10536,53 +10636,6 @@
         ]
       },
       "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
-    },
-    {
-      "path": "4-6-1-a/data.csv",
-      "name": "4-6-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "male",
-                "female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Literacy rate among population aged from 10-24 years old"
     },
     {
       "path": "4-6-1/data.csv",

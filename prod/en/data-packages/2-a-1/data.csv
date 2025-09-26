@@ -1,10 +1,11 @@
-Year,Group,Value
-2015,Total,0.14
-2016,Total,0.2
-2017,Total,0.17
-2018,Total,0.13
-2019,Total,0.17
-2020,Total,0.15
-2021,Total,0.21
-2022,Total,0.27
-2023,Total,0.36
+Year,Group,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Value
+2015,Total,,,,,,,,,,,0.14
+2016,Total,,,,,,,,,,,0.2
+2017,Total,,,,,,,,,,,0.17
+2018,Total,,,,,,,,,,,0.13
+2019,Total,,,,,,,,,,,0.17
+2020,Total,,,,,,,,,,,0.15
+2021,Total,,,,,,,,,,,0.2
+2022,Total,,,,,,,,,,,0.27
+2023,Total,,,,,,,,,,,0.38
+2024,Total,,,,,,,,,,,0.28
