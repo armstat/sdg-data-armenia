@@ -14059,30 +14059,6 @@
         ]
       },
       "title": "Proportion of population covered by a mobile network, by technology"
-    },
-    {
-      "path": "4-6-1-a/data.csv",
-      "name": "4-6-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Literacy rate among population aged from 10-24 years old"
     }
   ]
 }
