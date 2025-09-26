@@ -1,7 +1,675 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Indicators,Units,Sex,Category,Age,Value
+2015,The share of pensioners to the total number of population at the end of the year,%,,,,15.53
+2016,The share of pensioners to the total number of population at the end of the year,%,,,,15.69
+2017,The share of pensioners to the total number of population at the end of the year,%,,,,15.41
+2018,The share of pensioners to the total number of population at the end of the year,%,,,,15.62
+2019,The share of pensioners to the total number of population at the end of the year,%,,,,15.76
+2020,The share of pensioners to the total number of population at the end of the year,%,,,,15.76
+2015,The share of pensioners to the total number of population at the end of the year,%,male,,,12.73
+2016,The share of pensioners to the total number of population at the end of the year,%,male,,,12.93
+2017,The share of pensioners to the total number of population at the end of the year,%,male,,,12.74
+2018,The share of pensioners to the total number of population at the end of the year,%,male,,,12.97
+2019,The share of pensioners to the total number of population at the end of the year,%,male,,,13.14
+2020,The share of pensioners to the total number of population at the end of the year,%,male,,,13.15
+2015,The share of pensioners to the total number of population at the end of the year,%,female,,,18.09
+2016,The share of pensioners to the total number of population at the end of the year,%,female,,,18.19
+2017,The share of pensioners to the total number of population at the end of the year,%,female,,,17.82
+2018,The share of pensioners to the total number of population at the end of the year,%,female,,,17.99
+2019,The share of pensioners to the total number of population at the end of the year,%,female,,,18.11
+2020,The share of pensioners to the total number of population at the end of the year,%,female,,,18.09
+2015,The share of pensioners to the total number of population at the end of the year,%,,age-related,,10.19
+2016,The share of pensioners to the total number of population at the end of the year,%,,age-related,,10.33
+2017,The share of pensioners to the total number of population at the end of the year,%,,age-related,,10.52
+2018,The share of pensioners to the total number of population at the end of the year,%,,age-related,,10.88
+2019,The share of pensioners to the total number of population at the end of the year,%,,age-related,,11.15
+2020,The share of pensioners to the total number of population at the end of the year,%,,age-related,,11.29
+2015,The share of pensioners to the total number of population at the end of the year,%,male,age-related,,7.93
+2016,The share of pensioners to the total number of population at the end of the year,%,male,age-related,,8.09
+2017,The share of pensioners to the total number of population at the end of the year,%,male,age-related,,8.3
+2018,The share of pensioners to the total number of population at the end of the year,%,male,age-related,,8.65
+2019,The share of pensioners to the total number of population at the end of the year,%,male,age-related,,8.93
+2020,The share of pensioners to the total number of population at the end of the year,%,male,age-related,,9.08
+2015,The share of pensioners to the total number of population at the end of the year,%,female,age-related,,12.25
+2016,The share of pensioners to the total number of population at the end of the year,%,female,age-related,,12.36
+2017,The share of pensioners to the total number of population at the end of the year,%,female,age-related,,12.53
+2018,The share of pensioners to the total number of population at the end of the year,%,female,age-related,,12.88
+2019,The share of pensioners to the total number of population at the end of the year,%,female,age-related,,13.14
+2020,The share of pensioners to the total number of population at the end of the year,%,female,age-related,,13.18
+2015,The share of pensioners to the total number of population at the end of the year,%,,on privileged terms,,0.09
+2016,The share of pensioners to the total number of population at the end of the year,%,,on privileged terms,,0.08
+2017,The share of pensioners to the total number of population at the end of the year,%,,on privileged terms,,0.08
+2018,The share of pensioners to the total number of population at the end of the year,%,,on privileged terms,,0.07
+2019,The share of pensioners to the total number of population at the end of the year,%,,on privileged terms,,0.06
+2020,The share of pensioners to the total number of population at the end of the year,%,,on privileged terms,,0.05
+2015,The share of pensioners to the total number of population at the end of the year,%,male,on privileged terms,,0.14
+2016,The share of pensioners to the total number of population at the end of the year,%,male,on privileged terms,,0.13
+2017,The share of pensioners to the total number of population at the end of the year,%,male,on privileged terms,,0.12
+2018,The share of pensioners to the total number of population at the end of the year,%,male,on privileged terms,,0.11
+2019,The share of pensioners to the total number of population at the end of the year,%,male,on privileged terms,,0.09
+2020,The share of pensioners to the total number of population at the end of the year,%,male,on privileged terms,,0.08
+2015,The share of pensioners to the total number of population at the end of the year,%,female,on privileged terms,,0.05
+2016,The share of pensioners to the total number of population at the end of the year,%,female,on privileged terms,,0.05
+2017,The share of pensioners to the total number of population at the end of the year,%,female,on privileged terms,,0.04
+2018,The share of pensioners to the total number of population at the end of the year,%,female,on privileged terms,,0.03
+2019,The share of pensioners to the total number of population at the end of the year,%,female,on privileged terms,,0.03
+2020,The share of pensioners to the total number of population at the end of the year,%,female,on privileged terms,,0.03
+2015,The share of pensioners to the total number of population at the end of the year,%,,long-term service,,0.04
+2016,The share of pensioners to the total number of population at the end of the year,%,,long-term service,,0.02
+2017,The share of pensioners to the total number of population at the end of the year,%,,long-term service,,0.02
+2018,The share of pensioners to the total number of population at the end of the year,%,,long-term service,,0.02
+2019,The share of pensioners to the total number of population at the end of the year,%,,long-term service,,0.02
+2020,The share of pensioners to the total number of population at the end of the year,%,,long-term service,,0.01
+2015,The share of pensioners to the total number of population at the end of the year,%,male,long-term service,,0.04
+2016,The share of pensioners to the total number of population at the end of the year,%,male,long-term service,,0.03
+2017,The share of pensioners to the total number of population at the end of the year,%,male,long-term service,,0.03
+2018,The share of pensioners to the total number of population at the end of the year,%,male,long-term service,,0.02
+2019,The share of pensioners to the total number of population at the end of the year,%,male,long-term service,,0.02
+2020,The share of pensioners to the total number of population at the end of the year,%,male,long-term service,,0.02
+2015,The share of pensioners to the total number of population at the end of the year,%,female,long-term service,,0.04
+2016,The share of pensioners to the total number of population at the end of the year,%,female,long-term service,,0.02
+2017,The share of pensioners to the total number of population at the end of the year,%,female,long-term service,,0.01
+2018,The share of pensioners to the total number of population at the end of the year,%,female,long-term service,,0.01
+2019,The share of pensioners to the total number of population at the end of the year,%,female,long-term service,,0.01
+2020,The share of pensioners to the total number of population at the end of the year,%,female,long-term service,,0.01
+2015,The share of pensioners to the total number of population at the end of the year,%,,partially,,0.5
+2016,The share of pensioners to the total number of population at the end of the year,%,,partially,,0.49
+2017,The share of pensioners to the total number of population at the end of the year,%,,partially,,0.47
+2018,The share of pensioners to the total number of population at the end of the year,%,,partially,,0.44
+2019,The share of pensioners to the total number of population at the end of the year,%,,partially,,0.41
+2020,The share of pensioners to the total number of population at the end of the year,%,,partially,,0.37
+2015,The share of pensioners to the total number of population at the end of the year,%,male,partially,,0.11
+2016,The share of pensioners to the total number of population at the end of the year,%,male,partially,,0.11
+2017,The share of pensioners to the total number of population at the end of the year,%,male,partially,,0.1
+2018,The share of pensioners to the total number of population at the end of the year,%,male,partially,,0.09
+2019,The share of pensioners to the total number of population at the end of the year,%,male,partially,,0.09
+2020,The share of pensioners to the total number of population at the end of the year,%,male,partially,,0.07
+2015,The share of pensioners to the total number of population at the end of the year,%,female,partially,,0.85
+2016,The share of pensioners to the total number of population at the end of the year,%,female,partially,,0.83
+2017,The share of pensioners to the total number of population at the end of the year,%,female,partially,,0.8
+2018,The share of pensioners to the total number of population at the end of the year,%,female,partially,,0.76
+2019,The share of pensioners to the total number of population at the end of the year,%,female,partially,,0.7
+2020,The share of pensioners to the total number of population at the end of the year,%,female,partially,,0.64
+2015,The share of pensioners to the total number of population at the end of the year,%,,disability,,4.28
+2016,The share of pensioners to the total number of population at the end of the year,%,,disability,,4.35
+2017,The share of pensioners to the total number of population at the end of the year,%,,disability,,3.93
+2018,The share of pensioners to the total number of population at the end of the year,%,,disability,,3.84
+2019,The share of pensioners to the total number of population at the end of the year,%,,disability,,3.78
+2020,The share of pensioners to the total number of population at the end of the year,%,,disability,,3.7
+2015,The share of pensioners to the total number of population at the end of the year,%,male,disability,,4.13
+2016,The share of pensioners to the total number of population at the end of the year,%,male,disability,,4.19
+2017,The share of pensioners to the total number of population at the end of the year,%,male,disability,,3.82
+2018,The share of pensioners to the total number of population at the end of the year,%,male,disability,,3.74
+2019,The share of pensioners to the total number of population at the end of the year,%,male,disability,,3.68
+2020,The share of pensioners to the total number of population at the end of the year,%,male,disability,,3.59
+2015,The share of pensioners to the total number of population at the end of the year,%,female,disability,,4.41
+2016,The share of pensioners to the total number of population at the end of the year,%,female,disability,,4.48
+2017,The share of pensioners to the total number of population at the end of the year,%,female,disability,,4.02
+2018,The share of pensioners to the total number of population at the end of the year,%,female,disability,,3.92
+2019,The share of pensioners to the total number of population at the end of the year,%,female,disability,,3.88
+2020,The share of pensioners to the total number of population at the end of the year,%,female,disability,,3.81
+2015,The share of pensioners to the total number of population at the end of the year,%,,in case of losing a breadwinner,,0.36
+2016,The share of pensioners to the total number of population at the end of the year,%,,in case of losing a breadwinner,,0.34
+2017,The share of pensioners to the total number of population at the end of the year,%,,in case of losing a breadwinner,,0.31
+2018,The share of pensioners to the total number of population at the end of the year,%,,in case of losing a breadwinner,,0.29
+2019,The share of pensioners to the total number of population at the end of the year,%,,in case of losing a breadwinner,,0.26
+2020,The share of pensioners to the total number of population at the end of the year,%,,in case of losing a breadwinner,,0.25
+2015,The share of pensioners to the total number of population at the end of the year,%,male,in case of losing a breadwinner,,0.21
+2016,The share of pensioners to the total number of population at the end of the year,%,male,in case of losing a breadwinner,,0.21
+2017,The share of pensioners to the total number of population at the end of the year,%,male,in case of losing a breadwinner,,0.19
+2018,The share of pensioners to the total number of population at the end of the year,%,male,in case of losing a breadwinner,,0.18
+2019,The share of pensioners to the total number of population at the end of the year,%,male,in case of losing a breadwinner,,0.16
+2020,The share of pensioners to the total number of population at the end of the year,%,male,in case of losing a breadwinner,,0.15
+2015,The share of pensioners to the total number of population at the end of the year,%,female,in case of losing a breadwinner,,0.49
+2016,The share of pensioners to the total number of population at the end of the year,%,female,in case of losing a breadwinner,,0.45
+2017,The share of pensioners to the total number of population at the end of the year,%,female,in case of losing a breadwinner,,0.42
+2018,The share of pensioners to the total number of population at the end of the year,%,female,in case of losing a breadwinner,,0.39
+2019,The share of pensioners to the total number of population at the end of the year,%,female,in case of losing a breadwinner,,0.35
+2020,The share of pensioners to the total number of population at the end of the year,%,female,in case of losing a breadwinner,,0.33
+2016,The share of pensioners to the total number of population at the end of the year,%,,defined by other laws,,0.01
+2017,The share of pensioners to the total number of population at the end of the year,%,,defined by other laws,,0.02
+2018,The share of pensioners to the total number of population at the end of the year,%,,defined by other laws,,0.02
+2019,The share of pensioners to the total number of population at the end of the year,%,,defined by other laws,,0.02
+2020,The share of pensioners to the total number of population at the end of the year,%,,defined by other laws,,0.02
+2016,The share of pensioners to the total number of population at the end of the year,%,male,defined by other laws,,0.01
+2017,The share of pensioners to the total number of population at the end of the year,%,male,defined by other laws,,0.04
+2018,The share of pensioners to the total number of population at the end of the year,%,male,defined by other laws,,0.04
+2019,The share of pensioners to the total number of population at the end of the year,%,male,defined by other laws,,0.04
+2020,The share of pensioners to the total number of population at the end of the year,%,male,defined by other laws,,0.05
+2016,The share of pensioners to the total number of population at the end of the year,%,female,defined by other laws,,0.002
+2017,The share of pensioners to the total number of population at the end of the year,%,female,defined by other laws,,0.004
+2018,The share of pensioners to the total number of population at the end of the year,%,female,defined by other laws,,0.004
+2019,The share of pensioners to the total number of population at the end of the year,%,female,defined by other laws,,0.004
+2020,The share of pensioners to the total number of population at the end of the year,%,female,defined by other laws,,0.004
+2015,The share of pensioners to the total number of population at the end of the year,%,,related to military service,,0.08
+2016,The share of pensioners to the total number of population at the end of the year,%,,related to military service,,0.07
+2017,The share of pensioners to the total number of population at the end of the year,%,,related to military service,,0.07
+2018,The share of pensioners to the total number of population at the end of the year,%,,related to military service,,0.06
+2019,The share of pensioners to the total number of population at the end of the year,%,,related to military service,,0.06
+2020,The share of pensioners to the total number of population at the end of the year,%,,related to military service,,0.06
+2015,The share of pensioners to the total number of population at the end of the year,%,male,related to military service,,0.16
+2016,The share of pensioners to the total number of population at the end of the year,%,male,related to military service,,0.15
+2017,The share of pensioners to the total number of population at the end of the year,%,male,related to military service,,0.14
+2018,The share of pensioners to the total number of population at the end of the year,%,male,related to military service,,0.13
+2019,The share of pensioners to the total number of population at the end of the year,%,male,related to military service,,0.13
+2020,The share of pensioners to the total number of population at the end of the year,%,male,related to military service,,0.12
+2015,The share of pensioners to the total number of population at the end of the year,%,female,related to military service,,0.002
+2016,The share of pensioners to the total number of population at the end of the year,%,female,related to military service,,0.001
+2017,The share of pensioners to the total number of population at the end of the year,%,female,related to military service,,0.001
+2018,The share of pensioners to the total number of population at the end of the year,%,female,related to military service,,0.001
+2019,The share of pensioners to the total number of population at the end of the year,%,female,related to military service,,0.001
+2020,The share of pensioners to the total number of population at the end of the year,%,female,related to military service,,0.0004
+2015,The share of pensioners to the total number of population at the end of the year,%,,,up to 51 years old,1.02
+2016,The share of pensioners to the total number of population at the end of the year,%,,,up to 51 years old,0.95
+2017,The share of pensioners to the total number of population at the end of the year,%,,,up to 51 years old,0.79
+2018,The share of pensioners to the total number of population at the end of the year,%,,,up to 51 years old,0.7
+2019,The share of pensioners to the total number of population at the end of the year,%,,,up to 51 years old,0.62
+2020,The share of pensioners to the total number of population at the end of the year,%,,,up to 51 years old,0.58
+2015,The share of pensioners to the total number of population at the end of the year,%,male,,up to 51 years old,0.99
+2016,The share of pensioners to the total number of population at the end of the year,%,male,,up to 51 years old,0.94
+2017,The share of pensioners to the total number of population at the end of the year,%,male,,up to 51 years old,0.79
+2018,The share of pensioners to the total number of population at the end of the year,%,male,,up to 51 years old,0.72
+2019,The share of pensioners to the total number of population at the end of the year,%,male,,up to 51 years old,0.64
+2020,The share of pensioners to the total number of population at the end of the year,%,male,,up to 51 years old,0.6
+2015,The share of pensioners to the total number of population at the end of the year,%,female,,up to 51 years old,1.06
+2016,The share of pensioners to the total number of population at the end of the year,%,female,,up to 51 years old,0.97
+2017,The share of pensioners to the total number of population at the end of the year,%,female,,up to 51 years old,0.78
+2018,The share of pensioners to the total number of population at the end of the year,%,female,,up to 51 years old,0.69
+2019,The share of pensioners to the total number of population at the end of the year,%,female,,up to 51 years old,0.6
+2020,The share of pensioners to the total number of population at the end of the year,%,female,,up to 51 years old,0.56
+2015,The share of pensioners to the total number of population at the end of the year,%,,,aged 51-55 years,10.32
+2016,The share of pensioners to the total number of population at the end of the year,%,,,aged 51-55 years,10.01
+2017,The share of pensioners to the total number of population at the end of the year,%,,,aged 51-55 years,8.15
+2018,The share of pensioners to the total number of population at the end of the year,%,,,aged 51-55 years,7.37
+2019,The share of pensioners to the total number of population at the end of the year,%,,,aged 51-55 years,4.41
+2020,The share of pensioners to the total number of population at the end of the year,%,,,aged 51-55 years,3.96
+2015,The share of pensioners to the total number of population at the end of the year,%,male,,aged 51-55 years,10.47
+2016,The share of pensioners to the total number of population at the end of the year,%,male,,aged 51-55 years,10.38
+2017,The share of pensioners to the total number of population at the end of the year,%,male,,aged 51-55 years,8.75
+2018,The share of pensioners to the total number of population at the end of the year,%,male,,aged 51-55 years,7.93
+2019,The share of pensioners to the total number of population at the end of the year,%,male,,aged 51-55 years,5.06
+2020,The share of pensioners to the total number of population at the end of the year,%,male,,aged 51-55 years,4.46
+2015,The share of pensioners to the total number of population at the end of the year,%,female,,aged 51-55 years,10.2
+2016,The share of pensioners to the total number of population at the end of the year,%,female,,aged 51-55 years,9.72
+2017,The share of pensioners to the total number of population at the end of the year,%,female,,aged 51-55 years,7.68
+2018,The share of pensioners to the total number of population at the end of the year,%,female,,aged 51-55 years,6.92
+2019,The share of pensioners to the total number of population at the end of the year,%,female,,aged 51-55 years,3.91
+2020,The share of pensioners to the total number of population at the end of the year,%,female,,aged 51-55 years,3.57
+2015,The share of pensioners to the total number of population at the end of the year,%,,,aged 56-62 years,23.32
+2016,The share of pensioners to the total number of population at the end of the year,%,,,aged 56-62 years,22.58
+2017,The share of pensioners to the total number of population at the end of the year,%,,,aged 56-62 years,19.33
+2018,The share of pensioners to the total number of population at the end of the year,%,,,aged 56-62 years,18.05
+2019,The share of pensioners to the total number of population at the end of the year,%,,,aged 56-62 years,15.21
+2020,The share of pensioners to the total number of population at the end of the year,%,,,aged 56-62 years,13.91
+2015,The share of pensioners to the total number of population at the end of the year,%,male,,aged 56-62 years,20.14
+2016,The share of pensioners to the total number of population at the end of the year,%,male,,aged 56-62 years,19.87
+2017,The share of pensioners to the total number of population at the end of the year,%,male,,aged 56-62 years,17.23
+2018,The share of pensioners to the total number of population at the end of the year,%,male,,aged 56-62 years,16.42
+2019,The share of pensioners to the total number of population at the end of the year,%,male,,aged 56-62 years,14.14
+2020,The share of pensioners to the total number of population at the end of the year,%,male,,aged 56-62 years,13.15
+2015,The share of pensioners to the total number of population at the end of the year,%,female,,aged 56-62 years,25.9
+2016,The share of pensioners to the total number of population at the end of the year,%,female,,aged 56-62 years,24.76
+2017,The share of pensioners to the total number of population at the end of the year,%,female,,aged 56-62 years,21.0
+2018,The share of pensioners to the total number of population at the end of the year,%,female,,aged 56-62 years,19.34
+2019,The share of pensioners to the total number of population at the end of the year,%,female,,aged 56-62 years,16.04
+2020,The share of pensioners to the total number of population at the end of the year,%,female,,aged 56-62 years,14.5
+2015,The share of pensioners to the total number of population at the end of the year,%,,,aged 63 and over,92.73
+2016,The share of pensioners to the total number of population at the end of the year,%,,,aged 63 and over,92.52
+2017,The share of pensioners to the total number of population at the end of the year,%,,,aged 63 and over,91.47
+2018,The share of pensioners to the total number of population at the end of the year,%,,,aged 63 and over,91.36
+2019,The share of pensioners to the total number of population at the end of the year,%,,,aged 63 and over,92.57
+2020,The share of pensioners to the total number of population at the end of the year,%,,,aged 63 and over,91.71
+2015,The share of pensioners to the total number of population at the end of the year,%,male,,aged 63 and over,88.1
+2016,The share of pensioners to the total number of population at the end of the year,%,male,,aged 63 and over,88.25
+2017,The share of pensioners to the total number of population at the end of the year,%,male,,aged 63 and over,87.48
+2018,The share of pensioners to the total number of population at the end of the year,%,male,,aged 63 and over,87.86
+2019,The share of pensioners to the total number of population at the end of the year,%,male,,aged 63 and over,89.58
+2020,The share of pensioners to the total number of population at the end of the year,%,male,,aged 63 and over,89.28
+2015,The share of pensioners to the total number of population at the end of the year,%,female,,aged 63 and over,95.83
+2016,The share of pensioners to the total number of population at the end of the year,%,female,,aged 63 and over,95.38
+2017,The share of pensioners to the total number of population at the end of the year,%,female,,aged 63 and over,94.14
+2018,The share of pensioners to the total number of population at the end of the year,%,female,,aged 63 and over,93.7
+2019,The share of pensioners to the total number of population at the end of the year,%,female,,aged 63 and over,94.55
+2020,The share of pensioners to the total number of population at the end of the year,%,female,,aged 63 and over,93.32
+2021,The share of pensioners to the total number of population at the end of the year,%,,,,15.72
+2021,The share of pensioners to the total number of population at the end of the year,%,male,,,13.14
+2021,The share of pensioners to the total number of population at the end of the year,%,female,,,18.04
+2021,The share of pensioners to the total number of population at the end of the year,%,,age-related,,11.4
+2021,The share of pensioners to the total number of population at the end of the year,%,male,age-related,,9.19
+2021,The share of pensioners to the total number of population at the end of the year,%,female,age-related,,13.37
+2021,The share of pensioners to the total number of population at the end of the year,%,,on privileged terms,,0.04
+2021,The share of pensioners to the total number of population at the end of the year,%,male,on privileged terms,,0.06
+2021,The share of pensioners to the total number of population at the end of the year,%,female,on privileged terms,,0.02
+2021,The share of pensioners to the total number of population at the end of the year,%,,long-term service,,0.01
+2021,The share of pensioners to the total number of population at the end of the year,%,male,long-term service,,0.02
+2021,The share of pensioners to the total number of population at the end of the year,%,female,long-term service,,0.01
+2021,The share of pensioners to the total number of population at the end of the year,%,,partially,,0.33
+2021,The share of pensioners to the total number of population at the end of the year,%,male,partially,,0.06
+2021,The share of pensioners to the total number of population at the end of the year,%,female,partially,,0.58
+2021,The share of pensioners to the total number of population at the end of the year,%,,disability,,3.62
+2021,The share of pensioners to the total number of population at the end of the year,%,male,disability,,3.49
+2021,The share of pensioners to the total number of population at the end of the year,%,female,disability,,3.73
+2021,The share of pensioners to the total number of population at the end of the year,%,,in case of losing a breadwinner,,0.24
+2021,The share of pensioners to the total number of population at the end of the year,%,male,in case of losing a breadwinner,,0.15
+2021,The share of pensioners to the total number of population at the end of the year,%,female,in case of losing a breadwinner,,0.32
+2021,The share of pensioners to the total number of population at the end of the year,%,,defined by other laws,,0.02
+2021,The share of pensioners to the total number of population at the end of the year,%,male,defined by other laws,,0.05
+2021,The share of pensioners to the total number of population at the end of the year,%,female,defined by other laws,,0.004
+2021,The share of pensioners to the total number of population at the end of the year,%,,related to military service,,0.05
+2021,The share of pensioners to the total number of population at the end of the year,%,male,related to military service,,0.12
+2021,The share of pensioners to the total number of population at the end of the year,%,female,related to military service,,0.0004
+2021,The share of pensioners to the total number of population at the end of the year,%,,,up to 51 years old,0.56
+2021,The share of pensioners to the total number of population at the end of the year,%,male,,up to 51 years old,0.58
+2021,The share of pensioners to the total number of population at the end of the year,%,female,,up to 51 years old,0.53
+2021,The share of pensioners to the total number of population at the end of the year,%,,,aged 51-55 years,3.5
+2021,The share of pensioners to the total number of population at the end of the year,%,male,,aged 51-55 years,3.88
+2021,The share of pensioners to the total number of population at the end of the year,%,female,,aged 51-55 years,3.21
+2021,The share of pensioners to the total number of population at the end of the year,%,,,aged 56-62 years,12.82
+2021,The share of pensioners to the total number of population at the end of the year,%,male,,aged 56-62 years,12.24
+2021,The share of pensioners to the total number of population at the end of the year,%,female,,aged 56-62 years,13.27
+2021,The share of pensioners to the total number of population at the end of the year,%,,,aged 63 and over,90.14
+2021,The share of pensioners to the total number of population at the end of the year,%,male,,aged 63 and over,88.22
+2021,The share of pensioners to the total number of population at the end of the year,%,female,,aged 63 and over,91.41
+2022,The share of pensioners to the total number of population at the end of the year,%,,,,15.67
+2022,The share of pensioners to the total number of population at the end of the year,%,male,,,13.03
+2022,The share of pensioners to the total number of population at the end of the year,%,female,,,18.02
+2022,The share of pensioners to the total number of population at the end of the year,%,,age-related,,11.62
+2022,The share of pensioners to the total number of population at the end of the year,%,male,age-related,,9.42
+2022,The share of pensioners to the total number of population at the end of the year,%,female,age-related,,13.59
+2022,The share of pensioners to the total number of population at the end of the year,%,,on privileged terms,,0.03
+2022,The share of pensioners to the total number of population at the end of the year,%,male,on privileged terms,,0.05
+2022,The share of pensioners to the total number of population at the end of the year,%,female,on privileged terms,,0.02
+2022,The share of pensioners to the total number of population at the end of the year,%,,long-term service,,0.01
+2022,The share of pensioners to the total number of population at the end of the year,%,male,long-term service,,0.02
+2022,The share of pensioners to the total number of population at the end of the year,%,female,long-term service,,0.01
+2022,The share of pensioners to the total number of population at the end of the year,%,,partially,,0.3
+2022,The share of pensioners to the total number of population at the end of the year,%,male,partially,,0.05
+2022,The share of pensioners to the total number of population at the end of the year,%,female,partially,,0.52
+2022,The share of pensioners to the total number of population at the end of the year,%,,disability,,3.47
+2022,The share of pensioners to the total number of population at the end of the year,%,male,disability,,3.35
+2022,The share of pensioners to the total number of population at the end of the year,%,female,disability,,3.59
+2022,The share of pensioners to the total number of population at the end of the year,%,,in case of losing a breadwinner,,0.23
+2022,The share of pensioners to the total number of population at the end of the year,%,male,in case of losing a breadwinner,,0.14
+2022,The share of pensioners to the total number of population at the end of the year,%,female,in case of losing a breadwinner,,0.3
+2022,The share of pensioners to the total number of population at the end of the year,%,,defined by other laws,,0.03
+2022,The share of pensioners to the total number of population at the end of the year,%,male,defined by other laws,,0.05
+2022,The share of pensioners to the total number of population at the end of the year,%,female,defined by other laws,,0.004
+2022,The share of pensioners to the total number of population at the end of the year,%,,related to military service,,0.05
+2022,The share of pensioners to the total number of population at the end of the year,%,male,related to military service,,0.11
+2022,The share of pensioners to the total number of population at the end of the year,%,female,related to military service,,0.0004
+2022,The share of pensioners to the total number of population at the end of the year,%,,,up to 51 years old,0.5
+2022,The share of pensioners to the total number of population at the end of the year,%,male,,up to 51 years old,0.53
+2022,The share of pensioners to the total number of population at the end of the year,%,female,,up to 51 years old,0.47
+2022,The share of pensioners to the total number of population at the end of the year,%,,,aged 51-55 years,3.03
+2022,The share of pensioners to the total number of population at the end of the year,%,male,,aged 51-55 years,3.32
+2022,The share of pensioners to the total number of population at the end of the year,%,female,,aged 51-55 years,2.81
+2022,The share of pensioners to the total number of population at the end of the year,%,,,aged 56-62 years,11.24
+2022,The share of pensioners to the total number of population at the end of the year,%,male,,aged 56-62 years,10.71
+2022,The share of pensioners to the total number of population at the end of the year,%,female,,aged 56-62 years,11.63
+2022,The share of pensioners to the total number of population at the end of the year,%,,,aged 63 and over,88.48
+2022,The share of pensioners to the total number of population at the end of the year,%,male,,aged 63 and over,87.05
+2022,The share of pensioners to the total number of population at the end of the year,%,female,,aged 63 and over,89.42
+2023,The share of pensioners to the total number of population at the end of the year,%,,,,15.83
+2023,The share of pensioners to the total number of population at the end of the year,%,male,,,13.22
+2023,The share of pensioners to the total number of population at the end of the year,%,female,,,18.18
+2023,The share of pensioners to the total number of population at the end of the year,%,,age-related,,11.94
+2023,The share of pensioners to the total number of population at the end of the year,%,male,age-related,,9.74
+2023,The share of pensioners to the total number of population at the end of the year,%,female,age-related,,13.91
+2023,The share of pensioners to the total number of population at the end of the year,%,,on privileged terms,,0.03
+2023,The share of pensioners to the total number of population at the end of the year,%,male,on privileged terms,,0.05
+2023,The share of pensioners to the total number of population at the end of the year,%,female,on privileged terms,,0.02
+2023,The share of pensioners to the total number of population at the end of the year,%,,long-term service,,0.01
+2023,The share of pensioners to the total number of population at the end of the year,%,male,long-term service,,0.02
+2023,The share of pensioners to the total number of population at the end of the year,%,female,long-term service,,0.01
+2023,The share of pensioners to the total number of population at the end of the year,%,,partially,,0.27
+2023,The share of pensioners to the total number of population at the end of the year,%,male,partially,,0.04
+2023,The share of pensioners to the total number of population at the end of the year,%,female,partially,,0.47
+2023,The share of pensioners to the total number of population at the end of the year,%,,disability,,3.38
+2023,The share of pensioners to the total number of population at the end of the year,%,male,disability,,3.25
+2023,The share of pensioners to the total number of population at the end of the year,%,female,disability,,3.49
+2023,The share of pensioners to the total number of population at the end of the year,%,,in case of losing a breadwinner,,0.21
+2023,The share of pensioners to the total number of population at the end of the year,%,male,in case of losing a breadwinner,,0.14
+2023,The share of pensioners to the total number of population at the end of the year,%,female,in case of losing a breadwinner,,0.28
+2023,The share of pensioners to the total number of population at the end of the year,%,,defined by other laws,,0.03
+2023,The share of pensioners to the total number of population at the end of the year,%,male,defined by other laws,,0.02
+2023,The share of pensioners to the total number of population at the end of the year,%,female,defined by other laws,,0.0
+2023,The share of pensioners to the total number of population at the end of the year,%,,related to military service,,0.05
+2023,The share of pensioners to the total number of population at the end of the year,%,male,related to military service,,0.11
+2023,The share of pensioners to the total number of population at the end of the year,%,female,related to military service,,0.0004
+2023,The share of pensioners to the total number of population at the end of the year,%,,,up to 51 years old,0.49
+2023,The share of pensioners to the total number of population at the end of the year,%,male,,up to 51 years old,0.53
+2023,The share of pensioners to the total number of population at the end of the year,%,female,,up to 51 years old,0.45
+2023,The share of pensioners to the total number of population at the end of the year,%,,,aged 51-55 years,2.49
+2023,The share of pensioners to the total number of population at the end of the year,%,male,,aged 51-55 years,2.64
+2023,The share of pensioners to the total number of population at the end of the year,%,female,,aged 51-55 years,2.36
+2023,The share of pensioners to the total number of population at the end of the year,%,,,aged 56-62 years,9.38
+2023,The share of pensioners to the total number of population at the end of the year,%,male,,aged 56-62 years,0.86
+2023,The share of pensioners to the total number of population at the end of the year,%,female,,aged 56-62 years,9.97
+2023,The share of pensioners to the total number of population at the end of the year,%,,,aged 63 and over,73.02
+2023,The share of pensioners to the total number of population at the end of the year,%,male,,aged 63 and over,70.97
+2023,The share of pensioners to the total number of population at the end of the year,%,female,,aged 63 and over,74.41
+2024,The share of pensioners to the total number of population at the end of the year,%,,,,16.27
+2024,The share of pensioners to the total number of population at the end of the year,%,male,,,13.69
+2024,The share of pensioners to the total number of population at the end of the year,%,female,,,18.58
+2024,The share of pensioners to the total number of population at the end of the year,%,,age-related,,12.38
+2024,The share of pensioners to the total number of population at the end of the year,%,male,age-related,,10.11
+2024,The share of pensioners to the total number of population at the end of the year,%,female,age-related,,14.41
+2024,The share of pensioners to the total number of population at the end of the year,%,,on privileged terms,,0.03
+2024,The share of pensioners to the total number of population at the end of the year,%,male,on privileged terms,,0.04
+2024,The share of pensioners to the total number of population at the end of the year,%,female,on privileged terms,,0.01
+2024,The share of pensioners to the total number of population at the end of the year,%,,long-term service,,0.01
+2024,The share of pensioners to the total number of population at the end of the year,%,male,long-term service,,0.01
+2024,The share of pensioners to the total number of population at the end of the year,%,female,long-term service,,0.0
+2024,The share of pensioners to the total number of population at the end of the year,%,,partially,,0.24
+2024,The share of pensioners to the total number of population at the end of the year,%,male,partially,,0.04
+2024,The share of pensioners to the total number of population at the end of the year,%,female,partially,,0.42
+2024,The share of pensioners to the total number of population at the end of the year,%,,disability,,3.34
+2024,The share of pensioners to the total number of population at the end of the year,%,male,disability,,3.21
+2024,The share of pensioners to the total number of population at the end of the year,%,female,disability,,3.46
+2024,The share of pensioners to the total number of population at the end of the year,%,,in case of losing a breadwinner,,0.2
+2024,The share of pensioners to the total number of population at the end of the year,%,male,in case of losing a breadwinner,,0.13
+2024,The share of pensioners to the total number of population at the end of the year,%,female,in case of losing a breadwinner,,0.26
+2024,The share of pensioners to the total number of population at the end of the year,%,,defined by other laws,,0.03
+2024,The share of pensioners to the total number of population at the end of the year,%,male,defined by other laws,,0.05
+2024,The share of pensioners to the total number of population at the end of the year,%,female,defined by other laws,,0.0
+2024,The share of pensioners to the total number of population at the end of the year,%,,related to military service,,0.05
+2024,The share of pensioners to the total number of population at the end of the year,%,male,related to military service,,0.1
+2024,The share of pensioners to the total number of population at the end of the year,%,female,related to military service,,0.0
+2024,The share of pensioners to the total number of population at the end of the year,%,,,up to 51 years old,0.47
+2024,The share of pensioners to the total number of population at the end of the year,%,male,,up to 51 years old,0.52
+2024,The share of pensioners to the total number of population at the end of the year,%,female,,up to 51 years old,0.42
+2024,The share of pensioners to the total number of population at the end of the year,%,,,aged 51-55 years,2.24
+2024,The share of pensioners to the total number of population at the end of the year,%,male,,aged 51-55 years,3.18
+2024,The share of pensioners to the total number of population at the end of the year,%,female,,aged 51-55 years,1.75
+2024,The share of pensioners to the total number of population at the end of the year,%,,,aged 56-62 years,8.64
+2024,The share of pensioners to the total number of population at the end of the year,%,male,,aged 56-62 years,6.73
+2024,The share of pensioners to the total number of population at the end of the year,%,female,,aged 56-62 years,10.66
+2024,The share of pensioners to the total number of population at the end of the year,%,,,aged 63 and over,73.3
+2024,The share of pensioners to the total number of population at the end of the year,%,male,,aged 63 and over,71.49
+2024,The share of pensioners to the total number of population at the end of the year,%,female,,aged 63 and over,74.52
+2015,The share of families receiving family benefits to households,%,,,,10.58
+2016,The share of families receiving family benefits to households,%,,,,10.57
+2017,The share of families receiving family benefits to households,%,,,,10.0
+2018,The share of families receiving family benefits to households,%,,,,8.99
+2019,The share of families receiving family benefits to households,%,,,,8.08
+2020,The share of families receiving family benefits to households,%,,,,8.12
+2021,The share of families receiving family benefits to households,%,,,,7.59
+2022,The share of families receiving family benefits to households,%,,,,6.7
+2023,The share of families receiving family benefits to households,%,,,,5.23
+2024,The share of families receiving family benefits to households,%,,,,4.51
+2015,The share of families receiving social benefits to households,%,,,,3.41
+2016,The share of families receiving social benefits to households,%,,,,3.49
+2017,The share of families receiving social benefits to households,%,,,,3.31
+2018,The share of families receiving social benefits to households,%,,,,3.33
+2019,The share of families receiving social benefits to households,%,,,,3.26
+2020,The share of families receiving social benefits to households,%,,,,3.32
+2021,The share of families receiving social benefits to households,%,,,,3.24
+2022,The share of families receiving social benefits to households,%,,,,2.85
+2023,The share of families receiving social benefits to households,%,,,,2.7
+2024,The share of families receiving social benefits to households,%,,,,2.4
+2015,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,,2.11
+2016,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,,2.21
+2017,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,,2.12
+2018,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,,2.2
+2019,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,,2.43
+2020,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,,2.58
+2015,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,,2.31
+2016,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,,2.42
+2017,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,,2.36
+2018,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,,2.44
+2019,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,,2.66
+2020,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,,2.79
+2015,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,,1.93
+2016,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,,2.02
+2017,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,,1.9
+2018,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,,1.98
+2019,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,,2.21
+2020,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,,2.39
+2015,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,old age,,0.12
+2016,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,old age,,0.13
+2017,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,old age,,0.16
+2018,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,old age,,0.19
+2019,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,old age,,0.26
+2020,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,old age,,0.33
+2015,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,old age,,0.04
+2016,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,old age,,0.06
+2017,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,old age,,0.07
+2018,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,old age,,0.09
+2019,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,old age,,0.13
+2020,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,old age,,0.16
+2015,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,old age,,0.18
+2016,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,old age,,0.2
+2017,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,old age,,0.23
+2018,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,old age,,0.28
+2019,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,old age,,0.38
+2020,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,old age,,0.48
+2015,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,disability,,1.6
+2016,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,disability,,1.68
+2017,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,disability,,1.57
+2018,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,disability,,1.61
+2019,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,disability,,1.76
+2020,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,disability,,1.84
+2015,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,disability,,1.94
+2016,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,disability,,2.02
+2017,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,disability,,1.95
+2018,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,disability,,2.0
+2019,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,disability,,2.17
+2020,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,disability,,2.26
+2015,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,disability,,1.29
+2016,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,disability,,1.36
+2017,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,disability,,1.23
+2018,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,disability,,1.26
+2019,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,disability,,1.39
+2020,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,disability,,1.46
+2015,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,in case of losing a breadwinner,,0.39
+2016,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,in case of losing a breadwinner,,0.4
+2017,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,in case of losing a breadwinner,,0.39
+2018,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,in case of losing a breadwinner,,0.4
+2019,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,in case of losing a breadwinner,,0.41
+2020,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,in case of losing a breadwinner,,0.41
+2015,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,in case of losing a breadwinner,,0.32
+2016,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,in case of losing a breadwinner,,0.34
+2017,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,in case of losing a breadwinner,,0.34
+2018,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,in case of losing a breadwinner,,0.35
+2019,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,in case of losing a breadwinner,,0.36
+2020,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,in case of losing a breadwinner,,0.37
+2015,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,in case of losing a breadwinner,,0.46
+2016,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,in case of losing a breadwinner,,0.45
+2017,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,in case of losing a breadwinner,,0.44
+2018,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,in case of losing a breadwinner,,0.44
+2019,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,in case of losing a breadwinner,,0.44
+2020,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,in case of losing a breadwinner,,0.45
+2015,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,up to 51 years old,2.39
+2016,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,up to 51 years old,2.46
+2017,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,up to 51 years old,2.34
+2018,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,up to 51 years old,2.35
+2019,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,up to 51 years old,2.48
+2020,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,up to 51 years old,2.51
+2015,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,up to 51 years old,2.77
+2016,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,up to 51 years old,2.87
+2017,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,up to 51 years old,2.77
+2018,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,up to 51 years old,2.79
+2019,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,up to 51 years old,2.93
+2020,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,up to 51 years old,2.96
+2015,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,up to 51 years old,2.02
+2016,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,up to 51 years old,2.06
+2017,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,up to 51 years old,1.93
+2018,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,up to 51 years old,1.93
+2019,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,up to 51 years old,2.03
+2020,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,up to 51 years old,2.06
+2015,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 51-55 years,1.99
+2016,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 51-55 years,2.36
+2017,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 51-55 years,2.2
+2018,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 51-55 years,2.47
+2019,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 51-55 years,3.03
+2020,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 51-55 years,3.5
+2015,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 51-55 years,1.8
+2016,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 51-55 years,2.27
+2017,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 51-55 years,2.37
+2018,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 51-55 years,2.84
+2019,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 51-55 years,3.62
+2020,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 51-55 years,4.23
+2015,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 51-55 years,2.15
+2016,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 51-55 years,2.44
+2017,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 51-55 years,2.06
+2018,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 51-55 years,2.18
+2019,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 51-55 years,2.57
+2020,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 51-55 years,2.93
+2015,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 56-62 years,1.24
+2016,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 56-62 years,1.37
+2017,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 56-62 years,1.27
+2018,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 56-62 years,1.48
+2019,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 56-62 years,1.9
+2020,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 56-62 years,2.26
+2015,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 56-62 years,0.87
+2016,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 56-62 years,0.98
+2017,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 56-62 years,1.02
+2018,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 56-62 years,1.26
+2019,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 56-62 years,1.73
+2020,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 56-62 years,2.18
+2015,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 56-62 years,1.55
+2016,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 56-62 years,1.69
+2017,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 56-62 years,1.46
+2018,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 56-62 years,1.65
+2019,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 56-62 years,2.03
+2020,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 56-62 years,2.32
+2015,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 63 and over,1.24
+2016,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 63 and over,1.39
+2017,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 63 and over,1.54
+2018,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 63 and over,1.81
+2019,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 63 and over,2.3
+2020,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 63 and over,2.78
+2015,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 63 and over,0.6
+2016,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 63 and over,0.72
+2017,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 63 and over,0.84
+2018,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 63 and over,1.05
+2019,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 63 and over,1.36
+2020,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 63 and over,1.67
+2015,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 63 and over,1.67
+2016,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 63 and over,1.84
+2017,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 63 and over,2.01
+2018,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 63 and over,2.31
+2019,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 63 and over,2.92
+2020,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 63 and over,3.51
+2021,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,,2.84
+2021,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,,3.02
+2021,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,,2.69
+2021,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,old age,,0.44
+2021,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,old age,,0.21
+2021,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,old age,,0.63
+2021,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,disability,,1.95
+2021,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,disability,,2.39
+2021,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,disability,,1.56
+2021,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,in case of losing a breadwinner,,0.46
+2021,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,in case of losing a breadwinner,,0.41
+2021,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,in case of losing a breadwinner,,0.5
+2021,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,up to 51 years old,2.63
+2021,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,up to 51 years old,3.09
+2021,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,up to 51 years old,2.19
+2021,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 51-55 years,3.84
+2021,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 51-55 years,4.13
+2021,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 51-55 years,3.22
+2021,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 56-62 years,2.73
+2021,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 56-62 years,2.81
+2021,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 56-62 years,2.67
+2021,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 63 and over,3.52
+2021,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 63 and over,2.15
+2021,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 63 and over,4.42
+2022,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,,3.03
+2022,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,,3.15
+2022,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,,2.93
+2022,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,old age,,0.59
+2022,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,old age,,0.3
+2022,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,old age,,0.85
+2022,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,disability,,1.98
+2022,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,disability,,2.44
+2022,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,disability,,1.58
+2022,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,in case of losing a breadwinner,,0.46
+2022,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,in case of losing a breadwinner,,0.42
+2022,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,in case of losing a breadwinner,,0.5
+2022,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,up to 51 years old,2.62
+2022,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,up to 51 years old,3.08
+2022,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,up to 51 years old,2.17
+2022,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 51-55 years,3.95
+2022,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 51-55 years,4.92
+2022,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 51-55 years,3.2
+2022,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 56-62 years,3.01
+2022,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 56-62 years,3.26
+2022,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 56-62 years,2.82
+2022,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 63 and over,4.51
+2022,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 63 and over,2.83
+2022,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 63 and over,5.61
+2023,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,,3.34
+2023,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,,3.38
+2023,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,,3.3
+2023,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,old age,,0.85
+2023,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,old age,,0.47
+2023,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,old age,,1.19
+2023,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,disability,,2.03
+2023,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,disability,,2.49
+2023,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,disability,,1.61
+2023,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,in case of losing a breadwinner,,0.46
+2023,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,in case of losing a breadwinner,,0.41
+2023,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,in case of losing a breadwinner,,0.49
+2023,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,up to 51 years old,2.77
+2023,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,up to 51 years old,3.24
+2023,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,up to 51 years old,2.3
+2023,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 51-55 years,3.88
+2023,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 51-55 years,4.73
+2023,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 51-55 years,3.17
+2023,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 56-62 years,3.12
+2023,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 56-62 years,3.43
+2023,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 56-62 years,2.87
+2023,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 63 and over,5.06
+2023,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 63 and over,3.39
+2023,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 63 and over,6.19
+2024,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,,3.65
+2024,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,,3.62
+2024,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,,3.68
+2024,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,old age,,1.11
+2024,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,old age,,0.65
+2024,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,old age,,1.53
+2024,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,disability,,2.08
+2024,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,disability,,2.54
+2024,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,disability,,1.66
+2024,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,in case of losing a breadwinner,,0.46
+2024,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,in case of losing a breadwinner,,0.42
+2024,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,in case of losing a breadwinner,,0.5
+2024,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,up to 51 years old,2.78
+2024,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,up to 51 years old,3.25
+2024,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,up to 51 years old,2.31
+2024,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 51-55 years,4.04
+2024,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 51-55 years,6.53
+2024,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 51-55 years,2.74
+2024,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 56-62 years,3.47
+2024,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 56-62 years,3.4
+2024,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 56-62 years,3.56
+2024,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,,,aged 63 and over,6.37
+2024,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,male,,aged 63 and over,13.45
+2024,"The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",%,female,,aged 63 and over,1.58
+2016,Number of beneficiaries receiving maternity benefits granted to non-employed person at the end of the year,person,,,,28231.0
+2017,Number of beneficiaries receiving maternity benefits granted to non-employed person at the end of the year,person,,,,26386.0
+2018,Number of beneficiaries receiving maternity benefits granted to non-employed person at the end of the year,person,,,,24720.0
+2019,Number of beneficiaries receiving maternity benefits granted to non-employed person at the end of the year,person,,,,23652.0
+2020,Number of beneficiaries receiving maternity benefits granted to non-employed person at the end of the year,person,,,,25085.0
+2021,Number of beneficiaries receiving maternity benefits granted to non-employed person at the end of the year,person,,,,20617.0
+2022,Number of beneficiaries receiving maternity benefits granted to non-employed person at the end of the year,person,,,,20186.0
+2023,Number of beneficiaries receiving maternity benefits granted to non-employed person at the end of the year,person,,,,19004.0
+2024,Number of beneficiaries receiving maternity benefits granted to non-employed person at the end of the year,person,,,,18572.0
+2015,Share of poor population who receive family benefit,%,,,,27.5
+2016,Share of poor population who receive family benefit,%,,,,24.3
+2017,Share of poor population who receive family benefit,%,,,,31.3
+2018,Share of poor population who receive family benefit,%,,,,32.1
+2019*,Share of poor population who receive family benefit,%,,,,25.6
+2020*,Share of poor population who receive family benefit,%,,,,22.0
+2021,Share of poor population who receive family benefit,%,,,,26.3
+2022,Share of poor population who receive family benefit,%,,,,29.5
+2023,Share of poor population who receive family benefit,%,,,,29.1
+2015,"Share of poor population who receive social assistance, including family benefit",%,,,,27.8
+2016,"Share of poor population who receive social assistance, including family benefit",%,,,,30.0
+2017,"Share of poor population who receive social assistance, including family benefit",%,,,,32.8
+2018,"Share of poor population who receive social assistance, including family benefit",%,,,,33.3
+2019*,"Share of poor population who receive social assistance, including family benefit",%,,,,23.2
+2020*,"Share of poor population who receive social assistance, including family benefit",%,,,,28.7
+2021,"Share of poor population who receive social assistance, including family benefit",%,,,,34.6
+2022,"Share of poor population who receive social assistance, including family benefit",%,,,,42.7
+2023,"Share of poor population who receive social assistance, including family benefit",%,,,,45.5

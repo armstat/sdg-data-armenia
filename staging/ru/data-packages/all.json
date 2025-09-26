@@ -1128,24 +1128,88 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Год"
           },
           {
-            "name": "Group",
+            "name": "Indicators",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "The share of pensioners to the total number of population at the end of the year",
+                "The share of families receiving family benefits to households",
+                "The share of families receiving social benefits to households",
+                "The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",
+                "Number of beneficiaries receiving maternity benefits granted to non-employed person at the end of the year",
+                "Share of poor population who receive family benefit",
+                "Share of poor population who receive social assistance, including family benefit",
                 ""
               ]
             },
-            "title": "Группа"
+            "title": "Indicators"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                "человек",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "мужчина",
+                "женщина",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "возрастные",
+                "на льготных условиях",
+                "за выслугу лет",
+                "частичные",
+                "по инвалидности",
+                "в случае потери кормильца",
+                "установленные по другим законам",
+                "связанные с военной службой",
+                "по старости",
+                ""
+              ]
+            },
+            "title": "Категория"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "до 51 лет",
+                "51-55 лет",
+                "56-62 лет",
+                "63 и более лет",
+                "aged 51-55 years",
+                "aged 56-62 years",
+                ""
+              ]
+            },
+            "title": "Возраст"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

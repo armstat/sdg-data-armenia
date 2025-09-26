@@ -12,24 +12,88 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
-            "name": "Group",
+            "name": "Indicators",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "The share of pensioners to the total number of population at the end of the year",
+                "The share of families receiving family benefits to households",
+                "The share of families receiving social benefits to households",
+                "The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",
+                "Number of beneficiaries receiving maternity benefits granted to non-employed person at the end of the year",
+                "Share of poor population who receive family benefit",
+                "Share of poor population who receive social assistance, including family benefit",
                 ""
               ]
             },
-            "title": "Խումբ"
+            "title": "Indicators"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                "մարդ",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "տղամարդ",
+                "կին",
+                ""
+              ]
+            },
+            "title": "Սեռ"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "տարիքային",
+                "արտոնյալ պայմաններով",
+                "երկարամյա ծառայության",
+                "մասնակի",
+                "հաշմանդամության",
+                "կերակրողին կորցնելու դեպքում",
+                "այլ օրենքներով սահմանված",
+                "զինծառայության հետ կապված",
+                "ծերության",
+                ""
+              ]
+            },
+            "title": "Կատեգորիա"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "մինչև 51 տարեկան",
+                "51-55 տարեկան",
+                "56-62 տարեկան",
+                "63 և բարձր տարիքի",
+                "aged 51-55 years",
+                "aged 56-62 years",
+                ""
+              ]
+            },
+            "title": "Տարիք"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

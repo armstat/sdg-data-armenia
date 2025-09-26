@@ -12,24 +12,88 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Indicators",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "The share of pensioners to the total number of population at the end of the year",
+                "The share of families receiving family benefits to households",
+                "The share of families receiving social benefits to households",
+                "The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",
+                "Number of beneficiaries receiving maternity benefits granted to non-employed person at the end of the year",
+                "Share of poor population who receive family benefit",
+                "Share of poor population who receive social assistance, including family benefit",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Indicators"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                "person",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "male",
+                "female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "age-related",
+                "on privileged terms",
+                "long-term service",
+                "partially",
+                "disability",
+                "in case of losing a breadwinner",
+                "defined by other laws",
+                "related to military service",
+                "old age",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "up to 51 years old",
+                "aged 51-55 years",
+                "aged 56-62 years",
+                "aged 63 and over",
+                "aged 51-55 years",
+                "aged 56-62 years",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
