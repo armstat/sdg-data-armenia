@@ -2488,7 +2488,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-5-3-title"
+      "title": "11-5-3"
     },
     {
       "path": "11-6-1-a/data.csv",
@@ -6755,37 +6755,6 @@
         ]
       },
       "title": "2-2-3"
-    },
-    {
-      "path": "2-2-4/data.csv",
-      "name": "2-2-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "string"
-          }
-        ]
-      },
-      "title": "2-2-4"
     },
     {
       "path": "2-3-1/data.csv",
