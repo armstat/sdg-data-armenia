@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
@@ -20,7 +20,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
                 ""
               ]
             },
@@ -31,8 +30,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of households with ownership over agricultural land",
-                "Proportion of population age 15-49 with ownership (alone, jointly with someone else or both alone and jointly with someone else) over agricultural or non-agricultural land, who have a title deed and their name is listed on the title deed",
                 ""
               ]
             },
@@ -43,8 +40,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
                 ""
               ]
             },
@@ -55,8 +50,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "կին",
-                "տղամարդ",
                 ""
               ]
             },
@@ -67,11 +60,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "75.2",
-                "միայնակ",
-                "մեկ ուրիշի հետ համատեղ",
-                "միայնակ և մեկ ուրիշի հետ համատեղ",
-                "85.7",
                 ""
               ]
             },
@@ -79,7 +67,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
