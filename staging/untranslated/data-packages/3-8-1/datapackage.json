@@ -15,19 +15,31 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Indicators",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Providing antenatal care and care by qualified specialis",
+                "At least one ultrasound examination during pregnancy",
+                "During the first two days after birth, the mother's postnatal check",
+                "During the first two days after birth, the newborn testing",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
