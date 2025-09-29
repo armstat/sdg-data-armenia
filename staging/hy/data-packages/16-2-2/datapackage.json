@@ -43,8 +43,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "work  exploitation",
-                "sexual  exploitation",
+                "Աշխատանքային շահագործում",
+                "Սեռական շահագործում",
                 ""
               ]
             },

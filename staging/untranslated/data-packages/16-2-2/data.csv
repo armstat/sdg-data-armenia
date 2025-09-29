@@ -14,9 +14,30 @@ Year,Units,Sex,Category,Age,Value
 2023,%,,,aged 65 and older,0.399
 2023,%,male,,aged 65 and older,0.0
 2023,%,female,,aged 65 and older,0.663
-2023,%,,work  exploitation,,0.001
-2023,%,male,work  exploitation,,0.001
-2023,%,female,work  exploitation,,0.0
-2023,%,,sexual  exploitation,,0.0002
-2023,%,male,sexual  exploitation,,0.0001
-2023,%,female,sexual  exploitation,,0.0004
+2023,%,,work exploitation,,0.001
+2023,%,male,work exploitation,,0.001
+2023,%,female,work exploitation,,0.0
+2023,%,,sexual exploitation,,0.0002
+2023,%,male,sexual exploitation,,0.0001
+2023,%,female,sexual exploitation,,0.0004
+2024,%,,,,0.81
+2024,%,male,,,0.96
+2024,%,female,,,0.68
+2024,%,,,aged 0-17 years,0.0003
+2024,%,male,,aged 0-17 years,0.0003
+2024,%,female,,aged 0-17 years,0.0003
+2024,%,,,aged 18-44 years,0.0003
+2024,%,male,,aged 18-44 years,0.0003
+2024,%,female,,aged 18-44 years,0.0003
+2024,%,,,aged 45-64 years,0.0002
+2024,%,male,,aged 45-64 years,0.0002
+2024,%,female,,aged 45-64 years,0.0002
+2024,%,,,aged 65 and older,0.372
+2024,%,male,,aged 65 and older,0.372
+2024,%,female,,aged 65 and older,0.372
+2024,%,,work exploitation,,0.0005
+2024,%,male,work exploitation,,0.0005
+2024,%,female,work exploitation,,0.0005
+2024,%,,sexual exploitation,,0.0004
+2024,%,male,sexual exploitation,,0.0004
+2024,%,female,sexual exploitation,,0.0004
