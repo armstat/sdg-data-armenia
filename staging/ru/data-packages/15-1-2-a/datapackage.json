@@ -16,7 +16,7 @@
             "title": "Год"
           },
           {
-            "name": "Category",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,10 +25,10 @@
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Units"
           },
           {
-            "name": "Type",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -43,7 +43,7 @@
                 ""
               ]
             },
-            "title": "Тип"
+            "title": "Категория"
           },
           {
             "name": "Value",

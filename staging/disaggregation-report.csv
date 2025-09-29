@@ -3,7 +3,7 @@ Access to services,1,7
 Age,22,60
 Agency,2,7
 Branches/ATMs,1,2
-Category,36,80
+Category,36,86
 Completion rate adjusted GPI by education level,1,1
 Country,1,13
 Disaster type,6,6
@@ -26,4 +26,4 @@ Sex,42,10
 Subject,2,2
 Tenure_TYPE,1,16
 Transportation type,1,6
-Type,5,16
+Type,4,8

@@ -4196,7 +4196,7 @@
             "title": "Տարի"
           },
           {
-            "name": "Category",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4205,10 +4205,10 @@
                 ""
               ]
             },
-            "title": "Կատեգորիա"
+            "title": "Units"
           },
           {
-            "name": "Type",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4223,7 +4223,7 @@
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Կատեգորիա"
           },
           {
             "name": "Value",
