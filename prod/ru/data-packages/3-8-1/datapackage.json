@@ -16,7 +16,7 @@
             "title": "Год"
           },
           {
-            "name": "Indicators",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
@@ -27,7 +27,7 @@
                 ""
               ]
             },
-            "title": "Indicators"
+            "title": "Индикатор"
           },
           {
             "name": "Units",

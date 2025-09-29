@@ -16,7 +16,7 @@
             "title": "Տարի"
           },
           {
-            "name": "Indicators",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
@@ -30,7 +30,7 @@
                 ""
               ]
             },
-            "title": "Indicators"
+            "title": "Ցուցանիշ"
           },
           {
             "name": "Units",

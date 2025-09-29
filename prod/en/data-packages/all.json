@@ -332,7 +332,7 @@
           }
         ]
       },
-      "title": "The share of registered disabled people to the total number of population at the end of the year"
+      "title": "Proportion of registered disabled people to the total number of population at the end of the year"
     },
     {
       "path": "1-3-1-b/data.csv",
@@ -488,7 +488,7 @@
           }
         ]
       },
-      "title": "The share of pensioners to the total number of population at the end of the year"
+      "title": "Proportion of pensioners to the total number of population at the end of the year"
     },
     {
       "path": "1-3-1-d/data.csv",
@@ -570,7 +570,7 @@
           }
         ]
       },
-      "title": "The share of families receiving family benefits to households"
+      "title": "Proportion of families receiving family benefits to households"
     },
     {
       "path": "1-3-1-f/data.csv",
@@ -605,7 +605,7 @@
           }
         ]
       },
-      "title": "The share of families receiving social benefits to households"
+      "title": "Proportion of families receiving social benefits to households"
     },
     {
       "path": "1-3-1-g/data.csv",
@@ -679,7 +679,7 @@
           }
         ]
       },
-      "title": "The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year"
+      "title": "Proportion of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year"
     },
     {
       "path": "1-3-1-h/data.csv",
@@ -1079,7 +1079,7 @@
           }
         ]
       },
-      "title": "Share of poor population who receive family benefit"
+      "title": "Proportion of poor population who receive family benefit"
     },
     {
       "path": "1-3-1-kb/data.csv",
@@ -1114,7 +1114,7 @@
           }
         ]
       },
-      "title": "Share of poor population who receive social assistance, including family benefit"
+      "title": "Proportion of poor population who receive social assistance, including family benefit"
     },
     {
       "path": "1-3-1/data.csv",
@@ -1132,7 +1132,7 @@
             "title": "Year"
           },
           {
-            "name": "Indicators",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1146,7 +1146,7 @@
                 ""
               ]
             },
-            "title": "Indicators"
+            "title": "Indicator"
           },
           {
             "name": "Units",
@@ -6948,7 +6948,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -6956,8 +6956,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
@@ -6965,7 +6963,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -7649,7 +7647,7 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7657,7 +7655,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Indicator"
           },
           {
             "name": "Unnamed: 3",
@@ -9089,146 +9087,6 @@
       "title": "Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group"
     },
     {
-      "path": "3-8-1-a/data.csv",
-      "name": "3-8-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Providing antenatal care and care by qualified specialis"
-    },
-    {
-      "path": "3-8-1-b/data.csv",
-      "name": "3-8-1-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "At least one ultrasound examination during pregnancy"
-    },
-    {
-      "path": "3-8-1-c/data.csv",
-      "name": "3-8-1-c",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "During the first two days after birth, the mother's postnatal check"
-    },
-    {
-      "path": "3-8-1-d/data.csv",
-      "name": "3-8-1-d",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "During the first two days after birth, the newborn testing"
-    },
-    {
       "path": "3-8-1/data.csv",
       "name": "3-8-1",
       "profile": "tabular-data-resource",
@@ -9244,7 +9102,7 @@
             "title": "Year"
           },
           {
-            "name": "Indicators",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
@@ -9255,7 +9113,7 @@
                 ""
               ]
             },
-            "title": "Indicators"
+            "title": "Indicator"
           },
           {
             "name": "Units",
@@ -10154,6 +10012,18 @@
             "title": "Year"
           },
           {
+            "name": "Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The share of children at the end of primary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics",
+                "The share of children at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics",
+                ""
+              ]
+            },
+            "title": "Indicator"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -10165,30 +10035,20 @@
             "title": "Units"
           },
           {
-            "name": "Education level",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Education level"
-          },
-          {
-            "name": "Subject",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mathematics",
-                ""
-              ]
-            },
-            "title": "Subject"
+            "title": "Sex"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -14072,7 +13932,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -14080,6 +13940,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
@@ -14087,7 +13948,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
