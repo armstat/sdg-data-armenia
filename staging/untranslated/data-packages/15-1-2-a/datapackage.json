@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
