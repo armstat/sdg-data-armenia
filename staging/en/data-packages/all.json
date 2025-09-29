@@ -4262,7 +4262,7 @@
             "title": "Units"
           },
           {
-            "name": "Type",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4277,11 +4277,11 @@
                 ""
               ]
             },
-            "title": "Type"
+            "title": "Category"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
