@@ -7016,7 +7016,7 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [

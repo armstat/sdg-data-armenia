@@ -16,7 +16,7 @@
             "title": "Տարի"
           },
           {
-            "name": "Group",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
@@ -24,7 +24,7 @@
                 ""
               ]
             },
-            "title": "Խումբ"
+            "title": "Indicator"
           },
           {
             "name": "Unnamed: 3",

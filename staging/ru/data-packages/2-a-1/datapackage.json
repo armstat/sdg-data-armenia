@@ -16,7 +16,7 @@
             "title": "Год"
           },
           {
-            "name": "Group",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
@@ -24,7 +24,7 @@
                 ""
               ]
             },
-            "title": "Группа"
+            "title": "Indicator"
           },
           {
             "name": "Unnamed: 3",
