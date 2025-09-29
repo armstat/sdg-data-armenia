@@ -43,8 +43,8 @@ local governments,1,1
 long-term service,3,1
 Lung cancer in adults (estimated above 25 years),3,1
 modern contraceptive methods,1,1
-"Monuments of Nature(Category III), quantity",1,1
-"National parks (Category II ), quantity",1,1
+"Monuments of Nature(Category III), quantity",2,2
+"National parks (Category II ), quantity",2,2
 national parliaments,1,1
 number of teachers per computer,1,1
 old age,3,1
@@ -68,15 +68,15 @@ sewerage,1,1
 sexual exploitation,3,1
 sexual violence,6,1
 Share of food loss in total supply,1,1
-Share of National parks (Category II ) in the total area of the country,1,1
-Share of State preserves (Category IV) in the total area of the country,1,1
-Share of State reserves(Category Ib) in the total area of the country,1,1
-Share of total areas under protection in the total area of the country,1,1
+Share of National parks (Category II ) in the total area of the country,2,2
+Share of State preserves (Category IV) in the total area of the country,2,2
+Share of State reserves(Category Ib) in the total area of the country,2,2
+Share of total areas under protection in the total area of the country,2,2
 single mother child,10,1
 social protection,1,1
 sown areas,1,1
-"State preserves (Category IV), quantity",1,1
-"State reserves(Category Ib), quantity",1,1
+"State preserves (Category IV), quantity",2,2
+"State reserves(Category Ib), quantity",2,2
 total to children aged 0-17 years with disabilities,3,1
 total to the population of respective age,5,1
 total to the total number of children with disabilities (aged 0-17 years),5,1
