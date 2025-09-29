@@ -9087,41 +9087,6 @@
       "title": "Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group"
     },
     {
-      "path": "3-8-1-d/data.csv",
-      "name": "3-8-1-d",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "3-8-1-d"
-    },
-    {
       "path": "3-8-1/data.csv",
       "name": "3-8-1",
       "profile": "tabular-data-resource",
@@ -10047,6 +10012,18 @@
             "title": "Year"
           },
           {
+            "name": "Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The share of children at the end of primary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics",
+                "The share of children at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics",
+                ""
+              ]
+            },
+            "title": "Indicator"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -10058,30 +10035,20 @@
             "title": "Units"
           },
           {
-            "name": "Education level",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Education level"
-          },
-          {
-            "name": "Subject",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mathematics",
-                ""
-              ]
-            },
-            "title": "Subject"
+            "title": "Sex"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
