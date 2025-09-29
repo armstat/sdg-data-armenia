@@ -410,87 +410,6 @@
       "title": "Հիվանդություններից հաշմանդամ դարձած երեխաներ (0-17 տարեկան)"
     },
     {
-      "path": "1-3-1-c/data.csv",
-      "name": "1-3-1-c",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "տղամարդ",
-                "կին",
-                ""
-              ]
-            },
-            "title": "Սեռ"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "տարիքային",
-                "արտոնյալ պայմաններով",
-                "երկարամյա ծառայության",
-                "մասնակի",
-                "հաշմանդամության",
-                "կերակրողին կորցնելու դեպքում",
-                "այլ օրենքներով սահմանված",
-                "զինծառայության հետ կապված",
-                ""
-              ]
-            },
-            "title": "Կատեգորիա"
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "մինչև 51 տարեկան",
-                "51-55 տարեկան",
-                "56-62 տարեկան",
-                "63 և բարձր տարիքի",
-                "aged 51-55 years",
-                "aged 56-62 years",
-                ""
-              ]
-            },
-            "title": "Տարիք"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Կենսաթոշակառուների մասնաբաժինը տարեվերջին բնակչության ընդհանուր թվաքանակից"
-    },
-    {
       "path": "1-3-1-d/data.csv",
       "name": "1-3-1-d",
       "profile": "tabular-data-resource",
@@ -536,150 +455,6 @@
         ]
       },
       "title": "Տարեց կենսաթոշակառուների հարաբերակցություն: Տարիքային կենսաթոշակառուների և օրենքով նախատեսված կենսաթոշակի տարիքի և բարձր տարիքի բնակչության հարաբերակցությունը"
-    },
-    {
-      "path": "1-3-1-e/data.csv",
-      "name": "1-3-1-e",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Ընտանեկան նպաստ ստացող ընտանիքների մասնաբաժինը տնային տնտեսություններից"
-    },
-    {
-      "path": "1-3-1-f/data.csv",
-      "name": "1-3-1-f",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Սոցիալական նպաստ ստացող ընտանիքների մասնաբաժինը տնային տնտեսություններից"
-    },
-    {
-      "path": "1-3-1-g/data.csv",
-      "name": "1-3-1-g",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "տղամարդ",
-                "կին",
-                ""
-              ]
-            },
-            "title": "Սեռ"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ծերության",
-                "հաշմանդամության",
-                "կերակրողին կորցնելու դեպքում",
-                ""
-              ]
-            },
-            "title": "Կատեգորիա"
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "մինչև 51 տարեկան",
-                "51-55 տարեկան",
-                "56-62 տարեկան",
-                "63 և բարձր տարիքի",
-                ""
-              ]
-            },
-            "title": "Տարիք"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Ծերության, հաշմանդամության և կերակրողին կորցնելու դեպքում նպաստառուների մասնաբաժինը տարեվերջին բնակչության ընդհանուր թվաքանակից"
     },
     {
       "path": "1-3-1-h/data.csv",
@@ -1010,111 +785,6 @@
         ]
       },
       "title": "Որդեգրված երեխաներն ըստ սոցիալական խմբերի (0-17 տարեկան)"
-    },
-    {
-      "path": "1-3-1-jc/data.csv",
-      "name": "1-3-1-jc",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "մարդ",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Չաշխատող անձին տրվող մայրության նպաստ ստացող նպաստառուների թվաքանակը տարեվերջին"
-    },
-    {
-      "path": "1-3-1-ka/data.csv",
-      "name": "1-3-1-ka",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Աղքատների մասնաբաժինը, որոնք ստանում են ընտանեկան նպաստ"
-    },
-    {
-      "path": "1-3-1-kb/data.csv",
-      "name": "1-3-1-kb",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Աղքատների մասնաբաժինը, որոնք ստանում են սոցիալական աջակցություն (ներառյալ ընտանեկան նպաստը)"
     },
     {
       "path": "1-3-1/data.csv",
@@ -2199,18 +1869,18 @@
             "constraints": {
               "enum": [
                 "Total",
-                "Ukraine",
-                "Iraq",
-                "Iran",
-                "Syrian Arab Republic",
-                "Yemen",
-                "Haiti",
-                "Egypt",
-                "Turkiye",
-                "Nigeria",
-                "Lebanon",
-                "Russia",
-                "Other countries",
+                "Ուկրաինա",
+                "Իրաք",
+                "Իրան",
+                "Սիրիայի Արաբական Հանրապետություն",
+                "Եմեն",
+                "Հայիթի",
+                "Եգիպտոս",
+                "Թուրքիա",
+                "Նիգերիա",
+                "Լիբանան",
+                "Ռուսաստան",
+                "Այլ երկրներ",
                 ""
               ]
             },
@@ -4511,60 +4181,6 @@
       "title": "Անտառածածկ տարածքները որպես համամասնություն ընդհանուր հողային տարածքի նկատմամբ"
     },
     {
-      "path": "15-1-2-a/data.csv",
-      "name": "15-1-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                "միավոր",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Հատուկ պահպանվող տարածքների ընդհանուր մակերեսը %-ով երկրի տարածքի նկատմամբ",
-                "Պետական արգելոցների (կատեգորիա Ib) ընդհանուր քանակը",
-                "Պետական արգելոցների (կատեգորիա Ib) ընդհանուր մակերեսը %-ով երկրի տարածքի նկատմամբ",
-                "Ազգային պարկերի (կատեգորիա II) ընդհանուր քանակը",
-                "Ազգային պարկերի (կատեգորիա II) ընդհանուր մակերեսը %-ով երկրի տարածքի նկատմամբ",
-                "Պետական արգելավայրերի (կատեգորիա IV) ընդհանուր քանակը",
-                "Պետական արգելավայրերի (կատեգորիա IV) ընդհանուր մակերեսը %-ով երկրի տարածքի նկատմամբ",
-                "Բնության հուշարձանների (կատեգորիա III) ընդհանուր քանակը",
-                ""
-              ]
-            },
-            "title": "Տեսակ"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Երկրում պահպանվող տարածքների քանակը և համամասնությունը ըստ կատեգորիաների"
-    },
-    {
       "path": "15-1-2/data.csv",
       "name": "15-1-2",
       "profile": "tabular-data-resource",
@@ -4592,7 +4208,7 @@
             "title": "Units"
           },
           {
-            "name": "Type",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4607,11 +4223,11 @@
                 ""
               ]
             },
-            "title": "Տեսակ"
+            "title": "Կատեգորիա"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -5054,6 +4670,41 @@
       "title": "Որսագողությամբ կամ ապօրինի ձևով վաճառված վայրի բնության նմուշների համամասնությունը"
     },
     {
+      "path": "16-1-1-a/data.csv",
+      "name": "16-1-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Տարի"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "100,000 բնակչի հաշվով",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Սպանությունների թիվը 100 000 բնակչի հաշվով"
+    },
+    {
       "path": "16-1-1/data.csv",
       "name": "16-1-1",
       "profile": "tabular-data-resource",
@@ -5088,41 +4739,6 @@
         ]
       },
       "title": "Դիտավորյալ սպանությունների զոհերի թիվը 100 հազար բնակչի հաշվով՝ ըստ սեռի և տարիքի"
-    },
-    {
-      "path": "16-1-1-a/data.csv",
-      "name": "16-1-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "100,000 բնակչի հաշվով",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Սպանությունների թիվը 100 000 բնակչի հաշվով"
     },
     {
       "path": "16-1-2/data.csv",
@@ -5456,8 +5072,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "work  exploitation",
-                "sexual  exploitation",
+                "Աշխատանքային շահագործում",
+                "Սեռական շահագործում",
                 ""
               ]
             },
@@ -9811,100 +9427,6 @@
       "title": "Արյան հոսքի վարակների տոկոսը` կապված ընտրված հակամանրէային դիմացկուն օրգանիզմների հետ"
     },
     {
-      "path": "4-1-1-b/data.csv",
-      "name": "4-1-1-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "տղամարդ",
-                "կին",
-                ""
-              ]
-            },
-            "title": "Սեռ"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Երեխաների մասնաբաժինը տարրական դպրոցն ավարտելիս, ովքեր ձեռք են բերել առնվազն գիտելիքների նվազագույն մակարդակ (i)ընթերցանությունից և (ii) մաթեմատիկայից"
-    },
-    {
-      "path": "4-1-1-c/data.csv",
-      "name": "4-1-1-c",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "տղամարդ",
-                "կին",
-                ""
-              ]
-            },
-            "title": "Սեռ"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Երեխաների մասնաբաժինը հիմնական դպրոցն ավարտելիս, ովքեր ձեռք են բերել առնվազն գիտելիքների նվազագույն մակարդակ (i) ընթերցանությունից և (ii) մաթեմատիկայից"
-    },
-    {
       "path": "4-1-1-d/data.csv",
       "name": "4-1-1-d",
       "profile": "tabular-data-resource",
@@ -10016,8 +9538,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "The share of children at the end of primary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics",
-                "The share of children at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics",
+                "Proportion of children at the end of primary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics",
+                "Proportion of children at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics",
                 ""
               ]
             },
@@ -10516,7 +10038,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -10524,14 +10046,42 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "category",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Urban",
+                "Rural",
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "category"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "15+",
+                ""
+              ]
+            },
+            "title": "age"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]

@@ -410,87 +410,6 @@
       "title": "Children with disabilities from diseases (aged 0-17 years)"
     },
     {
-      "path": "1-3-1-c/data.csv",
-      "name": "1-3-1-c",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "male",
-                "female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "age-related",
-                "on privileged terms",
-                "long-term service",
-                "partially",
-                "disability",
-                "in case of losing a breadwinner",
-                "defined by other laws",
-                "related to military service",
-                ""
-              ]
-            },
-            "title": "Category"
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "up to 51 years old",
-                "aged 51-55 years",
-                "aged 56-62 years",
-                "aged 63 and over",
-                "aged 51-55 years",
-                "aged 56-62 years",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of pensioners to the total number of population at the end of the year"
-    },
-    {
       "path": "1-3-1-d/data.csv",
       "name": "1-3-1-d",
       "profile": "tabular-data-resource",
@@ -536,150 +455,6 @@
         ]
       },
       "title": "Ratio of elderly pensioners. Ratio of age pensioners and the retirement age stipulated by law and aged population"
-    },
-    {
-      "path": "1-3-1-e/data.csv",
-      "name": "1-3-1-e",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of families receiving family benefits to households"
-    },
-    {
-      "path": "1-3-1-f/data.csv",
-      "name": "1-3-1-f",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of families receiving social benefits to households"
-    },
-    {
-      "path": "1-3-1-g/data.csv",
-      "name": "1-3-1-g",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "male",
-                "female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "old age",
-                "disability",
-                "in case of losing a breadwinner",
-                ""
-              ]
-            },
-            "title": "Category"
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "up to 51 years old",
-                "aged 51-55 years",
-                "aged 56-62 years",
-                "aged 63 and over",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year"
     },
     {
       "path": "1-3-1-h/data.csv",
@@ -1010,111 +785,6 @@
         ]
       },
       "title": "Adopted children by social groups (aged 0-17 years)"
-    },
-    {
-      "path": "1-3-1-jc/data.csv",
-      "name": "1-3-1-jc",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "person",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of beneficiaries receiving maternity benefits granted to non-employed person at the end of the year"
-    },
-    {
-      "path": "1-3-1-ka/data.csv",
-      "name": "1-3-1-ka",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of poor population who receive family benefit"
-    },
-    {
-      "path": "1-3-1-kb/data.csv",
-      "name": "1-3-1-kb",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of poor population who receive social assistance, including family benefit"
     },
     {
       "path": "1-3-1/data.csv",
@@ -4511,60 +4181,6 @@
       "title": "Forest area as a proportion of total land area"
     },
     {
-      "path": "15-1-2-a/data.csv",
-      "name": "15-1-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                "unit",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total area of specially protected areas as a percentage of country area",
-                "Total number of state reserves (category Ib)",
-                "Total area of state reserves (category Ib) in % of the country's territory",
-                "Total number of national parks (category II)",
-                "Total area of national parks (category II) in % of the country's territory",
-                "Total number of state preserves (category IV)",
-                "Total area of state preserves (category IV) in % of the country's territory",
-                "Total number of natural monuments (category III)",
-                ""
-              ]
-            },
-            "title": "Type"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number and proportion of protected areas in the country by categories"
-    },
-    {
       "path": "15-1-2/data.csv",
       "name": "15-1-2",
       "profile": "tabular-data-resource",
@@ -4592,7 +4208,7 @@
             "title": "Units"
           },
           {
-            "name": "Type",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4607,11 +4223,11 @@
                 ""
               ]
             },
-            "title": "Type"
+            "title": "Category"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -5054,6 +4670,41 @@
       "title": "Proportion of traded wildlife that was poached or illicitly trafficked"
     },
     {
+      "path": "16-1-1-a/data.csv",
+      "name": "16-1-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per 100,000 population",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of homicide cases per 100,000 population"
+    },
+    {
       "path": "16-1-1/data.csv",
       "name": "16-1-1",
       "profile": "tabular-data-resource",
@@ -5088,41 +4739,6 @@
         ]
       },
       "title": "Number of victims of intentional homicide per 100,000 population, by sex and age"
-    },
-    {
-      "path": "16-1-1-a/data.csv",
-      "name": "16-1-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "per 100,000 population",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of homicide cases per 100,000 population"
     },
     {
       "path": "16-1-2/data.csv",
@@ -5456,8 +5072,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "work  exploitation",
-                "sexual  exploitation",
+                "work exploitation",
+                "sexual exploitation",
                 ""
               ]
             },
@@ -9811,100 +9427,6 @@
       "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organisms"
     },
     {
-      "path": "4-1-1-b/data.csv",
-      "name": "4-1-1-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "male",
-                "female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "The share of children at the end of primary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics"
-    },
-    {
-      "path": "4-1-1-c/data.csv",
-      "name": "4-1-1-c",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "male",
-                "female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "The share of children at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics"
-    },
-    {
       "path": "4-1-1-d/data.csv",
       "name": "4-1-1-d",
       "profile": "tabular-data-resource",
@@ -10016,8 +9538,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "The share of children at the end of primary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics",
-                "The share of children at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics",
+                "Proportion of children at the end of primary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics",
+                "Proportion of children at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics",
                 ""
               ]
             },
@@ -10516,7 +10038,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -10524,14 +10046,42 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "category",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Urban",
+                "Rural",
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "category"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "15+",
+                ""
+              ]
+            },
+            "title": "age"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
