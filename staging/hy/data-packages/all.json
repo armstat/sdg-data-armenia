@@ -9087,6 +9087,41 @@
       "title": "Դեռահասների (10-14 տարեկան, 15-19 տարեկան) ծնելիությունը տվյալ տարիքային խմբի 1000 կնոջ հաշվով"
     },
     {
+      "path": "3-8-1-c/data.csv",
+      "name": "3-8-1-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Տարի"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "3-8-1-c"
+    },
+    {
       "path": "3-8-1-d/data.csv",
       "name": "3-8-1-d",
       "profile": "tabular-data-resource",
