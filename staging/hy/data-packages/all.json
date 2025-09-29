@@ -4181,60 +4181,6 @@
       "title": "Անտառածածկ տարածքները որպես համամասնություն ընդհանուր հողային տարածքի նկատմամբ"
     },
     {
-      "path": "15-1-2-a/data.csv",
-      "name": "15-1-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                "միավոր",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Հատուկ պահպանվող տարածքների ընդհանուր մակերեսը %-ով երկրի տարածքի նկատմամբ",
-                "Պետական արգելոցների (կատեգորիա Ib) ընդհանուր քանակը",
-                "Պետական արգելոցների (կատեգորիա Ib) ընդհանուր մակերեսը %-ով երկրի տարածքի նկատմամբ",
-                "Ազգային պարկերի (կատեգորիա II) ընդհանուր քանակը",
-                "Ազգային պարկերի (կատեգորիա II) ընդհանուր մակերեսը %-ով երկրի տարածքի նկատմամբ",
-                "Պետական արգելավայրերի (կատեգորիա IV) ընդհանուր քանակը",
-                "Պետական արգելավայրերի (կատեգորիա IV) ընդհանուր մակերեսը %-ով երկրի տարածքի նկատմամբ",
-                "Բնության հուշարձանների (կատեգորիա III) ընդհանուր քանակը",
-                ""
-              ]
-            },
-            "title": "Կատեգորիա"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "15-1-2-a"
-    },
-    {
       "path": "15-1-2/data.csv",
       "name": "15-1-2",
       "profile": "tabular-data-resource",
@@ -5039,6 +4985,51 @@
       "title": "1-17 տարեկան երեխաների համամասնությունը, ովքեր անցյալ ամսում խնամատարների կողմից ենթարկվել են որևէ ֆիզիկական պատժի և (կամ) հոգեբանական ագրեսիայի"
     },
     {
+      "path": "16-2-2-a/data.csv",
+      "name": "16-2-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Տարի"
+          },
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Խումբ"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "դեպք",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Մարդկանց թրաֆիքինգի կամ շահագործման ենթարկելու դեպքերի քանակը"
+    },
+    {
       "path": "16-2-2/data.csv",
       "name": "16-2-2",
       "profile": "tabular-data-resource",
@@ -5110,51 +5101,6 @@
         ]
       },
       "title": "Մարդկանց թրաֆիքինգի զոհերի թիվը 100 հազար բնակչի հաշվով, ըստ սեռի, տարիքի և շահագործման ձևի"
-    },
-    {
-      "path": "16-2-2-a/data.csv",
-      "name": "16-2-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Տարի"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Խումբ"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "դեպք",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Մարդկանց թրաֆիքինգի կամ շահագործման ենթարկելու դեպքերի քանակը"
     },
     {
       "path": "16-2-3/data.csv",
