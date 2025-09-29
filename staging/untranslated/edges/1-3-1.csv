@@ -1,4 +1,4 @@
 From,To
-Indicators,Sex
-Indicators,Category
-Indicators,Age
+Indicator,Sex
+Indicator,Category
+Indicator,Age
