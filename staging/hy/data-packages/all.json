@@ -11642,11 +11642,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Enabling environment",
-                "Institutions and participation",
-                "Management instruments",
-                "Financing",
-                "SDG 6.5.1",
+                "Նպաստող միջավայր",
+                "Հաստատություններ և մասնակցություն",
+                "Կառավարման գործիքներ",
+                "Ֆինանսավորում",
+                "ԿԶՆ 6.5.1",
                 ""
               ]
             },
