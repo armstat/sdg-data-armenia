@@ -1,16 +1,16 @@
-Year,Units,Sector,Value
-2017,Unit,Enabling environment,42
-2017,Unit,Institutions and participation,40
-2017,Unit,Management instruments,28
-2017,Unit,Financing,34
-2017,Unit,SDG 6.5.1,36
-2020,Unit,Enabling environment,61
-2020,Unit,Institutions and participation,46
-2020,Unit,Management instruments,47
-2020,Unit,Financing,54
-2020,Unit,SDG 6.5.1,52
-2023,Unit,Enabling environment,50
-2023,Unit,Institutions and participation,43
-2023,Unit,Management instruments,46
-2023,Unit,Financing,44
-2023,Unit,SDG 6.5.1,46
+Year,Units,Сектор,Value
+2017,Unit,Благоприятные среда,42
+2017,Unit,Учреждения и участие,40
+2017,Unit,Инструменты управления,28
+2017,Unit,Финансирование,34
+2017,Unit,ЦУР 6.5.1,36
+2020,Unit,Благоприятные среда,61
+2020,Unit,Учреждения и участие,46
+2020,Unit,Инструменты управления,47
+2020,Unit,Финансирование,54
+2020,Unit,ЦУР 6.5.1,52
+2023,Unit,Благоприятные среда,50
+2023,Unit,Учреждения и участие,43
+2023,Unit,Инструменты управления,46
+2023,Unit,Финансирование,44
+2023,Unit,ЦУР 6.5.1,46

@@ -31,15 +31,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Enabling environment",
-                "Institutions and participation",
-                "Management instruments",
-                "Financing",
-                "SDG 6.5.1",
+                "Благоприятные среда",
+                "Учреждения и участие",
+                "Инструменты управления",
+                "Финансирование",
+                "ЦУР 6.5.1",
                 ""
               ]
             },
-            "title": "Sector"
+            "title": "Сектор"
           },
           {
             "name": "Value",

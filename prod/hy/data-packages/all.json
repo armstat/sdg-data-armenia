@@ -11642,15 +11642,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Enabling environment",
-                "Institutions and participation",
-                "Management instruments",
-                "Financing",
-                "SDG 6.5.1",
+                "Նպաստող միջավայր",
+                "Հաստատություններ և մասնակցություն",
+                "Կառավարման գործիքներ",
+                "Ֆինանսավորում",
+                "ԿԶՆ 6.5.1",
                 ""
               ]
             },
-            "title": "Sector"
+            "title": "Ոլորտ"
           },
           {
             "name": "Value",
@@ -13360,14 +13360,25 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
+          },
+          {
+            "name": "Indicator",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Ցուցանիշ"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
@@ -13375,7 +13386,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
