@@ -12,8 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Տարի"
+            "type": "integer"
           },
           {
             "name": "Units",
@@ -23,30 +22,27 @@
                 "%",
                 ""
               ]
-            },
-            "title": "Units"
+            }
           },
           {
             "name": "Subject",
             "type": "string",
             "constraints": {
               "enum": [
-                "մաթեմատիկա",
+                "Armenian language",
                 ""
               ]
-            },
-            "title": "Առարկա"
+            }
           },
           {
             "name": "Value",
-            "type": "number",
-            "title": "Value"
+            "type": "number"
           }
         ]
       }
     }
   ],
   "profile": "data-package",
-  "name": "4-1-1-e",
-  "title": "Երեխաների և երիտասարդների համամասնությունը հիմնական դպրոցն ավարտելիս, ովքեր ստացել են առնվազն նվազագույն միավոր 9-րդ դասարանի ավարտական քննություններից (ii) մաթեմատիկայից"
+  "name": "4-1-1-a",
+  "title": "meta.name-4-1-1-d"
 }

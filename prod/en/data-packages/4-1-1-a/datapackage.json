@@ -12,7 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -22,7 +23,8 @@
                 "%",
                 ""
               ]
-            }
+            },
+            "title": "Units"
           },
           {
             "name": "Subject",
@@ -32,17 +34,19 @@
                 "Armenian language",
                 ""
               ]
-            }
+            },
+            "title": "Subject"
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "number",
+            "title": "Value"
           }
         ]
       }
     }
   ],
   "profile": "data-package",
-  "name": "4-1-1-d",
-  "title": "meta.name-4-1-1-d"
+  "name": "4-1-1-a",
+  "title": "Proportion of children and young people who, at the end of lower secondary education, achieved at least the minimum score in the 9th-grade completion exam in (i) Armenian language"
 }

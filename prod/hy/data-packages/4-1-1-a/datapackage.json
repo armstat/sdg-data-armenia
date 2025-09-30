@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Տարի"
           },
           {
             "name": "Units",
@@ -31,11 +31,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mathematics",
+                "Հայոց լեզու",
                 ""
               ]
             },
-            "title": "Subject"
+            "title": "Առարկա"
           },
           {
             "name": "Value",
@@ -47,6 +47,6 @@
     }
   ],
   "profile": "data-package",
-  "name": "4-1-1-e",
-  "title": "Proportion of children and young people who, at the end of lower secondary education, achieved at least the minimum score in the 9th-grade completion exam in (ii) Armenian language"
+  "name": "4-1-1-a",
+  "title": "Երեխաների և երիտասարդների համամասնությունը հիմնական դպրոցն ավարտելիս, ովքեր ստացել են առնվազն նվազագույն միավոր 9-րդ դասարանի ավարտական քննություններից (i) հայոց լեզվից"
 }

@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Год"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -31,11 +31,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mатематика",
+                "Mathematics",
                 ""
               ]
             },
-            "title": "Предмет"
+            "title": "Subject"
           },
           {
             "name": "Value",
@@ -47,6 +47,6 @@
     }
   ],
   "profile": "data-package",
-  "name": "4-1-1-e",
-  "title": "Доля детей и молодежи, которые по завершении основной школы набрали как минимум минимальный балл на выпускных экзаменах за 9-й класс по (ii) математике"
+  "name": "4-1-1-b",
+  "title": "Proportion of children and young people who, at the end of lower secondary education, achieved at least the minimum score in the 9th-grade completion exam in (ii) Armenian language"
 }

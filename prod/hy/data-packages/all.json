@@ -9427,8 +9427,8 @@
       "title": "Արյան հոսքի վարակների տոկոսը` կապված ընտրված հակամանրէային դիմացկուն օրգանիզմների հետ"
     },
     {
-      "path": "4-1-1-d/data.csv",
-      "name": "4-1-1-d",
+      "path": "4-1-1-a/data.csv",
+      "name": "4-1-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -9473,8 +9473,8 @@
       "title": "Երեխաների և երիտասարդների համամասնությունը հիմնական դպրոցն ավարտելիս, ովքեր ստացել են առնվազն նվազագույն միավոր 9-րդ դասարանի ավարտական քննություններից (i) հայոց լեզվից"
     },
     {
-      "path": "4-1-1-e/data.csv",
-      "name": "4-1-1-e",
+      "path": "4-1-1-b/data.csv",
+      "name": "4-1-1-b",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -11623,7 +11623,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -11631,14 +11631,30 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Unit",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Sector",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Enabling environment",
+                "Institutions and participation",
+                "Management instruments",
+                "Financing",
+                "SDG 6.5.1",
+                ""
+              ]
+            },
+            "title": "Sector"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -13274,7 +13290,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -13282,6 +13298,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
@@ -13289,7 +13306,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]

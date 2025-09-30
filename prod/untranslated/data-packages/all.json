@@ -8642,8 +8642,8 @@
       "title": "global_indicators.3-d-2-title"
     },
     {
-      "path": "4-1-1-d/data.csv",
-      "name": "4-1-1-d",
+      "path": "4-1-1-a/data.csv",
+      "name": "4-1-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -8684,8 +8684,8 @@
       "title": "meta.name-4-1-1-d"
     },
     {
-      "path": "4-1-1-e/data.csv",
-      "name": "4-1-1-e",
+      "path": "4-1-1-b/data.csv",
+      "name": "4-1-1-b",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -10654,20 +10654,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "Unit",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enabling environment",
+                "Institutions and participation",
+                "Management instruments",
+                "Financing",
+                "SDG 6.5.1",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       },
@@ -12166,20 +12181,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
