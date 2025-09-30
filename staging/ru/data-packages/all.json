@@ -11623,7 +11623,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -11631,14 +11631,30 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Unit",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Sector",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Enabling environment",
+                "Institutions and participation",
+                "Management instruments",
+                "Financing",
+                "SDG 6.5.1",
+                ""
+              ]
+            },
+            "title": "Sector"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
             "title": "Value"
           }
         ]
