@@ -12,27 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Subject",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Armenian language",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

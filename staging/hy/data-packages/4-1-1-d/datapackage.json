@@ -12,30 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Subject",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Հայոց լեզու",
-                ""
-              ]
-            },
-            "title": "Առարկա"
           },
           {
             "name": "Value",
