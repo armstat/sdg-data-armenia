@@ -1,7 +1,31 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+﻿"Year","Group","Unit","Value"
+"2015","Total trade of tracked Environmentally Sound Technologies","current USD","182418288"
+"2015","Amount of tracked exported Environmentally Sound Technologies","current USD","17474495"
+"2015"," Amount of tracked imported Environmentally Sound Technologies","current USD","161357732"
+"2015","Amount of tracked re-exported Environmentally Sound Technologies","current USD","3395509"
+"2015","Amount of tracked re-imported Environmentally Sound Technologies","current USD","190552"
+"2016","Total trade of tracked Environmentally Sound Technologies","current USD","190974776"
+"2016","Amount of tracked exported Environmentally Sound Technologies","current USD","23322041"
+"2016"," Amount of tracked imported Environmentally Sound Technologies","current USD","165319783"
+"2016","Amount of tracked re-exported Environmentally Sound Technologies","current USD","2199306"
+"2016","Amount of tracked re-imported Environmentally Sound Technologies","current USD","133646"
+"2017","Total trade of tracked Environmentally Sound Technologies","current USD","250381351"
+"2017","Amount of tracked exported Environmentally Sound Technologies","current USD","29123388"
+"2017"," Amount of tracked imported Environmentally Sound Technologies","current USD","216430695"
+"2017","Amount of tracked re-exported Environmentally Sound Technologies","current USD","4679068"
+"2017","Amount of tracked re-imported Environmentally Sound Technologies","current USD","148200"
+"2018","Total trade of tracked Environmentally Sound Technologies","current USD","327254921"
+"2018","Amount of tracked exported Environmentally Sound Technologies","current USD","32180191"
+"2018"," Amount of tracked imported Environmentally Sound Technologies","current USD","291636929"
+"2018","Amount of tracked re-exported Environmentally Sound Technologies","current USD","2837732"
+"2018","Amount of tracked re-imported Environmentally Sound Technologies","current USD","600069"
+"2019","Total trade of tracked Environmentally Sound Technologies","current USD","334616012"
+"2019","Amount of tracked exported Environmentally Sound Technologies","current USD","47450700"
+"2019"," Amount of tracked imported Environmentally Sound Technologies","current USD","284280376"
+"2019","Amount of tracked re-exported Environmentally Sound Technologies","current USD","2850340"
+"2019","Amount of tracked re-imported Environmentally Sound Technologies","current USD","34596"
+"2020","Total trade of tracked Environmentally Sound Technologies","current USD","398107591"
+"2020","Amount of tracked exported Environmentally Sound Technologies","current USD","34509349 "
+"2020"," Amount of tracked imported Environmentally Sound Technologies","current USD","361735264"
+"2020","Amount of tracked re-exported Environmentally Sound Technologies","current USD","1806249 "
+"2020","Amount of tracked re-imported Environmentally Sound Technologies","current USD","56729 "
