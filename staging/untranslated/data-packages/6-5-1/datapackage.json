@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Unit",
+                "%",
                 ""
               ]
             }
@@ -29,11 +29,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Enabling environment",
+                "SDG 6.5.1",
                 "Institutions and participation",
                 "Management instruments",
                 "Financing",
-                "SDG 6.5.1",
+                "Enabling environment",
                 ""
               ]
             }
