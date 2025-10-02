@@ -810,7 +810,7 @@
                 "The share of families receiving family benefits to households",
                 "The share of families receiving social benefits to households",
                 "The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",
-                "Number of beneficiaries receiving maternity benefits granted to non-employed person at the end of the year",
+                "Количество бенефициаров, получающих пособия по материнству, предоставленные неработающим женщинам на конец года",
                 "Share of poor population who receive family benefit",
                 "Share of poor population who receive social assistance, including family benefit",
                 ""
@@ -8708,10 +8708,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Providing antenatal care and care by qualified specialis",
-                "At least one ultrasound examination during pregnancy",
-                "During the first two days after birth, the mother's postnatal check",
-                "During the first two days after birth, the newborn testing",
+                "Предоставление дородового ухода и ухода квалифицированным специалистом",
+                "Как минимум одно ультразвуковое исследование во время беременности",
+                "В течение первых двух дней после рождения, послеродовой осмотр матери",
+                "В течение первых двух дней после рождения осмотр новорожденного",
                 ""
               ]
             },
@@ -13354,7 +13354,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportions of gross state budget expenditures on the volume of scientific and technical work and research and development to GDP by indicators and years",
+                "Доля валовых расходов государственного бюджета на объем научно-технических работ и НИОКР в ВВП по показателям и годам",
                 ""
               ]
             },

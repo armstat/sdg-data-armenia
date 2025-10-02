@@ -20,10 +20,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Providing antenatal care and care by qualified specialis",
-                "At least one ultrasound examination during pregnancy",
-                "During the first two days after birth, the mother's postnatal check",
-                "During the first two days after birth, the newborn testing",
+                "Предоставление дородового ухода и ухода квалифицированным специалистом",
+                "Как минимум одно ультразвуковое исследование во время беременности",
+                "В течение первых двух дней после рождения, послеродовой осмотр матери",
+                "В течение первых двух дней после рождения осмотр новорожденного",
                 ""
               ]
             },
