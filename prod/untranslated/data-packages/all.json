@@ -5994,19 +5994,18 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "%",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -7603,19 +7602,30 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Number of patients with leishmaniasis",
+                "Case of death from leishmaniosis",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "person",
+                "case",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -8681,7 +8691,7 @@
           }
         ]
       },
-      "title": "meta.name-4-1-1-d"
+      "title": "meta.name-4-1-1-a"
     },
     {
       "path": "4-1-1-b/data.csv",
@@ -8723,7 +8733,7 @@
           }
         ]
       },
-      "title": "meta.name-4-1-1-e"
+      "title": "meta.name-4-1-1-b"
     },
     {
       "path": "4-1-1/data.csv",
@@ -10661,7 +10671,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Unit",
+                "%",
                 ""
               ]
             }
@@ -10671,11 +10681,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Enabling environment",
+                "SDG 6.5.1",
                 "Institutions and participation",
                 "Management instruments",
                 "Financing",
-                "SDG 6.5.1",
+                "Enabling environment",
                 ""
               ]
             }
@@ -12249,9 +12259,10 @@
           },
           {
             "name": "Indicator",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Proportions of gross state budget expenditures on the volume of scientific and technical work and research and development to GDP by indicators and years",
                 ""
               ]
             }

@@ -16,20 +16,32 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Number of patients with leishmaniasis",
+                "Case of death from leishmaniosis",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Indicator"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "person",
+                "case",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

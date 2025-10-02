@@ -6532,20 +6532,19 @@
             "title": "Տարի"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "%",
                 ""
               ]
             },
-            "title": "Խումբ"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -8292,20 +8291,32 @@
             "title": "Տարի"
           },
           {
-            "name": "Group",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Լեյշմանիոզով հիվանդների թիվ",
+                "Լեյշմանիոզից մահվան դեպքեր",
                 ""
               ]
             },
-            "title": "Խումբ"
+            "title": "Ցուցանիշ"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "մարդ",
+                "դեպք",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -9470,7 +9481,7 @@
           }
         ]
       },
-      "title": "Երեխաների և երիտասարդների համամասնությունը հիմնական դպրոցն ավարտելիս, ովքեր ստացել են առնվազն նվազագույն միավոր 9-րդ դասարանի ավարտական քննություններից (i) հայոց լեզվից"
+      "title": "meta.name-4-1-1-a"
     },
     {
       "path": "4-1-1-b/data.csv",
@@ -9516,7 +9527,7 @@
           }
         ]
       },
-      "title": "Երեխաների և երիտասարդների համամասնությունը հիմնական դպրոցն ավարտելիս, ովքեր ստացել են առնվազն նվազագույն միավոր 9-րդ դասարանի ավարտական քննություններից (ii) մաթեմատիկայից"
+      "title": "Երեխաների մասնաբաժինը տարրական դպրոցն ավարտելիս, ովքեր ձեռք են բերել առնվազն գիտելիքների նվազագույն մակարդակ (i)ընթերցանությունից և (ii) մաթեմատիկայից"
     },
     {
       "path": "4-1-1/data.csv",
@@ -11631,7 +11642,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Unit",
+                "%",
                 ""
               ]
             },
@@ -11642,11 +11653,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Նպաստող միջավայր",
+                "ԿԶՆ 6.5.1",
                 "Հաստատություններ և մասնակցություն",
                 "Կառավարման գործիքներ",
                 "Ֆինանսավորում",
-                "ԿԶՆ 6.5.1",
+                "Նպաստող միջավայր",
                 ""
               ]
             },
@@ -13365,9 +13376,10 @@
           },
           {
             "name": "Indicator",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Proportions of gross state budget expenditures on the volume of scientific and technical work and research and development to GDP by indicators and years",
                 ""
               ]
             },

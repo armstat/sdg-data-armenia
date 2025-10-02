@@ -6532,20 +6532,19 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "%",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -8292,20 +8291,32 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Number of patients with leishmaniasis",
+                "Case of death from leishmaniosis",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Indicator"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "person",
+                "case",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -9516,7 +9527,7 @@
           }
         ]
       },
-      "title": "Proportion of children and young people who, at the end of lower secondary education, achieved at least the minimum score in the 9th-grade completion exam in (ii) Armenian language"
+      "title": "Proportion of children and young people who, at the end of lower secondary education, achieved at least the minimum score in the 9th-grade completion exam in (ii) mathematics"
     },
     {
       "path": "4-1-1/data.csv",
@@ -11631,7 +11642,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Unit",
+                "%",
                 ""
               ]
             },
@@ -11642,11 +11653,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Enabling environment",
+                "SDG 6.5.1",
                 "Institutions and participation",
                 "Management instruments",
                 "Financing",
-                "SDG 6.5.1",
+                "Enabling environment",
                 ""
               ]
             },
@@ -13365,9 +13376,10 @@
           },
           {
             "name": "Indicator",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Proportions of gross state budget expenditures on the volume of scientific and technical work and research and development to GDP by indicators and years",
                 ""
               ]
             },

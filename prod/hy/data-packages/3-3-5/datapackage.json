@@ -16,20 +16,32 @@
             "title": "Տարի"
           },
           {
-            "name": "Group",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Լեյշմանիոզով հիվանդների թիվ",
+                "Լեյշմանիոզից մահվան դեպքեր",
                 ""
               ]
             },
-            "title": "Խումբ"
+            "title": "Ցուցանիշ"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "մարդ",
+                "դեպք",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
