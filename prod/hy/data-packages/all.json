@@ -6168,6 +6168,16 @@
             "title": "Տարի"
           },
           {
+            "name": "Indicator",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Ցուցանիշ"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -6480,41 +6490,6 @@
         ]
       },
       "title": "Դրամական փոխանցումների ծավալը (ԱՄՆ դոլարով) արտահայտված որպես ընդհանուր ՀՆԱ-ի համամասնություն"
-    },
-    {
-      "path": "17-4-1-a/data.csv",
-      "name": "17-4-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Արտաքին պետական պարտքի սպասարկումն ապրանքների և ծառայությունների արտահանման նկատմամբ՝ տոկոսային արտահայտությամբ"
     },
     {
       "path": "17-4-1/data.csv",
@@ -9939,6 +9914,52 @@
       "title": "Տեղեկատվական և հաղորդակցման տեխնոլոգիաների (ՏՀՏ) հմտությունների տիրապետող պատանիների և (կամ) մեծահասակների համամասնությունը ըստ հմտության տեսակի"
     },
     {
+      "path": "4-5-1/data.csv",
+      "name": "4-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Տարի"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "միավոր",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Completion rate adjusted GPI by education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ավագ",
+                ""
+              ]
+            },
+            "title": "Ավարտելիության մակարդակն ըստ ճշգրտված գենդերային հավասարության համաթվի"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Հավասարության համաթվեր (իգական/արական, գյուղական/ քաղաքային, ունևորության ստորին/ վերին քվինտիլ և այլն, օրինակ, հաշմանդամության կարգավիճակ, տեղաբնիկ ժողովուրդներ և հակամարտություններից տուժածներ, երբ տվյալներ առկա լինեն) այս ցանկի բոլոր կրթական ցուցանիշների համար, որոնք հնարավոր է տարանջատել"
+    },
+    {
       "path": "4-5-1-a/data.csv",
       "name": "4-5-1-a",
       "profile": "tabular-data-resource",
@@ -9990,52 +10011,6 @@
         ]
       },
       "title": "Սեռային հավասարության ցուցանիշ"
-    },
-    {
-      "path": "4-5-1/data.csv",
-      "name": "4-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "միավոր",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Completion rate adjusted GPI by education level",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ավագ",
-                ""
-              ]
-            },
-            "title": "Ավարտելիության մակարդակն ըստ ճշգրտված գենդերային հավասարության համաթվի"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Հավասարության համաթվեր (իգական/արական, գյուղական/ քաղաքային, ունևորության ստորին/ վերին քվինտիլ և այլն, օրինակ, հաշմանդամության կարգավիճակ, տեղաբնիկ ժողովուրդներ և հակամարտություններից տուժածներ, երբ տվյալներ առկա լինեն) այս ցանկի բոլոր կրթական ցուցանիշների համար, որոնք հնարավոր է տարանջատել"
     },
     {
       "path": "4-6-1/data.csv",

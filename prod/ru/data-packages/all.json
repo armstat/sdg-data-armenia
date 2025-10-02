@@ -810,7 +810,7 @@
                 "The share of families receiving family benefits to households",
                 "The share of families receiving social benefits to households",
                 "The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",
-                "Number of beneficiaries receiving maternity benefits granted to non-employed person at the end of the year",
+                "Количество бенефициаров, получающих пособия по материнству, предоставленные неработающим женщинам на конец года",
                 "Share of poor population who receive family benefit",
                 "Share of poor population who receive social assistance, including family benefit",
                 ""
@@ -6168,6 +6168,16 @@
             "title": "Год"
           },
           {
+            "name": "Indicator",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Индикатор"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -6480,41 +6490,6 @@
         ]
       },
       "title": "Доля  денежных переводов (в долларах США) в совокупном ВВП"
-    },
-    {
-      "path": "17-4-1-a/data.csv",
-      "name": "17-4-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Год"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Обслуживание государственного внешнего долга в процентах к экспорту товаров и услуг"
     },
     {
       "path": "17-4-1/data.csv",
@@ -8733,10 +8708,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Providing antenatal care and care by qualified specialis",
-                "At least one ultrasound examination during pregnancy",
-                "During the first two days after birth, the mother's postnatal check",
-                "During the first two days after birth, the newborn testing",
+                "Предоставление дородового ухода и ухода квалифицированным специалистом",
+                "Как минимум одно ультразвуковое исследование во время беременности",
+                "В течение первых двух дней после рождения, послеродовой осмотр матери",
+                "В течение первых двух дней после рождения осмотр новорожденного",
                 ""
               ]
             },
@@ -9939,6 +9914,52 @@
       "title": "Доля молодых и взрослых людей, обладающих навыками в области информационно-коммуникационных технологий, в разбивке по видам навыков"
     },
     {
+      "path": "4-5-1/data.csv",
+      "name": "4-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "единица",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Completion rate adjusted GPI by education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pолное среднее",
+                ""
+              ]
+            },
+            "title": "Уровень завершения по скорректированному индексу гендерного равенства"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Индексы равенства (женщин и мужчин, городских и сельских жителей, нижней и верхней квинтили достатка и других групп, например инвалидов, коренных народов и людей, затронутых конфликтами, в зависимости от наличия данных) по всем касающимся образования показателям в настоящем перечне, которые могут быть дезагрегированы"
+    },
+    {
       "path": "4-5-1-a/data.csv",
       "name": "4-5-1-a",
       "profile": "tabular-data-resource",
@@ -9990,52 +10011,6 @@
         ]
       },
       "title": "Индекс гендерного паритета"
-    },
-    {
-      "path": "4-5-1/data.csv",
-      "name": "4-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Год"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "единица",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Completion rate adjusted GPI by education level",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "pолное среднее",
-                ""
-              ]
-            },
-            "title": "Уровень завершения по скорректированному индексу гендерного равенства"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Индексы равенства (женщин и мужчин, городских и сельских жителей, нижней и верхней квинтили достатка и других групп, например инвалидов, коренных народов и людей, затронутых конфликтами, в зависимости от наличия данных) по всем касающимся образования показателям в настоящем перечне, которые могут быть дезагрегированы"
     },
     {
       "path": "4-6-1/data.csv",
@@ -13379,7 +13354,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportions of gross state budget expenditures on the volume of scientific and technical work and research and development to GDP by indicators and years",
+                "Доля валовых расходов государственного бюджета на объем научно-технических работ и НИОКР в ВВП по показателям и годам",
                 ""
               ]
             },

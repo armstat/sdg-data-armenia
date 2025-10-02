@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportions of gross state budget expenditures on the volume of scientific and technical work and research and development to GDP by indicators and years",
+                "Доля валовых расходов государственного бюджета на объем научно-технических работ и НИОКР в ВВП по показателям и годам",
                 ""
               ]
             },

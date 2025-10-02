@@ -1,11 +1,11 @@
-Year,Units,Value
-2015,Index from 0 to 100,57.0
-2016,Index from 0 to 100,55.0
-2017,Index from 0 to 100,52.0
-2018,Index from 0 to 100,50.0
-2019,Index from 0 to 100,
-2020,Index from 0 to 100,59.0
-2021,Index from 0 to 100,
-2022,Index from 0 to 100,60.0
-2023,Index from 0 to 100,
-2024,Index from 0 to 100,63.0
+Year,Indicator,Units,Value
+2015,,Index from 0 to 100,57.0
+2016,,Index from 0 to 100,55.0
+2017,,Index from 0 to 100,52.0
+2018,,Index from 0 to 100,50.0
+2019,,Index from 0 to 100,
+2020,,Index from 0 to 100,59.0
+2021,,Index from 0 to 100,
+2022,,Index from 0 to 100,60.0
+2023,,Index from 0 to 100,
+2024,,Index from 0 to 100,63.0
