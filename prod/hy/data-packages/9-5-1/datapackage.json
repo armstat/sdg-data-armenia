@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportions of gross state budget expenditures on the volume of scientific and technical work and research and development to GDP by indicators and years",
+                "Գիտատեխնիկական աշխատանքների ծավալի և հետազոտությունների ու մշակումների վրա պետական բյուջեից կատարված համախառն ծախսերի մասնաբաժինները ՀՆԱ-ի նկատմամբ ըստ ցուցանիշների և տարիների",
                 ""
               ]
             },
