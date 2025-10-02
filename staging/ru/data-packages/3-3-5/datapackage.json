@@ -17,9 +17,11 @@
           },
           {
             "name": "Indicator",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Количество пациентов с лейшманиозом",
+                "Случаи смерти от лейшманиоза",
                 ""
               ]
             },
@@ -31,6 +33,7 @@
             "constraints": {
               "enum": [
                 "человек",
+                "случай",
                 ""
               ]
             },
@@ -38,7 +41,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

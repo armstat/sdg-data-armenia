@@ -8293,9 +8293,11 @@
           },
           {
             "name": "Indicator",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Լեյշմանիոզով հիվանդների թիվ",
+                "Լեյշմանիոզից մահվան դեպքեր",
                 ""
               ]
             },
@@ -8307,6 +8309,7 @@
             "constraints": {
               "enum": [
                 "մարդ",
+                "դեպք",
                 ""
               ]
             },
@@ -8314,7 +8317,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

@@ -17,9 +17,11 @@
           },
           {
             "name": "Indicator",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Number of patients with leishmaniasis",
+                "Case of death from leishmaniosis",
                 ""
               ]
             },
@@ -31,6 +33,7 @@
             "constraints": {
               "enum": [
                 "person",
+                "case",
                 ""
               ]
             },
@@ -38,7 +41,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
