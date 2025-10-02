@@ -16,6 +16,16 @@
             "title": "Год"
           },
           {
+            "name": "Indicator",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Индикатор"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
