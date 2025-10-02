@@ -7603,12 +7603,20 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Indicator",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "person",
                 ""
               ]
             }

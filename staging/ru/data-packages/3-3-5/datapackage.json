@@ -16,16 +16,25 @@
             "title": "Год"
           },
           {
-            "name": "Group",
-            "type": "string",
+            "name": "Indicator",
+            "type": "number",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Группа"
+            "title": "Индикатор"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "человек",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

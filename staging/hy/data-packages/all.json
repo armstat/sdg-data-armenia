@@ -8292,16 +8292,25 @@
             "title": "Տարի"
           },
           {
-            "name": "Group",
-            "type": "string",
+            "name": "Indicator",
+            "type": "number",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Խումբ"
+            "title": "Ցուցանիշ"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "մարդ",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

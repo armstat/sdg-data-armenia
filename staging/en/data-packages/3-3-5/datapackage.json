@@ -16,16 +16,25 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "string",
+            "name": "Indicator",
+            "type": "number",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Indicator"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "person",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
