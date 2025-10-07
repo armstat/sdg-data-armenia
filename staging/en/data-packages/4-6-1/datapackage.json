@@ -31,11 +31,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Urban",
-                "Rural",
-                "Male",
-                "Female",
+                "total",
+                "urban",
+                "rural",
+                "male",
+                "female",
                 ""
               ]
             },

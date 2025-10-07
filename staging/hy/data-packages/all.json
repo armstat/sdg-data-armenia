@@ -10043,11 +10043,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Urban",
-                "Rural",
-                "Male",
-                "Female",
+                "ընդամենը",
+                "քաղաք",
+                "գյուղ",
+                "տղամարդ",
+                "կին",
                 ""
               ]
             },
