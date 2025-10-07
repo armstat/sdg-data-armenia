@@ -1718,7 +1718,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "total",
                 "Ukraine",
                 "Iraq",
                 "Iran",
@@ -9203,21 +9203,21 @@
             }
           },
           {
-            "name": "category",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Urban",
-                "Rural",
-                "Male",
-                "Female",
+                "total",
+                "urban",
+                "rural",
+                "male",
+                "female",
                 ""
               ]
             }
           },
           {
-            "name": "age",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
@@ -11879,22 +11879,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -12296,20 +12294,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "per million population",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },

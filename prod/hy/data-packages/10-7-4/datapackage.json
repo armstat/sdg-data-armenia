@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "ընդամենը",
                 "Ուկրաինա",
                 "Իրաք",
                 "Իրան",
@@ -48,7 +48,7 @@
                 ""
               ]
             },
-            "title": "Country"
+            "title": "Երկիր"
           },
           {
             "name": "Value",

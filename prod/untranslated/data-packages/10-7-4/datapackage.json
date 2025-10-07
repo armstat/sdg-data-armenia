@@ -30,7 +30,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "total",
                 "Ukraine",
                 "Iraq",
                 "Iran",

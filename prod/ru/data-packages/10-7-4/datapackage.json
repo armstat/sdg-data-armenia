@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "всего",
                 "Украина",
                 "Ирак",
                 "Иран",
@@ -48,7 +48,7 @@
                 ""
               ]
             },
-            "title": "Country"
+            "title": "Страна"
           },
           {
             "name": "Value",

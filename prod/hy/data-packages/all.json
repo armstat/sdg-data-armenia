@@ -1868,7 +1868,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "ընդամենը",
                 "Ուկրաինա",
                 "Իրաք",
                 "Իրան",
@@ -1884,7 +1884,7 @@
                 ""
               ]
             },
-            "title": "Country"
+            "title": "Երկիր"
           },
           {
             "name": "Value",
@@ -10039,22 +10039,22 @@
             "title": "Units"
           },
           {
-            "name": "category",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Urban",
-                "Rural",
-                "Male",
-                "Female",
+                "ընդամենը",
+                "քաղաք",
+                "գյուղ",
+                "տղամարդ",
+                "կին",
                 ""
               ]
             },
-            "title": "category"
+            "title": "Կատեգորիա"
           },
           {
-            "name": "age",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10063,7 +10063,7 @@
                 ""
               ]
             },
-            "title": "age"
+            "title": "Տարիք"
           },
           {
             "name": "Value",
@@ -12961,7 +12961,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
@@ -12969,8 +12969,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
@@ -12978,7 +12976,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -13416,7 +13414,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -13424,6 +13422,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "մեկ մլն. բնակչի հաշվով",
                 ""
               ]
             },
@@ -13431,7 +13430,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
