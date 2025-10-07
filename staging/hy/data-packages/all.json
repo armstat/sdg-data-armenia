@@ -13414,7 +13414,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -13422,6 +13422,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "մեկ մլն. բնակչի հաշվով",
                 ""
               ]
             },
@@ -13429,7 +13430,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
