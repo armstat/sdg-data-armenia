@@ -9203,7 +9203,7 @@
             }
           },
           {
-            "name": "category",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -9217,7 +9217,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [

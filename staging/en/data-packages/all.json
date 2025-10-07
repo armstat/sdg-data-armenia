@@ -10039,7 +10039,7 @@
             "title": "Units"
           },
           {
-            "name": "category",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10051,10 +10051,10 @@
                 ""
               ]
             },
-            "title": "category"
+            "title": "Category"
           },
           {
-            "name": "age",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10063,7 +10063,7 @@
                 ""
               ]
             },
-            "title": "age"
+            "title": "Age"
           },
           {
             "name": "Value",
