@@ -1,5 +1,5 @@
 Year,Units,Country,Value
-2015,per 100000 population,Total,6.7
+2015,per 100000 population,total,6.7
 2015,%,Ukraine,33.6
 2015,%,Iraq,20.3
 2015,%,Iran,1.5
@@ -12,7 +12,7 @@ Year,Units,Country,Value
 2015,%,Lebanon,0.5
 2015,%,Russia,0.0
 2015,%,Other countries,2.0
-2016,per 100000 population,Total,1.2
+2016,per 100000 population,total,1.2
 2016,%,Ukraine,10.8
 2016,%,Iraq,2.7
 2016,%,Iran,0.0
@@ -25,7 +25,7 @@ Year,Units,Country,Value
 2016,%,Lebanon,0.0
 2016,%,Russia,0.0
 2016,%,Other countries,8.1
-2017,per 100000 population,Total,3.3
+2017,per 100000 population,total,3.3
 2017,%,Ukraine,5.1
 2017,%,Iraq,30.3
 2017,%,Iran,2.0
@@ -38,7 +38,7 @@ Year,Units,Country,Value
 2017,%,Lebanon,0.0
 2017,%,Russia,0.0
 2017,%,Other countries,4.0
-2018,per 100000 population,Total,2.4
+2018,per 100000 population,total,2.4
 2018,%,Ukraine,2.8
 2018,%,Iraq,36.1
 2018,%,Iran,2.8
@@ -51,7 +51,7 @@ Year,Units,Country,Value
 2018,%,Lebanon,0.0
 2018,%,Russia,0.0
 2018,%,Other countries,6.9
-2019,per 100000 population,Total,3.9
+2019,per 100000 population,total,3.9
 2019,%,Ukraine,0.9
 2019,%,Iraq,14.7
 2019,%,Iran,38.8
@@ -64,7 +64,7 @@ Year,Units,Country,Value
 2019,%,Lebanon,4.3
 2019,%,Russia,0.9
 2019,%,Other countries,6.0
-2020,per 100000 population,Total,2.7
+2020,per 100000 population,total,2.7
 2020,%,Ukraine,0.0
 2020,%,Iraq,9.9
 2020,%,Iran,45.7
@@ -77,7 +77,7 @@ Year,Units,Country,Value
 2020,%,Lebanon,0.0
 2020,%,Russia,0.0
 2020,%,Other countries,11.1
-2021,per 100000 population,Total,2.6
+2021,per 100000 population,total,2.6
 2021,%,Ukraine,2.6
 2021,%,Iraq,11.5
 2021,%,Iran,51.3
@@ -90,7 +90,7 @@ Year,Units,Country,Value
 2021,%,Lebanon,0.0
 2021,%,Russia,0.0
 2021,%,Other countries,2.6
-2022,per 100000 population,Total,12.1
+2022,per 100000 population,total,12.1
 2022,%,Ukraine,80.5
 2022,%,Iraq,7.8
 2022,%,Iran,5.6
@@ -103,7 +103,7 @@ Year,Units,Country,Value
 2022,%,Lebanon,0.0
 2022,%,Russia,0.0
 2022,%,Other countries,3.3
-2023,per 100000 population,Total,12.5
+2023,per 100000 population,total,12.5
 2023,%,Ukraine,58.6
 2023,%,Iraq,10.8
 2023,%,Iran,4.0
@@ -116,7 +116,7 @@ Year,Units,Country,Value
 2023,%,Lebanon,0.0
 2023,%,Russia,0.0
 2023,%,Other countries,4.6
-2024,per 100000 population,Total,6.7
+2024,per 100000 population,total,6.7
 2024,%,Ukraine,53.7
 2024,%,Iraq,17.2
 2024,%,Iran,5.9
