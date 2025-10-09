@@ -1,5 +1,9 @@
 Value,Disaggregation combinations using this value,Number of indicators
 0-28 days,5,1
+"3G, 4G, 4G+",1,1
+3G,1,1
+"4G, 4G+",1,1
+5G,1,1
 Acute  respiratory infections in young children  (estimated under 5 years of age),3,1
 age-related,3,1
 alone and jointly with someone else,2,2

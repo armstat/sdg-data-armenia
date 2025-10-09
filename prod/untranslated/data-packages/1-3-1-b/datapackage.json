@@ -31,8 +31,8 @@
               "enum": [
                 "male",
                 "female",
-                "boys",
-                "girls",
+                "boy",
+                "girl",
                 ""
               ]
             }
