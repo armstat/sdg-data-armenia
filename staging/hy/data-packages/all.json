@@ -2175,10 +2175,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "aged 15- 24",
-                "aged 15-24",
-                "aged 25- 64",
-                "aged 65+",
+                "15-24 տարեկան",
+                "aged 25-64 years",
+                "65 և բարձր տարիքի",
                 ""
               ]
             },
