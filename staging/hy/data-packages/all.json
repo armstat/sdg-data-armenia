@@ -4524,7 +4524,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -4532,6 +4532,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "A",
+                "B",
                 ""
               ]
             },
@@ -4539,7 +4541,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
