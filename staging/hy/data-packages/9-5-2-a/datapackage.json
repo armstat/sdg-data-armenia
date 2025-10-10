@@ -12,19 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "մեկ մլն. բնակչի հաշվով",
-                ""
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",

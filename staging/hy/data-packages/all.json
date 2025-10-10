@@ -13358,41 +13358,6 @@
       "title": "Գիտահետազոտական և զարգացման աշխատանքների վրա կատարվող ծախսերը՝ արտահայտված որպես ՀՆԱ-ի համամասնություն"
     },
     {
-      "path": "9-5-2-a/data.csv",
-      "name": "9-5-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "մեկ մլն. բնակչի հաշվով",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Պետական բյուջեի ֆինանսավորմամբ գիտահետազոտական աշխատանքներ իրականացնող հետազոտողների թիվը (լրիվ դրույքի համարժեքով) մեկ միլիոն բնակչի հաշվով"
-    },
-    {
       "path": "9-5-2/data.csv",
       "name": "9-5-2",
       "profile": "tabular-data-resource",
@@ -13570,6 +13535,30 @@
         ]
       },
       "title": "Սննդամթերքի և ոչ ալկոհոլային խմիչքների գների ինդեքս (նախորդ տարվա նկատմամբ)"
+    },
+    {
+      "path": "9-5-2-a/data.csv",
+      "name": "9-5-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Տարի"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Պետական բյուջեի ֆինանսավորմամբ գիտահետազոտական աշխատանքներ իրականացնող հետազոտողների թիվը (լրիվ դրույքի համարժեքով) մեկ միլիոն բնակչի հաշվով"
     }
   ]
 }

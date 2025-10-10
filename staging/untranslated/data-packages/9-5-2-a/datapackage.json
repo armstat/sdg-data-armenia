@@ -12,17 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "per million population",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
