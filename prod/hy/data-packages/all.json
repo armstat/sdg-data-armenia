@@ -1157,7 +1157,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
@@ -1165,8 +1165,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
@@ -1174,7 +1172,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -2177,10 +2175,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "aged 15- 24",
-                "aged 15-24",
-                "aged 25- 64",
-                "aged 65+",
+                "15-24 տարեկան",
+                "25-64 տարեկան",
+                "65 և բարձր տարիքի",
                 ""
               ]
             },
@@ -2421,7 +2418,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
@@ -2429,8 +2426,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
@@ -2438,7 +2433,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -3024,7 +3019,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
@@ -3032,8 +3027,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
@@ -3041,7 +3034,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -4281,7 +4274,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
@@ -4289,8 +4282,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
@@ -4298,7 +4289,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -4353,7 +4344,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
@@ -4361,8 +4352,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
@@ -4370,7 +4359,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -4389,7 +4378,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
@@ -4397,8 +4386,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
@@ -4406,7 +4393,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -4536,7 +4523,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
@@ -4544,8 +4531,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
@@ -4553,7 +4538,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -4572,7 +4557,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
@@ -4580,8 +4565,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
@@ -4589,7 +4572,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
