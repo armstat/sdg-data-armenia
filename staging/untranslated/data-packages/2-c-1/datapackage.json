@@ -15,7 +15,16 @@
             "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [

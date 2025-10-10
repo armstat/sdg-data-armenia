@@ -7469,14 +7469,24 @@
             "title": "Год"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 ""
               ]
             },
-            "title": "Группа"
+            "title": "Units"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Индикатор"
           },
           {
             "name": "Value",
