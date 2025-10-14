@@ -7468,7 +7468,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -7476,6 +7476,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
@@ -7486,6 +7487,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Consumer Prices, Food Indices (2015 = 100)",
                 ""
               ]
             },
@@ -7493,7 +7495,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
