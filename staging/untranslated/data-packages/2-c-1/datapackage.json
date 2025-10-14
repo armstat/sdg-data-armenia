@@ -20,6 +20,7 @@
             "constraints": {
               "enum": [
                 "%",
+                "index",
                 ""
               ]
             }
@@ -30,6 +31,7 @@
             "constraints": {
               "enum": [
                 "Consumer Prices, Food Indices (2015 = 100)",
+                "Indicator of Food Price Anomalies (IFPA), by Consumer Food Price Index, Total",
                 ""
               ]
             }
