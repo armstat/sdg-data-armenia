@@ -1,0 +1,54 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                "index",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Индекс потребителльских цен, продовольственные товары (2015 = 100)",
+                "Индикатор аномалий цен на продукты питания (IFPA) по индексу потребительских цен на продукты питания, всего",
+                ""
+              ]
+            },
+            "title": "Индикатор"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-c-1 (1)",
+  "title": "2-c-1 (1)"
+}
