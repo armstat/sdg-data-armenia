@@ -1067,20 +1067,26 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "Direct economic loss attributed to disasters in relation to GDP, %",
+                "Direct agricultural loss attributed to disasters",
+                "Direct economic loss in the housing sector attributed to disasters, USD",
+                "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters, USD",
+                "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters, USD",
+                "Direct economic loss to all other damaged or destroyed productive assets attributed to disasters",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -2223,20 +2229,26 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "Direct economic loss attributed to disasters in relation to GDP, %",
+                "Direct agricultural loss attributed to disasters",
+                "Direct economic loss in the housing sector attributed to disasters, USD",
+                "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters, USD",
+                "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters, USD",
+                "Direct economic loss to all other damaged or destroyed productive assets attributed to disasters",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -2776,7 +2788,7 @@
             "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3926,7 +3938,7 @@
             "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3954,22 +3966,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -3990,7 +4000,7 @@
             "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4021,7 +4031,7 @@
             "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4154,7 +4164,7 @@
             "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4185,7 +4195,7 @@
             "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
