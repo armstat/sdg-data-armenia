@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -20,6 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
+                "index",
                 ""
               ]
             },
@@ -30,6 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Consumer Prices, Food Indices (2015 = 100)",
+                "Indicator of Food Price Anomalies (IFPA), by Consumer Food Price Index, Total",
+                "Indicator of Food Price Anomalies (IFPA), Wheat",
                 ""
               ]
             },
@@ -37,7 +42,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
