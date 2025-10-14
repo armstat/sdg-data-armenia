@@ -3935,20 +3935,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of forest area within legally established protected areas",
+                ""
+              ]
+            }
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "1000 ha",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
