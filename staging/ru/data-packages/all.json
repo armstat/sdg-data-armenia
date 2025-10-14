@@ -7487,7 +7487,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Consumer Prices, Food Indices (2015 = 100)",
+                "Индекс потребителльских цен, продовольственные товары (2015 = 100)",
                 ""
               ]
             },
