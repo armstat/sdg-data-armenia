@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Consumer Prices, Food Indices (2015 = 100)",
+                "Սպառողական գների ինդեքս, պարենային ապրանքներ (2015=100)",
                 ""
               ]
             },
