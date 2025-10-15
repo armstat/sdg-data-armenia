@@ -8615,7 +8615,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "ընդամենը",
                 "քաղաք",
                 "գյուղ",
                 ""

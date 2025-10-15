@@ -40,7 +40,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "total",
                 "urban",
                 "rural",
                 ""
