@@ -7716,7 +7716,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
@@ -7724,7 +7724,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 1 000 uninfected population",
+                "000 uninfected population",
                 ""
               ]
             },
