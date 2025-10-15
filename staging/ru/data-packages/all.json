@@ -12034,7 +12034,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100,000 adults",
+                "на 100 000 взрослых",
                 ""
               ]
             },
@@ -12045,12 +12045,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ATMs",
-                "Branches",
+                "Банкоматы",
+                "Отделения",
                 ""
               ]
             },
-            "title": "Branches/ATMs"
+            "title": "Отделения/Банкоматы"
           },
           {
             "name": "Value",
