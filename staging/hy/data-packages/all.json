@@ -12034,7 +12034,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100,000 adults",
+                "100,000 մեծահասակի համար",
                 ""
               ]
             },
@@ -12045,12 +12045,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ATMs",
-                "Branches",
+                "Բանկոմատներ",
+                "Մասնաճյուղեր",
                 ""
               ]
             },
-            "title": "Branches/ATMs"
+            "title": "Մասնաճյուղեր/Բանկոմատներ"
           },
           {
             "name": "Value",
