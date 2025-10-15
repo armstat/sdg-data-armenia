@@ -1116,7 +1116,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "person per 100,000 population",
+                "100,000 բնակչի հաշվով",
                 ""
               ]
             },
@@ -1579,7 +1579,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage (%)",
+                "%",
                 ""
               ]
             },
@@ -2383,7 +2383,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "person per 100,000 population",
+                "100,000 բնակչի հաշվով",
                 ""
               ]
             },
@@ -3421,7 +3421,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "person per 100,000 population",
+                "100,000 բնակչի հաշվով",
                 ""
               ]
             },
@@ -5464,7 +5464,7 @@
                 ""
               ]
             },
-            "title": "Division"
+            "title": "բաժին"
           },
           {
             "name": "Value",
@@ -7266,117 +7266,6 @@
             "title": "Տարի"
           },
           {
-            "name": "Indicator",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            },
-            "title": "Ցուցանիշ"
-          },
-          {
-            "name": "Unnamed: 3",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 3"
-          },
-          {
-            "name": "Unnamed: 4",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 4"
-          },
-          {
-            "name": "Unnamed: 5",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 5"
-          },
-          {
-            "name": "Unnamed: 6",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 6"
-          },
-          {
-            "name": "Unnamed: 7",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 7"
-          },
-          {
-            "name": "Unnamed: 8",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 8"
-          },
-          {
-            "name": "Unnamed: 9",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 9"
-          },
-          {
-            "name": "Unnamed: 10",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 10"
-          },
-          {
-            "name": "Unnamed: 11",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 11"
-          },
-          {
-            "name": "Unnamed: 12",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 12"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -7827,7 +7716,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
@@ -7835,7 +7724,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 1 000 uninfected population",
+                "000 uninfected population",
                 ""
               ]
             },
@@ -8726,7 +8615,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "ընդամենը",
                 "քաղաք",
                 "գյուղ",
                 ""
@@ -9833,10 +9722,10 @@
                 "ավագ",
                 "նախնական մասնագիտական (արհեստագործական)",
                 "միջին մասնագիտական",
-                "specialized high education, first stage (bachelor's Degree)",
-                "post-graduate education, second stage (master's Degree)",
                 "մասնագիտական բարձրագույն կրթություն, առաջին աստիճան (բակալավրի աստիճան)",
                 "մասնագիտական բարձրագույն կրթություն, երկրորդ աստիճան (մագիստրոսի աստիճան)",
+                "specialized high education, first stage (bachelor's degree)",
+                "post-graduate education, second stage (master's degree)",
                 ""
               ]
             },
@@ -10383,7 +10272,7 @@
                 "25-34",
                 "35-44",
                 "45-59",
-                "total (15-59)",
+                "ընդամենը (15-59)",
                 "total (15-49)",
                 ""
               ]
@@ -11739,7 +11628,7 @@
                 ""
               ]
             },
-            "title": "FOR YEARS"
+            "title": "Տարիների համար"
           },
           {
             "name": "Value",
@@ -12145,7 +12034,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100,000 adults",
+                "100,000 մեծահասակի համար",
                 ""
               ]
             },
@@ -12156,12 +12045,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ATMs",
-                "Branches",
+                "Բանկոմատներ",
+                "Մասնաճյուղեր",
                 ""
               ]
             },
-            "title": "Branches/ATMs"
+            "title": "Մասնաճյուղեր/Բանկոմատներ"
           },
           {
             "name": "Value",
@@ -12669,7 +12558,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "with disabilities ",
+                "հաշմանդամություն ունեցող",
                 ""
               ]
             },
@@ -13120,10 +13009,11 @@
               "enum": [
                 "երկաթուղային տրանսպորտ",
                 "ավտոմոբիլային տրանսպորտ",
-                "of which  passenger taxi",
+                "որից՝ մարդատար տաքսի",
                 "օդային տրանսպորտ",
                 "էլեկտրատրանսպորտ",
                 "խողովակաշարային",
+                "of which  passenger taxi",
                 ""
               ]
             },

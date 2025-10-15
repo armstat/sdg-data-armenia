@@ -17,12 +17,12 @@ Year,Units,Category,transportation type,Value
 2018,"1,000 people",,road transport,159037.4
 2019,"1,000 people",,road transport,164806.8
 2020,"1,000 people",,road transport,54822.3
-2015,"1,000 people",,of which  passenger taxi,10319.9
-2016,"1,000 people",,of which  passenger taxi,8711.9
-2017,"1,000 people",,of which  passenger taxi,7692.0
-2018,"1,000 people",,of which  passenger taxi,6740.0
-2019,"1,000 people",,of which  passenger taxi,4627.9
-2020,"1,000 people",,of which  passenger taxi,2213.2
+2015,"1,000 people",,of which passenger taxi,10319.9
+2016,"1,000 people",,of which passenger taxi,8711.9
+2017,"1,000 people",,of which passenger taxi,7692.0
+2018,"1,000 people",,of which passenger taxi,6740.0
+2019,"1,000 people",,of which passenger taxi,4627.9
+2020,"1,000 people",,of which passenger taxi,2213.2
 2015,"1,000 people",,air transport,1919.0
 2016,"1,000 people",,air transport,2117.8
 2017,"1,000 people",,air transport,2553.8
@@ -68,7 +68,7 @@ Year,Units,Category,transportation type,Value
 2021,"1,000 people",passenger volume,,107650.2
 2021,"1,000 people",,railway transport,434.7
 2021,"1,000 people",,road transport,82072.4
-2021,"1,000 people",,of which  passenger taxi,2010.4
+2021,"1,000 people",,of which passenger taxi,2010.4
 2021,"1,000 people",,air transport,2400.3
 2021,"1,000 people",,electricity transport,22742.8
 2021,"1,000 tons",freight volumes,,17243.0
@@ -79,7 +79,7 @@ Year,Units,Category,transportation type,Value
 2022,"1,000 people",passenger volume,,159096.2
 2022,"1,000 people",,railway transport,500.9
 2022,"1,000 people",,road transport,126823.2
-2022,"1,000 people",,of which  passenger taxi,1571.2
+2022,"1,000 people",,of which passenger taxi,1571.2
 2022,"1,000 people",,air transport,3698.3
 2022,"1,000 people",,electricity transport,28073.8
 2022,"1,000 tons",freight volumes,,18895.7
@@ -90,7 +90,7 @@ Year,Units,Category,transportation type,Value
 2023,"1,000 people",passenger volume,,191899.3
 2023,"1,000 people",,railway transport,538.3
 2023,"1,000 people",,road transport,153773.0
-2023,"1,000 people",,of which  passenger taxi,1363.2
+2023,"1,000 people",,of which passenger taxi,1363.2
 2023,"1,000 people",,air transport,5416.0
 2023,"1,000 people",,electricity transport,32172.0
 2023,"1,000 tons",freight volumes,,18483.0

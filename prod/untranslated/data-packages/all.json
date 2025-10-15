@@ -1029,7 +1029,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "person per 100,000 population",
+                "per 100,000 population",
                 ""
               ]
             }
@@ -1453,7 +1453,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage (%)",
+                "%",
                 ""
               ]
             }
@@ -2191,7 +2191,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "person per 100,000 population",
+                "per 100,000 population",
                 ""
               ]
             }
@@ -3142,7 +3142,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "person per 100,000 population",
+                "per 100,000 population",
                 ""
               ]
             }
@@ -6664,106 +6664,6 @@
             "type": "integer"
           },
           {
-            "name": "Indicator",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unnamed: 3",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unnamed: 4",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unnamed: 5",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unnamed: 6",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unnamed: 7",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unnamed: 8",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unnamed: 9",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unnamed: 10",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unnamed: 11",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unnamed: 12",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -7177,14 +7077,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "per 1 000 uninfected population",
+                "000 uninfected population",
                 ""
               ]
             }
@@ -7999,7 +7899,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "total",
                 "urban",
                 "rural",
                 ""
@@ -11610,7 +11510,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "with disabilities ",
+                "with disabilities",
                 ""
               ]
             }
@@ -12023,10 +11923,11 @@
               "enum": [
                 "railway transport",
                 "road transport",
-                "of which  passenger taxi",
+                "of which passenger taxi",
                 "air transport",
                 "electricity transport",
                 "pipelines",
+                "of which  passenger taxi",
                 ""
               ]
             }

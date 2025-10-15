@@ -1116,7 +1116,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "person per 100,000 population",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -1579,7 +1579,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage (%)",
+                "%",
                 ""
               ]
             },
@@ -2383,7 +2383,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "person per 100,000 population",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -3421,7 +3421,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "person per 100,000 population",
+                "per 100,000 population",
                 ""
               ]
             },
@@ -7266,117 +7266,6 @@
             "title": "Year"
           },
           {
-            "name": "Indicator",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            },
-            "title": "Indicator"
-          },
-          {
-            "name": "Unnamed: 3",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 3"
-          },
-          {
-            "name": "Unnamed: 4",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 4"
-          },
-          {
-            "name": "Unnamed: 5",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 5"
-          },
-          {
-            "name": "Unnamed: 6",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 6"
-          },
-          {
-            "name": "Unnamed: 7",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 7"
-          },
-          {
-            "name": "Unnamed: 8",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 8"
-          },
-          {
-            "name": "Unnamed: 9",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 9"
-          },
-          {
-            "name": "Unnamed: 10",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 10"
-          },
-          {
-            "name": "Unnamed: 11",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 11"
-          },
-          {
-            "name": "Unnamed: 12",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 12"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -7827,7 +7716,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -7835,7 +7724,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 1 000 uninfected population",
+                "000 uninfected population",
                 ""
               ]
             },
@@ -8726,7 +8615,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "total",
                 "urban",
                 "rural",
                 ""
@@ -11739,7 +11628,7 @@
                 ""
               ]
             },
-            "title": "FOR YEARS"
+            "title": "for years"
           },
           {
             "name": "Value",
@@ -12669,7 +12558,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "with disabilities ",
+                "with disabilities",
                 ""
               ]
             },
@@ -13120,10 +13009,11 @@
               "enum": [
                 "railway transport",
                 "road transport",
-                "of which  passenger taxi",
+                "of which passenger taxi",
                 "air transport",
                 "electricity transport",
                 "pipelines",
+                "of which  passenger taxi",
                 ""
               ]
             },
