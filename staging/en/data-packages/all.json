@@ -13009,10 +13009,11 @@
               "enum": [
                 "railway transport",
                 "road transport",
-                "of which  passenger taxi",
+                "of which passenger taxi",
                 "air transport",
                 "electricity transport",
                 "pipelines",
+                "of which  passenger taxi",
                 ""
               ]
             },
