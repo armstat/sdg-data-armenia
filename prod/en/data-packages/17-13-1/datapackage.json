@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -20,14 +20,29 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Indicator",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual GDP growth",
+                "Annual growth of the general government final consumption expenditure",
+                "Annual growth of the gross capital formation",
+                "Annual growth of households and NPISHs final consumption expenditure",
+                ""
+              ]
+            },
+            "title": "Indicator"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
