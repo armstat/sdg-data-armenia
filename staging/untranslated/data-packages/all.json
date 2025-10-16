@@ -6736,50 +6736,6 @@
       "title": "global_indicators.2-b-1-title"
     },
     {
-      "path": "2-c-1 (1)/data.csv",
-      "name": "2-c-1 (1)",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                "index",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Indicator",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Consumer Prices, Food Indices (2015 = 100)",
-                "Indicator of Food Price Anomalies (IFPA), by Consumer Food Price Index, Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "2-c-1 (1)"
-    },
-    {
       "path": "2-c-1/data.csv",
       "name": "2-c-1",
       "profile": "tabular-data-resource",
@@ -9037,48 +8993,6 @@
       "title": "global_indicators.4-4-1-title"
     },
     {
-      "path": "4-5-1/data.csv",
-      "name": "4-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "point",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Completion rate adjusted GPI by education level",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Upper secondary",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.4-5-1-title"
-    },
-    {
       "path": "4-5-1-a/data.csv",
       "name": "4-5-1-a",
       "profile": "tabular-data-resource",
@@ -9126,6 +9040,48 @@
         ]
       },
       "title": "meta.name-4-5-1-a"
+    },
+    {
+      "path": "4-5-1/data.csv",
+      "name": "4-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "point",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Completion rate adjusted GPI by education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Upper secondary",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.4-5-1-title"
     },
     {
       "path": "4-6-1/data.csv",
