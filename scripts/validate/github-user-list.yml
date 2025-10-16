@@ -90,7 +90,6 @@ Mkrtchyan-wq:
   - 17-6-1
 Kristina-Israyelyan:
   indicators:
-  - 7-b-1
   - 8-1-1
   - 8-2-1
   - 8-4-2-a
@@ -98,7 +97,6 @@ Kristina-Israyelyan:
   - 9-3-1
   - 9-b-1
   - 10-4-1
-  - 12-a-1
   - 12-2-2-a
   - 17-13-1
 Lilit-Armstat:
@@ -177,8 +175,10 @@ amroyan:
   - 17-8-1-a
 hasmiksaro:
   indicators:
+  - 7-b-1
   - 7-2-1
   - 7-3-1
+  - 12-a-1
 SAstghik:
   indicators:
   - 17-3-1-a
