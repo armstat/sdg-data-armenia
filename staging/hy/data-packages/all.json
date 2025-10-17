@@ -13297,6 +13297,16 @@
             "title": "Տարի"
           },
           {
+            "name": "Indicator",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Ցուցանիշ"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
