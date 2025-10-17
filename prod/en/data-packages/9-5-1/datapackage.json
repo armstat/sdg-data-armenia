@@ -16,6 +16,17 @@
             "title": "Year"
           },
           {
+            "name": "Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportions of gross state budget expenditures on the volume of scientific and technical work and research and development to GDP by indicators and years",
+                ""
+              ]
+            },
+            "title": "Indicator"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {

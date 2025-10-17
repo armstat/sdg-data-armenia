@@ -2994,20 +2994,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "watt",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -10930,20 +10931,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "watt",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -12153,6 +12155,16 @@
             "type": "integer"
           },
           {
+            "name": "Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportions of gross state budget expenditures on the volume of scientific and technical work and research and development to GDP by indicators and years",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -12183,6 +12195,16 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of researchers (full-time equivalent) conducting research work funded by the state budget per million inhabitants",
+                ""
+              ]
+            }
           },
           {
             "name": "Units",

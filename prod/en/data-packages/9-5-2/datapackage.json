@@ -16,6 +16,17 @@
             "title": "Year"
           },
           {
+            "name": "Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of researchers (full-time equivalent) conducting research work funded by the state budget per million inhabitants",
+                ""
+              ]
+            },
+            "title": "Indicator"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {

@@ -3259,7 +3259,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -3267,6 +3267,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "watt",
                 ""
               ]
             },
@@ -3274,7 +3275,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -11924,7 +11925,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -11932,6 +11933,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "watt",
                 ""
               ]
             },
@@ -11939,7 +11941,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -12279,7 +12281,7 @@
           }
         ]
       },
-      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+      "title": "Value of final material consumption by households, value of final material consumption per capita, value of final material consumption per GDP"
     },
     {
       "path": "8-4-2/data.csv",
@@ -13260,6 +13262,17 @@
             "title": "Year"
           },
           {
+            "name": "Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportions of gross state budget expenditures on the volume of scientific and technical work and research and development to GDP by indicators and years",
+                ""
+              ]
+            },
+            "title": "Indicator"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -13293,6 +13306,17 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of researchers (full-time equivalent) conducting research work funded by the state budget per million inhabitants",
+                ""
+              ]
+            },
+            "title": "Indicator"
           },
           {
             "name": "Units",
