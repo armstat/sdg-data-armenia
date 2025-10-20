@@ -4750,24 +4750,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Խումբ"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -6041,6 +6039,9 @@
                 "Annual growth of the general government final consumption expenditure",
                 "Annual growth of the gross capital formation",
                 "Annual growth of households and NPISHs final consumption expenditure",
+                "Annual inflation,consumer prices,copare to 2015",
+                "Annual growth of exports of goods and services",
+                "Annual growth of imports of goods and services",
                 ""
               ]
             },
@@ -6485,14 +6486,24 @@
             "title": "Տարի"
           },
           {
-            "name": "Group",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
                 ""
               ]
             },
-            "title": "Խումբ"
+            "title": "Ցուցանիշ"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

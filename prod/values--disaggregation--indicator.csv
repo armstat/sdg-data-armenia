@@ -1,8 +1,11 @@
 Value,Disaggregation combinations using this value,Number of indicators
 Annual GDP growth,1,1
+Annual growth of exports of goods and services,1,1
 Annual growth of households and NPISHs final consumption expenditure,1,1
+Annual growth of imports of goods and services,1,1
 Annual growth of the general government final consumption expenditure,1,1
 Annual growth of the gross capital formation,1,1
+"Annual inflation,consumer prices,copare to 2015",1,1
 At least one ultrasound examination during pregnancy,1,1
 Case of death from leishmaniosis,1,1
 "Consumer Prices, Food Indexes (2015 = 100)",1,1
