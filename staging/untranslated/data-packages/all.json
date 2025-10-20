@@ -5951,7 +5951,16 @@
             "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [

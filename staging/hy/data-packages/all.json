@@ -6486,14 +6486,24 @@
             "title": "Տարի"
           },
           {
-            "name": "Group",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
                 ""
               ]
             },
-            "title": "Խումբ"
+            "title": "Ցուցանիշ"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
