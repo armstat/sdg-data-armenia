@@ -4782,9 +4782,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-34 years",
-                "35-59 years",
-                "60 and more years",
+                "aged 15-34 years",
+                "aged 35-59 years",
+                "aged 60 and more years",
                 ""
               ]
             },
