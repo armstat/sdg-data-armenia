@@ -5978,13 +5978,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
+                "Foreign direct investment (FDI) inflows",
                 ""
               ]
             }
@@ -5994,13 +5995,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "mln. USD",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },

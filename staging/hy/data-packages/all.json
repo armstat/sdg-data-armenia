@@ -6514,7 +6514,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -6522,6 +6522,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Foreign direct investment (FDI) inflows",
                 ""
               ]
             },
@@ -6532,6 +6533,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "մլն. ԱՄՆ դոլար",
                 ""
               ]
             },
@@ -6539,7 +6541,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
