@@ -4218,20 +4218,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
+          },
+          {
+            "name": "Name",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a. Convention on Biological Diversity (CBD)",
+                "a. Aichi Biodiversity Targets",
+                "b. SEEA Water accounts",
+                ""
+              ]
+            }
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "yes=1, no=0",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       },
