@@ -12,20 +12,37 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
+          },
+          {
+            "name": "Conventions (dates and places of adoption)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UNECE Convention on Long-range Transboundary Air Pollution (Geneva, 1979)",
+                "UNECE Convention on the Transboundary Effects of Industrial Accidents (Helsinki, 1992)",
+                "Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal (Basel, 1989)",
+                "Convention for the Protection of the Ozone Layer  (Vienna, 1985)",
+                "Convention on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade (Rotterdam, 1998)",
+                "Stockholm Convention on Persistent Organic Pollutants (Stockholm, 2001)",
+                "Minamata Convention on Mercury (Kumamoto, 2013)",
+                ""
+              ]
+            }
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "yes=1, no=0",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       }
