@@ -6522,7 +6522,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Foreign direct investment (FDI) inflows",
+                "Օտարերկրյա ուղղակի ներդրումների (ՕՈՒՆ) հոսքերը (մլն. ԱՄՆ դոլար)",
                 ""
               ]
             },
