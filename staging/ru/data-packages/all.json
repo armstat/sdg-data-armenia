@@ -6522,7 +6522,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Приток прямых иностранных инвестиций (ПИИ) (млн. долларов США)",
+                "Foreign direct investment (FDI) inflows",
                 ""
               ]
             },
