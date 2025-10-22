@@ -21,6 +21,7 @@
             "constraints": {
               "enum": [
                 "%",
+                "mln. USD",
                 ""
               ]
             },
@@ -38,6 +39,10 @@
                 "Annual inflation,consumer prices,copare to 2015",
                 "Annual growth of exports of goods and services",
                 "Annual growth of imports of goods and services",
+                "Merchandise trade as a proportion of GDP",
+                "Current account balance as a proportion of GDP",
+                "Foreign direct investment, net inflows, as a proportion of GDP",
+                "Portfolio investment, net (Balance of Payments, current mln United States dollars)",
                 ""
               ]
             },

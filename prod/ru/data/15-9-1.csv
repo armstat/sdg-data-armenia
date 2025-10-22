@@ -1,1 +1,4 @@
-Year,Value
+Year,Name,Units,Value
+1993,a. Convention on Biological Diversity (CBD),"да=1, нет=0",1
+2010,a. Aichi Biodiversity Targets,"да=1, нет=0",1
+2015,b. SEEA Water accounts,"да=1, нет=0",1

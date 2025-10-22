@@ -3030,14 +3030,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
+          },
+          {
+            "name": "Conventions (dates and places of adoption)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ՄԱԿ-ի ԵՏՀ «Մեծ հեռավորությունների վրա օդի անդրսահմանային աղտոտվածության մասին» կոնվենցիա (Ժնև, 1979թ.)",
+                "ՄԱԿ-ի ԵՏՀ «Արդյունաբերական վթարների անդրսահմանային ներգործության մասին» կոնվենցիա (Հելսինկի, 1992թ.)",
+                "«Վտանգավոր թափոնների անդրսահմանային փոխադրման և դրանց հեռացման նկատմամբ հսկողություն սահմանելու մասին» կոնվենցիա (Բազել, 1989թ.)",
+                "«Օզոնային շերտի պահպանության մասին» կոնվենցիա (Վիեննա, 1985թ.)",
+                "«Միջազգային առևտրում առանձին վտանգավոր քիմիական նյութերի և պեստիցիդների վերաբերյալ նախնական հիմնավորված համաձայնության ընթացակարգի կիրառման մասին» կոնվենցիա  (Ռոտերդամ, 1998թ.)",
+                "«Կայուն օրգանական աղտոտիչների մասին» կոնվենցիա (Ստոկհոլմ, 2001թ.)",
+                "Սնդիկի վերաբերյալ Մինամատայի կոնվենցիա (Կումամոտո, 2013)",
+                ""
+              ]
+            },
+            "title": "Conventions (dates and places of adoption)"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "այո=1, ոչ=0",
                 ""
               ]
             },
@@ -3045,7 +3063,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -4577,14 +4595,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
+          },
+          {
+            "name": "Name",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a. Convention on Biological Diversity (CBD)",
+                "a. Aichi Biodiversity Targets",
+                "b. SEEA Water accounts",
+                ""
+              ]
+            },
+            "title": "Name"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "այո=1, ոչ=0",
                 ""
               ]
             },
@@ -4592,7 +4624,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -4782,9 +4814,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-34 years",
-                "35-59 years",
-                "60 and more years",
+                "15-34",
+                "35-59",
+                "60 and over",
                 ""
               ]
             },
@@ -6052,6 +6084,7 @@
             "constraints": {
               "enum": [
                 "%",
+                "մլն. ԱՄՆ դոլար",
                 ""
               ]
             },
@@ -6069,6 +6102,10 @@
                 "Annual inflation,consumer prices,copare to 2015",
                 "Annual growth of exports of goods and services",
                 "Annual growth of imports of goods and services",
+                "Merchandise trade as a proportion of GDP",
+                "Current account balance as a proportion of GDP",
+                "Foreign direct investment, net inflows, as a proportion of GDP",
+                "Portfolio investment, net (Balance of Payments, current mln United States dollars)",
                 ""
               ]
             },
@@ -6509,7 +6546,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -6517,6 +6554,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Օտարերկրյա ուղղակի ներդրումների (ՕՈՒՆ) հոսքերը (մլն. ԱՄՆ դոլար)",
                 ""
               ]
             },
@@ -6527,6 +6565,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "մլն. ԱՄՆ դոլար",
                 ""
               ]
             },
@@ -6534,7 +6573,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]

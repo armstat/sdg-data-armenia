@@ -28,6 +28,7 @@ Indicator,Disaggregations,Number of disaggregations
 #11-5-2,Group,1
 #12-2-2-a,Category,1
 #12-3-1-a,Category,1
+#12-4-1,Conventions (dates and places of adoption),1
 #12-4-2,Type,1
 #13-1-1,Disaster type,1
 #13-1-1-a,Disaster type,1
@@ -36,6 +37,7 @@ Indicator,Disaggregations,Number of disaggregations
 #15-1-2,Category,1
 #15-2-1,Group,1
 #15-5-1,Group,1
+#15-9-1,Name,1
 #16-1-1,"Sex, Age",2
 #16-10-2,Question,1
 #16-2-1,Sex,1
@@ -46,6 +48,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-9-1,Sex,1
 #17-13-1,Indicator,1
 #17-19-2,Category,1
+#17-3-1,Indicator,1
 #17-6-1,Category,1
 #17-8-1,"Sex, Age",2
 #2-2-1,Sex,1

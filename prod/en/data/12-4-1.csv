@@ -1,1 +1,8 @@
-Year,Value
+Year,Conventions (dates and places of adoption),Units,Value
+1997,"UNECE Convention on Long-range Transboundary Air Pollution (Geneva, 1979)","yes=1, no=0",1
+1997,"UNECE Convention on the Transboundary Effects of Industrial Accidents (Helsinki, 1992)","yes=1, no=0",1
+1999,"Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal (Basel, 1989)","yes=1, no=0",1
+1999,"Convention for the Protection of the Ozone Layer  (Vienna, 1985)","yes=1, no=0",1
+2003,"Convention on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade (Rotterdam, 1998)","yes=1, no=0",1
+2003,"Stockholm Convention on Persistent Organic Pollutants (Stockholm, 2001)","yes=1, no=0",1
+2017,"Minamata Convention on Mercury (Kumamoto, 2013)","yes=1, no=0",1

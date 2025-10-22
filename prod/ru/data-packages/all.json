@@ -3030,14 +3030,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "Conventions (dates and places of adoption)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Конвенция ЕЭК ООН о трансграничном загрязнении воздуха на большие расстояния (Женева, 1979 г.)",
+                "Конвенция ЕЭК ООН о трансграничном воздействии промышленных аварий (Хельсинки, 1992 г.)",
+                "Конвенция о контроле за трансграничной перевозкой опасных отходов и их удалением (Базель, 1989 г.)",
+                "Конвенция об охране озонового слоя (Вена, 1985 г.)",
+                "Конвенция о процедуре предварительного обоснованного согласия в отношении отдельных опасных химических веществ и пестицидов в международной торговле (Роттердам, 1998 г.)",
+                "Стокгольмская конвенция о стойких органических загрязнителях (Стокгольм, 2001 г.)",
+                "Минаматская конвенция о ртути (Кумамото, 2013)",
+                ""
+              ]
+            },
+            "title": "Conventions (dates and places of adoption)"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "да=1, нет=0",
                 ""
               ]
             },
@@ -3045,7 +3063,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -4577,14 +4595,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "Name",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a. Convention on Biological Diversity (CBD)",
+                "a. Aichi Biodiversity Targets",
+                "b. SEEA Water accounts",
+                ""
+              ]
+            },
+            "title": "Name"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "да=1, нет=0",
                 ""
               ]
             },
@@ -4592,7 +4624,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -4782,9 +4814,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-34 years",
-                "35-59 years",
-                "60 and more years",
+                "15-34",
+                "35-59",
+                "60 and over",
                 ""
               ]
             },
@@ -6052,6 +6084,7 @@
             "constraints": {
               "enum": [
                 "%",
+                "млн. долл. США",
                 ""
               ]
             },
@@ -6069,6 +6102,10 @@
                 "Annual inflation,consumer prices,copare to 2015",
                 "Annual growth of exports of goods and services",
                 "Annual growth of imports of goods and services",
+                "Merchandise trade as a proportion of GDP",
+                "Current account balance as a proportion of GDP",
+                "Foreign direct investment, net inflows, as a proportion of GDP",
+                "Portfolio investment, net (Balance of Payments, current mln United States dollars)",
                 ""
               ]
             },
@@ -6509,7 +6546,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -6517,6 +6554,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Приток прямых иностранных инвестиций (ПИИ) (млн. долларов США)",
                 ""
               ]
             },
@@ -6527,6 +6565,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "млн. долл. США",
                 ""
               ]
             },
@@ -6534,7 +6573,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
