@@ -6500,41 +6500,6 @@
       "title": "Чистый  объем официальной помощи в целях развития (как суммарной, так и выделяемой наименее развитым странам) как доля валового национального дохода доноров из числа членов Комитета содействия развитию ОЭСР"
     },
     {
-      "path": "17-3-1-a/data.csv",
-      "name": "17-3-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Год"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "млн. долл. США",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Прямые иностранные инвестиции"
-    },
-    {
       "path": "17-3-1/data.csv",
       "name": "17-3-1",
       "profile": "tabular-data-resource",
