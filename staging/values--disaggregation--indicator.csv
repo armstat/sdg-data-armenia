@@ -1,4 +1,5 @@
 Value,Disaggregation combinations using this value,Number of indicators
+Annual broad money growth,1,1
 Annual GDP growth,1,1
 Annual growth of exports of goods and services,1,1
 Annual growth of households and NPISHs final consumption expenditure,1,1
@@ -7,6 +8,8 @@ Annual growth of the general government final consumption expenditure,1,1
 Annual growth of the gross capital formation,1,1
 "Annual inflation,consumer prices,copare to 2015",1,1
 At least one ultrasound examination during pregnancy,1,1
+Bank capital to assets ratio,1,1
+Broad money to total reserves ratio,1,1
 Case of death from leishmaniosis,1,1
 "Consumer Prices, Food Indexes (2015 = 100)",1,1
 Current account balance as a proportion of GDP,1,1
@@ -27,6 +30,7 @@ Proportions of gross state budget expenditures on the volume of scientific and t
 Providing antenatal care and care by qualified specialis,1,1
 Share of poor population who receive family benefit,1,1
 "Share of poor population who receive social assistance, including family benefit",1,1
+Tax revenue as a proportion of GDP,1,1
 "The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",24,1
 The share of families receiving family benefits to households,1,1
 The share of families receiving social benefits to households,1,1
