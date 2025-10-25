@@ -15,10 +15,11 @@
             "type": "integer"
           },
           {
-            "name": "Indicator",
-            "type": "number",
+            "name": "Series",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Open Data Inventory (ODIN) Coverage Index",
                 ""
               ]
             }

@@ -16,14 +16,15 @@
             "title": "Տարի"
           },
           {
-            "name": "Indicator",
-            "type": "number",
+            "name": "Series",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Բաց տվյալների գրանցամատյան (ODIN) Ընդգրկման ինդեքս",
                 ""
               ]
             },
-            "title": "Ցուցանիշ"
+            "title": "Series"
           },
           {
             "name": "Units",

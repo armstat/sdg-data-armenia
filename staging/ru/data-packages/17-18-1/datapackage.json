@@ -16,14 +16,15 @@
             "title": "Год"
           },
           {
-            "name": "Indicator",
-            "type": "number",
+            "name": "Series",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Реестр открытых данных (ODIN) Индекс охвата",
                 ""
               ]
             },
-            "title": "Индикатор"
+            "title": "Series"
           },
           {
             "name": "Units",

@@ -1,11 +1,11 @@
-Year,Indicator,Units,Value
-2015,,Index from 0 to 100,57.0
-2016,,Index from 0 to 100,55.0
-2017,,Index from 0 to 100,52.0
-2018,,Index from 0 to 100,50.0
-2019,,Index from 0 to 100,
-2020,,Index from 0 to 100,59.0
-2021,,Index from 0 to 100,
-2022,,Index from 0 to 100,60.0
-2023,,Index from 0 to 100,
-2024,,Index from 0 to 100,63.0
+Year,Series,Units,Value
+2015,Open Data Inventory (ODIN) Coverage Index,Index from 0 to 100,57.0
+2016,Open Data Inventory (ODIN) Coverage Index,Index from 0 to 100,55.0
+2017,Open Data Inventory (ODIN) Coverage Index,Index from 0 to 100,52.0
+2018,Open Data Inventory (ODIN) Coverage Index,Index from 0 to 100,50.0
+2019,Open Data Inventory (ODIN) Coverage Index,Index from 0 to 100,
+2020,Open Data Inventory (ODIN) Coverage Index,Index from 0 to 100,59.0
+2021,Open Data Inventory (ODIN) Coverage Index,Index from 0 to 100,
+2022,Open Data Inventory (ODIN) Coverage Index,Index from 0 to 100,60.0
+2023,Open Data Inventory (ODIN) Coverage Index,Index from 0 to 100,
+2024,Open Data Inventory (ODIN) Coverage Index,Index from 0 to 100,63.0
