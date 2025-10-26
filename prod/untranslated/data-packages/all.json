@@ -4226,7 +4226,7 @@
             "constraints": {
               "enum": [
                 "a. Convention on Biological Diversity (CBD)",
-                "a. Aichi Biodiversity Targets",
+                "a. Implementation of national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020",
                 "b. SEEA Water accounts",
                 ""
               ]
@@ -5605,6 +5605,10 @@
                 "Current account balance as a proportion of GDP",
                 "Foreign direct investment, net inflows, as a proportion of GDP",
                 "Portfolio investment, net (Balance of Payments, current mln United States dollars)",
+                "Bank capital to assets ratio",
+                "Annual broad money growth",
+                "Broad money to total reserves ratio",
+                "Tax revenue as a proportion of GDP",
                 ""
               ]
             }
@@ -5764,10 +5768,11 @@
             "type": "integer"
           },
           {
-            "name": "Indicator",
-            "type": "number",
+            "name": "Series",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Open Data Inventory (ODIN) Coverage Index",
                 ""
               ]
             }
@@ -5963,38 +5968,6 @@
         ]
       },
       "title": "global_indicators.17-2-1-title"
-    },
-    {
-      "path": "17-3-1-a/data.csv",
-      "name": "17-3-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mln. USD",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "meta.name-17-3-1-a"
     },
     {
       "path": "17-3-1/data.csv",
@@ -11917,8 +11890,18 @@
             }
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },

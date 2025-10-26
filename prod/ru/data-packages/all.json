@@ -4604,7 +4604,7 @@
             "constraints": {
               "enum": [
                 "a. Convention on Biological Diversity (CBD)",
-                "a. Aichi Biodiversity Targets",
+                "a. Implementation of national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020",
                 "b. SEEA Water accounts",
                 ""
               ]
@@ -6106,6 +6106,10 @@
                 "Current account balance as a proportion of GDP",
                 "Foreign direct investment, net inflows, as a proportion of GDP",
                 "Portfolio investment, net (Balance of Payments, current mln United States dollars)",
+                "Bank capital to assets ratio",
+                "Annual broad money growth",
+                "Broad money to total reserves ratio",
+                "Tax revenue as a proportion of GDP",
                 ""
               ]
             },
@@ -6280,14 +6284,15 @@
             "title": "Год"
           },
           {
-            "name": "Indicator",
-            "type": "number",
+            "name": "Series",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Реестр открытых данных (ODIN) Индекс охвата",
                 ""
               ]
             },
-            "title": "Индикатор"
+            "title": "Ряды"
           },
           {
             "name": "Units",
@@ -6498,41 +6503,6 @@
         ]
       },
       "title": "Чистый  объем официальной помощи в целях развития (как суммарной, так и выделяемой наименее развитым странам) как доля валового национального дохода доноров из числа членов Комитета содействия развитию ОЭСР"
-    },
-    {
-      "path": "17-3-1-a/data.csv",
-      "name": "17-3-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Год"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "млн. долл. США",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Прямые иностранные инвестиции"
     },
     {
       "path": "17-3-1/data.csv",
@@ -10269,7 +10239,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Ряды"
           },
           {
             "name": "Value",
@@ -13001,8 +12971,19 @@
             "title": "Группа"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
