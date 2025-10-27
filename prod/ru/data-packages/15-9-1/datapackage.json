@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a. Convention on Biological Diversity (CBD)",
-                "a. Implementation of national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020",
+                "a1. Convention on Biological Diversity (CBD)",
+                "a2. Implementation of national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020",
                 "b. SEEA Water accounts",
                 ""
               ]

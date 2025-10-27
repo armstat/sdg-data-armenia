@@ -4225,8 +4225,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a. Convention on Biological Diversity (CBD)",
-                "a. Implementation of national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020",
+                "a1. Convention on Biological Diversity (CBD)",
+                "a2. Implementation of national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020",
                 "b. SEEA Water accounts",
                 ""
               ]
@@ -4418,9 +4418,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-34",
-                "35-59",
-                "60 and over",
+                "aged 15-34 years",
+                "aged 35-59 years",
+                "aged 60 and over",
                 ""
               ]
             }
@@ -5633,22 +5633,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -5699,22 +5697,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },

@@ -1,86 +1,86 @@
 Year,Units,Ցուցանիշ,Value
-2013,%,Annual GDP growth,3.3
-2014,%,Annual GDP growth,3.6
-2015,%,Annual GDP growth,3.2
-2016,%,Annual GDP growth,0.2
-2017,%,Annual GDP growth,7.5
-2018,%,Annual GDP growth,5.2
-2019,%,Annual GDP growth,7.6
-2020,%,Annual GDP growth,-7.2
-2021,%,Annual GDP growth,5.8
-2022,%,Annual GDP growth,12.6
-2023,%,Annual GDP growth,8.3
-2024,%,Annual GDP growth,5.9
-2013,%,Annual growth of the general government final consumption expenditure,7.6
-2014,%,Annual growth of the general government final consumption expenditure,-1.2
-2015,%,Annual growth of the general government final consumption expenditure,4.7
-2016,%,Annual growth of the general government final consumption expenditure,-2.4
-2017,%,Annual growth of the general government final consumption expenditure,-2.1
-2018,%,Annual growth of the general government final consumption expenditure,-3.0
-2019,%,Annual growth of the general government final consumption expenditure,12.9
-2020,%,Annual growth of the general government final consumption expenditure,9.2
-2021,%,Annual growth of the general government final consumption expenditure,-6.2
-2022,%,Annual growth of the general government final consumption expenditure,-2.2
-2023,%,Annual growth of the general government final consumption expenditure,10.2
-2024,%,Annual growth of the general government final consumption expenditure,-9.5
-2013,%,Annual growth of the gross capital formation,-7.2
-2014,%,Annual growth of the gross capital formation,-0.7
-2015,%,Annual growth of the gross capital formation,-3.2
-2016,%,Annual growth of the gross capital formation,-8.7
-2017,%,Annual growth of the gross capital formation,10.3
-2018,%,Annual growth of the gross capital formation,34.5
-2019,%,Annual growth of the gross capital formation,-14.3
-2020,%,Annual growth of the gross capital formation,-0.5
-2021,%,Annual growth of the gross capital formation,20.5
-2022,%,Annual growth of the gross capital formation,11.2
-2023,%,Annual growth of the gross capital formation,14.7
-2024,%,Annual growth of the gross capital formation,11.3
-2013,%,Annual growth of households and NPISHs final consumption expenditure,1.7
-2014,%,Annual growth of households and NPISHs final consumption expenditure,1.6
-2015,%,Annual growth of households and NPISHs final consumption expenditure,-7.5
-2016,%,Annual growth of households and NPISHs final consumption expenditure,-2.1
-2017,%,Annual growth of households and NPISHs final consumption expenditure,14.0
-2018,%,Annual growth of households and NPISHs final consumption expenditure,4.8
-2019,%,Annual growth of households and NPISHs final consumption expenditure,11.4
-2020,%,Annual growth of households and NPISHs final consumption expenditure,-14.0
-2021,%,Annual growth of households and NPISHs final consumption expenditure,2.4
-2022,%,Annual growth of households and NPISHs final consumption expenditure,5.4
-2023,%,Annual growth of households and NPISHs final consumption expenditure,6.4
-2024,%,Annual growth of households and NPISHs final consumption expenditure,7.9
-2015,%,"Annual inflation,consumer prices,copare to 2015",0.0
-2016,%,"Annual inflation,consumer prices,copare to 2015",-1.4
-2017,%,"Annual inflation,consumer prices,copare to 2015",-0.4
-2018,%,"Annual inflation,consumer prices,copare to 2015",2.1
-2019,%,"Annual inflation,consumer prices,copare to 2015",3.5
-2020,%,"Annual inflation,consumer prices,copare to 2015",4.8
-2021,%,"Annual inflation,consumer prices,copare to 2015",12.3
-2022,%,"Annual inflation,consumer prices,copare to 2015",22.0
-2023,%,"Annual inflation,consumer prices,copare to 2015",24.4
-2024,%,"Annual inflation,consumer prices,copare to 2015",24.8
-2013,%,Annual growth of exports of goods and services,8.6
-2014,%,Annual growth of exports of goods and services,6.4
-2015,%,Annual growth of exports of goods and services,4.9
-2016,%,Annual growth of exports of goods and services,21.3
-2017,%,Annual growth of exports of goods and services,19.3
-2018,%,Annual growth of exports of goods and services,5.0
-2019,%,Annual growth of exports of goods and services,18.6
-2020,%,Annual growth of exports of goods and services,-33.9
-2021,%,Annual growth of exports of goods and services,18.2
-2022,%,Annual growth of exports of goods and services,65.3
-2023,%,Annual growth of exports of goods and services,32.3
-2024,%,Annual growth of exports of goods and services,27.6
-2013,%,Annual growth of imports of goods and services,0.0
-2014,%,Annual growth of imports of goods and services,-2.7
-2015,%,Annual growth of imports of goods and services,-15.3
-2016,%,Annual growth of imports of goods and services,6.3
-2017,%,Annual growth of imports of goods and services,24.6
-2018,%,Annual growth of imports of goods and services,13.3
-2019,%,Annual growth of imports of goods and services,13.3
-2020,%,Annual growth of imports of goods and services,-31.9
-2021,%,Annual growth of imports of goods and services,11.5
-2022,%,Annual growth of imports of goods and services,38.6
-2023,%,Annual growth of imports of goods and services,32.5
-2024,%,Annual growth of imports of goods and services,28.3
+2013,%,ՀՆԱ տարեկան աճ,3.3
+2014,%,ՀՆԱ տարեկան աճ,3.6
+2015,%,ՀՆԱ տարեկան աճ,3.2
+2016,%,ՀՆԱ տարեկան աճ,0.2
+2017,%,ՀՆԱ տարեկան աճ,7.5
+2018,%,ՀՆԱ տարեկան աճ,5.2
+2019,%,ՀՆԱ տարեկան աճ,7.6
+2020,%,ՀՆԱ տարեկան աճ,-7.2
+2021,%,ՀՆԱ տարեկան աճ,5.8
+2022,%,ՀՆԱ տարեկան աճ,12.6
+2023,%,ՀՆԱ տարեկան աճ,8.3
+2024,%,ՀՆԱ տարեկան աճ,5.9
+2013,%,Պետական հիմնարկների վերջնական սպառման ծախսերի աճ,7.6
+2014,%,Պետական հիմնարկների վերջնական սպառման ծախսերի աճ,-1.2
+2015,%,Պետական հիմնարկների վերջնական սպառման ծախսերի աճ,4.7
+2016,%,Պետական հիմնարկների վերջնական սպառման ծախսերի աճ,-2.4
+2017,%,Պետական հիմնարկների վերջնական սպառման ծախսերի աճ,-2.1
+2018,%,Պետական հիմնարկների վերջնական սպառման ծախսերի աճ,-3.0
+2019,%,Պետական հիմնարկների վերջնական սպառման ծախսերի աճ,12.9
+2020,%,Պետական հիմնարկների վերջնական սպառման ծախսերի աճ,9.2
+2021,%,Պետական հիմնարկների վերջնական սպառման ծախսերի աճ,-6.2
+2022,%,Պետական հիմնարկների վերջնական սպառման ծախսերի աճ,-2.2
+2023,%,Պետական հիմնարկների վերջնական սպառման ծախսերի աճ,10.2
+2024,%,Պետական հիմնարկների վերջնական սպառման ծախսերի աճ,-9.5
+2013,%,Համախառն կուտակման աճ,-7.2
+2014,%,Համախառն կուտակման աճ,-0.7
+2015,%,Համախառն կուտակման աճ,-3.2
+2016,%,Համախառն կուտակման աճ,-8.7
+2017,%,Համախառն կուտակման աճ,10.3
+2018,%,Համախառն կուտակման աճ,34.5
+2019,%,Համախառն կուտակման աճ,-14.3
+2020,%,Համախառն կուտակման աճ,-0.5
+2021,%,Համախառն կուտակման աճ,20.5
+2022,%,Համախառն կուտակման աճ,11.2
+2023,%,Համախառն կուտակման աճ,14.7
+2024,%,Համախառն կուտակման աճ,11.3
+2013,%,Տնային տնտեսությունների և տնային տնտեսությունները սպասարկող ոչ առևտրային կազմակերպությունների վերջնական սպառման ծախսերի աճ,1.7
+2014,%,Տնային տնտեսությունների և տնային տնտեսությունները սպասարկող ոչ առևտրային կազմակերպությունների վերջնական սպառման ծախսերի աճ,1.6
+2015,%,Տնային տնտեսությունների և տնային տնտեսությունները սպասարկող ոչ առևտրային կազմակերպությունների վերջնական սպառման ծախսերի աճ,-7.5
+2016,%,Տնային տնտեսությունների և տնային տնտեսությունները սպասարկող ոչ առևտրային կազմակերպությունների վերջնական սպառման ծախսերի աճ,-2.1
+2017,%,Տնային տնտեսությունների և տնային տնտեսությունները սպասարկող ոչ առևտրային կազմակերպությունների վերջնական սպառման ծախսերի աճ,14.0
+2018,%,Տնային տնտեսությունների և տնային տնտեսությունները սպասարկող ոչ առևտրային կազմակերպությունների վերջնական սպառման ծախսերի աճ,4.8
+2019,%,Տնային տնտեսությունների և տնային տնտեսությունները սպասարկող ոչ առևտրային կազմակերպությունների վերջնական սպառման ծախսերի աճ,11.4
+2020,%,Տնային տնտեսությունների և տնային տնտեսությունները սպասարկող ոչ առևտրային կազմակերպությունների վերջնական սպառման ծախսերի աճ,-14.0
+2021,%,Տնային տնտեսությունների և տնային տնտեսությունները սպասարկող ոչ առևտրային կազմակերպությունների վերջնական սպառման ծախսերի աճ,2.4
+2022,%,Տնային տնտեսությունների և տնային տնտեսությունները սպասարկող ոչ առևտրային կազմակերպությունների վերջնական սպառման ծախսերի աճ,5.4
+2023,%,Տնային տնտեսությունների և տնային տնտեսությունները սպասարկող ոչ առևտրային կազմակերպությունների վերջնական սպառման ծախսերի աճ,6.4
+2024,%,Տնային տնտեսությունների և տնային տնտեսությունները սպասարկող ոչ առևտրային կազմակերպությունների վերջնական սպառման ծախսերի աճ,7.9
+2015,%,"ՀՀ Սպառողական գների ինդեքսը, 2015 թվականի նկատմամբ",0.0
+2016,%,"ՀՀ Սպառողական գների ինդեքսը, 2015 թվականի նկատմամբ",-1.4
+2017,%,"ՀՀ Սպառողական գների ինդեքսը, 2015 թվականի նկատմամբ",-0.4
+2018,%,"ՀՀ Սպառողական գների ինդեքսը, 2015 թվականի նկատմամբ",2.1
+2019,%,"ՀՀ Սպառողական գների ինդեքսը, 2015 թվականի նկատմամբ",3.5
+2020,%,"ՀՀ Սպառողական գների ինդեքսը, 2015 թվականի նկատմամբ",4.8
+2021,%,"ՀՀ Սպառողական գների ինդեքսը, 2015 թվականի նկատմամբ",12.3
+2022,%,"ՀՀ Սպառողական գների ինդեքսը, 2015 թվականի նկատմամբ",22.0
+2023,%,"ՀՀ Սպառողական գների ինդեքսը, 2015 թվականի նկատմամբ",24.4
+2024,%,"ՀՀ Սպառողական գների ինդեքսը, 2015 թվականի նկատմամբ",24.8
+2013,%,Ապրանքների և ծառայությունների արտահանման աճ,8.6
+2014,%,Ապրանքների և ծառայությունների արտահանման աճ,6.4
+2015,%,Ապրանքների և ծառայությունների արտահանման աճ,4.9
+2016,%,Ապրանքների և ծառայությունների արտահանման աճ,21.3
+2017,%,Ապրանքների և ծառայությունների արտահանման աճ,19.3
+2018,%,Ապրանքների և ծառայությունների արտահանման աճ,5.0
+2019,%,Ապրանքների և ծառայությունների արտահանման աճ,18.6
+2020,%,Ապրանքների և ծառայությունների արտահանման աճ,-33.9
+2021,%,Ապրանքների և ծառայությունների արտահանման աճ,18.2
+2022,%,Ապրանքների և ծառայությունների արտահանման աճ,65.3
+2023,%,Ապրանքների և ծառայությունների արտահանման աճ,32.3
+2024,%,Ապրանքների և ծառայությունների արտահանման աճ,27.6
+2013,%,Ապրանքների և ծառայությունների ներմուծման աճ,0.0
+2014,%,Ապրանքների և ծառայությունների ներմուծման աճ,-2.7
+2015,%,Ապրանքների և ծառայությունների ներմուծման աճ,-15.3
+2016,%,Ապրանքների և ծառայությունների ներմուծման աճ,6.3
+2017,%,Ապրանքների և ծառայությունների ներմուծման աճ,24.6
+2018,%,Ապրանքների և ծառայությունների ներմուծման աճ,13.3
+2019,%,Ապրանքների և ծառայությունների ներմուծման աճ,13.3
+2020,%,Ապրանքների և ծառայությունների ներմուծման աճ,-31.9
+2021,%,Ապրանքների և ծառայությունների ներմուծման աճ,11.5
+2022,%,Ապրանքների և ծառայությունների ներմուծման աճ,38.6
+2023,%,Ապրանքների և ծառայությունների ներմուծման աճ,32.5
+2024,%,Ապրանքների և ծառայությունների ներմուծման աճ,28.3
 2015,%,Merchandise trade as a proportion of GDP,44.8
 2016,%,Merchandise trade as a proportion of GDP,48.0
 2017,%,Merchandise trade as a proportion of GDP,55.0
@@ -121,43 +121,43 @@ Year,Units,Ցուցանիշ,Value
 2022,մլն. ԱՄՆ դոլար,"Portfolio investment, net (Balance of Payments, current mln United States dollars)",1364.1
 2023,մլն. ԱՄՆ դոլար,"Portfolio investment, net (Balance of Payments, current mln United States dollars)",-39.0
 2024,մլն. ԱՄՆ դոլար,"Portfolio investment, net (Balance of Payments, current mln United States dollars)",154.8
-2015,%,Bank capital to assets ratio,14.7
-2016,%,Bank capital to assets ratio,16.4
-2017,%,Bank capital to assets ratio,15.7
-2018,%,Bank capital to assets ratio,15.0
-2019,%,Bank capital to assets ratio,14.1
-2020,%,Bank capital to assets ratio,13.1
-2021,%,Bank capital to assets ratio,13.0
-2022,%,Bank capital to assets ratio,14.9
-2023,%,Bank capital to assets ratio,14.8
-2024,%,Bank capital to assets ratio,15.4
-2015,%,Annual broad money growth,10.8
-2016,%,Annual broad money growth,17.5
-2017,%,Annual broad money growth,18.5
-2018,%,Annual broad money growth,7.4
-2019,%,Annual broad money growth,11.2
-2020,%,Annual broad money growth,9.0
-2021,%,Annual broad money growth,13.1
-2022,%,Annual broad money growth,16.1
-2023,%,Annual broad money growth,17.4
-2024,%,Annual broad money growth,13.7
-2015,%,Broad money to total reserves ratio,216.1
-2016,%,Broad money to total reserves ratio,204.7
-2017,%,Broad money to total reserves ratio,230.6
-2018,%,Broad money to total reserves ratio,255.0
-2019,%,Broad money to total reserves ratio,225.7
-2020,%,Broad money to total reserves ratio,246.0
-2021,%,Broad money to total reserves ratio,246.3
-2022,%,Broad money to total reserves ratio,272.8
-2023,%,Broad money to total reserves ratio,355.0
-2024,%,Broad money to total reserves ratio,404.9
-2015,%,Tax revenue as a proportion of GDP,23.2
-2016,%,Tax revenue as a proportion of GDP,23.1
-2017,%,Tax revenue as a proportion of GDP,22.2
-2018,%,Tax revenue as a proportion of GDP,22.3
-2019,%,Tax revenue as a proportion of GDP,23.9
-2020,%,Tax revenue as a proportion of GDP,25.2
-2021,%,Tax revenue as a proportion of GDP,24.1
-2022,%,Tax revenue as a proportion of GDP,24.3
-2023,%,Tax revenue as a proportion of GDP,24.8
-2024,%,Tax revenue as a proportion of GDP,25.3
+2015,%,Բանկի կապիտալի և ակտիվների հարաբերակցությունը,14.7
+2016,%,Բանկի կապիտալի և ակտիվների հարաբերակցությունը,16.4
+2017,%,Բանկի կապիտալի և ակտիվների հարաբերակցությունը,15.7
+2018,%,Բանկի կապիտալի և ակտիվների հարաբերակցությունը,15.0
+2019,%,Բանկի կապիտալի և ակտիվների հարաբերակցությունը,14.1
+2020,%,Բանկի կապիտալի և ակտիվների հարաբերակցությունը,13.1
+2021,%,Բանկի կապիտալի և ակտիվների հարաբերակցությունը,13.0
+2022,%,Բանկի կապիտալի և ակտիվների հարաբերակցությունը,14.9
+2023,%,Բանկի կապիտալի և ակտիվների հարաբերակցությունը,14.8
+2024,%,Բանկի կապիտալի և ակտիվների հարաբերակցությունը,15.4
+2015,%,Փողի զանգվածի տարեկան աճը,10.8
+2016,%,Փողի զանգվածի տարեկան աճը,17.5
+2017,%,Փողի զանգվածի տարեկան աճը,18.5
+2018,%,Փողի զանգվածի տարեկան աճը,7.4
+2019,%,Փողի զանգվածի տարեկան աճը,11.2
+2020,%,Փողի զանգվածի տարեկան աճը,9.0
+2021,%,Փողի զանգվածի տարեկան աճը,13.1
+2022,%,Փողի զանգվածի տարեկան աճը,16.1
+2023,%,Փողի զանգվածի տարեկան աճը,17.4
+2024,%,Փողի զանգվածի տարեկան աճը,13.7
+2015,%,Փողի զանգվածի և ընդհանուր պահուստների հարաբերակցությունը,216.1
+2016,%,Փողի զանգվածի և ընդհանուր պահուստների հարաբերակցությունը,204.7
+2017,%,Փողի զանգվածի և ընդհանուր պահուստների հարաբերակցությունը,230.6
+2018,%,Փողի զանգվածի և ընդհանուր պահուստների հարաբերակցությունը,255.0
+2019,%,Փողի զանգվածի և ընդհանուր պահուստների հարաբերակցությունը,225.7
+2020,%,Փողի զանգվածի և ընդհանուր պահուստների հարաբերակցությունը,246.0
+2021,%,Փողի զանգվածի և ընդհանուր պահուստների հարաբերակցությունը,246.3
+2022,%,Փողի զանգվածի և ընդհանուր պահուստների հարաբերակցությունը,272.8
+2023,%,Փողի զանգվածի և ընդհանուր պահուստների հարաբերակցությունը,355.0
+2024,%,Փողի զանգվածի և ընդհանուր պահուստների հարաբերակցությունը,404.9
+2015,%,Հարկային եկամուտները որպես ՀՆԱ-ի համամասնություն,23.2
+2016,%,Հարկային եկամուտները որպես ՀՆԱ-ի համամասնություն,23.1
+2017,%,Հարկային եկամուտները որպես ՀՆԱ-ի համամասնություն,22.2
+2018,%,Հարկային եկամուտները որպես ՀՆԱ-ի համամասնություն,22.3
+2019,%,Հարկային եկամուտները որպես ՀՆԱ-ի համամասնություն,23.9
+2020,%,Հարկային եկամուտները որպես ՀՆԱ-ի համամասնություն,25.2
+2021,%,Հարկային եկամուտները որպես ՀՆԱ-ի համամասնություն,24.1
+2022,%,Հարկային եկամուտները որպես ՀՆԱ-ի համամասնություն,24.3
+2023,%,Հարկային եկամուտները որպես ՀՆԱ-ի համամասնություն,24.8
+2024,%,Հարկային եկամուտները որպես ՀՆԱ-ի համամասնություն,25.3

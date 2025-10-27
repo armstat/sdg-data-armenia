@@ -2888,7 +2888,7 @@
           }
         ]
       },
-      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+      "title": "Value of final material consumption by households, value of final material consumption per capita, value of final material consumption per GDP"
     },
     {
       "path": "12-2-2/data.csv",
@@ -4603,8 +4603,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a. Convention on Biological Diversity (CBD)",
-                "a. Implementation of national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020",
+                "a1. Convention on Biological Diversity (CBD)",
+                "a2. Implementation of national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020",
                 "b. SEEA Water accounts",
                 ""
               ]
@@ -4814,9 +4814,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-34",
-                "35-59",
-                "60 and over",
+                "aged 35-59 years",
+                "aged 35-59 years",
+                "aged 60 and over",
                 ""
               ]
             },
@@ -6136,24 +6136,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -6208,24 +6206,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
