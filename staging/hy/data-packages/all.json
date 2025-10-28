@@ -12954,18 +12954,6 @@
             "title": "Տարի"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Խումբ"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {

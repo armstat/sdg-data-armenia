@@ -12954,18 +12954,6 @@
             "title": "Год"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Группа"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
