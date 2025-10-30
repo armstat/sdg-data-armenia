@@ -22,6 +22,7 @@
               "enum": [
                 "%",
                 "մլն. ԱՄՆ դոլար",
+                "AMD",
                 ""
               ]
             },
@@ -48,7 +49,8 @@
                 "Փողի զանգվածի և ընդհանուր պահուստների հարաբերակցությունը",
                 "Հարկային եկամուտները որպես ՀՆԱ-ի համամասնություն",
                 "Դրամական միջոցների հավելուրդը/ դեֆիցիտը ՀՆԱ նկատմամբ",
-                "Total reserves in months of imports (ratio) ",
+                "Total reserves in months of imports (ratio)",
+                "DEC alternative conversion factor (in local currency unit per United States dollar)",
                 ""
               ]
             },

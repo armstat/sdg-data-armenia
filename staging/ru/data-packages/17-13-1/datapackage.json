@@ -22,6 +22,7 @@
               "enum": [
                 "%",
                 "млн. долл. США",
+                "AMD",
                 ""
               ]
             },
@@ -48,7 +49,8 @@
                 "Соотношение денежной массы к общему объему резервов",
                 "Налоговые поступления в процентах от ВВП",
                 "Профицит/дефицит денежных средств в процентах от ВВП",
-                "Total reserves in months of imports (ratio) ",
+                "Total reserves in months of imports (ratio)",
+                "DEC alternative conversion factor (in local currency unit per United States dollar)",
                 ""
               ]
             },
