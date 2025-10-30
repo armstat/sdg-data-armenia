@@ -2435,7 +2435,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1",
+                "yes=1,no=0",
                 ""
               ]
             }
