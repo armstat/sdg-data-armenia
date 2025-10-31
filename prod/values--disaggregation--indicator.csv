@@ -14,8 +14,10 @@ Case of death from leishmaniosis,1,1
 Cash surplus/deficit as a proportion of GDP,1,1
 "Consumer Prices, Food Indexes (2015 = 100)",1,1
 Current account balance as a proportion of GDP,1,1
+DEC alternative conversion factor (in local currency unit per United States dollar),1,1
 "During the first two days after birth, the mother's postnatal check",1,1
 "During the first two days after birth, the newborn testing",1,1
+External debt stocks as a proportion of GNI,1,1
 Foreign direct investment (FDI) inflows,1,1
 "Foreign direct investment, net inflows, as a proportion of GDP",1,1
 "Indicator of Food Price Anomalies (IFPA), by Consumer Food Price Index, Total",1,1
@@ -36,3 +38,4 @@ Tax revenue as a proportion of GDP,1,1
 The share of families receiving family benefits to households,1,1
 The share of families receiving social benefits to households,1,1
 The share of pensioners to the total number of population at the end of the year,45,1
+Total reserves in months of imports (ratio),1,1

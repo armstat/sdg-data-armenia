@@ -2641,7 +2641,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -2649,6 +2649,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "yes=1,no=0",
                 ""
               ]
             },
@@ -2656,7 +2657,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -6083,6 +6084,7 @@
               "enum": [
                 "%",
                 "mln. USD",
+                "AMD",
                 ""
               ]
             },
@@ -6109,6 +6111,9 @@
                 "Broad money to total reserves ratio",
                 "Tax revenue as a proportion of GDP",
                 "Cash surplus/deficit as a proportion of GDP",
+                "Total reserves in months of imports (ratio)",
+                "DEC alternative conversion factor (in local currency unit per United States dollar)",
+                "External debt stocks as a proportion of GNI",
                 ""
               ]
             },
