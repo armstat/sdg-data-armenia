@@ -6111,9 +6111,9 @@
                 "Соотношение денежной массы к общему объему резервов",
                 "Налоговые поступления в процентах от ВВП",
                 "Профицит/дефицит денежных средств в процентах от ВВП",
-                "Total reserves in months of imports (ratio)",
-                "DEC alternative conversion factor (in local currency unit per United States dollar)",
-                "External debt stocks as a proportion of GNI",
+                "Общие резервы в месяцах импорта (соотношение)",
+                "Альтернативный коэффициент пересчета DEC (в местной валюте за доллар США)",
+                "Объем внешнего долга по отношению к ВНД",
                 ""
               ]
             },
