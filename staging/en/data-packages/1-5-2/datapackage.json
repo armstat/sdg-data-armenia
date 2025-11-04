@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
@@ -29,7 +29,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Indicator"
           },
           {
             "name": "Value",
