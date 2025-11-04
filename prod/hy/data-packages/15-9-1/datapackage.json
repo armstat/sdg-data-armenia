@@ -16,17 +16,17 @@
             "title": "Տարի"
           },
           {
-            "name": "Name",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a1. Convention on Biological Diversity (CBD)",
-                "a2. Implementation of national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020",
-                "b. SEEA Water accounts",
+                "ա1. Կենսաբանական բազմազանության Կոնվենցիա",
+                "ա2. Կենսաբազմազանության 2011-2020 թվականների ռազմավարական ծրագրի Աիչիի կենսաբազմազանության 2-րդ նպատակին համապատասխան ազգային նպատակների իրականացում",
+                "բ. Բնապահպանական-տնտեսական հաշիվների ներդրում. Ջրի հաշիվներ",
                 ""
               ]
             },
-            "title": "Name"
+            "title": "Շարքեր"
           },
           {
             "name": "Units",

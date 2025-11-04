@@ -1069,7 +1069,7 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3966,7 +3966,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1000 ha",
+                "%",
                 ""
               ]
             }
@@ -4120,22 +4120,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -4220,7 +4218,7 @@
             "type": "integer"
           },
           {
-            "name": "Name",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [

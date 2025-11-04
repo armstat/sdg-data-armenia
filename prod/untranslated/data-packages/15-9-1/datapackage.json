@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Name",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [

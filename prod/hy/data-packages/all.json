@@ -1160,7 +1160,7 @@
             "title": "Տարի"
           },
           {
-            "name": "Group",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1173,7 +1173,7 @@
                 ""
               ]
             },
-            "title": "Խումբ"
+            "title": "Ցուցանիշ"
           },
           {
             "name": "Value",
@@ -4320,7 +4320,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1000 ha",
+                "%",
                 ""
               ]
             },
@@ -4488,24 +4488,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Խումբ"
+            "title": "Շարքեր"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -4598,17 +4596,17 @@
             "title": "Տարի"
           },
           {
-            "name": "Name",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a1. Convention on Biological Diversity (CBD)",
-                "a2. Implementation of national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020",
-                "b. SEEA Water accounts",
+                "ա1. Կենսաբանական բազմազանության Կոնվենցիա",
+                "ա2. Կենսաբազմազանության 2011-2020 թվականների ռազմավարական ծրագրի Աիչիի կենսաբազմազանության 2-րդ նպատակին համապատասխան ազգային նպատակների իրականացում",
+                "բ. Բնապահպանական-տնտեսական հաշիվների ներդրում. Ջրի հաշիվներ",
                 ""
               ]
             },
-            "title": "Name"
+            "title": "Շարքեր"
           },
           {
             "name": "Units",
@@ -4813,8 +4811,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "15-34 տարեկան",
                 "35-59 տարեկան",
-                "aged 35-59 years",
                 "60 և բարձր",
                 ""
               ]
