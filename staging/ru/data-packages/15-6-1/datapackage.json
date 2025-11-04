@@ -16,14 +16,14 @@
             "title": "Год"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Ряды"
           },
           {
             "name": "Value",
