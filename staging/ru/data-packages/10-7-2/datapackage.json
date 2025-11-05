@@ -12,22 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
-            "name": "Units",
+            "name": "Policy area",
             "type": "string",
             "constraints": {
               "enum": [
+                "Domain 1. Migrant rights",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Policy area"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
