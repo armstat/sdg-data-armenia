@@ -2231,7 +2231,7 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3952,7 +3952,7 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [

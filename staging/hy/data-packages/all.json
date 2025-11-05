@@ -2427,7 +2427,7 @@
             "title": "Տարի"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2440,7 +2440,7 @@
                 ""
               ]
             },
-            "title": "Խումբ"
+            "title": "Շարքեր"
           },
           {
             "name": "Value",
@@ -4305,7 +4305,7 @@
             "title": "Տարի"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4313,7 +4313,7 @@
                 ""
               ]
             },
-            "title": "Խումբ"
+            "title": "Շարքեր"
           },
           {
             "name": "Units",
