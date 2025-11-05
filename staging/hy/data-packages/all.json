@@ -4596,7 +4596,7 @@
             "title": "Տարի"
           },
           {
-            "name": "Series",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4606,7 +4606,7 @@
                 ""
               ]
             },
-            "title": "Շարքեր"
+            "title": "Ցուցանիշ"
           },
           {
             "name": "Units",

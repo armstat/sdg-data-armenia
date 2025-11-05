@@ -16,7 +16,7 @@
             "title": "Год"
           },
           {
-            "name": "Series",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
@@ -26,7 +26,7 @@
                 ""
               ]
             },
-            "title": "Ряды"
+            "title": "Индикатор"
           },
           {
             "name": "Units",
