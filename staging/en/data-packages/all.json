@@ -1160,7 +1160,7 @@
             "title": "Year"
           },
           {
-            "name": "Indicator",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1173,7 +1173,7 @@
                 ""
               ]
             },
-            "title": "Indicator"
+            "title": "Series"
           },
           {
             "name": "Value",
