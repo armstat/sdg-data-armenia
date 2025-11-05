@@ -1,5 +1,6 @@
-10-7-2: 'Notes:' </br>
-1 = Requires further progress; </br> 
-2 = Partially meets; </br>
-3 = Meets;  </br>
-4 = Fully meets.
+10-7-2: |
+    **Notes:**  
+    1 = Requires further progress  
+    2 = Partially meets  
+    3 = Meets  
+    4 = Fully meets
