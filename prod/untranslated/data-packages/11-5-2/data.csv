@@ -1,31 +1,31 @@
-Year,Group,Value
-2020,"Direct economic loss attributed to disasters in relation to GDP, %",0.06
-2020,Direct agricultural loss attributed to disasters,7452653.7
-2020,"Direct economic loss in the housing sector attributed to disasters, USD",465918.9
-2020,"Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters, USD",8188.6
-2020,"Direct economic loss to cultural heritage damaged or destroyed attributed to disasters, USD",0.0
-2021,"Direct economic loss attributed to disasters in relation to GDP, %",0.1
-2021,Direct agricultural loss attributed to disasters,15084840.8
-2021,"Direct economic loss in the housing sector attributed to disasters, USD",571959.8
-2021,"Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters, USD",6697.5
-2021,"Direct economic loss to cultural heritage damaged or destroyed attributed to disasters, USD",0.0
-2022,"Direct economic loss attributed to disasters in relation to GDP, %",0.01
-2022,Direct agricultural loss attributed to disasters,1167056.9
-2022,"Direct economic loss in the housing sector attributed to disasters, USD",351652.8
-2022,"Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters, USD",39002.5
-2022,"Direct economic loss to cultural heritage damaged or destroyed attributed to disasters, USD",0.0
-2023,"Direct economic loss attributed to disasters in relation to GDP, %",0.01
-2023,Direct agricultural loss attributed to disasters,1850069.3
-2023,"Direct economic loss in the housing sector attributed to disasters, USD",276292.6
-2023,"Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters, USD",11452.8
-2023,"Direct economic loss to cultural heritage damaged or destroyed attributed to disasters, USD",305.8
-2024,"Direct economic loss attributed to disasters in relation to GDP, %",0.2
-2024,Direct agricultural loss attributed to disasters,14847759.6
-2024,"Direct economic loss in the housing sector attributed to disasters, USD",6160984.8
-2024,"Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters, USD",24491841.0
-2024,"Direct economic loss to cultural heritage damaged or destroyed attributed to disasters, USD",0.0
-2024,Direct economic loss to all other damaged or destroyed productive assets attributed to disasters,6209617.6
-2020,Direct economic loss to all other damaged or destroyed productive assets attributed to disasters,0.0
-2021,Direct economic loss to all other damaged or destroyed productive assets attributed to disasters,0.0
-2022,Direct economic loss to all other damaged or destroyed productive assets attributed to disasters,0.0
-2023,Direct economic loss to all other damaged or destroyed productive assets attributed to disasters,0.0
+Year,Series,Units,Value
+2020,Direct economic loss attributed to disasters in relation to GDP,%,0.06
+2020,Direct agricultural loss attributed to disasters,USD,7452653.7
+2020,Direct economic loss in the housing sector attributed to disasters,USD,465918.9
+2020,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,USD,8188.6
+2020,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters,USD,0.0
+2021,Direct economic loss attributed to disasters in relation to GDP,%,0.1
+2021,Direct agricultural loss attributed to disasters,USD,15084840.8
+2021,Direct economic loss in the housing sector attributed to disasters,USD,571959.8
+2021,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,USD,6697.5
+2021,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters,USD,0.0
+2022,Direct economic loss attributed to disasters in relation to GDP,%,0.01
+2022,Direct agricultural loss attributed to disasters,USD,1167056.9
+2022,Direct economic loss in the housing sector attributed to disasters,USD,351652.8
+2022,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,USD,39002.5
+2022,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters,USD,0.0
+2023,Direct economic loss attributed to disasters in relation to GDP,%,0.01
+2023,Direct agricultural loss attributed to disasters,USD,1850069.3
+2023,Direct economic loss in the housing sector attributed to disasters,USD,276292.6
+2023,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,USD,11452.8
+2023,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters,USD,305.8
+2024,Direct economic loss attributed to disasters in relation to GDP,%,0.2
+2024,Direct agricultural loss attributed to disasters,USD,14847759.6
+2024,Direct economic loss in the housing sector attributed to disasters,USD,6160984.8
+2024,Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters,USD,24491841.0
+2024,Direct economic loss to cultural heritage damaged or destroyed attributed to disasters,USD,0.0
+2024,Direct economic loss to all other damaged or destroyed productive assets attributed to disasters,USD,6209617.6
+2020,Direct economic loss to all other damaged or destroyed productive assets attributed to disasters,USD,0.0
+2021,Direct economic loss to all other damaged or destroyed productive assets attributed to disasters,USD,0.0
+2022,Direct economic loss to all other damaged or destroyed productive assets attributed to disasters,USD,0.0
+2023,Direct economic loss to all other damaged or destroyed productive assets attributed to disasters,USD,0.0

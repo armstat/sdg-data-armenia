@@ -15,17 +15,16 @@ Indicator,Disaggregations,Number of disaggregations
 #1-4-2,"Sex, Tenure_TYPE",2
 #1-5-1,Disaster type,1
 #1-5-1-a,Disaster type,1
-#1-5-2,Indicator,1
 #1-a-2,Category,1
 #10-1-1,Category,1
 #10-5-1,Financial Soundness Indicators,1
 #10-6-1,Agency,1
+#10-7-2,Policy area,1
 #10-7-4,Country,1
 #11-1-1-a,"Sex, Location, Category, Poverty, Quintiles",5
 #11-2-1,"Sex, Age, Type",3
 #11-5-1,Disaster type,1
 #11-5-1-a,Disaster type,1
-#11-5-2,Group,1
 #12-2-2-a,Category,1
 #12-3-1-a,Category,1
 #12-4-1,Conventions (dates and places of adoption),1
@@ -35,7 +34,6 @@ Indicator,Disaggregations,Number of disaggregations
 #13-2-1,Group,1
 #14-c-1,Membership,1
 #15-1-2,Category,1
-#15-2-1,Group,1
 #15-5-1,Group,1
 #15-9-1,Indicator,1
 #16-1-1,"Sex, Age",2

@@ -1160,20 +1160,32 @@
             "title": "Տարի"
           },
           {
-            "name": "Indicator",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Direct economic loss attributed to disasters in relation to GDP, %",
+                "Direct economic loss attributed to disasters in relation to GDP",
                 "Direct agricultural loss attributed to disasters",
-                "Direct economic loss in the housing sector attributed to disasters, USD",
-                "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters, USD",
-                "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters, USD",
+                "Direct economic loss in the housing sector attributed to disasters",
+                "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters",
+                "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters",
                 "Direct economic loss to all other damaged or destroyed productive assets attributed to disasters",
                 ""
               ]
             },
-            "title": "Ցուցանիշ"
+            "title": "Շարքեր"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                "ԱՄՆ դոլար",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -1781,22 +1793,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
-            "name": "Units",
+            "name": "Policy area",
             "type": "string",
             "constraints": {
               "enum": [
+                "Domain 1. Migrant rights",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Policy area"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -2427,20 +2440,32 @@
             "title": "Տարի"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Direct economic loss attributed to disasters in relation to GDP, %",
+                "Direct economic loss attributed to disasters in relation to GDP",
                 "Direct agricultural loss attributed to disasters",
-                "Direct economic loss in the housing sector attributed to disasters, USD",
-                "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters, USD",
-                "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters, USD",
+                "Direct economic loss in the housing sector attributed to disasters",
+                "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters",
+                "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters",
                 "Direct economic loss to all other damaged or destroyed productive assets attributed to disasters",
                 ""
               ]
             },
-            "title": "Խումբ"
+            "title": "Շարքեր"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                "ԱՄՆ դոլար",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -4305,7 +4330,7 @@
             "title": "Տարի"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4313,7 +4338,7 @@
                 ""
               ]
             },
-            "title": "Խումբ"
+            "title": "Շարքեր"
           },
           {
             "name": "Units",
