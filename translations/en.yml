@@ -1,0 +1,9 @@
+unit_measurement: Note
+unit_note:
+  10-7-2: |
+    **Notes:**  
+    1 = Requires further progress  
+    2 = Partially meets  
+    3 = Meets  
+    4 = Fully meets  
+    Data is only available from 2018.
