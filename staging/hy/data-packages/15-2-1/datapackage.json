@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of forest area within legally established protected areas",
+                "Անտառածածկ տարածքի համամասնությունը օրենքով սահմանված պահպանվող տարածքներում",
                 ""
               ]
             },
