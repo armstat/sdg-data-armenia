@@ -12881,7 +12881,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "ընդամենը",
                 ""
               ]
             },
@@ -12892,8 +12892,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "տղամարդ",
+                "կին",
                 ""
               ]
             },
@@ -12904,8 +12904,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of employees",
-                "Number of non-employees",
+                "number of employees",
+                "number of non-employees",
                 ""
               ]
             },
