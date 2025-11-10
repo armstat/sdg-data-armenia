@@ -12,13 +12,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "Total",
                 ""
               ]
             }
@@ -28,6 +29,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Male",
+                "Female",
                 ""
               ]
             }
@@ -37,13 +40,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Number of employees",
+                "Number of non-employees",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       }
