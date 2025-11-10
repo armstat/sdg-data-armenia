@@ -6251,7 +6251,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -6259,6 +6259,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "да=1, нет=0",
                 ""
               ]
             },
@@ -6266,7 +6267,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]

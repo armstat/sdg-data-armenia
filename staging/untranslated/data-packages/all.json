@@ -5739,20 +5739,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "yes=1, no=0",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       },

@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -20,6 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "այո=1, ոչ=0",
                 ""
               ]
             },
@@ -27,7 +28,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
