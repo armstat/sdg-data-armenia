@@ -1164,12 +1164,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Direct economic loss attributed to disasters in relation to GDP",
+                "Совокупные прямые экономические потери, понесённые в результате бедствий",
                 "Direct agricultural loss attributed to disasters",
-                "Direct economic loss in the housing sector attributed to disasters",
-                "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters",
-                "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters",
-                "Direct economic loss to all other damaged or destroyed productive assets attributed to disasters",
+                "Прямые экономические потери от бедствий в соотношении с валовым внутренним продуктом (ВВП)",
+                "Прямые экономические потери в жилищном секторе, возникшие в результате бедствий",
+                "Прямые экономические потери, вызванные повреждением или уничтожением объектов культурного наследия в результате бедствий",
+                "Прямые экономические потери, вызванные повреждением или уничтожением прочих производственных активов в результате бедствий",
                 ""
               ]
             },
@@ -2444,12 +2444,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Direct economic loss attributed to disasters in relation to GDP",
+                "Совокупные прямые экономические потери, понесённые в результате бедствий",
                 "Direct agricultural loss attributed to disasters",
-                "Direct economic loss in the housing sector attributed to disasters",
-                "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters",
-                "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters",
-                "Direct economic loss to all other damaged or destroyed productive assets attributed to disasters",
+                "Прямые экономические потери от бедствий в соотношении с валовым внутренним продуктом (ВВП)",
+                "Прямые экономические потери в жилищном секторе, возникшие в результате бедствий",
+                "Прямые экономические потери, вызванные повреждением или уничтожением объектов культурного наследия в результате бедствий",
+                "Прямые экономические потери, вызванные повреждением или уничтожением прочих производственных активов в результате бедствий",
                 ""
               ]
             },
@@ -4334,7 +4334,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of forest area within legally established protected areas",
+                "Доля лесной площади на территории охраняемых территорий, установленных законом",
                 ""
               ]
             },
@@ -4513,7 +4513,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -4521,14 +4521,31 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Общее количество зарегистрированных стандартных соглашений о передаче материалов (SMTA), предусматривающих передачу растительных генетических ресурсов для продовольствия и сельского хозяйства в страну",
+                "Страны, являющиеся участницами Нагойского протокола",
+                "Страны, представившие свои законодательные, административные и политические рамки или меры в Центр обмена информацией о доступе и распределении выгод",
+                "Страны, представившие свои законодательные, административные и политические рамки или меры через Онлайн-систему отчетности о соблюдении Международного договора о растительных генетических ресурсах для продовольствия и сельского хозяйства",
+                "Страны, являющиеся участницами Международного договора о растительных генетических ресурсах для продовольствия и сельского хозяйства",
                 ""
               ]
             },
             "title": "Ряды"
           },
           {
-            "name": "Value",
+            "name": "Units",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "число",
+                "да=1, нет=0",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -6163,7 +6180,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -6171,6 +6188,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "да=1, нет=0",
                 ""
               ]
             },
@@ -6178,7 +6196,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -6233,7 +6251,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -6241,6 +6259,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "да=1, нет=0",
                 ""
               ]
             },
@@ -6248,7 +6267,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -12854,7 +12873,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -12862,6 +12881,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total",
                 ""
               ]
             },
@@ -12872,6 +12892,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Male",
+                "Female",
                 ""
               ]
             },
@@ -12882,6 +12904,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Number of employees",
+                "Number of non-employees",
                 ""
               ]
             },
@@ -12889,7 +12913,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]

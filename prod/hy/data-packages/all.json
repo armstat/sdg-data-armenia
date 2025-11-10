@@ -1164,12 +1164,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Direct economic loss attributed to disasters in relation to GDP",
+                "Աղետների հասցրած ուղղակի տնտեսական վնասները ՀՆԱ-ի նկատմամբ",
                 "Direct agricultural loss attributed to disasters",
-                "Direct economic loss in the housing sector attributed to disasters",
-                "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters",
-                "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters",
-                "Direct economic loss to all other damaged or destroyed productive assets attributed to disasters",
+                "Աղետների հասցրած ուղղակի տնտեսական վնասները բնակարանային ոլորտում",
+                "Աղետների հասցրած ուղղակի տնտեսական վնասները կարևորագույն ենթակառուցվածքների վնասման կամ ոչնչացման հետևանքով",
+                "Աղետների հասցրած ուղղակի տնտեսական վնասները վնասված կամ ոչնչացված մշակութային ժառանգությանը",
+                "Աղետների հասցրած ուղղակի տնտեսական վնասները վնասված կամ ոչնչացված բոլոր մյուս արտադրական ակտիվներին",
                 ""
               ]
             },
@@ -2444,12 +2444,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Direct economic loss attributed to disasters in relation to GDP",
+                "Աղետների հասցրած ուղղակի տնտեսական վնասները ՀՆԱ-ի նկատմամբ",
                 "Direct agricultural loss attributed to disasters",
-                "Direct economic loss in the housing sector attributed to disasters",
-                "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters",
-                "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters",
-                "Direct economic loss to all other damaged or destroyed productive assets attributed to disasters",
+                "Աղետների հասցրած ուղղակի տնտեսական վնասները բնակարանային ոլորտում",
+                "Աղետների հասցրած ուղղակի տնտեսական վնասները կարևորագույն ենթակառուցվածքների վնասման կամ ոչնչացման հետևանքով",
+                "Աղետների հասցրած ուղղակի տնտեսական վնասները վնասված կամ ոչնչացված մշակութային ժառանգությանը",
+                "Աղետների հասցրած ուղղակի տնտեսական վնասները վնասված կամ ոչնչացված բոլոր մյուս արտադրական ակտիվներին",
                 ""
               ]
             },
@@ -4334,7 +4334,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of forest area within legally established protected areas",
+                "Անտառածածկ տարածքի համամասնությունը օրենքով սահմանված պահպանվող տարածքներում",
                 ""
               ]
             },
@@ -4513,7 +4513,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -4521,14 +4521,31 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Երկրում պարենի և գյուղատնտեսության համար բույսերի գենետիկական ռեսուրսների փոխանցման վերաբերյալ ստանդարտ նյութերի փոխանցման պայմանագրերի (SMTA) ընդհանուր հաշվառված քանակը",
+                "Նագոյայի արձանագրությանը միացած երկրներ",
+                "Երկրներ, որոնք իրենց օրենսդրական, վարչական և քաղաքական շրջանակներն կամ միջոցառումները ներկայացրել են «Գենետիկ ռեսուրսների մատչելիության ու դրանց օգտագործումից ստացվող օգուտների արդարացի բաշխման» էլեկտրոնային հարթակում",
+                "Երկրներ, որոնք իրենց օրենսդրական, վարչական և քաղաքական շրջանակներն կամ միջոցառումները ներկայացրել են պարենի և գյուղատնտեսության համար բույսերի գենետիկական ռեսուրսների միջազգային պայմանագրի համապատասխանության առցանց հաշվետվության համակարգի միջոցով",
+                "Երկրներ, որոնք հանդիսանում են պարենի և գյուղատնտեսության համար բույսերի գենետիկական ռեսուրսների միջազգային պայմանագրի կողմեր",
                 ""
               ]
             },
             "title": "Շարքեր"
           },
           {
-            "name": "Value",
+            "name": "Units",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "թվաքանակ",
+                "այո=1, ոչ=0",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -6163,7 +6180,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -6171,6 +6188,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "այո=1, ոչ=0",
                 ""
               ]
             },
@@ -6178,7 +6196,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -6233,7 +6251,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -6241,6 +6259,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "այո=1, ոչ=0",
                 ""
               ]
             },
@@ -6248,7 +6267,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -12854,7 +12873,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -12862,6 +12881,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total",
                 ""
               ]
             },
@@ -12872,6 +12892,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Male",
+                "Female",
                 ""
               ]
             },
@@ -12882,6 +12904,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Number of employees",
+                "Number of non-employees",
                 ""
               ]
             },
@@ -12889,7 +12913,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
