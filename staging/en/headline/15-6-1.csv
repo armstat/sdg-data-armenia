@@ -1,1 +1,38 @@
-Year,Value
+Year,Value,Units,Series
+2015,138,number,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country
+2016,153,number,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country
+2017,161,number,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country
+2018,165,number,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country
+2019,165,number,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country
+2020,165,number,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country
+2021,165,number,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country
+2022,166,number,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country
+2023,166,number,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country
+2024,166,number,Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country
+2021,0,"yes=1, no=0",Countries that are parties to the Nagoya Protocol
+2022,0,"yes=1, no=0",Countries that are parties to the Nagoya Protocol
+2023,0,"yes=1, no=0",Countries that are parties to the Nagoya Protocol
+2024,0,"yes=1, no=0",Countries that are parties to the Nagoya Protocol
+2021,0,"yes=1, no=0","Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House"
+2022,0,"yes=1, no=0","Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House"
+2023,0,"yes=1, no=0","Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House"
+2024,0,"yes=1, no=0","Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House"
+2016,0,"yes=1, no=0","Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture"
+2017,0,"yes=1, no=0","Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture"
+2018,0,"yes=1, no=0","Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture"
+2019,0,"yes=1, no=0","Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture"
+2020,0,"yes=1, no=0","Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture"
+2021,1,"yes=1, no=0","Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture"
+2022,1,"yes=1, no=0","Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture"
+2023,1,"yes=1, no=0","Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture"
+2024,1,"yes=1, no=0","Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture"
+2015,1,"yes=1, no=0",Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture
+2016,1,"yes=1, no=0",Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture
+2017,1,"yes=1, no=0",Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture
+2018,1,"yes=1, no=0",Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture
+2019,1,"yes=1, no=0",Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture
+2020,1,"yes=1, no=0",Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture
+2021,1,"yes=1, no=0",Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture
+2022,1,"yes=1, no=0",Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture
+2023,1,"yes=1, no=0",Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture
+2024,1,"yes=1, no=0",Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture
