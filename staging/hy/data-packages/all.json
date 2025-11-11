@@ -12904,8 +12904,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "number of employees",
-                "number of non-employees",
+                "Վարձու աշխատողներ",
+                "Ոչ վարձու աշխատողներ",
                 ""
               ]
             },
