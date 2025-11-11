@@ -11809,7 +11809,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "total",
                 ""
               ]
             }
@@ -11819,8 +11819,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "male",
+                "female",
                 ""
               ]
             }
@@ -11830,8 +11830,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of employees",
-                "Number of non-employees",
+                "number of employees",
+                "number of non-employees",
                 ""
               ]
             }
