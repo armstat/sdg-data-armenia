@@ -296,6 +296,10 @@ MinFinaccountingdepartment:
 cadastre2024:
   indicators:
   - 1-4-2    
+  Hasmiktadevosyan1234:
+# migration
+  indicators:
+  - 10-7-2  
 SDGArmenia: administrator
 brockfanning: administrator
 Arminaprog: administrator
