@@ -6331,6 +6331,8 @@
             "constraints": {
               "enum": [
                 "Open Data Inventory (ODIN) Coverage Index",
+                "Data Sources performance index (Statistical Performance Indicators Pillar 4)",
+                "Data Infrastructure performance index (Statistical Performance Indicators Pillar 5)",
                 ""
               ]
             },
@@ -6342,6 +6344,7 @@
             "constraints": {
               "enum": [
                 "Index from 0 to 100",
+                "0 to 100 scale",
                 ""
               ]
             },
