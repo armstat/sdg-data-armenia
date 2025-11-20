@@ -3269,14 +3269,14 @@
             "title": "Տարի"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 ""
               ]
             },
-            "title": "Խումբ"
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -3655,24 +3655,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Խումբ"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
