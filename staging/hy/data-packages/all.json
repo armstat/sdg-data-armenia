@@ -1801,12 +1801,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Domain 1. Migrant rights",
+                "Ոլորտ 1. Միգրանտների իրավունքները",
                 "Domain 2.Whole of government/Evidence based policies",
-                "Domain 3. Cooperation and partnerships",
-                "Domain 4. Socioeconomic well being",
-                "Domain 5. Mobility dimensions of crises",
-                "Domain 6. Safe, orderly and regular migration",
+                "Ոլորտ 3. Համագործակցություն և գործընկերություն",
+                "Ոլորտ 4. Սոցիալ -տնտեսական բարեկեցություն",
+                "Ոլորտ 5. Ճգնաժամերի  ընթացքում շարժունակության չափումներ",
+                "Ոլորտ 6. Անվտանգ, կարգավորված և կանոնավոր  միգրացիա",
                 ""
               ]
             },
