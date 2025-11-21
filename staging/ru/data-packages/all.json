@@ -1801,12 +1801,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Domain 1. Migrant rights",
+                "Сфера 1. Права мигрантов",
                 "Domain 2.Whole of government/Evidence based policies",
-                "Domain 3. Cooperation and partnerships",
-                "Domain 4. Socioeconomic well being",
-                "Domain 5. Mobility dimensions of crises",
-                "Domain 6. Safe, orderly and regular migration",
+                "Сфера 3. Сотрудничество и партнёрство",
+                "Сфера 4. Социально-экономическое благополучие",
+                "Сфера 5. Мобильность в условиях кризисов",
+                "Сфера 6. Безопасная, упорядоченная и регулярная миграция",
                 ""
               ]
             },
