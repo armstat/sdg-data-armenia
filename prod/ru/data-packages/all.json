@@ -1801,11 +1801,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Domain 1. Migrant rights",
+                "Сфера 1. Права мигрантов",
+                "Domain 2.Whole of government/Evidence based policies",
+                "Сфера 3. Сотрудничество и партнёрство",
+                "Сфера 4. Социально-экономическое благополучие",
+                "Сфера 5. Мобильность в условиях кризисов",
+                "Сфера 6. Безопасная, упорядоченная и регулярная миграция",
                 ""
               ]
             },
-            "title": "Policy area"
+            "title": "Сфера политики"
           },
           {
             "name": "Value",
@@ -3265,24 +3270,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Год"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Группа"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -3657,24 +3660,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Год"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Группа"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -4487,6 +4488,16 @@
                 "Invertebrates",
                 "Higher plants",
                 "Fungi",
+                "Կարմիր գրքի ինդեքս",
+                "Ողնաշարավորներ",
+                "Անողնաշարավորներ",
+                "Բարձրակարգ բույսեր",
+                "Սունկեր",
+                "Индекс красной книги",
+                "Позвоночные",
+                "Беспозвоночные",
+                "Высшие растения",
+                "Грибы",
                 ""
               ]
             },
@@ -6142,10 +6153,10 @@
                 "Годовая инфляция, потребительские цены по сравнению с 2015 годом",
                 "Темп экспорта товаров и услуг",
                 "Темп импорта товаров и услуг",
-                "Merchandise trade as a proportion of GDP",
-                "Current account balance as a proportion of GDP",
-                "Foreign direct investment, net inflows, as a proportion of GDP",
-                "Portfolio investment, net (Balance of Payments, current mln United States dollars)",
+                "Внешнеторговый оборот по отношению к ВВП",
+                "Счет текущих операций по отношению к ВВП",
+                "Чистые потоки прямых иностранных инвестиций по отношению к ВВП",
+                "Портфельные инвестиции, чистые (Платежный баланс, млн. дол. США)",
                 "Соотношение капитала к активам банка",
                 "Годовой рост денежной массы",
                 "Соотношение денежной массы к общему объему резервов",

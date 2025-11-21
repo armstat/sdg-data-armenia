@@ -1801,11 +1801,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Domain 1. Migrant rights",
+                "Ոլորտ 1. Միգրանտների իրավունքները",
+                "Domain 2.Whole of government/Evidence based policies",
+                "Ոլորտ 3. Համագործակցություն և գործընկերություն",
+                "Ոլորտ 4. Սոցիալ -տնտեսական բարեկեցություն",
+                "Ոլորտ 5. Ճգնաժամերի  ընթացքում շարժունակության չափումներ",
+                "Ոլորտ 6. Անվտանգ, կարգավորված և կանոնավոր  միգրացիա",
                 ""
               ]
             },
-            "title": "Policy area"
+            "title": "Քաղաքականության ոլորտը"
           },
           {
             "name": "Value",
@@ -3265,24 +3270,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Խումբ"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -3657,24 +3660,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Խումբ"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -4487,6 +4488,16 @@
                 "Invertebrates",
                 "Higher plants",
                 "Fungi",
+                "Կարմիր գրքի ինդեքս",
+                "Ողնաշարավորներ",
+                "Անողնաշարավորներ",
+                "Բարձրակարգ բույսեր",
+                "Սունկեր",
+                "Индекс красной книги",
+                "Позвоночные",
+                "Беспозвоночные",
+                "Высшие растения",
+                "Грибы",
                 ""
               ]
             },
@@ -6142,10 +6153,10 @@
                 "Տարեկան գնաճը, սպառողական գները 2015 թվականի համեմատ",
                 "Ապրանքների և ծառայությունների արտահանման աճ",
                 "Ապրանքների և ծառայությունների ներմուծման աճ",
-                "Merchandise trade as a proportion of GDP",
-                "Current account balance as a proportion of GDP",
-                "Foreign direct investment, net inflows, as a proportion of GDP",
-                "Portfolio investment, net (Balance of Payments, current mln United States dollars)",
+                "Արտաքին առևտրաշրջանառությունը ՀՆԱ-ի նկատմաբ",
+                "Ընթացիկ հաշիվը ՀՆԱ-ի նկատմամբ",
+                "Օտարերկրյա ուղղակի ներդրումերի զուտ հոսքերը ՀՆԱ-ի նկատմամբ",
+                "Պորտֆելային ներդրումներ, զուտ (Վճարային հաշվեկշիռ, մլն ԱՄՆ դոլար)",
                 "Բանկի կապիտալի և ակտիվների հարաբերակցությունը",
                 "Փողի զանգվածի տարեկան աճը",
                 "Փողի զանգվածի և ընդհանուր պահուստների հարաբերակցությունը",

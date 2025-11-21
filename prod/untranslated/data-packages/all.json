@@ -1658,6 +1658,11 @@
             "constraints": {
               "enum": [
                 "Domain 1. Migrant rights",
+                "Domain 2.Whole of government/Evidence based policies",
+                "Domain 3. Cooperation and partnerships",
+                "Domain 4. Socioeconomic well being",
+                "Domain 5. Mobility dimensions of crises",
+                "Domain 6. Safe, orderly and regular migration",
                 ""
               ]
             }
@@ -3000,22 +3005,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -3359,22 +3362,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -4119,6 +4120,16 @@
                 "Invertebrates",
                 "Higher plants",
                 "Fungi",
+                "Կարմիր գրքի ինդեքս",
+                "Ողնաշարավորներ",
+                "Անողնաշարավորներ",
+                "Բարձրակարգ բույսեր",
+                "Սունկեր",
+                "Индекс красной книги",
+                "Позвоночные",
+                "Беспозвоночные",
+                "Высшие растения",
+                "Грибы",
                 ""
               ]
             }
