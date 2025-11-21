@@ -81,46 +81,46 @@ Year,Units,Индикатор,Value
 2022,%,Темп импорта товаров и услуг,38.6
 2023,%,Темп импорта товаров и услуг,32.5
 2024,%,Темп импорта товаров и услуг,28.3
-2015,%,Merchandise trade as a proportion of GDP,44.8
-2016,%,Merchandise trade as a proportion of GDP,48.0
-2017,%,Merchandise trade as a proportion of GDP,55.0
-2018,%,Merchandise trade as a proportion of GDP,59.3
-2019,%,Merchandise trade as a proportion of GDP,60.0
-2020,%,Merchandise trade as a proportion of GDP,56.2
-2021,%,Merchandise trade as a proportion of GDP,60.4
-2022,%,Merchandise trade as a proportion of GDP,72.7
-2023,%,Merchandise trade as a proportion of GDP,88.1
-2024,%,Merchandise trade as a proportion of GDP,116.4
-2015,%,Current account balance as a proportion of GDP,-2.7
-2016,%,Current account balance as a proportion of GDP,-1.0
-2017,%,Current account balance as a proportion of GDP,-1.3
-2018,%,Current account balance as a proportion of GDP,-7.2
-2019,%,Current account balance as a proportion of GDP,-7.1
-2020,%,Current account balance as a proportion of GDP,-4.0
-2021,%,Current account balance as a proportion of GDP,-3.4
-2022,%,Current account balance as a proportion of GDP,0.7
-2023,%,Current account balance as a proportion of GDP,-2.8
-2024,%,Current account balance as a proportion of GDP,-4.6
-2015,%,"Foreign direct investment, net inflows, as a proportion of GDP",-1.5
-2016,%,"Foreign direct investment, net inflows, as a proportion of GDP",-2.5
-2017,%,"Foreign direct investment, net inflows, as a proportion of GDP",-1.9
-2018,%,"Foreign direct investment, net inflows, as a proportion of GDP",-2.1
-2019,%,"Foreign direct investment, net inflows, as a proportion of GDP",-1.7
-2020,%,"Foreign direct investment, net inflows, as a proportion of GDP",-0.7
-2021,%,"Foreign direct investment, net inflows, as a proportion of GDP",-2.5
-2022,%,"Foreign direct investment, net inflows, as a proportion of GDP",-4.7
-2023,%,"Foreign direct investment, net inflows, as a proportion of GDP",-2.2
-2024,%,"Foreign direct investment, net inflows, as a proportion of GDP",-0.3
-2015,млн. долл. США,"Portfolio investment, net (Balance of Payments, current mln United States dollars)",-235.4
-2016,млн. долл. США,"Portfolio investment, net (Balance of Payments, current mln United States dollars)",-33.7
-2017,млн. долл. США,"Portfolio investment, net (Balance of Payments, current mln United States dollars)",80.7
-2018,млн. долл. США,"Portfolio investment, net (Balance of Payments, current mln United States dollars)",39.9
-2019,млн. долл. США,"Portfolio investment, net (Balance of Payments, current mln United States dollars)",-28.9
-2020,млн. долл. США,"Portfolio investment, net (Balance of Payments, current mln United States dollars)",43.7
-2021,млн. долл. США,"Portfolio investment, net (Balance of Payments, current mln United States dollars)",-672.0
-2022,млн. долл. США,"Portfolio investment, net (Balance of Payments, current mln United States dollars)",1364.1
-2023,млн. долл. США,"Portfolio investment, net (Balance of Payments, current mln United States dollars)",-39.0
-2024,млн. долл. США,"Portfolio investment, net (Balance of Payments, current mln United States dollars)",154.8
+2015,%,Внешнеторговый оборот по отношению к ВВП,44.8
+2016,%,Внешнеторговый оборот по отношению к ВВП,48.0
+2017,%,Внешнеторговый оборот по отношению к ВВП,55.0
+2018,%,Внешнеторговый оборот по отношению к ВВП,59.3
+2019,%,Внешнеторговый оборот по отношению к ВВП,60.0
+2020,%,Внешнеторговый оборот по отношению к ВВП,56.2
+2021,%,Внешнеторговый оборот по отношению к ВВП,60.4
+2022,%,Внешнеторговый оборот по отношению к ВВП,72.7
+2023,%,Внешнеторговый оборот по отношению к ВВП,88.1
+2024,%,Внешнеторговый оборот по отношению к ВВП,116.4
+2015,%,Счет текущих операций по отношению к ВВП,-2.7
+2016,%,Счет текущих операций по отношению к ВВП,-1.0
+2017,%,Счет текущих операций по отношению к ВВП,-1.3
+2018,%,Счет текущих операций по отношению к ВВП,-7.2
+2019,%,Счет текущих операций по отношению к ВВП,-7.1
+2020,%,Счет текущих операций по отношению к ВВП,-4.0
+2021,%,Счет текущих операций по отношению к ВВП,-3.4
+2022,%,Счет текущих операций по отношению к ВВП,0.7
+2023,%,Счет текущих операций по отношению к ВВП,-2.8
+2024,%,Счет текущих операций по отношению к ВВП,-4.6
+2015,%,Чистые потоки прямых иностранных инвестиций по отношению к ВВП,-1.5
+2016,%,Чистые потоки прямых иностранных инвестиций по отношению к ВВП,-2.5
+2017,%,Чистые потоки прямых иностранных инвестиций по отношению к ВВП,-1.9
+2018,%,Чистые потоки прямых иностранных инвестиций по отношению к ВВП,-2.1
+2019,%,Чистые потоки прямых иностранных инвестиций по отношению к ВВП,-1.7
+2020,%,Чистые потоки прямых иностранных инвестиций по отношению к ВВП,-0.7
+2021,%,Чистые потоки прямых иностранных инвестиций по отношению к ВВП,-2.5
+2022,%,Чистые потоки прямых иностранных инвестиций по отношению к ВВП,-4.7
+2023,%,Чистые потоки прямых иностранных инвестиций по отношению к ВВП,-2.2
+2024,%,Чистые потоки прямых иностранных инвестиций по отношению к ВВП,-0.3
+2015,млн. долл. США,"Портфельные инвестиции, чистые (Платежный баланс, млн. дол. США)",-235.4
+2016,млн. долл. США,"Портфельные инвестиции, чистые (Платежный баланс, млн. дол. США)",-33.7
+2017,млн. долл. США,"Портфельные инвестиции, чистые (Платежный баланс, млн. дол. США)",80.7
+2018,млн. долл. США,"Портфельные инвестиции, чистые (Платежный баланс, млн. дол. США)",39.9
+2019,млн. долл. США,"Портфельные инвестиции, чистые (Платежный баланс, млн. дол. США)",-28.9
+2020,млн. долл. США,"Портфельные инвестиции, чистые (Платежный баланс, млн. дол. США)",43.7
+2021,млн. долл. США,"Портфельные инвестиции, чистые (Платежный баланс, млн. дол. США)",-672.0
+2022,млн. долл. США,"Портфельные инвестиции, чистые (Платежный баланс, млн. дол. США)",1364.1
+2023,млн. долл. США,"Портфельные инвестиции, чистые (Платежный баланс, млн. дол. США)",-39.0
+2024,млн. долл. США,"Портфельные инвестиции, чистые (Платежный баланс, млн. дол. США)",154.8
 2015,%,Соотношение капитала к активам банка,14.7
 2016,%,Соотношение капитала к активам банка,16.4
 2017,%,Соотношение капитала к активам банка,15.7
