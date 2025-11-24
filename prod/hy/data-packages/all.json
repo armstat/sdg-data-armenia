@@ -3268,22 +3268,49 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
-            "name": "Units",
+            "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "A",
+                "B",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Խումբ"
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "survey index",
+                ""
+              ]
+            },
+            "title": "միավոր"
+          },
+          {
+            "name": "category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) in national education policy",
+                "b) in curricula",
+                "c) in teacher training",
+                "d) in student assessment",
+                ""
+              ]
+            },
+            "title": "category"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -3658,22 +3685,49 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
-            "name": "Units",
+            "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "A",
+                "B",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Խումբ"
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "survey index",
+                ""
+              ]
+            },
+            "title": "միավոր"
+          },
+          {
+            "name": "category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) in narional education policy",
+                "b) in curricula",
+                "c) in teacher training",
+                "d) in student assessment",
+                ""
+              ]
+            },
+            "title": "category"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -10099,7 +10153,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -10107,14 +10161,29 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "survey index",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Category",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "a) in national policy",
+                "b) in curricula",
+                "c) in teacher education",
+                "d) in student assessment",
+                ""
+              ]
+            },
+            "title": "Կատեգորիա"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
