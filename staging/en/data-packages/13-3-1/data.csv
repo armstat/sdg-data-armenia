@@ -1,1 +1,11 @@
-Year,Value
+Year,Group,unit,category,Value
+2015,A,,,1.0
+2015,B,,,3.0
+2015,,,,2.0
+2016,A,,,1.0
+2016,B,,,3.0
+2016,,,,2.0
+2020,,survey index,a) in narional education policy,0.875
+2020,,survey index,b) in curricula,0.7005
+2020,,survey index,c) in teacher training,0.85
+2020,,survey index,d) in student assessment,0.8333

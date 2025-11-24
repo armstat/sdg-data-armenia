@@ -3685,22 +3685,49 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "Units",
+            "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "A",
+                "B",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Group"
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "survey index",
+                ""
+              ]
+            },
+            "title": "unit"
+          },
+          {
+            "name": "category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) in narional education policy",
+                "b) in curricula",
+                "c) in teacher training",
+                "d) in student assessment",
+                ""
+              ]
+            },
+            "title": "category"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
