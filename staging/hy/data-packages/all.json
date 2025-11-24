@@ -10153,7 +10153,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -10161,14 +10161,29 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "survey index",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Category",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "a) in national policy",
+                "b) in curricula",
+                "c) in teacher education",
+                "d) in student assessment",
+                ""
+              ]
+            },
+            "title": "Կատեգորիա"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
