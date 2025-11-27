@@ -3288,7 +3288,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "survey index",
+                "индекс опроса",
                 ""
               ]
             },
@@ -3300,9 +3300,9 @@
             "constraints": {
               "enum": [
                 "a) in national education policy",
-                "b) in curricula",
+                "б) в учебные программы",
                 "c) in teacher training",
-                "d) in student assessment",
+                "д) в систему оценивания учащихся",
                 ""
               ]
             },
@@ -3705,7 +3705,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "survey index",
+                "индекс опроса",
                 ""
               ]
             },
@@ -3717,9 +3717,9 @@
             "constraints": {
               "enum": [
                 "a) in narional education policy",
-                "b) in curricula",
+                "б) в учебные программы",
                 "c) in teacher training",
-                "d) in student assessment",
+                "д) в систему оценивания учащихся",
                 ""
               ]
             },
@@ -10161,7 +10161,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "survey index",
+                "индекс опроса",
                 ""
               ]
             },
@@ -10172,10 +10172,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) in national policy",
-                "b) in curricula",
-                "c) in teacher education",
-                "d) in student assessment",
+                "а) в национальные образовательные политики",
+                "б) в учебные программы",
+                "с) в систему подготовки учителей",
+                "д) в систему оценивания учащихся",
                 ""
               ]
             },
