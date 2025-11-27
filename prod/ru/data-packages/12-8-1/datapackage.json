@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "survey index",
+                "индекс опроса",
                 ""
               ]
             },
@@ -44,9 +44,9 @@
             "constraints": {
               "enum": [
                 "a) in national education policy",
-                "b) in curricula",
+                "б) в учебные программы",
                 "c) in teacher training",
-                "d) in student assessment",
+                "д) в систему оценивания учащихся",
                 ""
               ]
             },

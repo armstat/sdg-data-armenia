@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "survey index",
+                "հարցման ինդեքս",
                 ""
               ]
             },
@@ -44,9 +44,9 @@
             "constraints": {
               "enum": [
                 "a) in narional education policy",
-                "b) in curricula",
+                "բ) կրթության չափորոշչում",
                 "c) in teacher training",
-                "d) in student assessment",
+                "դ) աշակերտների գնահատման մեջ",
                 ""
               ]
             },

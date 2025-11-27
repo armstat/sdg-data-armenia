@@ -3288,7 +3288,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "survey index",
+                "հարցման ինդեքս",
                 ""
               ]
             },
@@ -3300,9 +3300,9 @@
             "constraints": {
               "enum": [
                 "a) in national education policy",
-                "b) in curricula",
+                "բ) կրթության չափորոշչում",
                 "c) in teacher training",
-                "d) in student assessment",
+                "դ) աշակերտների գնահատման մեջ",
                 ""
               ]
             },
@@ -3705,7 +3705,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "survey index",
+                "հարցման ինդեքս",
                 ""
               ]
             },
@@ -3717,9 +3717,9 @@
             "constraints": {
               "enum": [
                 "a) in narional education policy",
-                "b) in curricula",
+                "բ) կրթության չափորոշչում",
                 "c) in teacher training",
-                "d) in student assessment",
+                "դ) աշակերտների գնահատման մեջ",
                 ""
               ]
             },
@@ -10161,7 +10161,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "survey index",
+                "հարցման ինդեքս",
                 ""
               ]
             },
@@ -10172,10 +10172,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) in national policy",
-                "b) in curricula",
-                "c) in teacher education",
-                "d) in student assessment",
+                "ա) ազգային կրթության քաղաքականության մեջ",
+                "բ) կրթության չափորոշչում",
+                "գ) ուսուցիչների վերապատրաստման ծրագրերում",
+                "դ) աշակերտների գնահատման մեջ",
                 ""
               ]
             },
