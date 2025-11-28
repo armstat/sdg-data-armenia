@@ -44,9 +44,9 @@
             "constraints": {
               "enum": [
                 "a) in narional education policy",
-                "բ) կրթության չափորոշչում",
+                "b) in curricula",
                 "c) in teacher training",
-                "դ) աշակերտների գնահատման մեջ",
+                "d) in student assessment",
                 ""
               ]
             },
