@@ -3300,9 +3300,9 @@
             "constraints": {
               "enum": [
                 "a) in national education policy",
-                "բ) կրթության չափորոշչում",
+                "b) in curricula",
                 "c) in teacher training",
-                "դ) աշակերտների գնահատման մեջ",
+                "d) in student assessment",
                 ""
               ]
             },
@@ -3717,9 +3717,9 @@
             "constraints": {
               "enum": [
                 "a) in narional education policy",
-                "բ) կրթության չափորոշչում",
+                "b) in curricula",
                 "c) in teacher training",
-                "դ) աշակերտների գնահատման մեջ",
+                "d) in student assessment",
                 ""
               ]
             },
@@ -10172,10 +10172,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ա) ազգային կրթության քաղաքականության մեջ",
-                "բ) կրթության չափորոշչում",
-                "գ) ուսուցիչների վերապատրաստման ծրագրերում",
-                "դ) աշակերտների գնահատման մեջ",
+                "a) in national policy",
+                "b) in curricula",
+                "c) in teacher education",
+                "d) in student assessment",
                 ""
               ]
             },
