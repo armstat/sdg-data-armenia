@@ -3337,7 +3337,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "watt",
+                "ватт",
                 ""
               ]
             },
@@ -12101,7 +12101,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "watt",
+                "ватт",
                 ""
               ]
             },
