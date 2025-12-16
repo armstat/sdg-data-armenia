@@ -44,12 +44,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "aged 0-25 years",
-                "aged 25-34 years",
-                "aged 35-44 years",
-                "aged 45-54 years",
-                "aged 55-64 years",
-                "aged 65 and over",
+                "0-25 лет",
+                "25-34 лет",
+                "35-44 лет",
+                "45-54 лет",
+                "55-64 лет",
+                "65 лет и старше",
                 ""
               ]
             },

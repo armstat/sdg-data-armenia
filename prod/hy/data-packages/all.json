@@ -5679,12 +5679,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "aged 0-25 years",
-                "aged 25-34 years",
-                "aged 35-44 years",
-                "aged 45-54 years",
-                "aged 55-64 years",
-                "aged 65 and over",
+                "0-25 տարեկան",
+                "25-34 տարեկան",
+                "35-44 տարեկան",
+                "45-54 տարեկան",
+                "55-64 տարեկան",
+                "65 և բարձր տարիքի",
                 ""
               ]
             },
