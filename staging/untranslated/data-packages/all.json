@@ -10973,6 +10973,7 @@
               "enum": [
                 "urban",
                 "rural",
+                "uban",
                 ""
               ]
             }
