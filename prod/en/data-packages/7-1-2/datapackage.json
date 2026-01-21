@@ -33,6 +33,7 @@
               "enum": [
                 "urban",
                 "rural",
+                "uban",
                 ""
               ]
             },

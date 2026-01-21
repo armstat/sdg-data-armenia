@@ -3274,18 +3274,6 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "unit",
             "type": "string",
             "constraints": {
@@ -3615,6 +3603,7 @@
                 "Long Tearm Strategy",
                 "National Communication",
                 "National Greenhouse Gas Inventory Report",
+                "National Greenhouse Gas Inventory Document of Armenia 1990-2022",
                 ""
               ]
             },
@@ -3689,18 +3678,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
           },
           {
             "name": "unit",
@@ -11966,6 +11943,7 @@
               "enum": [
                 "urban",
                 "rural",
+                "uban",
                 ""
               ]
             },

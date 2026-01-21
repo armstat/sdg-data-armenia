@@ -3274,18 +3274,6 @@
             "title": "Տարի"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Խումբ"
-          },
-          {
             "name": "unit",
             "type": "string",
             "constraints": {
@@ -3615,6 +3603,7 @@
                 "Երկարաժամկետ ռազմավարություն",
                 "Ազգային հաղորդագրություն",
                 "Ջերմոցային գազերի ազգային կադաստրի հաշվետվություն",
+                "National Greenhouse Gas Inventory Document of Armenia 1990-2022",
                 ""
               ]
             },
@@ -3689,18 +3678,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Տարի"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Խումբ"
           },
           {
             "name": "unit",
@@ -11966,6 +11943,7 @@
               "enum": [
                 "քաղաք",
                 "գյուղ",
+                "uban",
                 ""
               ]
             },

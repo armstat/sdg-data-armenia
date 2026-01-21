@@ -3274,18 +3274,6 @@
             "title": "Год"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Группа"
-          },
-          {
             "name": "unit",
             "type": "string",
             "constraints": {
@@ -3615,6 +3603,7 @@
                 "Долгосрочная стратегия",
                 "Национальная коммуникация",
                 "Национальный кадастр парниковых газов",
+                "National Greenhouse Gas Inventory Document of Armenia 1990-2022",
                 ""
               ]
             },
@@ -3689,18 +3678,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Группа"
           },
           {
             "name": "unit",
@@ -11966,6 +11943,7 @@
               "enum": [
                 "город",
                 "село",
+                "uban",
                 ""
               ]
             },
