@@ -3008,15 +3008,6 @@
             "type": "integer"
           },
           {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "unit",
             "type": "string",
             "constraints": {

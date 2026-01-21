@@ -3274,16 +3274,6 @@
             "title": "Տարի"
           },
           {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Խումբ"
-          },
-          {
             "name": "unit",
             "type": "string",
             "constraints": {

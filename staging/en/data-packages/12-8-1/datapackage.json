@@ -16,16 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "unit",
             "type": "string",
             "constraints": {

@@ -16,16 +16,6 @@
             "title": "Год"
           },
           {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Группа"
-          },
-          {
             "name": "unit",
             "type": "string",
             "constraints": {
