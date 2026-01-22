@@ -2141,10 +2141,74 @@
             "constraints": {
               "enum": [
                 "на 100,000 населения",
+                "%",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "город",
+                "село",
+                ""
+              ]
+            },
+            "title": "Место нахождения"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "женщина",
+                "мужчина",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Poverty",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "не бедный",
+                "бедный",
+                "крайне бедный",
+                ""
+              ]
+            },
+            "title": "Бедность"
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "инвалиды",
+                ""
+              ]
+            },
+            "title": "Тип"
+          },
+          {
+            "name": "Quintiles",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "I-й квинтиль",
+                "II-ой квинтиль",
+                "III-й квинтиль",
+                "IV-й квинтиль",
+                "V-й квинтиль",
+                ""
+              ]
+            },
+            "title": "Квинтили"
           },
           {
             "name": "Value",
