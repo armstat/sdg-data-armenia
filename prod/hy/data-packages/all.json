@@ -2141,10 +2141,74 @@
             "constraints": {
               "enum": [
                 "100,000 բնակչի հաշվով",
+                "%",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "քաղաք",
+                "գյուղ",
+                ""
+              ]
+            },
+            "title": "Գտնվելու վայրը"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "կին",
+                "տղամարդ",
+                ""
+              ]
+            },
+            "title": "Սեռ"
+          },
+          {
+            "name": "Poverty",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ոչ աղքատ",
+                "աղքատ",
+                "ծայրահեղ աղքատ",
+                ""
+              ]
+            },
+            "title": "Աղքատություն"
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "հաշմանդամներ",
+                ""
+              ]
+            },
+            "title": "Տեսակ"
+          },
+          {
+            "name": "Quintiles",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "I-ին քվինտիլ",
+                "II-րդ քվինտիլ",
+                "III-րդ քվինտիլ",
+                "IV-րդ քվինտիլ",
+                "V-րդ քվինտիլ",
+                ""
+              ]
+            },
+            "title": "Քվինտիլներ"
           },
           {
             "name": "Value",
@@ -5636,6 +5700,7 @@
               "enum": [
                 "տղամարդ",
                 "կին",
+                "femaLE",
                 ""
               ]
             },

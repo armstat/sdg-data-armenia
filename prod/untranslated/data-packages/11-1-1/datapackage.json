@@ -20,6 +20,65 @@
             "constraints": {
               "enum": [
                 "per 100,000 population",
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Poverty",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "non poor",
+                "poor",
+                "extreme poor",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disabled",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Quintiles",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "I quintile",
+                "II quintile",
+                "III quintile",
+                "IV quintile",
+                "V quintile",
                 ""
               ]
             }
