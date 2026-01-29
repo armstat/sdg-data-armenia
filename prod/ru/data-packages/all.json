@@ -3353,10 +3353,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) in national policy",
-                "b) in curricula",
-                "c) in teacher education",
-                "d) in student assessment",
+                "а) в национальные образовательные политики",
+                "б) в учебные программы",
+                "с) в систему подготовки учителей",
+                "д) в систему оценивания учащихся",
                 ""
               ]
             },
@@ -3759,10 +3759,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) in national policy",
-                "b) in curricula",
-                "c) in teacher education",
-                "d) in student assessment",
+                "а) в национальные образовательные политики",
+                "б) в учебные программы",
+                "с) в систему подготовки учителей",
+                "д) в систему оценивания учащихся",
                 ""
               ]
             },
@@ -10216,10 +10216,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) in national policy",
-                "b) in curricula",
-                "c) in teacher education",
-                "d) in student assessment",
+                "а) в национальные образовательные политики",
+                "б) в учебные программы",
+                "с) в систему подготовки учителей",
+                "д) в систему оценивания учащихся",
                 ""
               ]
             },
