@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -24,21 +24,21 @@
                 ""
               ]
             },
-            "title": "unit"
+            "title": "Units"
           },
           {
-            "name": "category",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) in national education policy",
+                "a) in national policy",
                 "b) in curricula",
-                "c) in teacher training",
+                "c) in teacher education",
                 "d) in student assessment",
                 ""
               ]
             },
-            "title": "category"
+            "title": "Category"
           },
           {
             "name": "Value",

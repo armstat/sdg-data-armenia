@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,13 +25,13 @@
             }
           },
           {
-            "name": "category",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) in narional education policy",
+                "a) in national policy",
                 "b) in curricula",
-                "c) in teacher training",
+                "c) in teacher education",
                 "d) in student assessment",
                 ""
               ]
