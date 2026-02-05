@@ -2152,8 +2152,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "Yerevan",
+                "other urban",
                 ""
               ]
             },
@@ -2209,6 +2209,19 @@
               ]
             },
             "title": "Quintiles"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "aged 6-17 years",
+                "aged 18-64 years",
+                "aged 65 and over",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "Value",

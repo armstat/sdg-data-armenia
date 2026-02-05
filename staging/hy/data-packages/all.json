@@ -2152,8 +2152,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "քաղաք",
-                "գյուղ",
+                "Yerevan",
+                "other urban",
                 ""
               ]
             },
@@ -2209,6 +2209,19 @@
               ]
             },
             "title": "Քվինտիլներ"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "6-17 տարեկան",
+                "18-64 տարեկան",
+                "65 և բարձր տարիքի",
+                ""
+              ]
+            },
+            "title": "Տարիք"
           },
           {
             "name": "Value",

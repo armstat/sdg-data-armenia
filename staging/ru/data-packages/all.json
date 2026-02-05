@@ -2152,8 +2152,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "Yerevan",
+                "other urban",
                 ""
               ]
             },
@@ -2209,6 +2209,19 @@
               ]
             },
             "title": "Квинтили"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "6-17 лет",
+                "18-64 лет",
+                "65 и более лет",
+                ""
+              ]
+            },
+            "title": "Возраст"
           },
           {
             "name": "Value",
@@ -13034,7 +13047,7 @@
                 ""
               ]
             },
-            "title": "занятые"
+            "title": "Занятые"
           },
           {
             "name": "Value",
