@@ -2152,7 +2152,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Yerevan",
+                "Երևան",
                 "other urban",
                 ""
               ]
