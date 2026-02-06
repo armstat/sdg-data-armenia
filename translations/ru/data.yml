@@ -12,6 +12,8 @@ male: мужчина
 number: количество
 rural: село
 urban: город
+Other urban: Другие городские населённые пункты
+Yerevan: Ереван
 total: всего
 children: дети
 Access to services: доступ к услугам
@@ -51,7 +53,7 @@ aged 25-64 years: 25-64 лет
 with disabilities: имеющие инвалидность
 total to the total number of children with disabilities (aged 0-17 years): всего к общему количеству детей с инвалидностью (в возрасте 0-17 лет)
 economically active population: экономически активное население
-Employed: занятые
+Employed: Занятые
 wage employed: наемные работники
 self-employed: самозанятые
 other employed: другие занятые

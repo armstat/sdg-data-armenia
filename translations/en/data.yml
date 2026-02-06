@@ -12,6 +12,8 @@ male: male
 number: number
 rural: rural
 urban: urban
+Other urban: Other urban
+Yerevan: Yerevan
 total: total
 children: children
 Access to services: Access to services
@@ -51,7 +53,7 @@ aged 25-64 years: aged 25-64 years
 with disabilities: with disabilities
 total to the total number of children with disabilities (aged 0-17 years): total to the total number of children with disabilities (aged 0-17 years)
 economically active population: economically active population
-Employed: employed
+Employed: Employed
 wage employed: wage employed
 self-employed: self-employed
 other employed: other employed
