@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "город",
-                "село",
+                "Ереван",
+                "other urban",
                 ""
               ]
             },
@@ -89,6 +89,19 @@
               ]
             },
             "title": "Квинтили"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "6-17 лет",
+                "18-64 лет",
+                "65 и более лет",
+                ""
+              ]
+            },
+            "title": "Возраст"
           },
           {
             "name": "Value",
