@@ -12120,14 +12120,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ALL RENEWABLES",
+                "BIOENERGY",
+                "GEOTHERMAL ENERGY",
+                "HYDROPOWER",
+                "MULTIPLE RENEWABLES",
+                "SOLAR ENERGY",
+                ""
+              ]
+            },
+            "title": "Тип"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "Millions of constant United States dollars",
                 ""
               ]
             },
@@ -12135,7 +12152,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
