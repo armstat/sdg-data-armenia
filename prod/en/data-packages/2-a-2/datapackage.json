@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -20,14 +20,26 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "millions USD",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Category",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2023 United States dollars)",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]

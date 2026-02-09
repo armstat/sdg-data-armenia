@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -20,14 +20,27 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Category",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Average share of the built-up area of cities that is open space for public use for all",
+                "Average share of urban population with convenient access to open public spaces",
+                ""
+              ]
+            },
+            "title": "Категория"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]

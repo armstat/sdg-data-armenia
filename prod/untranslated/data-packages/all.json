@@ -2461,20 +2461,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average share of the built-up area of cities that is open space for public use for all",
+                "Average share of urban population with convenient access to open public spaces",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -4219,16 +4231,6 @@
                 "Invertebrates",
                 "Higher plants",
                 "Fungi",
-                "Կարմիր գրքի ինդեքս",
-                "Ողնաշարավորներ",
-                "Անողնաշարավորներ",
-                "Բարձրակարգ բույսեր",
-                "Սունկեր",
-                "Индекс красной книги",
-                "Позвоночные",
-                "Беспозвоночные",
-                "Высшие растения",
-                "Грибы",
                 ""
               ]
             }
@@ -6822,20 +6824,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "number",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Plant genetic resources accessions stored ex situ",
+                "Number of transboundary breeds (including extinct ones)",
+                "Number of local breeds kept in the country",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       },
@@ -6908,20 +6923,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "millions USD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2023 United States dollars)",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -11124,20 +11150,36 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ALL RENEWABLES",
+                "BIOENERGY",
+                "GEOTHERMAL ENERGY",
+                "HYDROPOWER",
+                "MULTIPLE RENEWABLES",
+                "SOLAR ENERGY",
+                ""
+              ]
+            }
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "Millions of constant United States dollars",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },

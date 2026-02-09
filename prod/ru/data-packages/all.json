@@ -2676,7 +2676,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -2684,14 +2684,27 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Category",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Average share of the built-up area of cities that is open space for public use for all",
+                "Average share of urban population with convenient access to open public spaces",
+                ""
+              ]
+            },
+            "title": "Категория"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -4590,16 +4603,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Red List Index",
-                "Vertebrates",
-                "Invertebrates",
-                "Higher plants",
-                "Fungi",
-                "Կարմիր գրքի ինդեքս",
-                "Ողնաշարավորներ",
-                "Անողնաշարավորներ",
-                "Բարձրակարգ բույսեր",
-                "Սունկեր",
                 "Индекс красной книги",
                 "Позвоночные",
                 "Беспозвоночные",
@@ -4726,10 +4729,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species",
-                "National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020",
-                "Countries with an allocation from the national budget to manage the threat of invasive alien species",
-                "Recipient countries of global funding with access to any funding from global financial mechanisms for projects related to invasive alien species  management",
+                "Законодательство, нормативные акты, касающиеся предотвращения проникновения и борьбы с инвазивными чужеродными видами",
+                "Национальная стратегия и планы действий в области биоразнообразия (НСБ) по достижению Цели 9 Стратегического плана по биоразнообразию на 2011–2020 годы",
+                "Страны, получающие средства из национального бюджета на борьбу с угрозой инвазивных чужеродных видов",
+                "Страны-получатели глобального финансирования, имеющие доступ к любому финансированию из глобальных финансовых механизмов для проектов, связанных с борьбой с инвазивными чужеродными видами",
                 ""
               ]
             },
@@ -7432,7 +7435,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -7440,14 +7443,28 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "число",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Category",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Plant genetic resources accessions stored ex situ",
+                "Number of transboundary breeds (including extinct ones)",
+                "Number of local breeds kept in the country",
+                ""
+              ]
+            },
+            "title": "Категория"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -7526,7 +7543,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -7534,14 +7551,26 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "миллион долларов США",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Category",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2023 United States dollars)",
+                ""
+              ]
+            },
+            "title": "Категория"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -12130,14 +12159,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ALL RENEWABLES",
+                "BIOENERGY",
+                "GEOTHERMAL ENERGY",
+                "HYDROPOWER",
+                "MULTIPLE RENEWABLES",
+                "SOLAR ENERGY",
+                ""
+              ]
+            },
+            "title": "Тип"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "Млн. США доллар",
                 ""
               ]
             },
@@ -12145,7 +12191,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
