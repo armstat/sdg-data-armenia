@@ -4590,11 +4590,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Red List Index",
-                "Vertebrates",
-                "Invertebrates",
-                "Higher plants",
-                "Fungi",
+                "Կարմիր գրքի ինդեքս",
+                "Ողնաշարավորներ",
+                "Անողնաշարավորներ",
+                "Բարձրակարգ բույսեր",
+                "Սունկեր",
                 ""
               ]
             },
@@ -12156,7 +12156,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millions of constant United States dollars",
+                "Մլն. ԱՄՆ դոլլար",
                 ""
               ]
             },
