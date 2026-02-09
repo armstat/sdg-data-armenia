@@ -4590,11 +4590,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Red List Index",
-                "Vertebrates",
-                "Invertebrates",
-                "Higher plants",
-                "Fungi",
+                "Индекс красной книги",
+                "Позвоночные",
+                "Беспозвоночные",
+                "Высшие растения",
+                "Грибы",
                 ""
               ]
             },
@@ -12156,7 +12156,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millions of constant United States dollars",
+                "Млн. США доллар",
                 ""
               ]
             },
