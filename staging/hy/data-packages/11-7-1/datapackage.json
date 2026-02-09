@@ -17,13 +17,26 @@
           },
           {
             "name": "Units",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average share of the built-up area of cities that is open space for public use for all",
+                "Average share of urban population with convenient access to open public spaces",
+                ""
+              ]
+            },
+            "title": "Կատեգորիա"
           },
           {
             "name": "Value",
