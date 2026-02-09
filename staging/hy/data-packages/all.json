@@ -7422,7 +7422,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -7430,14 +7430,28 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "թվաքանակ",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Category",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Plant genetic resources accessions stored ex situ",
+                "Number of transboundary breeds (including extinct ones)",
+                "Number of local breeds kept in the country",
+                ""
+              ]
+            },
+            "title": "Կատեգորիա"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
             "title": "Value"
           }
         ]
