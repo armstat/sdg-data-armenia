@@ -7490,8 +7490,8 @@
             "constraints": {
               "enum": [
                 "Plant genetic resources accessions stored ex situ",
-                "Number of transboundary breeds (including extinct ones)",
-                "Number of local breeds kept in the country",
+                "Количество трансграничных пород (включая вымершие)",
+                "Количество местных пород, существующих в стране",
                 ""
               ]
             },
