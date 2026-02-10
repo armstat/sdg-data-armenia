@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ALL RENEWABLES",
-                "BIOENERGY",
-                "GEOTHERMAL ENERGY",
-                "HYDROPOWER",
-                "MULTIPLE RENEWABLES",
-                "SOLAR ENERGY",
+                "All renewables",
+                "Bioenergy",
+                "Geothermal energy",
+                "Hydropower",
+                "Multiple renewables",
+                "Solar energy",
                 ""
               ]
             },

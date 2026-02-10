@@ -12202,12 +12202,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ALL RENEWABLES",
-                "BIOENERGY",
-                "GEOTHERMAL ENERGY",
-                "HYDROPOWER",
-                "MULTIPLE RENEWABLES",
-                "SOLAR ENERGY",
+                "Всего возобновляемые",
+                "Биоэнергия",
+                "Геотермальная энергия",
+                "Гидроэнергия",
+                "Множественные источники возобновляемой энергии",
+                "Солнечная энергия",
                 ""
               ]
             },
