@@ -1,4 +1,39 @@
-Year,Группа,category,sex,Units,Value
-2024,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",national-level public service personnel,,Total,39.8
-2024,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",,мужчина,,19.4
-2024,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",,женщина,,20.4
+Year,Units,Группа,Категория,Пол,Возраст,Value
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",National-level public service personnel,,,39.8
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",National-level public service personnel,мужчина,,19.4
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",National-level public service personnel,женщина,,20.4
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",Senior Managers,,,0.2
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",Senior Managers,мужчина,,0.2
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",Senior Managers,женщина,,0.0
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",Other Managers,,,8.9
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",Other Managers,мужчина,,5.9
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",Other Managers,женщина,,3.0
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",Administration Professionals,,,17.3
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",Administration Professionals,мужчина,,8.3
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",Administration Professionals,женщина,,9.0
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",usiness and Administration Associate Professionalss,,,11.9
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",usiness and Administration Associate Professionalss,мужчина,,4.5
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",usiness and Administration Associate Professionalss,женщина,,7.4
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",General and Keyboard Clerks,,,1.5
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",General and Keyboard Clerks,мужчина,,0.5
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",General and Keyboard Clerks,женщина,,1.0
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",,,15-24,2.1
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",,,25-34,5.8
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",,,35-44,8.9
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",,,45-54,10.3
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",,,55-64,10.0
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",,,65 and more,2.6
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",,,Has disability,1.8
+2024,%,"16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",,,No disability,38.0
+2024,%,"16.7.1c: Proportions of positions in the judiciary (national and local), by various characteristics, compared to national distributions.",Judges,мужчина,,216.0
+2024,%,"16.7.1c: Proportions of positions in the judiciary (national and local), by various characteristics, compared to national distributions.",Judges,женщина,,105.0
+2024,%,"16.7.1c: Proportions of positions in the judiciary (national and local), by various characteristics, compared to national distributions.",Judges of the Constitutional Court,мужчина,,8.0
+2024,%,"16.7.1c: Proportions of positions in the judiciary (national and local), by various characteristics, compared to national distributions.",Judges of the Constitutional Court,женщина,,1.0
+2024,%,"16.7.1c: Proportions of positions in the judiciary (national and local), by various characteristics, compared to national distributions.",Court of Cassation,мужчина,,20.0
+2024,%,"16.7.1c: Proportions of positions in the judiciary (national and local), by various characteristics, compared to national distributions.",Court of Cassation,женщина,,7.0
+2024,%,"16.7.1c: Proportions of positions in the judiciary (national and local), by various characteristics, compared to national distributions.",Courts of Appeal,мужчина,,43.0
+2024,%,"16.7.1c: Proportions of positions in the judiciary (national and local), by various characteristics, compared to national distributions.",Courts of Appeal,женщина,,22.0
+2024,%,"16.7.1c: Proportions of positions in the judiciary (national and local), by various characteristics, compared to national distributions.",Specialized courts,мужчина,,35.0
+2024,%,"16.7.1c: Proportions of positions in the judiciary (national and local), by various characteristics, compared to national distributions.",Specialized courts,женщина,,17.0
+2024,%,"16.7.1c: Proportions of positions in the judiciary (national and local), by various characteristics, compared to national distributions.",Courts of First Instance of General Jurisdiction,мужчина,,118.0
+2024,%,"16.7.1c: Proportions of positions in the judiciary (national and local), by various characteristics, compared to national distributions.",Courts of First Instance of General Jurisdiction,женщина,,59.0
