@@ -5833,7 +5833,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -5841,14 +5841,49 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",
                 ""
               ]
             },
             "title": "Group"
           },
           {
-            "name": "Value",
+            "name": "category",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "national-level public service personnel",
+                ""
+              ]
+            },
+            "title": "category"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "male",
+                "female",
+                ""
+              ]
+            },
+            "title": "sex"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
