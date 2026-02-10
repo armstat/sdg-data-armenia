@@ -1,0 +1,60 @@
+REC_USE_LIM: ''
+comments_limitations: ''
+computation_calculations: ''
+computation_definitions: ''
+computation_units: data.per 100,000 population
+global_indicator: ''
+global_indicator_name: ''
+goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-11-01-01.pdf
+goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 93.1 KB)
+indicator: 11.1.1
+indicator_definition: ''
+indicator_name: global_indicators.11-1-1-title
+indicator_note: >
+  Proportion of population in  households without centralized water supply 
+
+  Կենտրոնացված ջրամատակարարում չունեցող տնտեսություններում ապրող բնակչության
+  հարաբերական կշիռը
+
+  Доля населения, проживающего в домохозяйствах без централизованного
+  водоснабжения
+
+
+  Proportion of population using safely managed sanitation facility
+
+  Կենտրոնացված ջրահեռացման համակարգ չունեցող տնտեսություններում ապրող
+  բնակչության հարաբերական կշիռը
+
+  Доля населения, проживающего в домохозяйствах без централизованной санитарии
+
+
+  The proportion of present population living in households with more than 3
+  people per room
+
+  Մեկ սենյակում 3-ից ավելի անձ բնակեցված տնտեսություններում բնակվող առկա
+  բնակչության հարաբերական կշիռը
+
+  Доля наличного населения, проживающего в домохозяйствах с более чем тремя
+  лицами на одну комнату
+
+
+  The proportion of population living in households complained about humidity,
+  leaking roof, dilapidated walls and floor  or dilapidated window frames and
+  doors
+
+  Բնակարանային վատ վիճակի (խոնավություն, տանիքի արտահոսք, քայքայված պատեր,
+  հատակներ, պատուհաններ և դռներ) վերաբերյալ բողոք ներկայացրած տնտեսություններում
+  բնակվող բնակչության տեսակարար կշիռը
+
+  Доля населения, проживающего в домохозяйствах, заявивших о
+  неудовлетворительном состоянии жилья
+national_data_updated_date: '2026-02-05'
+national_geographical_coverage: custom.armenia
+national_indicator_available: ''
+national_indicator_description: ''
+national_indicator_note: ''
+national_metadata_updated_date: '2025-09-26'
+target: global_targets.11-1-title
+target_id: '11.1'
+un_custodian_agency: United Nations Human Settlements Programme (UN-Habitat)
+un_designated_tier: '1'
