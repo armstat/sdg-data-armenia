@@ -7597,7 +7597,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2023 United States dollars)",
+                "Գյուղատնտեսության համար ընդհանուր պաշտոնական հոսքերը (հատկացումները)՝ ըստ ստացող երկրների (միլիոն  ԱՄՆ դոլար 2023 թվականի հաստատուն գներով)",
                 ""
               ]
             },
