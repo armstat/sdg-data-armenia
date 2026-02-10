@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Average share of the built-up area of cities that is open space for public use for all",
-                "Average share of urban population with convenient access to open public spaces",
+                "Քաղաքների կառուցապատված տարածքի միջին մասնաբաժինը, որը հանրային օգտագործման համար բաց տարածք է բոլորի համար",
+                "Քաղաքային բնակչության միջին մասնաբաժինը, որն ունի բաց հանրային տարածքներին հարմար մուտք",
                 ""
               ]
             },

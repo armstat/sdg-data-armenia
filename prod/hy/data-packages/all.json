@@ -2695,8 +2695,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Average share of the built-up area of cities that is open space for public use for all",
-                "Average share of urban population with convenient access to open public spaces",
+                "Քաղաքների կառուցապատված տարածքի միջին մասնաբաժինը, որը հանրային օգտագործման համար բաց տարածք է բոլորի համար",
+                "Քաղաքային բնակչության միջին մասնաբաժինը, որն ունի բաց հանրային տարածքներին հարմար մուտք",
                 ""
               ]
             },
@@ -5837,29 +5837,52 @@
             "title": "Տարի"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
                 "16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",
+                "16.7.1c: Proportions of positions in the judiciary (national and local), by various characteristics, compared to national distributions.",
                 ""
               ]
             },
             "title": "Խումբ"
           },
           {
-            "name": "category",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "national-level public service personnel",
+                "National-level public service personnel",
+                "Senior Managers",
+                "Other Managers",
+                "Administration Professionals",
+                "usiness and Administration Associate Professionalss",
+                "General and Keyboard Clerks",
+                "Judges",
+                "Judges of the Constitutional Court",
+                "Court of Cassation",
+                "Courts of Appeal",
+                "Specialized courts",
+                "Courts of First Instance of General Jurisdiction",
                 ""
               ]
             },
-            "title": "category"
+            "title": "Կատեգորիա"
           },
           {
-            "name": "sex",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5868,18 +5891,25 @@
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Սեռ"
           },
           {
-            "name": "Units",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55-64",
+                "65 and more",
+                "Has disability",
+                "No disability",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Տարիք"
           },
           {
             "name": "Value",

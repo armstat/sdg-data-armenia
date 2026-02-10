@@ -1,3 +1,4 @@
 From,To
-Group,category
-Group,sex
+Group,Category
+Group,Age
+Category,Sex
