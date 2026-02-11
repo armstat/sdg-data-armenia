@@ -5387,81 +5387,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "16.7.1b: Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",
-                "16.7.1c: Proportions of positions in the judiciary (national and local), by various characteristics, compared to national distributions.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National-level public service personnel",
-                "Senior Managers",
-                "Other Managers",
-                "Administration Professionals",
-                "usiness and Administration Associate Professionalss",
-                "General and Keyboard Clerks",
-                "Judges",
-                "Judges of the Constitutional Court",
-                "Court of Cassation",
-                "Courts of Appeal",
-                "Specialized courts",
-                "Courts of First Instance of General Jurisdiction",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "male",
-                "female",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65 and more",
-                "Has disability",
-                "No disability",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       },
