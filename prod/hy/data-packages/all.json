@@ -1280,20 +1280,19 @@
             "title": "Տարի"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "%",
                 ""
               ]
             },
-            "title": "Խումբ"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -5822,40 +5821,6 @@
       "title": "Հանրային ծառայություններից վերջին անգամ օգտվելիս բավարարված բնակչության համամասնությունը"
     },
     {
-      "path": "16-7-1-b/data.csv",
-      "name": "16-7-1-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Տարի"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions."
-    },
-    {
       "path": "16-7-1/data.csv",
       "name": "16-7-1",
       "profile": "tabular-data-resource",
@@ -6457,7 +6422,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -6465,6 +6430,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "million USD",
                 ""
               ]
             },
@@ -6472,7 +6438,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -7033,7 +6999,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -7041,14 +7007,26 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "millions of 2023 United States dollars",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Տեխնիկական համագործակցության համար նախատեսված պաշտոնական զարգացման օգնության ընդհանուր գումարը (համախառն ծախսեր) (միլիոնավոր 2023 թվականի ԱՄՆ դոլար)",
+                ""
+              ]
+            },
+            "title": "Շարքեր"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -11952,24 +11930,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Խումբ"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -13669,7 +13645,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -13677,14 +13653,26 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "միլիոնավոր հաստատուն 2023 թվականի ԱՄՆ դոլարներ",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Ենթակառուցվածքների համար ընդհանուր պաշտոնական հոսքերը՝ ըստ ստացող երկրների (միլիոնավոր հաստատուն 2023 թվականի ԱՄՆ դոլարներ)",
+                ""
+              ]
+            },
+            "title": "Շարքեր"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -13774,30 +13762,6 @@
         ]
       },
       "title": "Բջջային ցանցի ծածկույթ ունեցող բնակչության համամասնությունը ըստ տեխնոլոգիայի"
-    },
-    {
-      "path": "16-7-1-c/data.csv",
-      "name": "16-7-1-c",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Տարի"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportions of positions in the judiciary (national and local), by various characteristics, compared to national distributions."
     }
   ]
 }

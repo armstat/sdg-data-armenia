@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -20,14 +20,26 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "միլիոնավոր հաստատուն 2023 թվականի ԱՄՆ դոլարներ",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Ենթակառուցվածքների համար ընդհանուր պաշտոնական հոսքերը՝ ըստ ստացող երկրների (միլիոնավոր հաստատուն 2023 թվականի ԱՄՆ դոլարներ)",
+                ""
+              ]
+            },
+            "title": "Շարքեր"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]

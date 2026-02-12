@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -20,14 +20,26 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "millions of 2023 United States dollars",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Տեխնիկական համագործակցության համար նախատեսված պաշտոնական զարգացման օգնության ընդհանուր գումարը (համախառն ծախսեր) (միլիոնավոր 2023 թվականի ԱՄՆ դոլար)",
+                ""
+              ]
+            },
+            "title": "Շարքեր"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
