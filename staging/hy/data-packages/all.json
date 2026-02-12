@@ -13665,7 +13665,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -13673,14 +13673,26 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "millions of constant 2023 United States dollars",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Total official flows for infrastructure, by recipient countries (millions of constant 2023 United States dollars)",
+                ""
+              ]
+            },
+            "title": "Շարքեր"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
