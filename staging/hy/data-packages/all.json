@@ -1276,7 +1276,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -1284,6 +1284,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
@@ -1291,7 +1292,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -7098,7 +7099,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total official development assistance (gross disbursement) for technical cooperation (millions of 2023 United States dollars)",
+                "Տեխնիկական համագործակցության համար նախատեսված պաշտոնական զարգացման օգնության ընդհանուր գումարը (համախառն ծախսեր) (միլիոնավոր 2023 թվականի ԱՄՆ դոլար)",
                 ""
               ]
             },
@@ -13733,7 +13734,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "millions of constant 2023 United States dollars",
+                "միլիոնավոր հաստատուն 2023 թվականի ԱՄՆ դոլարներ",
                 ""
               ]
             },
@@ -13744,7 +13745,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total official flows for infrastructure, by recipient countries (millions of constant 2023 United States dollars)",
+                "Ենթակառուցվածքների համար ընդհանուր պաշտոնական հոսքերը՝ ըստ ստացող երկրների (միլիոնավոր հաստատուն 2023 թվականի ԱՄՆ դոլարներ)",
                 ""
               ]
             },

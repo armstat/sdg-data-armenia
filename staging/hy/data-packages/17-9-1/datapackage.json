@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total official development assistance (gross disbursement) for technical cooperation (millions of 2023 United States dollars)",
+                "Տեխնիկական համագործակցության համար նախատեսված պաշտոնական զարգացման օգնության ընդհանուր գումարը (համախառն ծախսեր) (միլիոնավոր 2023 թվականի ԱՄՆ դոլար)",
                 ""
               ]
             },
