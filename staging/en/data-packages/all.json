@@ -6455,7 +6455,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -6463,6 +6463,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "million USD",
                 ""
               ]
             },
@@ -6470,7 +6471,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
