@@ -5832,7 +5832,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
@@ -5840,61 +5840,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1000 persons",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National-level public service personnel",
-                "Senior Managers",
-                "Other Managers",
-                "Administration Professionals",
-                "Business and Administration Associate Professionalss",
-                "General and Keyboard Clerks",
-                ""
-              ]
-            },
-            "title": "Կատեգորիա"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "տղամարդ",
-                "կին",
-                ""
-              ]
-            },
-            "title": "Սեռ"
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65 and more",
-                "Has disability",
-                "No disability",
-                ""
-              ]
-            },
-            "title": "Տարիք"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
