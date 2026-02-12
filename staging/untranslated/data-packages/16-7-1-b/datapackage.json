@@ -12,20 +12,64 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "1000 persons",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National-level public service personnel",
+                "Senior Managers",
+                "Other Managers",
+                "Administration Professionals",
+                "Business and Administration Associate Professionalss",
+                "General and Keyboard Clerks",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "male",
+                "female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55-64",
+                "65 and more",
+                "Has disability",
+                "No disability",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }

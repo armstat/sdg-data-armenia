@@ -1,1 +1,27 @@
-Year,Value
+Year,Units,Категория,Пол,Возраст,Value
+2024,1000 persons,National-level public service personnel,,,39.8
+2024,1000 persons,National-level public service personnel,мужчина,,19.4
+2024,1000 persons,National-level public service personnel,женщина,,20.4
+2024,1000 persons,Senior Managers,,,0.2
+2024,1000 persons,Senior Managers,мужчина,,0.2
+2024,1000 persons,Senior Managers,женщина,,0.0
+2024,1000 persons,Other Managers,,,8.9
+2024,1000 persons,Other Managers,мужчина,,5.9
+2024,1000 persons,Other Managers,женщина,,3.0
+2024,1000 persons,Administration Professionals,,,17.3
+2024,1000 persons,Administration Professionals,мужчина,,8.3
+2024,1000 persons,Administration Professionals,женщина,,9.0
+2024,1000 persons,Business and Administration Associate Professionalss,,,11.9
+2024,1000 persons,Business and Administration Associate Professionalss,мужчина,,4.5
+2024,1000 persons,Business and Administration Associate Professionalss,женщина,,7.4
+2024,1000 persons,General and Keyboard Clerks,,,1.5
+2024,1000 persons,General and Keyboard Clerks,мужчина,,0.5
+2024,1000 persons,General and Keyboard Clerks,женщина,,1.0
+2024,1000 persons,National-level public service personnel,,15-24,2.1
+2024,1000 persons,National-level public service personnel,,25-34,5.8
+2024,1000 persons,National-level public service personnel,,35-44,8.9
+2024,1000 persons,National-level public service personnel,,45-54,10.3
+2024,1000 persons,National-level public service personnel,,55-64,10.0
+2024,1000 persons,National-level public service personnel,,65 and more,2.6
+2024,1000 persons,National-level public service personnel,,Has disability,1.8
+2024,1000 persons,National-level public service personnel,,No disability,38.0
