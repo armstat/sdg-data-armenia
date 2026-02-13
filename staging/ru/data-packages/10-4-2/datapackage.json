@@ -32,8 +32,8 @@
             "constraints": {
               "enum": [
                 "POSTFIS_CON_INC",
-                "POSTFIS_DIS_INC",
-                "PREFIS_INC",
+                "Постфискальный располагаемый доход",
+                "Дофискальный доход",
                 ""
               ]
             },
