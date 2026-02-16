@@ -1189,6 +1189,16 @@
             }
           },
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI) DC_ODA_POVLG",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
