@@ -1,1 +1,4 @@
-Year,Value
+Year,Units,Category,Value
+2017,%,POSTFIS_CON_INC,28.7
+2017,%,POSTFIS_DIS_INC,28.7
+2017,%,PREFIS_INC,33.3

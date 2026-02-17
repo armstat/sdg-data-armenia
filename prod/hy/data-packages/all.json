@@ -1291,6 +1291,17 @@
             "title": "Units"
           },
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI) DC_ODA_POVLG",
+                ""
+              ]
+            },
+            "title": "Կատեգորիա"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1548,7 +1559,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -1556,14 +1567,28 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Category",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "POSTFIS_CON_INC",
+                "Հետֆիսկալ  տնօրինվող եկամուտ",
+                "Նախաֆիսկալ եկամուտ",
+                ""
+              ]
+            },
+            "title": "Կատեգորիա"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]

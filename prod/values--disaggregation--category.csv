@@ -61,6 +61,7 @@ national parliaments,1,1
 Number of local breeds kept in the country,1,1
 number of teachers per computer,1,1
 Number of transboundary breeds (including extinct ones),1,1
+"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI) DC_ODA_POVLG",1,1
 old age,3,1
 on privileged terms,3,1
 other,10,1
@@ -74,6 +75,9 @@ physical and/or sexual violence,6,1
 physical violence,6,1
 physicians,1,1
 Plant genetic resources accessions stored ex situ,1,1
+POSTFIS_CON_INC,1,1
+POSTFIS_DIS_INC,1,1
+PREFIS_INC,1,1
 proportion of GDP,1,1
 proportion of schools connected to the Internet,1,1
 psychological violence,5,1

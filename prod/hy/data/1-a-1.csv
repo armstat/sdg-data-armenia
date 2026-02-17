@@ -1,10 +1,10 @@
-Year,Units,Value
-2015,%,0.1327
-2016,%,0.1255
-2017,%,0.0748
-2018,%,0.0706
-2019,%,0.0741
-2020,%,0.0646
-2021,%,0.1097
-2022,%,0.0451
-2023,%,0.0597
+Year,Units,Կատեգորիա,Value
+2015,%,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI) DC_ODA_POVLG",0.1327
+2016,%,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI) DC_ODA_POVLG",0.1255
+2017,%,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI) DC_ODA_POVLG",0.0748
+2018,%,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI) DC_ODA_POVLG",0.0706
+2019,%,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI) DC_ODA_POVLG",0.0741
+2020,%,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI) DC_ODA_POVLG",0.0646
+2021,%,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI) DC_ODA_POVLG",0.1097
+2022,%,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI) DC_ODA_POVLG",0.0451
+2023,%,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI) DC_ODA_POVLG",0.0597
