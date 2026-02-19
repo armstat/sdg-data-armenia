@@ -212,7 +212,7 @@ public transportation: public transportation
 Services: Services
 disabled: disabled
 (a)Food loss: (a)Food loss
-Share of food loss in total supply: Share of food loss in total supply
+Food loss percentage: Food loss percentage
 proportion of households with primary reliance on clean fuels and technology: proportion of households with primary reliance on clean fuels and technology
 Share of total areas under protection in the total area of the country: Total area of specially protected areas as a percentage of country area
 State reserves(Category Ib), quantity: Total number of state reserves (category Ib)
@@ -481,7 +481,7 @@ Invertebrates: Invertebrates
 Higher plants: Higher plants
 Fungi: Fungi
 Number of local breeds kept in the country: Number of local breeds kept in the country
-Plant genetic resources accessions stored ex situ (number): Plant genetic resources accessions stored ex situ (number)
+Plant genetic resources accessions stored ex situ: Plant genetic resources accessions stored ex situ
 Number of transboundary breeds (including extinct ones): Number of transboundary breeds (including extinct ones)
 Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2023 United States dollars): Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2023 United States dollars)
 Average share of the built-up area of cities that is open space for public use for all: Average share of the built-up area of cities that is open space for public use for all
