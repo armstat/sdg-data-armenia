@@ -1,1 +1,5 @@
 From,To
+Категория,Position
+Position,Пол
+Пол,Возраст
+Пол,Тип

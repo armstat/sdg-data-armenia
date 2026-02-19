@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -20,14 +20,84 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Ratio",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Category",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "b) Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions",
+                "c) Proportions of positions in the judiciary (national and local), by various characteristics, compared to national distributions",
+                ""
+              ]
+            },
+            "title": "Категория"
+          },
+          {
+            "name": "Position",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total national-level public service personnel",
+                "Senior Managers and other Managers",
+                "Lower courts",
+                "Judges of the Constitutional Court",
+                "Higher courts",
+                "General and Keyboard Clerks",
+                "Business and Administration Associate Professionalss",
+                "Administration Professionals",
+                "Judges",
+                ""
+              ]
+            },
+            "title": "Position"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "женщина",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55-64",
+                "65-74",
+                ""
+              ]
+            },
+            "title": "Возраст"
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "With disability",
+                ""
+              ]
+            },
+            "title": "Тип"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
