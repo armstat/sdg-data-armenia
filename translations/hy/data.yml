@@ -211,8 +211,8 @@ public transportation: հասարակական տրանսպորտ
 Services: Ծառայություններ
 disabled: հաշմանդամներ
 proportion of households with primary reliance on clean fuels and technology: մաքուր վառելիքից և տեխնոլոգիայից առաջնային կախվածություն ունեցող տնային տնտեսությունների մասնաբաժինը
-Food loss: Պարենի կորուստ
-Share of food loss in total supply: Պարենի կորստի մասնաբաժինն ամբողջական առաջարկում
+(a) Food loss: Պարենի կորուստ
+Food loss percentage: Պարենի կորստի տոկոսը
 Share of total areas under protection in the total area of the country: Հատուկ պահպանվող տարածքների ընդհանուր մակերեսը %-ով երկրի տարածքի նկատմամբ
 State reserves(Category Ib), quantity: Պետական արգելոցների (կատեգորիա Ib) ընդհանուր քանակը
 Share of State reserves(Category Ib) in the total area of the country: Պետական արգելոցների (կատեգորիա Ib) ընդհանուր մակերեսը %-ով երկրի տարածքի նկատմամբ
@@ -485,7 +485,7 @@ Invertebrates: Անողնաշարավորներ
 Higher plants: Բարձրակարգ բույսեր
 Fungi: Սունկեր
 Number of local breeds kept in the country: Երկրում առկա տեղական ցեղատեսակների քանակը
-Plant genetic resources accessions stored ex situ (number): Բնական միջավայրից դուրս պահվող բույսերի գենետիկական ռեսուրսների նմուշներ (քանակ)
+Plant genetic resources accessions stored ex situ: Բնական միջավայրից դուրս պահվող բույսերի գենետիկական ռեսուրսների նմուշներ
 Number of transboundary breeds (including extinct ones): Անդրսահմանային ցեղատեսակների քանակը (ներառյալ անհետացածները)
 Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2023 United States dollars): Գյուղատնտեսության համար ընդհանուր պաշտոնական հոսքերը (հատկացումները)՝ ըստ ստացող երկրների (միլիոն  ԱՄՆ դոլար 2023 թվականի հաստատուն գներով)
 Average share of the built-up area of cities that is open space for public use for all: Քաղաքների կառուցապատված տարածքի միջին մասնաբաժինը, որը հանրային օգտագործման համար բաց տարածք է բոլորի համար

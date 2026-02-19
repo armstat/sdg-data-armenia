@@ -211,8 +211,8 @@ public transportation: общественный транспорт
 Services: услуги
 disabled: инвалиды
 proportion of households with primary reliance on clean fuels and technology: доля домашних хозяйств, которые в первую очередь полагаются на чистое топливо и технологии
-Food loss: Потери продовольствия
-Share of food loss in total supply: Доля потерь продовольствия в общем объеме
+(a) Food loss: Потери продовольствия
+Food loss percentage: Процент потерь продовольствия
 Share of total areas under protection in the total area of the country: общая площадь особо охраняемых природных территорий в процентах от площади страны
 State reserves(Category Ib), quantity: общее количество государственных заповедников (категория Ib)
 Share of State reserves(Category Ib) in the total area of the country: общая площадь государственных заповедников (категория Iб) в % от территории страны
@@ -480,7 +480,7 @@ Invertebrates: Беспозвоночные
 Higher plants: Высшие растения
 Fungi: Грибы
 Number of local breeds kept in the country: Количество местных пород, существующих в стране
-Plant genetic resources accessions stored ex situ (number): Образцы генетических ресурсов растений, хранящиеся вне естественной среды обитания (количество)
+Plant genetic resources accessions stored ex situ: Образцы генетических ресурсов растений, хранящиеся вне естественной среды обитания
 Number of transboundary breeds (including extinct ones): Количество трансграничных пород (включая вымершие)
 Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2023 United States dollars): Показатель 2.a.2, Общий объем официальных потоков (выплат) на нужды сельского хозяйства по странам-получателям (в миллионах долларов США в постоянных ценах 2023 года)
 Average share of the built-up area of cities that is open space for public use for all: Средняя доля застроенной территории городов, используемой в качестве открытого пространства для общественного пользования, для всех
