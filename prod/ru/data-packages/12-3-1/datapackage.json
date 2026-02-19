@@ -16,20 +16,33 @@
             "title": "Год"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "1,000 тонна",
+                "%",
                 ""
               ]
             },
-            "title": "Группа"
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Потери продовольствия",
+                "Процент потерь продовольствия",
+                "Food loss percentagey",
+                ""
+              ]
+            },
+            "title": "Категория"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
