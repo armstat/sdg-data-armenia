@@ -3107,8 +3107,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Պարենի կորուստ",
-                "Պարենի կորստի մասնաբաժինն ամբողջական առաջարկում",
+                "Food loss",
+                "Share of food loss in total supply",
                 ""
               ]
             },
@@ -3155,8 +3155,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) Food loss",
-                "Food loss percentage",
+                "Պարենի կորուստ",
+                "Պարենի կորստի տոկոսը",
                 "Food loss percentagey",
                 ""
               ]

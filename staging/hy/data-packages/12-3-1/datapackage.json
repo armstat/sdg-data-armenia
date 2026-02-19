@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) Food loss",
-                "Food loss percentage",
+                "Պարենի կորուստ",
+                "Պարենի կորստի տոկոսը",
                 "Food loss percentagey",
                 ""
               ]
