@@ -6490,7 +6490,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "million USD",
+                "mln. USD",
                 ""
               ]
             },
