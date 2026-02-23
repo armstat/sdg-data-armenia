@@ -5855,13 +5855,13 @@
               "enum": [
                 "Total national-level public service personnel",
                 "Senior Managers and other Managers",
-                "Lower courts",
-                "Judges of the Constitutional Court",
-                "Higher courts",
+                "Lower Courts",
+                "Constitutional Court",
+                "Higher Courts",
                 "General and Keyboard Clerks",
                 "Business and Administration Associate Professionalss",
                 "Administration Professionals",
-                "Judges",
+                "Judges total",
                 ""
               ]
             },
