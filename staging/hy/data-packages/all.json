@@ -5837,7 +5837,7 @@
             "title": "Units"
           },
           {
-            "name": "Category",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5846,7 +5846,7 @@
                 ""
               ]
             },
-            "title": "Կատեգորիա"
+            "title": "Շարքեր"
           },
           {
             "name": "Position",
