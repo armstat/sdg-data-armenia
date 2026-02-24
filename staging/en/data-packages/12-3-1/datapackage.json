@@ -34,7 +34,6 @@
               "enum": [
                 "(a) Food loss",
                 "Food loss percentage",
-                "Food loss percentagey",
                 ""
               ]
             },
