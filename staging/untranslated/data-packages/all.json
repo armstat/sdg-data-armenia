@@ -4413,11 +4413,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Group",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
                 ""
@@ -4425,8 +4425,18 @@
             }
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mln.USD",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
