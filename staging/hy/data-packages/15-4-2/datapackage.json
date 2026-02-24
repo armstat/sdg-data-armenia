@@ -12,14 +12,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mountain Green Cover Index",
+                "Proportion of degraded mountain land",
+                ""
+              ]
+            },
+            "title": "Ցուցանիշ"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
@@ -27,7 +40,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
