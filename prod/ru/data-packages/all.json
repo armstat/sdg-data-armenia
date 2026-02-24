@@ -3109,7 +3109,6 @@
               "enum": [
                 "Потери продовольствия",
                 "Процент потерь продовольствия",
-                "Food loss percentagey",
                 ""
               ]
             },
@@ -4807,12 +4806,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
             "name": "Group",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
                 ""
@@ -4821,8 +4820,19 @@
             "title": "Группа"
           },
           {
-            "name": "Value",
+            "name": "Units",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "mln.USD",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -4841,7 +4851,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -4849,14 +4859,26 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Armenia",
                 ""
               ]
             },
             "title": "Группа"
           },
           {
-            "name": "Value",
+            "name": "Units",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "mln.USD",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]

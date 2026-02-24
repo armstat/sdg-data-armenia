@@ -12,12 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
             "name": "Group",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
                 ""
@@ -26,8 +26,19 @@
             "title": "Group"
           },
           {
-            "name": "Value",
+            "name": "Units",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "mln.USD",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
