@@ -5889,15 +5889,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total national-level public service personnel",
+                "Численность государственных служащих, всего",
                 "Senior Managers and other Managers",
-                "Lower Courts",
-                "Constitutional Court",
-                "Higher Courts",
-                "General and Keyboard Clerks",
-                "Business and Administration Associate Professionalss",
-                "Administration Professionals",
-                "Judges total",
+                "Суды первой инстанции (суды общей юрисдикции и специализированные)",
+                "Конституционный Суд",
+                "Вышестоящие суды (Кассационный и Апелляционный)",
+                "Офисные служащие и операторы, работающие с клавиатурой",
+                "Специалисты средней квалификации в сфере предпринимательской деятельности и администрирования",
+                "Высококвалифицированные специалисты в сфере администрирования",
+                "Судьи, всего",
                 ""
               ]
             },
