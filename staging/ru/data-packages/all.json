@@ -13179,7 +13179,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "всего",
+                "%",
                 ""
               ]
             },

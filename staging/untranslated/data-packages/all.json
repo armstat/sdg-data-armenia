@@ -12085,7 +12085,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
+                "%",
                 ""
               ]
             }
