@@ -43,15 +43,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total national-level public service personnel",
+                "Հանրային ծառայողների թվաքանակ, ընդամենը",
                 "Senior Managers and other Managers",
-                "Lower Courts",
-                "Constitutional Court",
-                "Higher Courts",
-                "General and Keyboard Clerks",
-                "Business and Administration Associate Professionalss",
-                "Administration Professionals",
-                "Judges total",
+                "Ստորին ատյանի դատարաններ (1-ին ատյանի ընդհանուր իրավասության և մասնագիտացված դատարաններ)",
+                "Սահմանադրական դատարանի",
+                "Վերադաս դատարաններ (Վճռաբեկ և վերաքննիչ)",
+                "Գրասենյակային ծառայողներ և ստեղնաշարով աշխատող գործավարներ",
+                "Ձեռնարակատիրական գործունեության և վարչարարության միջին որակավորում ունեցող մասնագետներ",
+                "Վարչարարության գծով բարձր որակավորում ունեցող մասնագետներ",
+                "Դատավորներ",
                 ""
               ]
             },
