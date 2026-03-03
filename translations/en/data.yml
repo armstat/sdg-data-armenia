@@ -495,8 +495,7 @@ POSTFIS_DIS_INC: POSTFIS_DIS_INC
 PREFIS_INC: PREFIS_INC
 Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI) DC_ODA_POVLG.: Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI) DC_ODA_POVLG.
 Total national-level public service personnel: Total national-level public service personnel
-Senior Managers: Senior Managers
-Other Managers: Other Managers
+Senior Managers and other Managers: Senior Managers and other Managers
 Administration Professionals: Administration Professionals
 Business and Administration Associate Professionalss: Business and Administration Associate Professionalss
 General and Keyboard Clerks: General and Keyboard Clerks
@@ -506,3 +505,4 @@ Lower Courts: Lower Courts
 Judges total: Judges total
 Ratio: Ratio
 Position: Position
+With disability: With disability
