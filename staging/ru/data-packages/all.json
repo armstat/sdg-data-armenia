@@ -5866,7 +5866,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ratio",
+                "Соотношение",
                 ""
               ]
             },
