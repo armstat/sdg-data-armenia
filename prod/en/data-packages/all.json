@@ -70,7 +70,7 @@
             "constraints": {
               "enum": [
                 "economically active population",
-                "employed",
+                "Employed",
                 "wage employed",
                 "self-employed",
                 "other employed",
