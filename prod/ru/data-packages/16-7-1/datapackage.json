@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "b) Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions",
-                "c) Proportions of positions in the judiciary (national and local), by various characteristics, compared to national distributions",
+                "б)Доля должностей в государственной службе (исключая законодательные и судебные), сравнимая с национальным распределением, в разбивке по полу, возрасту, признаку инвалидности и группам населения",
+                "с) Доли должностей в судебной власти (национальной и местной), по различным характеристикам, по сравнению с национальными распределениями",
                 ""
               ]
             },
