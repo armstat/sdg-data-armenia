@@ -5877,8 +5877,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "b) Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions",
-                "c) Proportions of positions in the judiciary (national and local), by various characteristics, compared to national distributions",
+                "ա) Հանրային պաշտոն (ազգային և տեղական) զբաղեցնող անձանց համամասնությունն ըստ տարբեր բնութագրերի՝ համեմատած բնակչության համապատասխան խմբի հետ",
+                "գ) Դատական ծառայության (ազգային և տեղական) պաշտոն զբաղեցնող անձանց համամասնությունն ըստ տարբեր բնութագրերի՝ համեմատած բնակչության համապատասխան խմբի հետ",
                 ""
               ]
             },
