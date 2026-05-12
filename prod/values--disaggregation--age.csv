@@ -29,7 +29,6 @@ aged 10-15 years,18,3
 aged 12-15 years,2,1
 aged 15-19 years,3,1
 aged 15-24 years,2,2
-aged 15-24,1,1
 aged 15-34 years,3,1
 aged 15 years,5,1
 aged 16-17 years,25,5
@@ -39,7 +38,6 @@ aged 18-64 years,4,3
 aged 18-66 years,1,1
 aged 25-34 years,10,1
 aged 25-64 years,1,1
-aged 25-64,1,1
 aged 35-44 years,10,1
 aged 35-59 years,3,1
 aged 40-62 years,3,1
@@ -63,10 +61,8 @@ aged 7-9 years,13,2
 before age 15,1,1
 before age 18,1,1
 from 6 months to 1 year,5,1
-total (15-49),1,1
-total (15-59),1,1
-total(15-49),2,1
-total(15-59),3,1
+total (15-49),3,1
+total (15-59),4,1
 up to 1 year old,13,2
 up to 51 years old,6,1
 up to 6 months,5,1

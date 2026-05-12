@@ -2302,8 +2302,6 @@
                 "aged 15-24 years",
                 "aged 25-64 years",
                 "aged 65 and over",
-                "aged 15-24",
-                "aged 25-64",
                 ""
               ]
             },
@@ -10606,14 +10604,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total(15-49)",
-                "total(15-59)",
+                "total (15-49)",
+                "total (15-59)",
                 "15-24",
                 "25-34",
                 "35-44",
                 "45-59",
-                "total (15-59)",
-                "total (15-49)",
                 ""
               ]
             },
@@ -13373,7 +13369,6 @@
                 "air transport",
                 "electricity transport",
                 "pipelines",
-                "of which  passenger taxi",
                 ""
               ]
             },

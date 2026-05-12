@@ -1,6 +1,6 @@
 Disaggregation,Number of indicators,Number of values
 Access to services,1,7
-Age,27,71
+Age,27,67
 Agency,2,7
 Branches/ATMs,1,2
 Category,46,108
@@ -30,5 +30,5 @@ Services,1,11
 Sex,47,11
 Subject,2,2
 Tenure_TYPE,1,16
-Transportation type,1,7
+Transportation type,1,6
 Type,8,15
