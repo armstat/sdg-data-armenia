@@ -153,3 +153,19 @@ Year,Units,Sex,Location,Age,Employment status,Type,Value
 2023,%,,,,pensioners,,0.2
 2023,%,,,,students,,0.2
 2023,%,,,,,disabled,0.3
+2024,%,,,,,,0.78
+2024,%,male,,,,,0.65
+2024,%,female,,,,,0.9
+2024,%,,urban,,,,0.52
+2024,%,,rural,,,,1.27
+2024,%,,,aged 0-17 years,,,1.18
+2024,%,,,aged 18-66 years,,,0.73
+2024,%,,,,economically active population,,0.45
+2024,%,,,,Employed,,0.34
+2024,%,,,,wage employed,,0.34
+2024,%,,,,self-employed,,0.69
+2024,%,,,,unemployment,,1.39
+2024,%,,,,economically inactive population,,0.71
+2024,%,,,,pensioners,,0.6
+2024,%,,,,students,,0.72
+2024,%,,,,,disabled,0.35
