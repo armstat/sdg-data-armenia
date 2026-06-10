@@ -11151,7 +11151,6 @@
               "enum": [
                 "urban",
                 "rural",
-                "uban",
                 ""
               ]
             }
