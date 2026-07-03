@@ -16,6 +16,16 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -24,26 +34,6 @@
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Category"
           },
           {
             "name": "Value",
@@ -56,5 +46,5 @@
   ],
   "profile": "data-package",
   "name": "2-2-3",
-  "title": "2-2-3"
+  "title": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)"
 }

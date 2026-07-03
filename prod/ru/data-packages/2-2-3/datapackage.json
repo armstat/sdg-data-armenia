@@ -16,6 +16,16 @@
             "title": "Год"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Ряды"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -24,26 +34,6 @@
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Категория"
           },
           {
             "name": "Value",
@@ -56,5 +46,5 @@
   ],
   "profile": "data-package",
   "name": "2-2-3",
-  "title": "2-2-3"
+  "title": "Распространенность анемии среди женщин в возрасте 15–49 лет в разбивке по статусу беременности (в процентах)"
 }

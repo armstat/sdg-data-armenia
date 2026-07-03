@@ -7319,6 +7319,16 @@
             "title": "Год"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Ряды"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -7329,33 +7339,13 @@
             "title": "Units"
           },
           {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Категория"
-          },
-          {
             "name": "Value",
             "type": "string",
             "title": "Value"
           }
         ]
       },
-      "title": "2-2-3"
+      "title": "Распространенность анемии среди женщин в возрасте 15–49 лет в разбивке по статусу беременности (в процентах)"
     },
     {
       "path": "2-3-1/data.csv",
@@ -9467,24 +9457,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Год"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Группа"
+            "title": "Ряды"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]

@@ -7319,6 +7319,16 @@
             "title": "Տարի"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Շարքեր"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -7329,33 +7339,13 @@
             "title": "Units"
           },
           {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Սեռ"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Կատեգորիա"
-          },
-          {
             "name": "Value",
             "type": "string",
             "title": "Value"
           }
         ]
       },
-      "title": "2-2-3"
+      "title": "Անեմիայի տարածվածությունը 15-49 տարեկան կանանց մոտ՝ ըստ հղիության կարգավիճակի (տոկոս)"
     },
     {
       "path": "2-3-1/data.csv",
@@ -9467,24 +9457,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Տարի"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Խումբ"
+            "title": "Շարքեր"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
