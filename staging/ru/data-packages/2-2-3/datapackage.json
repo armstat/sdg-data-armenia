@@ -16,6 +16,16 @@
             "title": "Год"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Ряды"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -24,26 +34,6 @@
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Категория"
           },
           {
             "name": "Value",

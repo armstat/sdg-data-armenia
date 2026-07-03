@@ -7319,6 +7319,16 @@
             "title": "Տարի"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Շարքեր"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -7327,26 +7337,6 @@
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Սեռ"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Կատեգորիա"
           },
           {
             "name": "Value",
