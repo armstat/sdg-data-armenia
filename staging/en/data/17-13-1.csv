@@ -98,9 +98,9 @@ Year,Units,Indicator,Value
 2019,%,Current account balance as a proportion of GDP,-7.1
 2020,%,Current account balance as a proportion of GDP,-4.0
 2021,%,Current account balance as a proportion of GDP,-3.4
-2022,%,Current account balance as a proportion of GDP,0.7
-2023,%,Current account balance as a proportion of GDP,-2.8
-2024,%,Current account balance as a proportion of GDP,-4.6
+2022,%,Current account balance as a proportion of GDP,-0.4
+2023,%,Current account balance as a proportion of GDP,-3.5
+2024,%,Current account balance as a proportion of GDP,-6.2
 2015,%,"Foreign direct investment, net inflows, as a proportion of GDP",-1.5
 2016,%,"Foreign direct investment, net inflows, as a proportion of GDP",-2.5
 2017,%,"Foreign direct investment, net inflows, as a proportion of GDP",-1.9
@@ -109,8 +109,8 @@ Year,Units,Indicator,Value
 2020,%,"Foreign direct investment, net inflows, as a proportion of GDP",-0.7
 2021,%,"Foreign direct investment, net inflows, as a proportion of GDP",-2.5
 2022,%,"Foreign direct investment, net inflows, as a proportion of GDP",-4.7
-2023,%,"Foreign direct investment, net inflows, as a proportion of GDP",-2.2
-2024,%,"Foreign direct investment, net inflows, as a proportion of GDP",-0.3
+2023,%,"Foreign direct investment, net inflows, as a proportion of GDP",-1.2
+2024,%,"Foreign direct investment, net inflows, as a proportion of GDP",-0.4
 2015,mln. USD,"Portfolio investment, net (Balance of Payments, current mln United States dollars)",-235.4
 2016,mln. USD,"Portfolio investment, net (Balance of Payments, current mln United States dollars)",-33.7
 2017,mln. USD,"Portfolio investment, net (Balance of Payments, current mln United States dollars)",80.7
@@ -181,16 +181,16 @@ Year,Units,Indicator,Value
 2022,%,Total reserves in months of imports (ratio),4.7
 2023,%,Total reserves in months of imports (ratio),2.9
 2024,%,Total reserves in months of imports (ratio),2.2
-2015,AMD,DEC alternative conversion factor (in local currency unit per United States dollar),477.9
-2016,AMD,DEC alternative conversion factor (in local currency unit per United States dollar),480.5
-2017,AMD,DEC alternative conversion factor (in local currency unit per United States dollar),482.7
-2018,AMD,DEC alternative conversion factor (in local currency unit per United States dollar),483.0
-2019,AMD,DEC alternative conversion factor (in local currency unit per United States dollar),480.4
-2020,AMD,DEC alternative conversion factor (in local currency unit per United States dollar),489.0
-2021,AMD,DEC alternative conversion factor (in local currency unit per United States dollar),503.8
-2022,AMD,DEC alternative conversion factor (in local currency unit per United States dollar),435.7
-2023,AMD,DEC alternative conversion factor (in local currency unit per United States dollar),392.5
-2024,AMD,DEC alternative conversion factor (in local currency unit per United States dollar),392.7
+2015,AMD,DEC alternative conversion factor (in local currency unit per United States dollar),477.92
+2016,AMD,DEC alternative conversion factor (in local currency unit per United States dollar),480.49
+2017,AMD,DEC alternative conversion factor (in local currency unit per United States dollar),482.72
+2018,AMD,DEC alternative conversion factor (in local currency unit per United States dollar),482.99
+2019,AMD,DEC alternative conversion factor (in local currency unit per United States dollar),480.45
+2020,AMD,DEC alternative conversion factor (in local currency unit per United States dollar),489.01
+2021,AMD,DEC alternative conversion factor (in local currency unit per United States dollar),503.77
+2022,AMD,DEC alternative conversion factor (in local currency unit per United States dollar),435.67
+2023,AMD,DEC alternative conversion factor (in local currency unit per United States dollar),392.48
+2024,AMD,DEC alternative conversion factor (in local currency unit per United States dollar),392.73
 2015,%,External debt stocks as a proportion of GNI,80.4
 2016,%,External debt stocks as a proportion of GNI,91.3
 2017,%,External debt stocks as a proportion of GNI,85.7
@@ -206,8 +206,9 @@ Year,Units,Indicator,Value
 2025,%,Annual growth of households and NPISHs final consumption expenditure,9.8
 2025,%,Annual growth of exports of goods and services,-27.8
 2025,%,Annual growth of imports of goods and services,-21.2
-2025,%,Merchandise trade as a proportion of GDP,73.1
-2025,%,Current account balance as a proportion of GDP,-7.2
-2025,%,"Foreign direct investment, net inflows, as a proportion of GDP",-1.2
-2025,mln. USD,"Portfolio investment, net (Balance of Payments, current mln United States dollars)",-234.9
+2025,%,Merchandise trade as a proportion of GDP,72.8
+2025,%,Current account balance as a proportion of GDP,-8.7
+2025,%,"Foreign direct investment, net inflows, as a proportion of GDP",-2.2
+2025,mln. USD,"Portfolio investment, net (Balance of Payments, current mln United States dollars)",-226.3
 2024,%,External debt stocks as a proportion of GNI,66.0
+2025,AMD,DEC alternative conversion factor (in local currency unit per United States dollar),387.01
