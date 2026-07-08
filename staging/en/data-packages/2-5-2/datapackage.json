@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -20,6 +20,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Number of local breeds with unknown risk status",
+                "Number of local breeds (not extinct)",
+                "Number of transboundary breeds (not extinct)",
+                "Number of transboundary breeds with unknown risk status",
                 ""
               ]
             },
@@ -30,6 +34,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "number",
                 ""
               ]
             },
@@ -37,7 +42,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
