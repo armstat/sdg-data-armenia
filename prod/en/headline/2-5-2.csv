@@ -1,1 +1,45 @@
-Year,Value
+Year,Value,Units,Series
+2015,13,number,Number of local breeds with unknown risk status
+2016,13,number,Number of local breeds with unknown risk status
+2017,13,number,Number of local breeds with unknown risk status
+2018,13,number,Number of local breeds with unknown risk status
+2019,13,number,Number of local breeds with unknown risk status
+2020,13,number,Number of local breeds with unknown risk status
+2021,13,number,Number of local breeds with unknown risk status
+2022,13,number,Number of local breeds with unknown risk status
+2023,13,number,Number of local breeds with unknown risk status
+2024,13,number,Number of local breeds with unknown risk status
+2025,13,number,Number of local breeds with unknown risk status
+2015,13,number,Number of local breeds (not extinct)
+2016,13,number,Number of local breeds (not extinct)
+2017,13,number,Number of local breeds (not extinct)
+2018,13,number,Number of local breeds (not extinct)
+2019,13,number,Number of local breeds (not extinct)
+2020,13,number,Number of local breeds (not extinct)
+2021,13,number,Number of local breeds (not extinct)
+2022,13,number,Number of local breeds (not extinct)
+2023,13,number,Number of local breeds (not extinct)
+2024,13,number,Number of local breeds (not extinct)
+2025,13,number,Number of local breeds (not extinct)
+2015,13,number,Number of transboundary breeds (not extinct)
+2016,24,number,Number of transboundary breeds (not extinct)
+2017,24,number,Number of transboundary breeds (not extinct)
+2018,24,number,Number of transboundary breeds (not extinct)
+2019,24,number,Number of transboundary breeds (not extinct)
+2020,24,number,Number of transboundary breeds (not extinct)
+2021,24,number,Number of transboundary breeds (not extinct)
+2022,24,number,Number of transboundary breeds (not extinct)
+2023,24,number,Number of transboundary breeds (not extinct)
+2024,24,number,Number of transboundary breeds (not extinct)
+2025,24,number,Number of transboundary breeds (not extinct)
+2015,24,number,Number of transboundary breeds with unknown risk status
+2016,24,number,Number of transboundary breeds with unknown risk status
+2017,24,number,Number of transboundary breeds with unknown risk status
+2018,24,number,Number of transboundary breeds with unknown risk status
+2019,24,number,Number of transboundary breeds with unknown risk status
+2020,24,number,Number of transboundary breeds with unknown risk status
+2021,24,number,Number of transboundary breeds with unknown risk status
+2022,24,number,Number of transboundary breeds with unknown risk status
+2023,24,number,Number of transboundary breeds with unknown risk status
+2024,24,number,Number of transboundary breeds with unknown risk status
+2025,24,number,Number of transboundary breeds with unknown risk status
