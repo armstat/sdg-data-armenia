@@ -59,3 +59,9 @@ Year,Units,Sex,Value
 2024,"per 100,000 population",male,0.8
 2024,case,female,7.0
 2024,"per 100,000 population",female,0.4
+2025,case,,17.0
+2025,"per 100,000 population",,0.6
+2025,case,male,13.0
+2025,"per 100,000 population",male,0.9
+2025,case,female,4.0
+2025,"per 100,000 population",female,0.2
