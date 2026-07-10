@@ -1,1 +1,7 @@
-Year,Value
+Year,Series,Units,Sex,Value
+2018,"Average income of small-scale food producers,PPP",constant 2017 international $,,2106.04
+2018,"Average income of small-scale food producers,PPP",constant 2017 international $,female,1785.44
+2018,"Average income of small-scale food producers,PPP",constant 2017 international $,male,2246.64
+2018,"Average income of large-scale food producers,PPP",constant 2017 international $,,16288.28
+2018,"Average income of large-scale food producers,PPP",constant 2017 international $,female,16717.54
+2018,"Average income of large-scale food producers,PPP",constant 2017 international $,male,16214.41

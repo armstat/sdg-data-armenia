@@ -1,1 +1,3 @@
-Year,Value
+Year,Value,Units,Series
+2018,2106.04,constant 2017 international $,"Average income of small-scale food producers,PPP"
+2018,16288.28,constant 2017 international $,"Average income of large-scale food producers,PPP"
