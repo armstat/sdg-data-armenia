@@ -7395,7 +7395,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -7403,6 +7403,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Average income of small-scale food producers,PPP",
+                "Average income of large-scale food producers,PPP",
                 ""
               ]
             },
@@ -7413,14 +7415,27 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "constant 2017 international $",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Sex",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
