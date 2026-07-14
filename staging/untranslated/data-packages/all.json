@@ -10851,13 +10851,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of safely treated domestic wastewater flows",
+                "Total wastewater generated",
+                "Total wastewater treated",
+                "Proportion of wastewater treated",
+                "Total wastewater safely treated",
+                "Proportion of wastewater safely treated",
                 ""
               ]
             }
@@ -10867,13 +10873,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
+                "million m3/year",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
