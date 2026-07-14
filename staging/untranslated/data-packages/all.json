@@ -5132,7 +5132,7 @@
             "type": "string"
           },
           {
-            "name": "Series",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [

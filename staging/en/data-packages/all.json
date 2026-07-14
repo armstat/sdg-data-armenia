@@ -5592,14 +5592,14 @@
             "title": "Year"
           },
           {
-            "name": "Series",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Indicator"
           },
           {
             "name": "Units",
