@@ -12228,13 +12228,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "Total official flows (disbursement) for Aid for Trade, by recipient countries",
                 ""
               ]
             }
@@ -12244,13 +12245,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "millions of constant 2024 United States dollars",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
