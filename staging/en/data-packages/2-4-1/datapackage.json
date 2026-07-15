@@ -27,16 +27,16 @@
             "title": "Units"
           },
           {
-            "name": "Category",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "[PROXY] Progress toward productive and sustainable agriculture, trend score",
-                "[PROXY] Progress toward productive and sustainable agriculture, current status score",
+                "Progress toward productive and sustainable agriculture, trend score",
+                "Progress toward productive and sustainable agriculture, current status score",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Series"
           },
           {
             "name": "Value",
