@@ -1,19 +1,21 @@
-Year,Units,Category,Value
-2015,"1,000 ha",arable land,446.7
-2016,"1,000 ha",arable land,446.4
-2017,"1,000 ha",arable land,446.0
-2018,"1,000 ha",arable land,445.6
-2019,"1,000 ha",arable land,444.8
-2020,"1,000 ha",arable land,444.0
-2015,"1,000 ha",sown areas,337.5
-2016,"1,000 ha",sown areas,353.4
-2017,"1,000 ha",sown areas,294.5
-2018,"1,000 ha",sown areas,242.3
-2019,"1,000 ha",sown areas,227.9
-2020,"1,000 ha",sown areas,222.7
-2015,"1,000 ha",perennial plants,57.6
-2016,"1,000 ha",perennial plants,57.6
-2017,"1,000 ha",perennial plants,58.1
-2018,"1,000 ha",perennial plants,59.1
-2019,"1,000 ha",perennial plants,59.9
-2020,"1,000 ha",perennial plants,60.4
+﻿"Year","Units","Category","Value"
+"2015","score","[PROXY] Progress toward productive and sustainable agriculture, trend score","3"
+"2016","score","[PROXY] Progress toward productive and sustainable agriculture, trend score","1.86"
+"2017","score","[PROXY] Progress toward productive and sustainable agriculture, trend score","2.57"
+"2018","score","[PROXY] Progress toward productive and sustainable agriculture, trend score","2.43"
+"2019","score","[PROXY] Progress toward productive and sustainable agriculture, trend score","2.29"
+"2020","score","[PROXY] Progress toward productive and sustainable agriculture, trend score","2.29"
+"2021","score","[PROXY] Progress toward productive and sustainable agriculture, trend score","2.29"
+"2022","score","[PROXY] Progress toward productive and sustainable agriculture, trend score","2.29"
+"2023","score","[PROXY] Progress toward productive and sustainable agriculture, trend score","2.29"
+"2024","score","[PROXY] Progress toward productive and sustainable agriculture, trend score","2.29"
+"2015","score","[PROXY] Progress toward productive and sustainable agriculture, current status score","2.71"
+"2016","score","[PROXY] Progress toward productive and sustainable agriculture, current status score","2.57"
+"2017","score","[PROXY] Progress toward productive and sustainable agriculture, current status score","2.71"
+"2018","score","[PROXY] Progress toward productive and sustainable agriculture, current status score","2.71"
+"2019","score","[PROXY] Progress toward productive and sustainable agriculture, current status score","2.71"
+"2020","score","[PROXY] Progress toward productive and sustainable agriculture, current status score","2.71"
+"2021","score","[PROXY] Progress toward productive and sustainable agriculture, current status score","2.86"
+"2022","score","[PROXY] Progress toward productive and sustainable agriculture, current status score","2.86"
+"2023","score","[PROXY] Progress toward productive and sustainable agriculture, current status score","3"
+"2024","score","[PROXY] Progress toward productive and sustainable agriculture, current status score","3"
