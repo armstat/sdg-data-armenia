@@ -6928,19 +6928,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 ha",
+                "score",
                 ""
               ]
             }
           },
           {
-            "name": "Category",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "arable land",
-                "sown areas",
-                "perennial plants",
+                "Progress toward productive and sustainable agriculture, trend score",
+                "Progress toward productive and sustainable agriculture, current status score",
                 ""
               ]
             }
@@ -10851,13 +10850,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of safely treated domestic wastewater flows",
+                "Total wastewater generated",
+                "Total wastewater treated",
+                "Proportion of wastewater treated",
+                "Total wastewater safely treated",
+                "Proportion of wastewater safely treated",
                 ""
               ]
             }
@@ -10867,13 +10872,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
+                "million m3/year",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -12221,13 +12228,15 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "Total official flows (disbursement) for Aid for Trade, by recipient countries",
+                "Total official flows (commitments) for Aid for Trade, by recipient countries",
                 ""
               ]
             }
@@ -12237,13 +12246,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "millions of constant 2024 United States dollars",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
