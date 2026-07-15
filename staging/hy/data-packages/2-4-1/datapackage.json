@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 հա",
+                "միավոր",
                 ""
               ]
             },
@@ -31,9 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "վարելահողեր",
-                "ցանքատարածություններ",
-                "բազմամյա տնկարկներ",
+                "[PROXY] Progress toward productive and sustainable agriculture, trend score",
+                "[PROXY] Progress toward productive and sustainable agriculture, current status score",
                 ""
               ]
             },

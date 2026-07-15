@@ -6928,7 +6928,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 ha",
+                "score",
                 ""
               ]
             }
@@ -6938,9 +6938,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "arable land",
-                "sown areas",
-                "perennial plants",
+                "[PROXY] Progress toward productive and sustainable agriculture, trend score",
+                "[PROXY] Progress toward productive and sustainable agriculture, current status score",
                 ""
               ]
             }
