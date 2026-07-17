@@ -28,8 +28,11 @@ d) in student assessment,3,3
 diabetes,1,1
 disability,6,1
 disabled,11,2
+"Domestic material consumption, by type of raw material",7,1
+"Domestic material consumption per capita, by type of raw material",7,1
 domestic material consumption per capita,2,2
 domestic material consumption per GDP,2,2
+"Domestic material consumption per unit of GDP, by type of raw material",7,1
 domestic material consumption,2,2
 education,1,1
 electricity,1,1

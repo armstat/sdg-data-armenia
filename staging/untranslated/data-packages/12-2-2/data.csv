@@ -1,1 +1,211 @@
-Year,Units,Category,Value
+Year,Units,Category,Type,Value
+2015,tonnes,"Domestic material consumption per capita, by type of raw material",Waste for final treatment and disposal,9e-05
+2016,tonnes,"Domestic material consumption per capita, by type of raw material",Waste for final treatment and disposal,0.0
+2017,tonnes,"Domestic material consumption per capita, by type of raw material",Waste for final treatment and disposal,0.0001
+2018,tonnes,"Domestic material consumption per capita, by type of raw material",Waste for final treatment and disposal,1e-05
+2019,tonnes,"Domestic material consumption per capita, by type of raw material",Waste for final treatment and disposal,-0.0003
+2020,tonnes,"Domestic material consumption per capita, by type of raw material",Waste for final treatment and disposal,-0.0003
+2021,tonnes,"Domestic material consumption per capita, by type of raw material",Waste for final treatment and disposal,-0.0004
+2022,tonnes,"Domestic material consumption per capita, by type of raw material",Waste for final treatment and disposal,-0.0004
+2023,tonnes,"Domestic material consumption per capita, by type of raw material",Waste for final treatment and disposal,-0.0003
+2024,tonnes,"Domestic material consumption per capita, by type of raw material",Waste for final treatment and disposal,-0.0003
+2015,tonnes,"Domestic material consumption per capita, by type of raw material",Total or no breakdown,14.0
+2016,tonnes,"Domestic material consumption per capita, by type of raw material",Total or no breakdown,17.8
+2017,tonnes,"Domestic material consumption per capita, by type of raw material",Total or no breakdown,18.2
+2018,tonnes,"Domestic material consumption per capita, by type of raw material",Total or no breakdown,16.3
+2019,tonnes,"Domestic material consumption per capita, by type of raw material",Total or no breakdown,19.5
+2020,tonnes,"Domestic material consumption per capita, by type of raw material",Total or no breakdown,21.7
+2021,tonnes,"Domestic material consumption per capita, by type of raw material",Total or no breakdown,22.6
+2022,tonnes,"Domestic material consumption per capita, by type of raw material",Total or no breakdown,21.7
+2023,tonnes,"Domestic material consumption per capita, by type of raw material",Total or no breakdown,20.1
+2024,tonnes,"Domestic material consumption per capita, by type of raw material",Total or no breakdown,20.4
+2015,tonnes,"Domestic material consumption per capita, by type of raw material",Biomass,3.0
+2016,tonnes,"Domestic material consumption per capita, by type of raw material",Biomass,2.8
+2017,tonnes,"Domestic material consumption per capita, by type of raw material",Biomass,2.6
+2018,tonnes,"Domestic material consumption per capita, by type of raw material",Biomass,2.3
+2019,tonnes,"Domestic material consumption per capita, by type of raw material",Biomass,2.2
+2020,tonnes,"Domestic material consumption per capita, by type of raw material",Biomass,2.3
+2021,tonnes,"Domestic material consumption per capita, by type of raw material",Biomass,2.3
+2022,tonnes,"Domestic material consumption per capita, by type of raw material",Biomass,2.1
+2023,tonnes,"Domestic material consumption per capita, by type of raw material",Biomass,1.9
+2024,tonnes,"Domestic material consumption per capita, by type of raw material",Biomass,1.9
+2015,tonnes,"Domestic material consumption per capita, by type of raw material",Fossil fuels,0.7
+2016,tonnes,"Domestic material consumption per capita, by type of raw material",Fossil fuels,0.7
+2017,tonnes,"Domestic material consumption per capita, by type of raw material",Fossil fuels,0.7
+2018,tonnes,"Domestic material consumption per capita, by type of raw material",Fossil fuels,0.7
+2019,tonnes,"Domestic material consumption per capita, by type of raw material",Fossil fuels,0.8
+2020,tonnes,"Domestic material consumption per capita, by type of raw material",Fossil fuels,0.8
+2021,tonnes,"Domestic material consumption per capita, by type of raw material",Fossil fuels,0.9
+2022,tonnes,"Domestic material consumption per capita, by type of raw material",Fossil fuels,0.8
+2023,tonnes,"Domestic material consumption per capita, by type of raw material",Fossil fuels,0.7
+2024,tonnes,"Domestic material consumption per capita, by type of raw material",Fossil fuels,0.7
+2015,tonnes,"Domestic material consumption per capita, by type of raw material",Metal ores,8.4
+2016,tonnes,"Domestic material consumption per capita, by type of raw material",Metal ores,13.0
+2017,tonnes,"Domestic material consumption per capita, by type of raw material",Metal ores,12.9
+2018,tonnes,"Domestic material consumption per capita, by type of raw material",Metal ores,10.8
+2019,tonnes,"Domestic material consumption per capita, by type of raw material",Metal ores,14.1
+2020,tonnes,"Domestic material consumption per capita, by type of raw material",Metal ores,16.2
+2021,tonnes,"Domestic material consumption per capita, by type of raw material",Metal ores,16.8
+2022,tonnes,"Domestic material consumption per capita, by type of raw material",Metal ores,16.3
+2023,tonnes,"Domestic material consumption per capita, by type of raw material",Metal ores,15.3
+2024,tonnes,"Domestic material consumption per capita, by type of raw material",Metal ores,15.5
+2015,tonnes,"Domestic material consumption per capita, by type of raw material",Mixed and complex products n.e.c.,0.1
+2016,tonnes,"Domestic material consumption per capita, by type of raw material",Mixed and complex products n.e.c.,0.1
+2017,tonnes,"Domestic material consumption per capita, by type of raw material",Mixed and complex products n.e.c.,0.3
+2018,tonnes,"Domestic material consumption per capita, by type of raw material",Mixed and complex products n.e.c.,0.2
+2019,tonnes,"Domestic material consumption per capita, by type of raw material",Mixed and complex products n.e.c.,0.4
+2020,tonnes,"Domestic material consumption per capita, by type of raw material",Mixed and complex products n.e.c.,0.4
+2021,tonnes,"Domestic material consumption per capita, by type of raw material",Mixed and complex products n.e.c.,0.4
+2022,tonnes,"Domestic material consumption per capita, by type of raw material",Mixed and complex products n.e.c.,0.4
+2023,tonnes,"Domestic material consumption per capita, by type of raw material",Mixed and complex products n.e.c.,0.3
+2024,tonnes,"Domestic material consumption per capita, by type of raw material",Mixed and complex products n.e.c.,0.3
+2015,tonnes,"Domestic material consumption per capita, by type of raw material",Non-metallic minerals,1.8
+2016,tonnes,"Domestic material consumption per capita, by type of raw material",Non-metallic minerals,1.2
+2017,tonnes,"Domestic material consumption per capita, by type of raw material",Non-metallic minerals,1.7
+2018,tonnes,"Domestic material consumption per capita, by type of raw material",Non-metallic minerals,2.2
+2019,tonnes,"Domestic material consumption per capita, by type of raw material",Non-metallic minerals,2.0
+2020,tonnes,"Domestic material consumption per capita, by type of raw material",Non-metallic minerals,2.0
+2021,tonnes,"Domestic material consumption per capita, by type of raw material",Non-metallic minerals,2.2
+2022,tonnes,"Domestic material consumption per capita, by type of raw material",Non-metallic minerals,2.0
+2023,tonnes,"Domestic material consumption per capita, by type of raw material",Non-metallic minerals,1.8
+2024,tonnes,"Domestic material consumption per capita, by type of raw material",Non-metallic minerals,1.9
+2015,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Waste for final treatment and disposal,2e-05
+2016,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Waste for final treatment and disposal,0.0
+2017,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Waste for final treatment and disposal,3e-05
+2018,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Waste for final treatment and disposal,0.0
+2019,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Waste for final treatment and disposal,-0.0001
+2020,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Waste for final treatment and disposal,-0.0001
+2021,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Waste for final treatment and disposal,-0.0001
+2022,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Waste for final treatment and disposal,-0.0001
+2023,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Waste for final treatment and disposal,-0.0001
+2024,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Waste for final treatment and disposal,-0.0001
+2015,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Total or no breakdown,3.7
+2016,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Total or no breakdown,4.6
+2017,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Total or no breakdown,4.4
+2018,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Total or no breakdown,3.7
+2019,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Total or no breakdown,4.2
+2020,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Total or no breakdown,5.0
+2021,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Total or no breakdown,4.8
+2022,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Total or no breakdown,4.1
+2023,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Total or no breakdown,3.6
+2024,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Total or no breakdown,3.5
+2015,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Biomass,0.8
+2016,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Biomass,0.7
+2017,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Biomass,0.6
+2018,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Biomass,0.5
+2019,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Biomass,0.5
+2020,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Biomass,0.5
+2021,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Biomass,0.5
+2022,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Biomass,0.4
+2023,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Biomass,0.3
+2024,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Biomass,0.3
+2015,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Fossil fuels,0.2
+2016,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Fossil fuels,0.2
+2017,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Fossil fuels,0.2
+2018,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Fossil fuels,0.2
+2019,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Fossil fuels,0.2
+2020,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Fossil fuels,0.2
+2021,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Fossil fuels,0.2
+2022,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Fossil fuels,0.2
+2023,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Fossil fuels,0.1
+2024,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Fossil fuels,0.1
+2015,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Metal ores,2.2
+2016,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Metal ores,3.4
+2017,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Metal ores,3.1
+2018,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Metal ores,2.5
+2019,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Metal ores,3.0
+2020,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Metal ores,3.7
+2021,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Metal ores,3.6
+2022,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Metal ores,3.1
+2023,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Metal ores,2.8
+2024,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Metal ores,2.7
+2015,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Mixed and complex products n.e.c.,0.02
+2016,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Mixed and complex products n.e.c.,0.02
+2017,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Mixed and complex products n.e.c.,0.08
+2018,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Mixed and complex products n.e.c.,0.06
+2019,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Mixed and complex products n.e.c.,0.08
+2020,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Mixed and complex products n.e.c.,0.09
+2021,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Mixed and complex products n.e.c.,0.08
+2022,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Mixed and complex products n.e.c.,0.07
+2023,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Mixed and complex products n.e.c.,0.06
+2024,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Mixed and complex products n.e.c.,0.06
+2015,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Non-metallic minerals,0.5
+2016,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Non-metallic minerals,0.3
+2017,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Non-metallic minerals,0.4
+2018,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Non-metallic minerals,0.5
+2019,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Non-metallic minerals,0.4
+2020,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Non-metallic minerals,0.5
+2021,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Non-metallic minerals,0.5
+2022,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Non-metallic minerals,0.4
+2023,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Non-metallic minerals,0.3
+2024,kilograms per constant 2020 United States dollars,"Domestic material consumption per unit of GDP, by type of raw material",Non-metallic minerals,0.3
+2015,tonnes,"Domestic material consumption, by type of raw material",Waste for final treatment and disposal,270.8
+2016,tonnes,"Domestic material consumption, by type of raw material",Waste for final treatment and disposal,-45.6
+2017,tonnes,"Domestic material consumption, by type of raw material",Waste for final treatment and disposal,364.4
+2018,tonnes,"Domestic material consumption, by type of raw material",Waste for final treatment and disposal,31.3
+2019,tonnes,"Domestic material consumption, by type of raw material",Waste for final treatment and disposal,-1014.6
+2020,tonnes,"Domestic material consumption, by type of raw material",Waste for final treatment and disposal,-998.6
+2021,tonnes,"Domestic material consumption, by type of raw material",Waste for final treatment and disposal,-1029.2
+2022,tonnes,"Domestic material consumption, by type of raw material",Waste for final treatment and disposal,-1024.4
+2023,tonnes,"Domestic material consumption, by type of raw material",Waste for final treatment and disposal,-1043.8
+2024,tonnes,"Domestic material consumption, by type of raw material",Waste for final treatment and disposal,-1050.7
+2015,tonnes,"Domestic material consumption, by type of raw material",Total or no breakdown,40751096.1
+2016,tonnes,"Domestic material consumption, by type of raw material",Total or no breakdown,51905830.9
+2017,tonnes,"Domestic material consumption, by type of raw material",Total or no breakdown,52971110.9
+2018,tonnes,"Domestic material consumption, by type of raw material",Total or no breakdown,47413851.4
+2019,tonnes,"Domestic material consumption, by type of raw material",Total or no breakdown,56609870.8
+2020,tonnes,"Domestic material consumption, by type of raw material",Total or no breakdown,62801874.9
+2021,tonnes,"Domestic material consumption, by type of raw material",Total or no breakdown,64767880.3
+2022,tonnes,"Domestic material consumption, by type of raw material",Total or no breakdown,62427571.8
+2023,tonnes,"Domestic material consumption, by type of raw material",Total or no breakdown,59216250.6
+2024,tonnes,"Domestic material consumption, by type of raw material",Total or no breakdown,60648823.0
+2015,tonnes,"Domestic material consumption, by type of raw material",Biomass,8734586.6
+2016,tonnes,"Domestic material consumption, by type of raw material",Biomass,8186486.5
+2017,tonnes,"Domestic material consumption, by type of raw material",Biomass,7467115.3
+2018,tonnes,"Domestic material consumption, by type of raw material",Biomass,6810875.3
+2019,tonnes,"Domestic material consumption, by type of raw material",Biomass,6293130.9
+2020,tonnes,"Domestic material consumption, by type of raw material",Biomass,6702068.4
+2021,tonnes,"Domestic material consumption, by type of raw material",Biomass,6531752.4
+2022,tonnes,"Domestic material consumption, by type of raw material",Biomass,6129938.4
+2023,tonnes,"Domestic material consumption, by type of raw material",Biomass,5579640.7
+2024,tonnes,"Domestic material consumption, by type of raw material",Biomass,5678501.0
+2015,tonnes,"Domestic material consumption, by type of raw material",Fossil fuels,2026161.7
+2016,tonnes,"Domestic material consumption, by type of raw material",Fossil fuels,1929822.7
+2017,tonnes,"Domestic material consumption, by type of raw material",Fossil fuels,2068605.6
+2018,tonnes,"Domestic material consumption, by type of raw material",Fossil fuels,2133311.3
+2019,tonnes,"Domestic material consumption, by type of raw material",Fossil fuels,2257438.6
+2020,tonnes,"Domestic material consumption, by type of raw material",Fossil fuels,2384998.6
+2021,tonnes,"Domestic material consumption, by type of raw material",Fossil fuels,2562643.4
+2022,tonnes,"Domestic material consumption, by type of raw material",Fossil fuels,2379503.6
+2023,tonnes,"Domestic material consumption, by type of raw material",Fossil fuels,2169457.2
+2024,tonnes,"Domestic material consumption, by type of raw material",Fossil fuels,2174192.7
+2015,tonnes,"Domestic material consumption, by type of raw material",Metal ores,24557087.5
+2016,tonnes,"Domestic material consumption, by type of raw material",Metal ores,37982591.7
+2017,tonnes,"Domestic material consumption, by type of raw material",Metal ores,37648295.6
+2018,tonnes,"Domestic material consumption, by type of raw material",Metal ores,31319637.5
+2019,tonnes,"Domestic material consumption, by type of raw material",Metal ores,41022645.2
+2020,tonnes,"Domestic material consumption, by type of raw material",Metal ores,46737705.4
+2021,tonnes,"Domestic material consumption, by type of raw material",Metal ores,48341786.4
+2022,tonnes,"Domestic material consumption, by type of raw material",Metal ores,46993594.3
+2023,tonnes,"Domestic material consumption, by type of raw material",Metal ores,45134435.9
+2024,tonnes,"Domestic material consumption, by type of raw material",Metal ores,46138425.9
+2015,tonnes,"Domestic material consumption, by type of raw material",Mixed and complex products n.e.c.,184187.6
+2016,tonnes,"Domestic material consumption, by type of raw material",Mixed and complex products n.e.c.,212138.1
+2017,tonnes,"Domestic material consumption, by type of raw material",Mixed and complex products n.e.c.,935023.5
+2018,tonnes,"Domestic material consumption, by type of raw material",Mixed and complex products n.e.c.,726242.3
+2019,tonnes,"Domestic material consumption, by type of raw material",Mixed and complex products n.e.c.,1112176.6
+2020,tonnes,"Domestic material consumption, by type of raw material",Mixed and complex products n.e.c.,1099749.4
+2021,tonnes,"Domestic material consumption, by type of raw material",Mixed and complex products n.e.c.,1133013.9
+2022,tonnes,"Domestic material consumption, by type of raw material",Mixed and complex products n.e.c.,1083308.1
+2023,tonnes,"Domestic material consumption, by type of raw material",Mixed and complex products n.e.c.,1008957.4
+2024,tonnes,"Domestic material consumption, by type of raw material",Mixed and complex products n.e.c.,1038128.2
+2015,tonnes,"Domestic material consumption, by type of raw material",Non-metallic minerals,5248802.0
+2016,tonnes,"Domestic material consumption, by type of raw material",Non-metallic minerals,3594837.6
+2017,tonnes,"Domestic material consumption, by type of raw material",Non-metallic minerals,4851706.5
+2018,tonnes,"Domestic material consumption, by type of raw material",Non-metallic minerals,6423753.7
+2019,tonnes,"Domestic material consumption, by type of raw material",Non-metallic minerals,5925494.0
+2020,tonnes,"Domestic material consumption, by type of raw material",Non-metallic minerals,5878351.7
+2021,tonnes,"Domestic material consumption, by type of raw material",Non-metallic minerals,6199713.4
+2022,tonnes,"Domestic material consumption, by type of raw material",Non-metallic minerals,5842251.9
+2023,tonnes,"Domestic material consumption, by type of raw material",Non-metallic minerals,5324803.2
+2024,tonnes,"Domestic material consumption, by type of raw material",Non-metallic minerals,5620625.9
