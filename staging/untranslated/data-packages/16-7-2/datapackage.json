@@ -12,13 +12,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of population who believe decision-making is inclusive and responsive",
+                "Proportion of population who believe decision-making is inclusive",
+                "Proportion of population who believe decision-making is responsive",
                 ""
               ]
             }
@@ -28,13 +31,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }
