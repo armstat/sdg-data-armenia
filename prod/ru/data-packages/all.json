@@ -1950,24 +1950,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Год"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Группа"
+            "title": "Ряды"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -1986,24 +1994,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Год"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Группа"
+            "title": "Ряды"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -2022,24 +2038,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Год"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Группа"
+            "title": "Ряды"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -2662,24 +2686,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Год"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Группа"
+            "title": "Ряды"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -2884,24 +2916,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Год"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Группа"
+            "title": "Ряды"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -3041,7 +3081,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -3049,6 +3089,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "tonnes",
+                "kilograms per constant 2020 United States dollars",
                 ""
               ]
             },
@@ -3059,14 +3101,34 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Domestic material consumption per capita, by type of raw material",
+                "Domestic material consumption per unit of GDP, by type of raw material",
+                "Domestic material consumption, by type of raw material",
                 ""
               ]
             },
             "title": "Категория"
           },
           {
-            "name": "Value",
+            "name": "Type",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Waste for final treatment and disposal",
+                "Total or no breakdown",
+                "Biomass",
+                "Fossil fuels",
+                "Metal ores",
+                "Mixed and complex products n.e.c.",
+                "Non-metallic minerals",
+                ""
+              ]
+            },
+            "title": "Тип"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -3464,24 +3526,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Год"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Группа"
+            "title": "Ряды"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -5992,7 +6062,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -6000,6 +6070,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of population who believe decision-making is inclusive and responsive",
+                "Proportion of population who believe decision-making is inclusive",
+                "Proportion of population who believe decision-making is responsive",
                 ""
               ]
             },
@@ -6010,6 +6083,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
@@ -6017,7 +6091,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -6276,24 +6350,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Год"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Группа"
+            "title": "Ряды"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -11040,32 +11122,48 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Ряды"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Age",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Women aged 15-49 years",
+                ""
+              ]
+            },
+            "title": "Возраст"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",
+                "Proportion of women who make their own informed decisions regarding sexual relations",
+                "Proportion of women who make their own informed decisions regarding contraceptive use",
+                "Proportion of women who make their own informed decisions regarding reproductive health care",
+                ""
+              ]
+            },
+            "title": "Ряды"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -12873,24 +12971,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Год"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Группа"
+            "title": "Ряды"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -13199,7 +13305,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -13207,6 +13313,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation",
                 ""
               ]
             },
@@ -13217,6 +13324,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "количество закодированных критериев оценки",
                 ""
               ]
             },
@@ -13224,7 +13332,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]

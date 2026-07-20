@@ -1,9 +1,9 @@
 Disaggregation,Number of indicators,Number of values
 Access to services,1,7
-Age,27,67
+Age,28,68
 Agency,2,7
 Branches/ATMs,1,2
-Category,46,108
+Category,47,111
 Completion rate adjusted GPI by education level,1,1
 Conventions (dates and places of adoption),1,7
 Country,1,13
@@ -31,4 +31,4 @@ Sex,48,11
 Subject,2,2
 Tenure_TYPE,1,16
 Transportation type,1,6
-Type,8,15
+Type,9,22

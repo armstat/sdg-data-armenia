@@ -12,13 +12,15 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "tonnes",
+                "kilograms per constant 2020 United States dollars",
                 ""
               ]
             }
@@ -28,13 +30,32 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Domestic material consumption per capita, by type of raw material",
+                "Domestic material consumption per unit of GDP, by type of raw material",
+                "Domestic material consumption, by type of raw material",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Waste for final treatment and disposal",
+                "Total or no breakdown",
+                "Biomass",
+                "Fossil fuels",
+                "Metal ores",
+                "Mixed and complex products n.e.c.",
+                "Non-metallic minerals",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }

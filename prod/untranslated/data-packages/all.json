@@ -1795,22 +1795,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -1828,22 +1835,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -1861,22 +1875,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -2448,22 +2469,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -2651,22 +2679,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -2795,13 +2830,15 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "tonnes",
+                "kilograms per constant 2020 United States dollars",
                 ""
               ]
             }
@@ -2811,13 +2848,32 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Domestic material consumption per capita, by type of raw material",
+                "Domestic material consumption per unit of GDP, by type of raw material",
+                "Domestic material consumption, by type of raw material",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Waste for final treatment and disposal",
+                "Total or no breakdown",
+                "Biomass",
+                "Fossil fuels",
+                "Metal ores",
+                "Mixed and complex products n.e.c.",
+                "Non-metallic minerals",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -3183,22 +3239,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -5501,13 +5564,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of population who believe decision-making is inclusive and responsive",
+                "Proportion of population who believe decision-making is inclusive",
+                "Proportion of population who believe decision-making is responsive",
                 ""
               ]
             }
@@ -5517,13 +5583,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -5761,22 +5828,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -10125,29 +10199,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Women aged 15-49 years",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",
+                "Proportion of women who make their own informed decisions regarding sexual relations",
+                "Proportion of women who make their own informed decisions regarding contraceptive use",
+                "Proportion of women who make their own informed decisions regarding reproductive health care",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -11802,22 +11891,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -12101,13 +12197,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation",
                 ""
               ]
             }
@@ -12117,13 +12214,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "number of coded evaluation criteria",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },

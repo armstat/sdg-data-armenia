@@ -29,6 +29,7 @@ Indicator,Disaggregations,Number of disaggregations
 #11-5-1,Disaster type,1
 #11-5-1-a,Disaster type,1
 #11-7-1,Category,1
+#12-2-2,"Type, Category",2
 #12-2-2-a,Category,1
 #12-3-1,Category,1
 #12-4-1,Conventions (dates and places of adoption),1
@@ -100,6 +101,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-3-1,Age,1
 #5-5-1,Category,1
 #5-5-2,"Location, Age",2
+#5-6-1,Age,1
 #5-a-1-a-a,Location,1
 #5-a-1-b-a-1,Category,1
 #5-a-1-b-a-2,Category,1
