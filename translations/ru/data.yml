@@ -512,3 +512,7 @@ bn nominal USD: миллиарды номинальных долларов СШ�
 Micrograms per cubic meter [µg/m3 ]: Микрограммы на кубический метр [мкг/м3]
 local currency: в местной валюте
 mill current USD: в миллионах текущих долларов США
+Number of local breeds with unknown risk status: Количество местных пород с неизвестным статусом риска
+Number of local breeds (not extinct): Количество местных пород (не вымерших)
+Number of transboundary breeds (not extinct): Количество трансграничных пород (не вымерших)
+Number of transboundary breeds with unknown risk status: Количество трансграничных пород с неизвестным статусом риска
