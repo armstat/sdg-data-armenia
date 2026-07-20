@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Average income of small-scale food producers,PPP",
-                "Average income of large-scale food producers,PPP",
+                "Средний доход мелких производителей продуктов питания, ППС",
+                "Средний доход крупных производителей продуктов питания, ППС",
                 ""
               ]
             },
