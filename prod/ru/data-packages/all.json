@@ -3526,7 +3526,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -3534,6 +3534,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Fossil-fuel subsidies (consumption and production) as a proportion of total GDP",
+                "Fossil-fuel subsidies (consumption and production)",
+                "Fossil-fuel subsidies (consumption and production) per capita",
                 ""
               ]
             },
@@ -3544,6 +3547,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
+                "billions of nominal USD",
+                "nominal USD",
                 ""
               ]
             },
@@ -3551,7 +3557,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -7525,8 +7531,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Average income of small-scale food producers,PPP",
-                "Average income of large-scale food producers,PPP",
+                "Средний доход мелких производителей продуктов питания, ППС",
+                "Средний доход крупных производителей продуктов питания, ППС",
                 ""
               ]
             },
@@ -7643,8 +7649,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Progress toward productive and sustainable agriculture, trend score",
-                "Progress toward productive and sustainable agriculture, current status score",
+                "[PROXY] Progress toward productive and sustainable agriculture, trend score",
+                "[PROXY] Progress toward productive and sustainable agriculture, current status score",
                 ""
               ]
             },
@@ -7727,10 +7733,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of local breeds with unknown risk status",
-                "Number of local breeds (not extinct)",
-                "Number of transboundary breeds (not extinct)",
-                "Number of transboundary breeds with unknown risk status",
+                "Количество местных пород с неизвестным статусом риска",
+                "Количество местных пород (не вымерших)",
+                "Количество трансграничных пород (не вымерших)",
+                "Количество трансграничных пород с неизвестным статусом риска",
                 ""
               ]
             },
