@@ -11066,32 +11066,48 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Ряды"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Age",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Women aged 15-49 years",
+                ""
+              ]
+            },
+            "title": "Возраст"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",
+                "Proportion of women who make their own informed decisions regarding sexual relations",
+                "Proportion of women who make their own informed decisions regarding contraceptive use",
+                "Proportion of women who make their own informed decisions regarding reproductive health care",
+                ""
+              ]
+            },
+            "title": "Ряды"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
