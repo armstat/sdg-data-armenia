@@ -7727,10 +7727,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of local breeds with unknown risk status",
-                "Number of local breeds (not extinct)",
-                "Number of transboundary breeds (not extinct)",
-                "Number of transboundary breeds with unknown risk status",
+                "Անհայտ ռիսկի կարգավիճակ ունեցող տեղական ցեղատեսակների քանակը",
+                "Տեղական ցեղատեսակների քանակը (ոչ թե անհետացած)",
+                "Անդրսահմանային տեսակների քանակը (ոչ թե անհետացած)",
+                "Անդրսահմանային ցեղատեսակների քանակը՝ անհայտ ռիսկի կարգավիճակով",
                 ""
               ]
             },
