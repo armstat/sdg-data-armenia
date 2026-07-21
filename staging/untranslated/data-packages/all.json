@@ -1852,13 +1852,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "Total assistance for development, by recipient countries",
                 ""
               ]
             }
@@ -1868,13 +1869,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "millions of current United States dollars",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
