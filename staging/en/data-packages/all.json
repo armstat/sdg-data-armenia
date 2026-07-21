@@ -1950,7 +1950,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -1958,6 +1958,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of tariff lines applied to imports with zero-tariff",
                 ""
               ]
             },
@@ -1968,14 +1969,31 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Type of product",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "AGR",
+                "ALP",
+                "ARM",
+                "CLO",
+                "IND",
+                "TEX",
+                ""
+              ]
+            },
+            "title": "Type of product"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
