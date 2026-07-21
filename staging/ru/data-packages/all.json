@@ -2708,7 +2708,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -2716,6 +2716,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "ALL AREA",
+                "CITY",
+                "RURAL",
+                "Town and semi-dense area",
+                "URBAN",
                 ""
               ]
             },
@@ -2726,6 +2731,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "mgr/m^3",
                 ""
               ]
             },
@@ -2733,7 +2739,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -13134,7 +13140,7 @@
                 ""
               ]
             },
-            "title": "Type of occupation"
+            "title": "Вид деятельности"
           },
           {
             "name": "Value",
