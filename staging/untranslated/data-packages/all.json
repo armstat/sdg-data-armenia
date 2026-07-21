@@ -1894,13 +1894,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "Average remittance costs of sending $200 to a receiving country as a proportion of the amount remitted",
                 ""
               ]
             }
@@ -1910,13 +1911,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
