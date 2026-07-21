@@ -1950,7 +1950,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -1958,6 +1958,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of tariff lines applied to imports with zero-tariff",
                 ""
               ]
             },
@@ -1968,14 +1969,31 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Type of product",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "AGR",
+                "ALP",
+                "ARM",
+                "CLO",
+                "IND",
+                "TEX",
+                ""
+              ]
+            },
+            "title": "Type of product"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -1994,7 +2012,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -2002,6 +2020,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total assistance for development, by recipient countries",
                 ""
               ]
             },
@@ -2012,6 +2031,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "millions of current United States dollars",
                 ""
               ]
             },
@@ -2019,7 +2039,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -2038,7 +2058,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -2046,6 +2066,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Average remittance costs of sending $200 to a receiving country as a proportion of the amount remitted",
                 ""
               ]
             },
@@ -2056,6 +2077,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
@@ -2063,7 +2085,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -3549,7 +3571,7 @@
               "enum": [
                 "%",
                 "billions of nominal USD",
-                "nominal USD",
+                "nominal United States dollars",
                 ""
               ]
             },
@@ -6356,6 +6378,68 @@
         "fields": [
           {
             "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Worldwide weighted tariff-average, most-favoured-nation status, by type of product",
+                "Worldwide weighted tariff-average, preferential status, by type of product",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Type of product",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AGR",
+                "ALP",
+                "CLO",
+                "IND",
+                "TEX",
+                ""
+              ]
+            },
+            "title": "Type of product"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Worldwide weighted tariff-average"
+    },
+    {
+      "path": "17-11-1/data.csv",
+      "name": "17-11-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
             "type": "string",
             "title": "Year"
           },
@@ -6386,42 +6470,6 @@
           }
         ]
       },
-      "title": "Worldwide weighted tariff-average"
-    },
-    {
-      "path": "17-11-1/data.csv",
-      "name": "17-11-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
       "title": "Developing countries’ and least developed countries’ share of global exports"
     },
     {
@@ -6436,24 +6484,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -6573,24 +6629,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -10248,24 +10312,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -12886,7 +12958,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -12894,6 +12966,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "tonnes",
+                "kilograms per constant 2020 United States dollars",
                 ""
               ]
             },
@@ -12904,14 +12978,34 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Domestic material consumption per capita, by type of raw material",
+                "Domestic material consumption per unit of GDP, by type of raw material",
+                "Domestic material consumption, by type of raw material",
                 ""
               ]
             },
             "title": "Category"
           },
           {
-            "name": "Value",
+            "name": "Type",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Waste for final treatment and disposal",
+                "Total or no breakdown",
+                "Biomass",
+                "Fossil fuels",
+                "Metal ores",
+                "Mixed and complex products n.e.c.",
+                "Non-metallic minerals",
+                ""
+              ]
+            },
+            "title": "Type"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]

@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of population who believe decision-making is inclusive and responsive",
-                "Proportion of population who believe decision-making is inclusive",
-                "Proportion of population who believe decision-making is responsive",
+                "Доля населения, считающего, что процесс принятия решений является всеобъемлющим и гибким",
+                "Доля населения, считающего, что процесс принятия решений является всеобъемлющим",
+                "Доля населения, считающего, что процесс принятия решений является гибким",
                 ""
               ]
             },

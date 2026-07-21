@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of safely treated domestic wastewater flows",
-                "Total wastewater generated",
-                "Total wastewater treated",
-                "Proportion of wastewater treated",
-                "Total wastewater safely treated",
-                "Proportion of wastewater safely treated",
+                "Доля безопасно очищенных бытовых сточных вод",
+                "Общий объем образующихся сточных вод",
+                "Общий объем очищенных сточных вод",
+                "Доля очищенных сточных вод по видам деятельности и местоположению",
+                "Общий объем безопасно очищенных сточных вод",
+                "Доля безопасно очищенных сточных вод по видам деятельности и местоположению",
                 ""
               ]
             },

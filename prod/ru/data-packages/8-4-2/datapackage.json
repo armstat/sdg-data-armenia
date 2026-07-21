@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -20,6 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "tonnes",
+                "kilograms per constant 2020 United States dollars",
                 ""
               ]
             },
@@ -30,14 +32,34 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Внутреннее материальное потребление по видам сырья",
+                "Внутреннее материальное потребление на единицу ВВП по видам сырья",
+                "Внутреннее материальное потребление на душу населения по видам сырья",
                 ""
               ]
             },
             "title": "Категория"
           },
           {
-            "name": "Value",
+            "name": "Type",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Waste for final treatment and disposal",
+                "Total or no breakdown",
+                "Biomass",
+                "Fossil fuels",
+                "Metal ores",
+                "Mixed and complex products n.e.c.",
+                "Non-metallic minerals",
+                ""
+              ]
+            },
+            "title": "Тип"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]

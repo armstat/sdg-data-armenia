@@ -3,7 +3,7 @@ Access to services,1,7
 Age,28,68
 Agency,2,7
 Branches/ATMs,1,2
-Category,47,111
+Category,48,111
 Completion rate adjusted GPI by education level,1,1
 Conventions (dates and places of adoption),1,7
 Country,1,13
@@ -31,4 +31,5 @@ Sex,48,11
 Subject,2,2
 Tenure_TYPE,1,16
 Transportation type,1,6
-Type,9,22
+Type of product,2,6
+Type,10,22

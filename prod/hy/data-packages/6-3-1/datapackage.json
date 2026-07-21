@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of safely treated domestic wastewater flows",
-                "Total wastewater generated",
-                "Total wastewater treated",
-                "Proportion of wastewater treated",
-                "Total wastewater safely treated",
-                "Proportion of wastewater safely treated",
+                "Անվտանգ մաքրված կենցաղային կեղտաջրերի հոսքերի համամասնությունը",
+                "Ընդհանուր արտադրված կեղտաջրեր",
+                "Մաքրված կեղտաջրերի ընդհանուր քանակը",
+                "Մաքրված կեղտաջրերի համամասնությունը՝ ըստ գործունեության տեսակների և գտնվելու վայրի",
+                "Անվտանգ մաքրված կեղտաջրերի ընդհանուր քանակը",
+                "Անվտանգ կերպով մաքրված կեղտաջրերի համամասնությունը՝ ըստ գործունեության տեսակների և գտնվելու վայրի",
                 ""
               ]
             },
