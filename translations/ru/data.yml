@@ -227,6 +227,7 @@ Treated and destructed by organizations: обезврежено и уничто�
 Waste used by organizations: отходы, используемые организациями
 Transported to landfills by means of organizations: размещено в местах накопления отходов средствами организаций
 unit macro: млн. драм, драм, %
+unit macro2: миллиарды номинальных долларов США, номинальные доллары США, %
 boy: мальчик
 girl: девочка
 Education level: Уровень образования
@@ -520,3 +521,18 @@ Average income of small-scale food producers,PPP: Средний доход ме
 Average income of large-scale food producers,PPP: Средний доход крупных производителей продуктов питания, ППС
 Progress toward productive and sustainable agriculture, trend score: Прогресс в направлении продуктивного и устойчивого сельского хозяйства, показатель тренда
 Progress toward productive and sustainable agriculture, current status score: Прогресс в направлении продуктивного и устойчивого сельского хозяйства, оценка текущего состояния
+nominal USD: номинальные доллары США
+Proportion of safely treated domestic wastewater flows: Доля безопасно очищенных бытовых сточных вод
+Total wastewater generated: Общий объем образующихся сточных вод
+Total wastewater treated: Общий объем очищенных сточных вод
+Proportion of wastewater treated: Доля очищенных сточных вод по видам деятельности и местоположению
+Total wastewater safely treated: Общий объем безопасно очищенных сточных вод
+Proportion of wastewater safely treated: Доля безопасно очищенных сточных вод по видам деятельности и местоположению
+Domestic material consumption per capita, by type of raw material: Внутреннее материальное потребление по видам сырья
+Domestic material consumption per unit of GDP, by type of raw material: Внутреннее материальное потребление на единицу ВВП по видам сырья
+Domestic material consumption, by type of raw material: Внутреннее материальное потребление на душу населения по видам сырья
+Proportion of population who believe decision-making is inclusive and responsive: Доля населения, считающего, что процесс принятия решений является всеобъемлющим и гибким
+Proportion of population who believe decision-making is inclusive: Доля населения, считающего, что процесс принятия решений является всеобъемлющим
+Proportion of population who believe decision-making is responsive: Доля населения, считающего, что процесс принятия решений является гибким
+Total official flows (disbursement) for Aid for Trade, by recipient countries: Общий объем официальных потоков (выплат) помощи для развития торговли по странам-получателям
+Total official flows (commitments) for Aid for Trade, by recipient countries: Общий объем официальных потоков (обязательств) в рамках программы помощи торговле по странам-получателям

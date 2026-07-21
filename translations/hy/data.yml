@@ -227,6 +227,7 @@ Treated and destructed by organizations: Վնասազերծվել և ոչնչա�
 Waste used by organizations: Կազմակերպությունների կողմից օգտագործվող թափոններ
 Transported to landfills by means of organizations: Կազմակերպությունների միջոցներով տեղափոխվել են տեղադրման վայրեր
 unit macro: մլն. դրամ, դրամ, %
+unit macro2: միլիարդավոր անվանական ԱՄՆ դոլարներ, անվանական ԱՄՆ դոլար, %
 boy: տղա
 girl: աղջիկ
 Education level: Կրթական մակարդակ
@@ -529,3 +530,18 @@ Average income of small-scale food producers,PPP: Փոքրածավալ սննդ�
 Average income of large-scale food producers,PPP: Խոշորածավալ սննդամթերք արտադրողների միջին եկամուտ, Գնողունակության համարժեքություն
 Progress toward productive and sustainable agriculture, trend score: Արդյունավետ և կայուն գյուղատնտեսության ուղղությամբ առաջընթաց, միտումների գնահատական
 Progress toward productive and sustainable agriculture, current status score: Արդյունավետ և կայուն գյուղատնտեսության ուղղությամբ առաջընթաց, ներկայիս կարգավիճակի գնահատական
+nominal USD: անվանական ԱՄՆ դոլար
+Proportion of safely treated domestic wastewater flows: Անվտանգ մաքրված կենցաղային կեղտաջրերի հոսքերի համամասնությունը
+Total wastewater generated: Ընդհանուր արտադրված կեղտաջրեր
+Total wastewater treated: Մաքրված կեղտաջրերի ընդհանուր քանակը
+Proportion of wastewater treated: Մաքրված կեղտաջրերի համամասնությունը՝ ըստ գործունեության տեսակների և գտնվելու վայրի
+Total wastewater safely treated: Անվտանգ մաքրված կեղտաջրերի ընդհանուր քանակը
+Proportion of wastewater safely treated: Անվտանգ կերպով մաքրված կեղտաջրերի համամասնությունը՝ ըստ գործունեության տեսակների և գտնվելու վայրի
+Domestic material consumption per capita, by type of raw material: Ներքին նյութական սպառում, ըստ հումքի տեսակիl
+Domestic material consumption per unit of GDP, by type of raw material: ՀՆԱ-ի մեկ միավորի հաշվով ներքին նյութական սպառում, ըստ հումքի տեսակի
+Domestic material consumption, by type of raw material: Մեկ շնչի հաշվով ներքին նյութական սպառում, ըստ հումքի տեսակի
+Proportion of population who believe decision-making is inclusive and responsive: Բնակչության համամասնությունը, ովքեր կարծում են, որ որոշումների կայացումը ներառական է և արձագանքող
+Proportion of population who believe decision-making is inclusive: Բնակչության համամասնությունը, ովքեր կարծում են, որ որոշումների կայացումը ներառական է
+Proportion of population who believe decision-making is responsive: Բնակչության համամասնությունը, ովքեր կարծում են, որ որոշումների կայացումը արձագանքող է
+Total official flows (disbursement) for Aid for Trade, by recipient countries: Առևտրի համար օգնության համար նախատեսված պաշտոնական հոսքերի (հատկացումների) ընդհանուր ծավալը՝ ըստ ստացող երկրների
+Total official flows (commitments) for Aid for Trade, by recipient countries: Առևտրի համար օգնության համար նախատեսված պաշտոնական հոսքերի (պարտավորությունների) ընդհանուր ծավալը, ըստ ստացող երկրների
