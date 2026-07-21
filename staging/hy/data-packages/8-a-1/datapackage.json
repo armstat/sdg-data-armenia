@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total official flows (disbursement) for Aid for Trade, by recipient countries",
-                "Total official flows (commitments) for Aid for Trade, by recipient countries",
+                "Առևտրի համար օգնության համար նախատեսված պաշտոնական հոսքերի (հատկացումների) ընդհանուր ծավալը՝ ըստ ստացող երկրների",
+                "Առևտրի համար օգնության համար նախատեսված պաշտոնական հոսքերի (պարտավորությունների) ընդհանուր ծավալը, ըստ ստացող երկրների",
                 ""
               ]
             },

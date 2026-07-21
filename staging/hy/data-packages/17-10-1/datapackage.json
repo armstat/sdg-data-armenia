@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -20,6 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Worldwide weighted tariff-average, most-favoured-nation status, by type of product",
+                "Worldwide weighted tariff-average, preferential status, by type of product",
                 ""
               ]
             },
@@ -30,14 +32,30 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Type of product",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "AGR",
+                "ALP",
+                "CLO",
+                "IND",
+                "TEX",
+                ""
+              ]
+            },
+            "title": "Type of product"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]

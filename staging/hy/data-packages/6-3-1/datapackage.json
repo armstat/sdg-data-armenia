@@ -20,12 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of safely treated domestic wastewater flows",
-                "Total wastewater generated",
-                "Total wastewater treated",
-                "Proportion of wastewater treated",
-                "Total wastewater safely treated",
-                "Proportion of wastewater safely treated",
+                "Proportion of insufficiently treated wastewater in the total volume of wastewater requiring treatment",
+                "Ընդհանուր արտադրված կեղտաջրեր",
                 ""
               ]
             },

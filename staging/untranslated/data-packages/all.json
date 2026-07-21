@@ -5855,6 +5855,63 @@
         "fields": [
           {
             "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Worldwide weighted tariff-average, most-favoured-nation status, by type of product",
+                "Worldwide weighted tariff-average, preferential status, by type of product",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of product",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AGR",
+                "ALP",
+                "CLO",
+                "IND",
+                "TEX",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.17-10-1-title"
+    },
+    {
+      "path": "17-11-1/data.csv",
+      "name": "17-11-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
             "type": "string"
           },
           {
@@ -5881,39 +5938,6 @@
           }
         ]
       },
-      "title": "global_indicators.17-10-1-title"
-    },
-    {
-      "path": "17-11-1/data.csv",
-      "name": "17-11-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
       "title": "global_indicators.17-11-1-title"
     },
     {
@@ -5928,22 +5952,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -6055,22 +6086,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -9419,22 +9457,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -10973,12 +11018,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of safely treated domestic wastewater flows",
+                "Proportion of insufficiently treated wastewater in the total volume of wastewater requiring treatment",
                 "Total wastewater generated",
-                "Total wastewater treated",
-                "Proportion of wastewater treated",
-                "Total wastewater safely treated",
-                "Proportion of wastewater safely treated",
                 ""
               ]
             }

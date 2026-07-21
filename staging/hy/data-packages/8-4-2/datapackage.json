@@ -32,9 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Domestic material consumption per capita, by type of raw material",
-                "Domestic material consumption per unit of GDP, by type of raw material",
-                "Domestic material consumption, by type of raw material",
+                "Ներքին նյութական սպառում, ըստ հումքի տեսակիl",
+                "ՀՆԱ-ի մեկ միավորի հաշվով ներքին նյութական սպառում, ըստ հումքի տեսակի",
+                "Մեկ շնչի հաշվով ներքին նյութական սպառում, ըստ հումքի տեսակի",
                 ""
               ]
             },
