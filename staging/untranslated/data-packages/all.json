@@ -5918,13 +5918,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "Developing countries’ and least developed countries’ share of global merchandise exports",
+                "Developing countries’ and least developed countries’ share of global services exports",
+                "Developing countries’ and least developed countries’ share of global merchandise imports",
+                "Developing countries’ and least developed countries’ share of global services imports",
                 ""
               ]
             }
@@ -5934,13 +5938,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
