@@ -2708,7 +2708,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -2716,6 +2716,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "ALL AREA",
+                "CITY",
+                "RURAL",
+                "Town and semi-dense area",
+                "URBAN",
                 ""
               ]
             },
@@ -2726,6 +2731,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "mgr/m^3",
                 ""
               ]
             },
@@ -2733,7 +2739,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -6440,7 +6446,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -6448,6 +6454,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Developing countries’ and least developed countries’ share of global merchandise exports",
+                "Developing countries’ and least developed countries’ share of global services exports",
+                "Developing countries’ and least developed countries’ share of global merchandise imports",
+                "Developing countries’ and least developed countries’ share of global services imports",
                 ""
               ]
             },
@@ -6458,6 +6468,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
@@ -6465,7 +6476,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -11215,17 +11226,6 @@
             "title": "Units"
           },
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Women aged 15-49 years",
-                ""
-              ]
-            },
-            "title": "Տարիք"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -12018,12 +12018,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Անվտանգ մաքրված կենցաղային կեղտաջրերի հոսքերի համամասնությունը",
+                "Proportion of insufficiently treated wastewater in the total volume of wastewater requiring treatment",
                 "Ընդհանուր արտադրված կեղտաջրեր",
-                "Մաքրված կեղտաջրերի ընդհանուր քանակը",
-                "Մաքրված կեղտաջրերի համամասնությունը՝ ըստ գործունեության տեսակների և գտնվելու վայրի",
-                "Անվտանգ մաքրված կեղտաջրերի ընդհանուր քանակը",
-                "Անվտանգ կերպով մաքրված կեղտաջրերի համամասնությունը՝ ըստ գործունեության տեսակների և գտնվելու վայրի",
                 ""
               ]
             },
@@ -13071,7 +13067,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -13079,6 +13075,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Average hourly earnings of employees by sex and occupation",
                 ""
               ]
             },
@@ -13089,14 +13086,59 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "տեղական արժույթով",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Age",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "15+",
+                ""
+              ]
+            },
+            "title": "Տարիք"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "FEMALE",
+                "MALE",
+                ""
+              ]
+            },
+            "title": "Սեռ"
+          },
+          {
+            "name": "Type of occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ընդամենը",
+                "isco08-1",
+                "isco08-2",
+                "isco08-3",
+                "isco08-4",
+                "isco08-5",
+                "isco08-6",
+                "isco08-7",
+                "isco08-8",
+                "isco08-9",
+                ""
+              ]
+            },
+            "title": "Զբաղմունքի տեսակ"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]

@@ -2490,13 +2490,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "ALL AREA",
+                "CITY",
+                "RURAL",
+                "Town and semi-dense area",
+                "URBAN",
                 ""
               ]
             }
@@ -2506,13 +2511,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "mgr/m^3",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -5912,13 +5918,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "Developing countries’ and least developed countries’ share of global merchandise exports",
+                "Developing countries’ and least developed countries’ share of global services exports",
+                "Developing countries’ and least developed countries’ share of global merchandise imports",
+                "Developing countries’ and least developed countries’ share of global services imports",
                 ""
               ]
             }
@@ -5928,13 +5938,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -10284,16 +10295,6 @@
             }
           },
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Women aged 15-49 years",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -11018,12 +11019,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of safely treated domestic wastewater flows",
+                "Proportion of insufficiently treated wastewater in the total volume of wastewater requiring treatment",
                 "Total wastewater generated",
-                "Total wastewater treated",
-                "Proportion of wastewater treated",
-                "Total wastewater safely treated",
-                "Proportion of wastewater safely treated",
                 ""
               ]
             }
@@ -11984,13 +11981,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "Average hourly earnings of employees by sex and occupation",
                 ""
               ]
             }
@@ -12000,13 +11998,55 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "local currency",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "FEMALE",
+                "MALE",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total",
+                "isco08-1",
+                "isco08-2",
+                "isco08-3",
+                "isco08-4",
+                "isco08-5",
+                "isco08-6",
+                "isco08-7",
+                "isco08-8",
+                "isco08-9",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },

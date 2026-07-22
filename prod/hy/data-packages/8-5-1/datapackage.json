@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -20,6 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Average hourly earnings of employees by sex and occupation",
                 ""
               ]
             },
@@ -30,14 +31,59 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "տեղական արժույթով",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Age",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "15+",
+                ""
+              ]
+            },
+            "title": "Տարիք"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "FEMALE",
+                "MALE",
+                ""
+              ]
+            },
+            "title": "Սեռ"
+          },
+          {
+            "name": "Type of occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ընդամենը",
+                "isco08-1",
+                "isco08-2",
+                "isco08-3",
+                "isco08-4",
+                "isco08-5",
+                "isco08-6",
+                "isco08-7",
+                "isco08-8",
+                "isco08-9",
+                ""
+              ]
+            },
+            "title": "Զբաղմունքի տեսակ"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
