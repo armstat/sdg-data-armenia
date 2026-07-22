@@ -25,16 +25,6 @@
             }
           },
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Women aged 15-49 years",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {

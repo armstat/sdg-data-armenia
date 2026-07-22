@@ -27,17 +27,6 @@
             "title": "Units"
           },
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Women aged 15-49 years",
-                ""
-              ]
-            },
-            "title": "Տարիք"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {

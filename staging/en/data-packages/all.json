@@ -11226,17 +11226,6 @@
             "title": "Units"
           },
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Women aged 15-49 years",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
