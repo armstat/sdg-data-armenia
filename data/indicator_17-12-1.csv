@@ -1,1 +1,101 @@
-"Year","Series","Units","Value"
+﻿Year,Series,Units,Type of product,Value
+2015,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,AGR,10.58828
+2015,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,ALP,2.45989
+2015,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,CLO,12.53615
+2015,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,IND,1.517
+2015,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,TEX,4.72713
+2016,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,AGR,10.59273
+2016,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,ALP,2.45451
+2016,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,CLO,12.5348
+2016,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,IND,1.51155
+2016,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,TEX,4.72686
+2017,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,AGR,11.00458
+2017,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,ALP,2.3929
+2017,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,CLO,12.39902
+2017,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,IND,1.45136
+2017,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,TEX,4.68833
+2018,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,AGR,10.62366
+2018,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,ALP,2.46029
+2018,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,CLO,12.59929
+2018,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,IND,1.51508
+2018,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,TEX,4.73628
+2019,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,AGR,10.46449
+2019,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,ALP,1.97954
+2019,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,CLO,12.50489
+2019,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,IND,1.42055
+2019,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,TEX,4.89956
+2020,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,AGR,10.43822
+2020,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,ALP,1.97842
+2020,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,CLO,12.49919
+2020,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,IND,1.42031
+2020,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,TEX,4.89894
+2021,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,AGR,10.42681
+2021,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,ALP,1.97849
+2021,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,CLO,12.50486
+2021,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,IND,1.42045
+2021,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,TEX,4.89899
+2022,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,AGR,10.375
+2022,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,ALP,1.97928
+2022,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,CLO,12.65973
+2022,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,IND,1.42438
+2022,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,TEX,4.89912
+2023,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,AGR,10.30764
+2023,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,ALP,1.97881
+2023,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,CLO,12.65973
+2023,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,IND,1.42423
+2023,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,TEX,4.89877
+2024,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,AGR,10.32109
+2024,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,ALP,1.96633
+2024,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,CLO,12.5672
+2024,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,IND,1.41484
+2024,"Average tariff applied by developed countries, most-favored nation status, by type of product",%,TEX,4.83382
+2015,"Average tariff applied by developed countries, preferential status, by type of product",%,AGR,4.34224
+2015,"Average tariff applied by developed countries, preferential status, by type of product",%,ALP,1.02626
+2015,"Average tariff applied by developed countries, preferential status, by type of product",%,CLO,8.86807
+2015,"Average tariff applied by developed countries, preferential status, by type of product",%,IND,0.45425
+2015,"Average tariff applied by developed countries, preferential status, by type of product",%,TEX,1.0306
+2016,"Average tariff applied by developed countries, preferential status, by type of product",%,AGR,4.34473
+2016,"Average tariff applied by developed countries, preferential status, by type of product",%,ALP,1.0261
+2016,"Average tariff applied by developed countries, preferential status, by type of product",%,CLO,8.86742
+2016,"Average tariff applied by developed countries, preferential status, by type of product",%,IND,0.45422
+2016,"Average tariff applied by developed countries, preferential status, by type of product",%,TEX,1.03148
+2017,"Average tariff applied by developed countries, preferential status, by type of product",%,AGR,4.78299
+2017,"Average tariff applied by developed countries, preferential status, by type of product",%,ALP,1.01843
+2017,"Average tariff applied by developed countries, preferential status, by type of product",%,CLO,8.73189
+2017,"Average tariff applied by developed countries, preferential status, by type of product",%,IND,0.43963
+2017,"Average tariff applied by developed countries, preferential status, by type of product",%,TEX,0.9897
+2018,"Average tariff applied by developed countries, preferential status, by type of product",%,AGR,4.37128
+2018,"Average tariff applied by developed countries, preferential status, by type of product",%,ALP,1.03014
+2018,"Average tariff applied by developed countries, preferential status, by type of product",%,CLO,8.93108
+2018,"Average tariff applied by developed countries, preferential status, by type of product",%,IND,0.45099
+2018,"Average tariff applied by developed countries, preferential status, by type of product",%,TEX,1.03382
+2019,"Average tariff applied by developed countries, preferential status, by type of product",%,AGR,5.45995
+2019,"Average tariff applied by developed countries, preferential status, by type of product",%,ALP,0.73883
+2019,"Average tariff applied by developed countries, preferential status, by type of product",%,CLO,8.62784
+2019,"Average tariff applied by developed countries, preferential status, by type of product",%,IND,0.40743
+2019,"Average tariff applied by developed countries, preferential status, by type of product",%,TEX,1.26244
+2020,"Average tariff applied by developed countries, preferential status, by type of product",%,AGR,5.4522
+2020,"Average tariff applied by developed countries, preferential status, by type of product",%,ALP,0.73856
+2020,"Average tariff applied by developed countries, preferential status, by type of product",%,CLO,8.62496
+2020,"Average tariff applied by developed countries, preferential status, by type of product",%,IND,0.4074
+2020,"Average tariff applied by developed countries, preferential status, by type of product",%,TEX,1.26229
+2021,"Average tariff applied by developed countries, preferential status, by type of product",%,AGR,5.44649
+2021,"Average tariff applied by developed countries, preferential status, by type of product",%,ALP,0.73869
+2021,"Average tariff applied by developed countries, preferential status, by type of product",%,CLO,8.6278
+2021,"Average tariff applied by developed countries, preferential status, by type of product",%,IND,0.40755
+2021,"Average tariff applied by developed countries, preferential status, by type of product",%,TEX,1.26274
+2022,"Average tariff applied by developed countries, preferential status, by type of product",%,AGR,8.90657
+2022,"Average tariff applied by developed countries, preferential status, by type of product",%,ALP,1.16149
+2022,"Average tariff applied by developed countries, preferential status, by type of product",%,CLO,12.47488
+2022,"Average tariff applied by developed countries, preferential status, by type of product",%,IND,0.68704
+2022,"Average tariff applied by developed countries, preferential status, by type of product",%,TEX,3.6881
+2023,"Average tariff applied by developed countries, preferential status, by type of product",%,AGR,8.83878
+2023,"Average tariff applied by developed countries, preferential status, by type of product",%,ALP,1.1611
+2023,"Average tariff applied by developed countries, preferential status, by type of product",%,CLO,12.47488
+2023,"Average tariff applied by developed countries, preferential status, by type of product",%,IND,0.68697
+2023,"Average tariff applied by developed countries, preferential status, by type of product",%,TEX,3.6881
+2024,"Average tariff applied by developed countries, preferential status, by type of product",%,AGR,8.85246
+2024,"Average tariff applied by developed countries, preferential status, by type of product",%,ALP,1.15613
+2024,"Average tariff applied by developed countries, preferential status, by type of product",%,CLO,12.39083
+2024,"Average tariff applied by developed countries, preferential status, by type of product",%,IND,0.68505
+2024,"Average tariff applied by developed countries, preferential status, by type of product",%,TEX,3.62922
