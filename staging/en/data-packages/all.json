@@ -6495,7 +6495,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -6503,6 +6503,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Average tariff applied by developed countries, most-favored nation status, by type of product",
+                "Average tariff applied by developed countries, preferential status, by type of product",
                 ""
               ]
             },
@@ -6513,14 +6515,30 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Type of product",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "AGR",
+                "ALP",
+                "CLO",
+                "IND",
+                "TEX",
+                ""
+              ]
+            },
+            "title": "Type of product"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]

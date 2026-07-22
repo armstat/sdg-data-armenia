@@ -12,13 +12,15 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "Average tariff applied by developed countries, most-favored nation status, by type of product",
+                "Average tariff applied by developed countries, preferential status, by type of product",
                 ""
               ]
             }
@@ -28,13 +30,28 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of product",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AGR",
+                "ALP",
+                "CLO",
+                "IND",
+                "TEX",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }
