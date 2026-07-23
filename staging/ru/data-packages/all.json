@@ -3125,7 +3125,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "tonnes",
+                "тонны",
                 "kilograms per constant 2020 United States dollars",
                 ""
               ]
@@ -12993,7 +12993,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "tonnes",
+                "тонны",
                 "kilograms per constant 2020 United States dollars",
                 ""
               ]
