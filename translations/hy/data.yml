@@ -528,8 +528,8 @@ Number of transboundary breeds (not extinct): Անդրսահմանային տե�
 Number of transboundary breeds with unknown risk status: Անդրսահմանային ցեղատեսակների քանակը՝ անհայտ ռիսկի կարգավիճակով
 Average income of small-scale food producers,PPP: Փոքրածավալ սննդամթերք արտադրողների միջին եկամուտ, Գնողունակության համարժեքություն
 Average income of large-scale food producers,PPP: Խոշորածավալ սննդամթերք արտադրողների միջին եկամուտ, Գնողունակության համարժեքություն
-Progress toward productive and sustainable agriculture, trend score: Արդյունավետ և կայուն գյուղատնտեսության ուղղությամբ առաջընթաց, միտումների գնահատական
-Progress toward productive and sustainable agriculture, current status score: Արդյունավետ և կայուն գյուղատնտեսության ուղղությամբ առաջընթաց, ներկայիս կարգավիճակի գնահատական
+Progress toward productive and sustainable agriculture, trend score: (Պրոքսի) Արդյունավետ և կայուն գյուղատնտեսության ուղղությամբ առաջընթաց, միտումների գնահատական
+Progress toward productive and sustainable agriculture, current status score: (Պրոքսի) Արդյունավետ և կայուն գյուղատնտեսության ուղղությամբ առաջընթաց, ներկայիս կարգավիճակի գնահատական
 nominal USD: անվանական ԱՄՆ դոլար
 Proportion of safely treated domestic wastewater flows: Անվտանգ մաքրված կենցաղային կեղտաջրերի հոսքերի համամասնությունը
 Total wastewater generated: Ընդհանուր արտադրված կեղտաջրեր
@@ -537,7 +537,7 @@ Total wastewater treated: Մաքրված կեղտաջրերի ընդհանուր
 Proportion of wastewater treated: Մաքրված կեղտաջրերի համամասնությունը՝ ըստ գործունեության տեսակների և գտնվելու վայրի
 Total wastewater safely treated: Անվտանգ մաքրված կեղտաջրերի ընդհանուր քանակը
 Proportion of wastewater safely treated: Անվտանգ կերպով մաքրված կեղտաջրերի համամասնությունը՝ ըստ գործունեության տեսակների և գտնվելու վայրի
-Domestic material consumption per capita, by type of raw material: Ներքին նյութական սպառում, ըստ հումքի տեսակիl
+Domestic material consumption per capita, by type of raw material: Ներքին նյութական սպառում, ըստ հումքի տեսակի
 Domestic material consumption per unit of GDP, by type of raw material: ՀՆԱ-ի մեկ միավորի հաշվով ներքին նյութական սպառում, ըստ հումքի տեսակի
 Domestic material consumption, by type of raw material: Մեկ շնչի հաշվով ներքին նյութական սպառում, ըստ հումքի տեսակի
 Proportion of population who believe decision-making is inclusive and responsive: Բնակչության համամասնությունը, ովքեր կարծում են, որ որոշումների կայացումը ներառական է և արձագանքող
@@ -546,3 +546,21 @@ Proportion of population who believe decision-making is responsive: Բնակչո
 Total official flows (disbursement) for Aid for Trade, by recipient countries: Առևտրի համար օգնության համար նախատեսված պաշտոնական հոսքերի (հատկացումների) ընդհանուր ծավալը՝ ըստ ստացող երկրների
 Total official flows (commitments) for Aid for Trade, by recipient countries: Առևտրի համար օգնության համար նախատեսված պաշտոնական հոսքերի (պարտավորությունների) ընդհանուր ծավալը, ըստ ստացող երկրների
 Type of occupation: Զբաղմունքի տեսակ
+tonnes: տոննա
+kilograms per constant 2020 United States dollars: կիլոգրամներ՝ հաստատուն 2020 թվականի ԱՄՆ դոլարով
+Fossil-fuel subsidies (consumption and production): Հանածո վառելիքի սուբսիդիաներ (սպառում և արտադրություն)
+Fossil-fuel subsidies (consumption and production) as a proportion of total GDP: Հանածո վառելիքի սուբսիդիաներ (սպառում և արտադրություն) որպես ընդհանուր ՀՆԱ-ի համամասնություն
+Fossil-fuel subsidies (consumption and production) per capita: Մեկ շնչի հաշվով հանածո վառելիքի սուբսիդիաներ (սպառում և արտադրություն)
+Total or no breakdown: Ընդամենը կամ առանց մանրամասների
+Biomass: Կենսազանգված
+Fossil fuels: Հանածո վառելիքներ
+Metal ores: Մետաղական հանքաքարեր
+Mixed and complex products n.e.c.: Խառը և բարդ արտադրանքներ (այլ տեղ չդասակարգված)
+Non-metallic minerals: Ոչ մետաղական հանքանյութեր
+Waste for final treatment and disposal: Թափոններ՝ վերջնական մշակման և հեռացման համար
+Average hourly earnings of employees by sex and occupation: Աշխատողների ժամային միջին աշխատավարձը ըստ սեռի և մասնագիտության
+BOTHSEX: Երկու սեռ
+Proportion of tariff lines applied to imports with zero-tariff: Զրոյական սակագնով ներմուծման նկատմամբ կիրառվող սակագնային գծերի համամասնությունը
+Worldwide weighted tariff-average, most-favoured-nation status, by type of product: Համաշխարհային կշռված միջին սակագին, առավել բարենպաստ ազգի կարգավիճակ, ըստ ապրանքի տեսակի
+Worldwide weighted tariff-average, preferential status, by type of product: Համաշխարհային կշռված միջին սակագին, արտոնյալ կարգավիճակ, ըստ ապրանքի տեսակի
+Type of product: Ապրանքի տեսակը

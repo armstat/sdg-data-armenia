@@ -519,8 +519,8 @@ Number of transboundary breeds (not extinct): Количество трансг�
 Number of transboundary breeds with unknown risk status: Количество трансграничных пород с неизвестным статусом риска
 Average income of small-scale food producers,PPP: Средний доход мелких производителей продуктов питания, ППС
 Average income of large-scale food producers,PPP: Средний доход крупных производителей продуктов питания, ППС
-Progress toward productive and sustainable agriculture, trend score: Прогресс в направлении продуктивного и устойчивого сельского хозяйства, показатель тренда
-Progress toward productive and sustainable agriculture, current status score: Прогресс в направлении продуктивного и устойчивого сельского хозяйства, оценка текущего состояния
+Progress toward productive and sustainable agriculture, trend score: (ПРОКСИ) Прогресс в направлении продуктивного и устойчивого сельского хозяйства, показатель тренда
+Progress toward productive and sustainable agriculture, current status score: (ПРОКСИ) Прогресс в направлении продуктивного и устойчивого сельского хозяйства, оценка текущего состояния
 nominal USD: номинальные доллары США
 Proportion of safely treated domestic wastewater flows: Доля безопасно очищенных бытовых сточных вод
 Total wastewater generated: Общий объем образующихся сточных вод
@@ -537,3 +537,21 @@ Proportion of population who believe decision-making is responsive: Доля н�
 Total official flows (disbursement) for Aid for Trade, by recipient countries: Общий объем официальных потоков (выплат) помощи для развития торговли по странам-получателям
 Total official flows (commitments) for Aid for Trade, by recipient countries: Общий объем официальных потоков (обязательств) в рамках программы помощи торговле по странам-получателям
 Type of occupation: Вид деятельности
+tonnes: тонны
+kilograms per constant 2020 United States dollars: килограммы в постоянных долларах США 2020 года
+Fossil-fuel subsidies (consumption and production): Субсидии на ископаемое топливо (потребление и производство)
+Fossil-fuel subsidies (consumption and production) as a proportion of total GDP: Субсидии на ископаемое топливо (потребление и производство) в процентах от общего ВВП
+Fossil-fuel subsidies (consumption and production) per capita: Субсидии на ископаемое топливо (потребление и производство) на душу населения
+Total or no breakdown: Всего или без разбивки
+Biomass: Биомасса
+Fossil fuels: Ископаемое топливо
+Metal ores: Металлические руды
+Mixed and complex products n.e.c.: Смешанные и сложные продукты (не классифицированные в других категориях)
+Non-metallic minerals: Неметаллические минералы
+Waste for final treatment and disposal: Отходы для окончательной обработки и удаления
+Average hourly earnings of employees by sex and occupation: Средняя почасовая заработная плата работников по полу и роду занятий
+BOTHSEX: Оба пола
+Proportion of tariff lines applied to imports with zero-tariff: Доля тарифных позиций, применяемых к импорту с нулевым тарифом
+Worldwide weighted tariff-average, most-favoured-nation status, by type of product: Средневзвешенный мировой тарифный показатель, статус наиболее благоприятствуемой нации, по видам продукта
+Worldwide weighted tariff-average, preferential status, by type of product: Средневзвешенный мировой тарифный показатель, преференциальный статус, по видам продукта
+Type of product: Тип продукта

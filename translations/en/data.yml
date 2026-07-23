@@ -524,8 +524,8 @@ Number of transboundary breeds (not extinct): Number of transboundary breeds (no
 Number of transboundary breeds with unknown risk status: Number of transboundary breeds with unknown risk status
 Average income of small-scale food producers,PPP: Average income of small-scale food producers,PPP
 Average income of large-scale food producers,PPP: Average income of large-scale food producers,PPP
-Progress toward productive and sustainable agriculture, trend score: Progress toward productive and sustainable agriculture, trend score
-Progress toward productive and sustainable agriculture, current status score: Progress toward productive and sustainable agriculture, current status score
+Progress toward productive and sustainable agriculture, trend score: (PROXY) Progress toward productive and sustainable agriculture, trend score
+Progress toward productive and sustainable agriculture, current status score: (PROXY) Progress toward productive and sustainable agriculture, current status score
 nominal USD: nominal United States dollars
 Proportion of safely treated domestic wastewater flows: Proportion of safely treated domestic wastewater flows
 Total wastewater generated: Total wastewater generated
@@ -542,3 +542,22 @@ Proportion of population who believe decision-making is responsive: Proportion o
 Total official flows (disbursement) for Aid for Trade, by recipient countries: Total official flows (disbursement) for Aid for Trade, by recipient countries
 Total official flows (commitments) for Aid for Trade, by recipient countries: Total official flows (commitments) for Aid for Trade, by recipient countries
 Type of occupation: Type of occupation
+tonnes: tonnes
+kilograms per constant 2020 United States dollars: kilograms per constant 2020 United States dollars
+Fossil-fuel subsidies (consumption and production): Fossil-fuel subsidies (consumption and production)
+Fossil-fuel subsidies (consumption and production) as a proportion of total GDP: Fossil-fuel subsidies (consumption and production) as a proportion of total GDP
+Fossil-fuel subsidies (consumption and production) per capita: Fossil-fuel subsidies (consumption and production) per capita
+Total or no breakdown: Total or no breakdown
+Biomass: Biomass
+Fossil fuels: Fossil fuels
+Metal ores: Metal ores
+Mixed and complex products n.e.c.: Mixed and complex products n.e.c.
+Non-metallic minerals: Non-metallic minerals
+Waste for final treatment and disposal: Waste for final treatment and disposal
+Average hourly earnings of employees by sex and occupation: Average hourly earnings of employees by sex and occupation
+BOTHSEX: BOTHSEX
+Proportion of tariff lines applied to imports with zero-tariff: Proportion of tariff lines applied to imports with zero-tariff
+Worldwide weighted tariff-average, most-favoured-nation status, by type of product: Worldwide weighted tariff-average, most-favoured-nation status, by type of product
+Worldwide weighted tariff-average, preferential status, by type of product: Worldwide weighted tariff-average, preferential status, by type of product
+Type of product: Type of product
+
