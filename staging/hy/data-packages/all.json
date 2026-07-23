@@ -13071,7 +13071,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Average hourly earnings of employees by sex and occupation",
+                "Աշխատողների ժամային միջին աշխատավարձը ըստ սեռի և մասնագիտության",
                 ""
               ]
             },
@@ -13104,7 +13104,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BOTHSEX",
+                "Երկու սեռ",
                 "FEMALE",
                 "MALE",
                 ""

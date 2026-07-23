@@ -13071,7 +13071,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Average hourly earnings of employees by sex and occupation",
+                "Средняя почасовая заработная плата работников по полу и роду занятий",
                 ""
               ]
             },
@@ -13104,7 +13104,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BOTHSEX",
+                "Оба пола",
                 "FEMALE",
                 "MALE",
                 ""
