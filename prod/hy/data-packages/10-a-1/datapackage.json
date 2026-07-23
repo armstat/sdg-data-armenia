@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of tariff lines applied to imports with zero-tariff",
+                "Զրոյական սակագնով ներմուծման նկատմամբ կիրառվող սակագնային գծերի համամասնությունը",
                 ""
               ]
             },
@@ -51,7 +51,7 @@
                 ""
               ]
             },
-            "title": "Type of product"
+            "title": "Ապրանքի տեսակը"
           },
           {
             "name": "Value",

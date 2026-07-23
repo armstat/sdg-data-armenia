@@ -1370,24 +1370,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Год"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Группа"
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Категория"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -1958,7 +1966,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of tariff lines applied to imports with zero-tariff",
+                "Доля тарифных позиций, применяемых к импорту с нулевым тарифом",
                 ""
               ]
             },
@@ -1989,7 +1997,7 @@
                 ""
               ]
             },
-            "title": "Type of product"
+            "title": "Тип продукта"
           },
           {
             "name": "Value",
@@ -3117,8 +3125,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "tonnes",
-                "kilograms per constant 2020 United States dollars",
+                "тонны",
+                "килограммы в постоянных долларах США 2020 года",
                 ""
               ]
             },
@@ -3142,13 +3150,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Waste for final treatment and disposal",
-                "Total or no breakdown",
-                "Biomass",
-                "Fossil fuels",
-                "Metal ores",
-                "Mixed and complex products n.e.c.",
-                "Non-metallic minerals",
+                "Отходы для окончательной обработки и удаления",
+                "Всего или без разбивки",
+                "Биомасса",
+                "Ископаемое топливо",
+                "Металлические руды",
+                "Смешанные и сложные продукты (не классифицированные в других категориях)",
+                "Неметаллические минералы",
                 ""
               ]
             },
@@ -3562,9 +3570,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Fossil-fuel subsidies (consumption and production) as a proportion of total GDP",
-                "Fossil-fuel subsidies (consumption and production)",
-                "Fossil-fuel subsidies (consumption and production) per capita",
+                "Субсидии на ископаемое топливо (потребление и производство) в процентах от общего ВВП",
+                "Субсидии на ископаемое топливо (потребление и производство)",
+                "Субсидии на ископаемое топливо (потребление и производство) на душу населения",
                 ""
               ]
             },
@@ -6392,8 +6400,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Worldwide weighted tariff-average, most-favoured-nation status, by type of product",
-                "Worldwide weighted tariff-average, preferential status, by type of product",
+                "Средневзвешенный мировой тарифный показатель, статус наиболее благоприятствуемой нации, по видам продукта",
+                "Средневзвешенный мировой тарифный показатель, преференциальный статус, по видам продукта",
                 ""
               ]
             },
@@ -6423,7 +6431,7 @@
                 ""
               ]
             },
-            "title": "Type of product"
+            "title": "Тип продукта"
           },
           {
             "name": "Value",
@@ -6495,7 +6503,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -6503,6 +6511,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Average tariff applied by developed countries, most-favored nation status, by type of product",
+                "Average tariff applied by developed countries, preferential status, by type of product",
                 ""
               ]
             },
@@ -6513,14 +6523,30 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Type of product",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "AGR",
+                "ALP",
+                "CLO",
+                "IND",
+                "TEX",
+                ""
+              ]
+            },
+            "title": "Тип продукта"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -6640,7 +6666,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -6648,6 +6674,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of project objectives in new development interventions drawn from country-led result frameworks - data by recipient",
+                "Proportion of results indicators drawn from country-led results frameworks - data by recipient",
+                "Proportion of results indicators which will be monitored using government sources and monitoring systems - data by recipient",
+                "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by recipient",
                 ""
               ]
             },
@@ -6658,6 +6688,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
@@ -6665,7 +6696,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -7724,8 +7755,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "[PROXY] Progress toward productive and sustainable agriculture, trend score",
-                "[PROXY] Progress toward productive and sustainable agriculture, current status score",
+                "(ПРОКСИ) Прогресс в направлении продуктивного и устойчивого сельского хозяйства, показатель тренда",
+                "(ПРОКСИ) Прогресс в направлении продуктивного и устойчивого сельского хозяйства, оценка текущего состояния",
                 ""
               ]
             },
@@ -11964,41 +11995,6 @@
       "title": "Доля населения, использующего a) организованные с соблюдением требований безопасности услуги санитарии и b) устройства для мытья рук с мылом и водой"
     },
     {
-      "path": "6-3-1-a/data.csv",
-      "name": "6-3-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Год"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Доля недостаточно очищенных сточных вод в общем объеме сточных вод, требующих очистки"
-    },
-    {
       "path": "6-3-1/data.csv",
       "name": "6-3-1",
       "profile": "tabular-data-resource",
@@ -12962,8 +12958,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "tonnes",
-                "kilograms per constant 2020 United States dollars",
+                "тонны",
+                "килограммы в постоянных долларах США 2020 года",
                 ""
               ]
             },
@@ -12987,13 +12983,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Waste for final treatment and disposal",
-                "Total or no breakdown",
-                "Biomass",
-                "Fossil fuels",
-                "Metal ores",
-                "Mixed and complex products n.e.c.",
-                "Non-metallic minerals",
+                "Отходы для окончательной обработки и удаления",
+                "Всего или без разбивки",
+                "Биомасса",
+                "Ископаемое топливо",
+                "Металлические руды",
+                "Смешанные и сложные продукты (не классифицированные в других категориях)",
+                "Неметаллические минералы",
                 ""
               ]
             },
@@ -13075,7 +13071,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Average hourly earnings of employees by sex and occupation",
+                "Средняя почасовая заработная плата работников по полу и роду занятий",
                 ""
               ]
             },
@@ -13108,9 +13104,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BOTHSEX",
-                "FEMALE",
-                "MALE",
+                "Оба пола",
+                "женщина",
+                "мужчина",
                 ""
               ]
             },

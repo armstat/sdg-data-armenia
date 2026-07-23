@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -20,6 +20,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of project objectives in new development interventions drawn from country-led result frameworks - data by recipient",
+                "Proportion of results indicators drawn from country-led results frameworks - data by recipient",
+                "Proportion of results indicators which will be monitored using government sources and monitoring systems - data by recipient",
+                "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by recipient",
                 ""
               ]
             },
@@ -30,6 +34,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
@@ -37,7 +42,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]

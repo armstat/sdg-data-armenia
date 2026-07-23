@@ -50,8 +50,8 @@
             "constraints": {
               "enum": [
                 "BOTHSEX",
-                "FEMALE",
-                "MALE",
+                "female",
+                "male",
                 ""
               ]
             }

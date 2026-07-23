@@ -1262,22 +1262,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -5963,13 +5970,15 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "Average tariff applied by developed countries, most-favored nation status, by type of product",
+                "Average tariff applied by developed countries, preferential status, by type of product",
                 ""
               ]
             }
@@ -5979,13 +5988,28 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of product",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AGR",
+                "ALP",
+                "CLO",
+                "IND",
+                "TEX",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -6097,13 +6121,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of project objectives in new development interventions drawn from country-led result frameworks - data by recipient",
+                "Proportion of results indicators drawn from country-led results frameworks - data by recipient",
+                "Proportion of results indicators which will be monitored using government sources and monitoring systems - data by recipient",
+                "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by recipient",
                 ""
               ]
             }
@@ -6113,13 +6141,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -7088,8 +7117,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "[PROXY] Progress toward productive and sustainable agriculture, trend score",
-                "[PROXY] Progress toward productive and sustainable agriculture, current status score",
+                "Progress toward productive and sustainable agriculture, trend score",
+                "Progress toward productive and sustainable agriculture, current status score",
                 ""
               ]
             }
@@ -10969,38 +10998,6 @@
       "title": "global_indicators.6-2-1-title"
     },
     {
-      "path": "6-3-1-a/data.csv",
-      "name": "6-3-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "meta.name-6-3-1-a"
-    },
-    {
       "path": "6-3-1/data.csv",
       "name": "6-3-1",
       "profile": "tabular-data-resource",
@@ -12019,8 +12016,8 @@
             "constraints": {
               "enum": [
                 "BOTHSEX",
-                "FEMALE",
-                "MALE",
+                "female",
+                "male",
                 ""
               ]
             }

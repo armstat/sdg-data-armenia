@@ -2,13 +2,11 @@ Value,Disaggregation combinations using this value,Number of indicators
 BOTHSEX,10,1
 boy,12,5
 boys,29,5
-female,192,44
-FEMALE,10,1
+female,202,45
 femaLE,1,1
 girl,12,5
 girls,29,5
-male,177,43
-MALE,10,1
+male,187,44
 neutral,5,1
 rural,3,3
 total,10,2

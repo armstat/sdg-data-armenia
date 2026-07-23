@@ -1370,24 +1370,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Category"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -6495,7 +6503,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -6503,6 +6511,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Average tariff applied by developed countries, most-favored nation status, by type of product",
+                "Average tariff applied by developed countries, preferential status, by type of product",
                 ""
               ]
             },
@@ -6513,14 +6523,30 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
+            "name": "Type of product",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "AGR",
+                "ALP",
+                "CLO",
+                "IND",
+                "TEX",
+                ""
+              ]
+            },
+            "title": "Type of product"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -6640,7 +6666,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -6648,6 +6674,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of project objectives in new development interventions drawn from country-led result frameworks - data by recipient",
+                "Proportion of results indicators drawn from country-led results frameworks - data by recipient",
+                "Proportion of results indicators which will be monitored using government sources and monitoring systems - data by recipient",
+                "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by recipient",
                 ""
               ]
             },
@@ -6658,6 +6688,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
                 ""
               ]
             },
@@ -6665,7 +6696,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -7724,8 +7755,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "[PROXY] Progress toward productive and sustainable agriculture, trend score",
-                "[PROXY] Progress toward productive and sustainable agriculture, current status score",
+                "(PROXY) Progress toward productive and sustainable agriculture, trend score",
+                "(PROXY) Progress toward productive and sustainable agriculture, current status score",
                 ""
               ]
             },
@@ -11964,41 +11995,6 @@
       "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
     },
     {
-      "path": "6-3-1-a/data.csv",
-      "name": "6-3-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of insufficiently treated wastewater in the total volume of wastewater requiring treatment"
-    },
-    {
       "path": "6-3-1/data.csv",
       "name": "6-3-1",
       "profile": "tabular-data-resource",
@@ -13109,8 +13105,8 @@
             "constraints": {
               "enum": [
                 "BOTHSEX",
-                "FEMALE",
-                "MALE",
+                "female",
+                "male",
                 ""
               ]
             },
