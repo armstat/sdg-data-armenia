@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "[PROXY] Progress toward productive and sustainable agriculture, trend score",
-                "[PROXY] Progress toward productive and sustainable agriculture, current status score",
+                "Прогресс в направлении продуктивного и устойчивого сельского хозяйства, показатель тренда",
+                "Прогресс в направлении продуктивного и устойчивого сельского хозяйства, оценка текущего состояния",
                 ""
               ]
             },
