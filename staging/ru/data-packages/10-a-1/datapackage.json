@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of tariff lines applied to imports with zero-tariff",
+                "Доля тарифных позиций, применяемых к импорту с нулевым тарифом",
                 ""
               ]
             },

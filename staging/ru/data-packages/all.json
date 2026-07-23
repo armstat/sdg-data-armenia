@@ -1966,7 +1966,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of tariff lines applied to imports with zero-tariff",
+                "Доля тарифных позиций, применяемых к импорту с нулевым тарифом",
                 ""
               ]
             },
@@ -6400,8 +6400,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Worldwide weighted tariff-average, most-favoured-nation status, by type of product",
-                "Worldwide weighted tariff-average, preferential status, by type of product",
+                "Средневзвешенный мировой тарифный показатель, статус наиболее благоприятствуемой нации, по видам продукта",
+                "Средневзвешенный мировой тарифный показатель, преференциальный статус, по видам продукта",
                 ""
               ]
             },

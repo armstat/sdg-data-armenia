@@ -1966,7 +1966,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of tariff lines applied to imports with zero-tariff",
+                "Զրոյական սակագնով ներմուծման նկատմամբ կիրառվող սակագնային գծերի համամասնությունը",
                 ""
               ]
             },
@@ -6400,8 +6400,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Worldwide weighted tariff-average, most-favoured-nation status, by type of product",
-                "Worldwide weighted tariff-average, preferential status, by type of product",
+                "Համաշխարհային կշռված միջին սակագին, առավել բարենպաստ ազգի կարգավիճակ, ըստ ապրանքի տեսակի",
+                "Համաշխարհային կշռված միջին սակագին, արտոնյալ կարգավիճակ, ըստ ապրանքի տեսակի",
                 ""
               ]
             },
