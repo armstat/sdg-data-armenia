@@ -3150,13 +3150,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Waste for final treatment and disposal",
-                "Total or no breakdown",
-                "Biomass",
-                "Fossil fuels",
-                "Metal ores",
-                "Mixed and complex products n.e.c.",
-                "Non-metallic minerals",
+                "Отходы для окончательной обработки и удаления",
+                "Всего или без разбивки",
+                "Биомасса",
+                "Ископаемое топливо",
+                "Металлические руды",
+                "Смешанные и сложные продукты (не классифицированные в других категориях)",
+                "Неметаллические минералы",
                 ""
               ]
             },
@@ -12983,13 +12983,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Waste for final treatment and disposal",
-                "Total or no breakdown",
-                "Biomass",
-                "Fossil fuels",
-                "Metal ores",
-                "Mixed and complex products n.e.c.",
-                "Non-metallic minerals",
+                "Отходы для окончательной обработки и удаления",
+                "Всего или без разбивки",
+                "Биомасса",
+                "Ископаемое топливо",
+                "Металлические руды",
+                "Смешанные и сложные продукты (не классифицированные в других категориях)",
+                "Неметаллические минералы",
                 ""
               ]
             },
