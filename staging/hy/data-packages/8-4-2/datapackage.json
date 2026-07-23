@@ -45,13 +45,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Waste for final treatment and disposal",
-                "Total or no breakdown",
-                "Biomass",
-                "Fossil fuels",
-                "Metal ores",
-                "Mixed and complex products n.e.c.",
-                "Non-metallic minerals",
+                "Թափոններ՝ վերջնական մշակման և հեռացման համար",
+                "Ընդամենը կամ առանց մանրամասների",
+                "Կենսազանգված",
+                "Հանածո վառելիքներ",
+                "Մետաղական հանքաքարեր",
+                "Խառը և բարդ արտադրանքներ (այլ տեղ չդասակարգված)",
+                "Ոչ մետաղական հանքանյութեր",
                 ""
               ]
             },
