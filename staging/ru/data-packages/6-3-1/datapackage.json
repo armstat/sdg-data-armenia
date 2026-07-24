@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of insufficiently treated wastewater in the total volume of wastewater requiring treatment",
+                "Доля недостаточно очищенных сточных вод в общем объеме сточных вод, требующих очистки",
                 "Общий объем образующихся сточных вод",
                 ""
               ]
