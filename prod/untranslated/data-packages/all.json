@@ -3276,18 +3276,6 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Fossil-fuel subsidies (consumption and production) as a proportion of total GDP",
-                "Fossil-fuel subsidies (consumption and production)",
-                "Fossil-fuel subsidies (consumption and production) per capita",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -3295,6 +3283,18 @@
                 "%",
                 "billions of nominal USD",
                 "nominal USD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fossil-fuel subsidies (consumption and production) as a proportion of total GDP",
+                "Fossil-fuel subsidies (consumption and production)",
+                "Fossil-fuel subsidies (consumption and production) per capita",
                 ""
               ]
             }
