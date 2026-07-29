@@ -11263,10 +11263,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",
-                "Proportion of women who make their own informed decisions regarding sexual relations",
-                "Proportion of women who make their own informed decisions regarding contraceptive use",
-                "Proportion of women who make their own informed decisions regarding reproductive health care",
+                "Սեռական հարաբերությունների, հակաբեղմնավորիչների օգտագործման և վերարտադրողական առողջության պահպանման վերաբերյալ ինքնուրույն տեղեկացված որոշումներ կայացնող կանանց համամասնությունը",
+                "Սեռական հարաբերությունների վերաբերյալ ինքնուրույն տեղեկացված որոշումներ կայացնող կանանց համամասնությունը",
+                "Կանանց համամասնությունը, ովքեր ինքնուրույն տեղեկացված որոշումներ են կայացնում հակաբեղմնավորիչ միջոցների օգտագործման վերաբերյալ",
+                "Վերարտադրողական առողջության խնամքի վերաբերյալ ինքնուրույն տեղեկացված որոշումներ կայացնող կանանց համամասնությունը",
                 ""
               ]
             },
