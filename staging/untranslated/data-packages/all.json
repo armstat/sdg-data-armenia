@@ -2713,11 +2713,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Series",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
                 ""
@@ -2729,13 +2729,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "$",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
