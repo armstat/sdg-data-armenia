@@ -11263,10 +11263,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",
-                "Proportion of women who make their own informed decisions regarding sexual relations",
-                "Proportion of women who make their own informed decisions regarding contraceptive use",
-                "Proportion of women who make their own informed decisions regarding reproductive health care",
+                "Доля женщин, принимающих собственные осознанные решения относительно сексуальных отношений, использования контрацептивов и охраны репродуктивного здоровья",
+                "Доля женщин, принимающих собственные осознанные решения относительно сексуальных отношений",
+                "Доля женщин, принимающих собственные обоснованные решения относительно использования контрацептивов",
+                "Доля женщин, принимающих собственные обоснованные решения в отношении репродуктивного здоровья",
                 ""
               ]
             },
