@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -20,6 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total official development assistance and other official flows in support of urban infrastructure or urban infrastructure projects",
                 ""
               ]
             },
@@ -30,6 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "millions of constant 2023 United States dollars",
                 ""
               ]
             },
@@ -37,7 +39,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]

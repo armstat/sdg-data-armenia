@@ -2713,13 +2713,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "Total official development assistance and other official flows in support of urban infrastructure or urban infrastructure projects",
                 ""
               ]
             }
@@ -2729,13 +2730,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "millions of constant 2023 United States dollars",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -3482,6 +3484,7 @@
                 "National Communication",
                 "National Greenhouse Gas Inventory Report",
                 "National Greenhouse Gas Inventory Document of Armenia 1990-2022",
+                "Biennial Transparency Report",
                 ""
               ]
             }
