@@ -2957,9 +2957,10 @@
           },
           {
             "name": "Series",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Общий объем официальной помощи развитию и других официальных потоков в поддержку городской инфраструктуры или проектов городской инфраструктуры",
                 ""
               ]
             },
@@ -2970,7 +2971,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "$",
+                "millions of constant 2023 United States dollars",
                 ""
               ]
             },
