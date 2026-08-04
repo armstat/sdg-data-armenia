@@ -3573,7 +3573,7 @@
             "constraints": {
               "enum": [
                 "%",
-                "billions of nominal USD",
+                "միլիարդավոր անվանական ԱՄՆ դոլարներ",
                 "անվանական ԱՄՆ դոլար",
                 ""
               ]
@@ -3581,7 +3581,7 @@
             "title": "Units"
           },
           {
-            "name": "Series",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3591,7 +3591,7 @@
                 ""
               ]
             },
-            "title": "Շարքեր"
+            "title": "Կատեգորիա"
           },
           {
             "name": "Value",

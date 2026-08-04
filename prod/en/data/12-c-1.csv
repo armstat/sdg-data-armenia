@@ -1,16 +1,16 @@
-Year,Units,Series,Value
+Year,Units,Category,Value
 2015,%,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP,0.283
 2016,%,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP,0.196
 2017,%,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP,0.184
 2018,%,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP,0.035
 2019,%,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP,0.032
 2020,%,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP,0.092
-2015,billions of nominal USD,Fossil-fuel subsidies (consumption and production),0.032
-2016,billions of nominal USD,Fossil-fuel subsidies (consumption and production),0.022
-2017,billions of nominal USD,Fossil-fuel subsidies (consumption and production),0.022
-2018,billions of nominal USD,Fossil-fuel subsidies (consumption and production),0.004
-2019,billions of nominal USD,Fossil-fuel subsidies (consumption and production),0.004
-2020,billions of nominal USD,Fossil-fuel subsidies (consumption and production),0.012
+2015,billions of nominal United States dollars,Fossil-fuel subsidies (consumption and production),0.032
+2016,billions of nominal United States dollars,Fossil-fuel subsidies (consumption and production),0.022
+2017,billions of nominal United States dollars,Fossil-fuel subsidies (consumption and production),0.022
+2018,billions of nominal United States dollars,Fossil-fuel subsidies (consumption and production),0.004
+2019,billions of nominal United States dollars,Fossil-fuel subsidies (consumption and production),0.004
+2020,billions of nominal United States dollars,Fossil-fuel subsidies (consumption and production),0.012
 2015,nominal United States dollars,Fossil-fuel subsidies (consumption and production) per capita,10.8
 2016,nominal United States dollars,Fossil-fuel subsidies (consumption and production) per capita,7.5
 2017,nominal United States dollars,Fossil-fuel subsidies (consumption and production) per capita,7.6

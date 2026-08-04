@@ -20,14 +20,14 @@
             "constraints": {
               "enum": [
                 "%",
-                "billions of nominal USD",
+                "bn nominal USD",
                 "nominal USD",
                 ""
               ]
             }
           },
           {
-            "name": "Series",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
