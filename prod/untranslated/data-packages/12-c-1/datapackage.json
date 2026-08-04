@@ -27,7 +27,7 @@
             }
           },
           {
-            "name": "Category",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [

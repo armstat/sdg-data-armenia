@@ -29,7 +29,7 @@
             "title": "Units"
           },
           {
-            "name": "Category",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -39,7 +39,7 @@
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Ряды"
           },
           {
             "name": "Value",

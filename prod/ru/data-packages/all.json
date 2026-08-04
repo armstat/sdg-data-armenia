@@ -3581,7 +3581,7 @@
             "title": "Units"
           },
           {
-            "name": "Category",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3591,7 +3591,7 @@
                 ""
               ]
             },
-            "title": "Категория"
+            "title": "Ряды"
           },
           {
             "name": "Value",
@@ -6465,10 +6465,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Developing countries’ and least developed countries’ share of global merchandise exports",
+                "Доля развивающихся стран и наименее развитых стран в мировом товарном экспорте",
                 "Developing countries’ and least developed countries’ share of global services exports",
-                "Developing countries’ and least developed countries’ share of global merchandise imports",
-                "Developing countries’ and least developed countries’ share of global services imports",
+                "Доля развивающихся стран и наименее развитых стран в мировом импорте товаров",
+                "Доля развивающихся стран и наименее развитых стран в мировом импорте услуг",
                 ""
               ]
             },
@@ -6514,8 +6514,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Average tariff applied by developed countries, most-favored nation status, by type of product",
-                "Average tariff applied by developed countries, preferential status, by type of product",
+                "Средний тариф, применяемый развитыми странами, статус наиболее благоприятствуемой нации, по видам продуктов",
+                "Средний тариф, применяемый развитыми странами, преференциальный статус, по видам продуктов",
                 ""
               ]
             },
@@ -6677,10 +6677,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of project objectives in new development interventions drawn from country-led result frameworks - data by recipient",
-                "Proportion of results indicators drawn from country-led results frameworks - data by recipient",
-                "Proportion of results indicators which will be monitored using government sources and monitoring systems - data by recipient",
-                "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by recipient",
+                "Доля целей проекта в новых мероприятиях по развитию, разработанных на основе национальных рамок результатов — данные по получателям",
+                "Доля показателей результатов, полученных в рамках национальных программ оценки результатов — данные по получателям",
+                "Доля показателей результатов, которые будут отслеживаться с использованием государственных источников и систем мониторинга — данные по получателям",
+                "Степень использования страновыми системами оценки результатов и инструментами планирования поставщиками услуг в области сотрудничества в целях развития — данные по получателям",
                 ""
               ]
             },

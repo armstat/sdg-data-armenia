@@ -3581,7 +3581,7 @@
             "title": "Units"
           },
           {
-            "name": "Category",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3591,7 +3591,7 @@
                 ""
               ]
             },
-            "title": "Կատեգորիա"
+            "title": "Շարքեր"
           },
           {
             "name": "Value",
@@ -6465,10 +6465,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Developing countries’ and least developed countries’ share of global merchandise exports",
+                "Զարգացող երկրների և առավել թույլ զարգացած երկրների մասնաբաժինը ապրանքային գլոբալ արտահանման մեջ",
                 "Developing countries’ and least developed countries’ share of global services exports",
-                "Developing countries’ and least developed countries’ share of global merchandise imports",
-                "Developing countries’ and least developed countries’ share of global services imports",
+                "Զարգացող երկրների և առավել թույլ զարգացած երկրների մասնաբաժինը ապրանքների գլոբալ ներմուծման մեջ",
+                "Զարգացող երկրների և առավել թույլ զարգացած երկրների մասնաբաժինը ծառայությունների գլոբալ ներմուծման մեջ",
                 ""
               ]
             },
@@ -6514,8 +6514,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Average tariff applied by developed countries, most-favored nation status, by type of product",
-                "Average tariff applied by developed countries, preferential status, by type of product",
+                "Զարգացած երկրների կողմից կիրառվող միջին սակագին, առավել բարենպաստ ազգի կարգավիճակ, ըստ ապրանքի տեսակի",
+                "Զարգացած երկրների կողմից կիրառվող միջին սակագին, արտոնյալ կարգավիճակ, ըստ ապրանքի տեսակի",
                 ""
               ]
             },
@@ -6677,10 +6677,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of project objectives in new development interventions drawn from country-led result frameworks - data by recipient",
-                "Proportion of results indicators drawn from country-led results frameworks - data by recipient",
-                "Proportion of results indicators which will be monitored using government sources and monitoring systems - data by recipient",
-                "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by recipient",
+                "Երկրի կողմից ղեկավարվող արդյունքների շրջանակներից վերցված նոր զարգացման միջամտությունների նախագծային նպատակների համամասնությունը՝ տվյալներ ըստ ստացողի",
+                "Երկրի կողմից ղեկավարվող արդյունքների շրջանակներից վերցված արդյունքների ցուցանիշների համամասնությունը՝ տվյալներ ըստ ստացողի",
+                "Արդյունքների ցուցանիշների համամասնությունը, որոնք կմոնիթորինգի ենթարկվեն պետական աղբյուրների և մոնիթորինգի համակարգերի միջոցով՝ տվյալներ ըստ ստացողի",
+                "Զարգացման համագործակցության տրամադրողների կողմից երկրի սեփականության ներքո գտնվող արդյունքների շրջանակների և պլանավորման գործիքների օգտագործման աստիճանը - տվյալներ ըստ ստացողի",
                 ""
               ]
             },

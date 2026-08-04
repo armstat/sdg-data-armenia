@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Average tariff applied by developed countries, most-favored nation status, by type of product",
-                "Average tariff applied by developed countries, preferential status, by type of product",
+                "Զարգացած երկրների կողմից կիրառվող միջին սակագին, առավել բարենպաստ ազգի կարգավիճակ, ըստ ապրանքի տեսակի",
+                "Զարգացած երկրների կողմից կիրառվող միջին սակագին, արտոնյալ կարգավիճակ, ըստ ապրանքի տեսակի",
                 ""
               ]
             },
