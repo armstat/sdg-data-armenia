@@ -20,7 +20,7 @@
             "constraints": {
               "enum": [
                 "%",
-                "billions of nominal USD",
+                "bn nominal USD",
                 "nominal USD",
                 ""
               ]

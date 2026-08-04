@@ -3573,7 +3573,7 @@
             "constraints": {
               "enum": [
                 "%",
-                "billions of nominal USD",
+                "billions of nominal United States dollars",
                 "nominal United States dollars",
                 ""
               ]
