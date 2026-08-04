@@ -3290,7 +3290,7 @@
             }
           },
           {
-            "name": "Series",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
