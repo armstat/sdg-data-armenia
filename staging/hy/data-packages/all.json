@@ -6514,8 +6514,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Average tariff applied by developed countries, most-favored nation status, by type of product",
-                "Average tariff applied by developed countries, preferential status, by type of product",
+                "Զարգացած երկրների կողմից կիրառվող միջին սակագին, առավել բարենպաստ ազգի կարգավիճակ, ըստ ապրանքի տեսակի",
+                "Զարգացած երկրների կողմից կիրառվող միջին սակագին, արտոնյալ կարգավիճակ, ըստ ապրանքի տեսակի",
                 ""
               ]
             },
@@ -6677,10 +6677,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of project objectives in new development interventions drawn from country-led result frameworks - data by recipient",
-                "Proportion of results indicators drawn from country-led results frameworks - data by recipient",
-                "Proportion of results indicators which will be monitored using government sources and monitoring systems - data by recipient",
-                "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by recipient",
+                "Երկրի կողմից ղեկավարվող արդյունքների շրջանակներից վերցված նոր զարգացման միջամտությունների նախագծային նպատակների համամասնությունը՝ տվյալներ ըստ ստացողի",
+                "Երկրի կողմից ղեկավարվող արդյունքների շրջանակներից վերցված արդյունքների ցուցանիշների համամասնությունը՝ տվյալներ ըստ ստացողի",
+                "Արդյունքների ցուցանիշների համամասնությունը, որոնք կմոնիթորինգի ենթարկվեն պետական աղբյուրների և մոնիթորինգի համակարգերի միջոցով՝ տվյալներ ըստ ստացողի",
+                "Զարգացման համագործակցության տրամադրողների կողմից երկրի սեփականության ներքո գտնվող արդյունքների շրջանակների և պլանավորման գործիքների օգտագործման աստիճանը - տվյալներ ըստ ստացողի",
                 ""
               ]
             },
