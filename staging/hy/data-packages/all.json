@@ -6465,10 +6465,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Developing countries’ and least developed countries’ share of global merchandise exports",
+                "Զարգացող երկրների և առավել թույլ զարգացած երկրների մասնաբաժինը ապրանքային գլոբալ արտահանման մեջ",
                 "Developing countries’ and least developed countries’ share of global services exports",
-                "Developing countries’ and least developed countries’ share of global merchandise imports",
-                "Developing countries’ and least developed countries’ share of global services imports",
+                "Զարգացող երկրների և առավել թույլ զարգացած երկրների մասնաբաժինը ապրանքների գլոբալ ներմուծման մեջ",
+                "Զարգացող երկրների և առավել թույլ զարգացած երկրների մասնաբաժինը ծառայությունների գլոբալ ներմուծման մեջ",
                 ""
               ]
             },
