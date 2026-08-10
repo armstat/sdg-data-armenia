@@ -1,46 +1,46 @@
 Year,Value,Units,Series
-2010,52.917,mgr/m^3,ALL AREA
-2011,56.662,mgr/m^3,ALL AREA
-2012,52.872,mgr/m^3,ALL AREA
-2013,47.439,mgr/m^3,ALL AREA
-2014,42.963,mgr/m^3,ALL AREA
-2015,47.511,mgr/m^3,ALL AREA
-2016,41.97,mgr/m^3,ALL AREA
-2017,39.128,mgr/m^3,ALL AREA
-2018,38.466,mgr/m^3,ALL AREA
-2019,40.66,mgr/m^3,ALL AREA
-2020,35.253,mgr/m^3,ALL AREA
-2021,37.388,mgr/m^3,ALL AREA
-2022,34.045,mgr/m^3,ALL AREA
-2023,30.108,mgr/m^3,ALL AREA
-2010,60.099,mgr/m^3,CITY
-2011,64.869,mgr/m^3,CITY
-2012,60.722,mgr/m^3,CITY
-2013,54.279,mgr/m^3,CITY
-2014,49.207,mgr/m^3,CITY
-2015,54.62,mgr/m^3,CITY
-2016,47.845,mgr/m^3,CITY
-2017,45.017,mgr/m^3,CITY
-2018,44.307,mgr/m^3,CITY
-2019,46.7,mgr/m^3,CITY
-2020,40.957,mgr/m^3,CITY
-2021,42.816,mgr/m^3,CITY
-2022,39.399,mgr/m^3,CITY
-2023,34.882,mgr/m^3,CITY
-2010,35.842,mgr/m^3,RURAL
-2011,38.565,mgr/m^3,RURAL
-2012,35.92,mgr/m^3,RURAL
-2013,32.191,mgr/m^3,RURAL
-2014,29.167,mgr/m^3,RURAL
-2015,32.324,mgr/m^3,RURAL
-2016,28.575,mgr/m^3,RURAL
-2017,26.728,mgr/m^3,RURAL
-2018,26.206,mgr/m^3,RURAL
-2019,27.925,mgr/m^3,RURAL
-2020,24.179,mgr/m^3,RURAL
-2021,25.602,mgr/m^3,RURAL
-2022,23.45,mgr/m^3,RURAL
-2023,20.842,mgr/m^3,RURAL
+2010,52.917,mgr/m^3,All area
+2011,56.662,mgr/m^3,All area
+2012,52.872,mgr/m^3,All area
+2013,47.439,mgr/m^3,All area
+2014,42.963,mgr/m^3,All area
+2015,47.511,mgr/m^3,All area
+2016,41.97,mgr/m^3,All area
+2017,39.128,mgr/m^3,All area
+2018,38.466,mgr/m^3,All area
+2019,40.66,mgr/m^3,All area
+2020,35.253,mgr/m^3,All area
+2021,37.388,mgr/m^3,All area
+2022,34.045,mgr/m^3,All area
+2023,30.108,mgr/m^3,All area
+2010,60.099,mgr/m^3,City
+2011,64.869,mgr/m^3,City
+2012,60.722,mgr/m^3,City
+2013,54.279,mgr/m^3,City
+2014,49.207,mgr/m^3,City
+2015,54.62,mgr/m^3,City
+2016,47.845,mgr/m^3,City
+2017,45.017,mgr/m^3,City
+2018,44.307,mgr/m^3,City
+2019,46.7,mgr/m^3,City
+2020,40.957,mgr/m^3,City
+2021,42.816,mgr/m^3,City
+2022,39.399,mgr/m^3,City
+2023,34.882,mgr/m^3,City
+2010,35.842,mgr/m^3,rural
+2011,38.565,mgr/m^3,rural
+2012,35.92,mgr/m^3,rural
+2013,32.191,mgr/m^3,rural
+2014,29.167,mgr/m^3,rural
+2015,32.324,mgr/m^3,rural
+2016,28.575,mgr/m^3,rural
+2017,26.728,mgr/m^3,rural
+2018,26.206,mgr/m^3,rural
+2019,27.925,mgr/m^3,rural
+2020,24.179,mgr/m^3,rural
+2021,25.602,mgr/m^3,rural
+2022,23.45,mgr/m^3,rural
+2023,20.842,mgr/m^3,rural
 2010,48.344,mgr/m^3,Town and semi-dense area
 2011,51.621,mgr/m^3,Town and semi-dense area
 2012,48.41,mgr/m^3,Town and semi-dense area
@@ -55,17 +55,17 @@ Year,Value,Units,Series
 2021,34.722,mgr/m^3,Town and semi-dense area
 2022,31.62,mgr/m^3,Town and semi-dense area
 2023,28.117,mgr/m^3,Town and semi-dense area
-2010,55.163,mgr/m^3,URBAN
-2011,59.205,mgr/m^3,URBAN
-2012,55.482,mgr/m^3,URBAN
-2013,49.482,mgr/m^3,URBAN
-2014,44.765,mgr/m^3,URBAN
-2015,49.419,mgr/m^3,URBAN
-2016,43.599,mgr/m^3,URBAN
-2017,41.063,mgr/m^3,URBAN
-2018,40.152,mgr/m^3,URBAN
-2019,42.462,mgr/m^3,URBAN
-2020,36.771,mgr/m^3,URBAN
-2021,39.064,mgr/m^3,URBAN
-2022,35.483,mgr/m^3,URBAN
-2023,31.531,mgr/m^3,URBAN
+2010,55.163,mgr/m^3,urban
+2011,59.205,mgr/m^3,urban
+2012,55.482,mgr/m^3,urban
+2013,49.482,mgr/m^3,urban
+2014,44.765,mgr/m^3,urban
+2015,49.419,mgr/m^3,urban
+2016,43.599,mgr/m^3,urban
+2017,41.063,mgr/m^3,urban
+2018,40.152,mgr/m^3,urban
+2019,42.462,mgr/m^3,urban
+2020,36.771,mgr/m^3,urban
+2021,39.064,mgr/m^3,urban
+2022,35.483,mgr/m^3,urban
+2023,31.531,mgr/m^3,urban
