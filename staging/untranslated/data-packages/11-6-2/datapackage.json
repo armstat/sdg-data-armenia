@@ -33,7 +33,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mgr/m^3",
+                "µg/m3",
                 ""
               ]
             }
