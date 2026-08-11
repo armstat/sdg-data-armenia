@@ -2504,11 +2504,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ALL AREA",
-                "CITY",
-                "RURAL",
+                "All area",
+                "City",
+                "rural",
                 "Town and semi-dense area",
-                "URBAN",
+                "urban",
                 ""
               ]
             }
