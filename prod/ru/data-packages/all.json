@@ -1907,7 +1907,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 100,000 населения",
+                "per 100000 population",
                 "%",
                 ""
               ]
@@ -5104,7 +5104,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100 000 population",
+                "на 100,000 населения",
                 ""
               ]
             },
@@ -9381,7 +9381,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "на 100,000 населения",
+                "per 100000 population",
                 ""
               ]
             },

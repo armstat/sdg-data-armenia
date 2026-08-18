@@ -1907,7 +1907,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "100,000 բնակչի հաշվով",
+                "per 100000 population",
                 "%",
                 ""
               ]
@@ -5104,7 +5104,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100 000 population",
+                "100,000 բնակչի հաշվով",
                 ""
               ]
             },
@@ -9381,7 +9381,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "100,000 բնակչի հաշվով",
+                "per 100000 population",
                 ""
               ]
             },
