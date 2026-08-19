@@ -9978,7 +9978,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total (15-49)",
                 "total (15-59)",
                 "15-24",
                 "25-34",
