@@ -1,6 +1,6 @@
 Disaggregation,Number of indicators,Number of values
 Access to services,1,7
-Age,28,65
+Age,28,64
 Agency,2,7
 Branches/ATMs,1,2
 Category,48,111
@@ -10,7 +10,7 @@ Country,1,14
 Disaster type,6,6
 Division,1,10
 Education level,2,4
-Education type,2,14
+Education type,2,12
 Employed,1,2
 Employment status,1,10
 Financial Soundness Indicators,1,7

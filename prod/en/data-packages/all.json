@@ -10316,8 +10316,6 @@
                 "middle vocational",
                 "specialized high education, first stage (bachelor's Degree)",
                 "post-graduate education, second stage (master's Degree)",
-                "vocational higher education, first degree (bachelor's degree)",
-                "higher Education Second Degree (master's degree)",
                 ""
               ]
             },
@@ -10881,7 +10879,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total (15-49)",
                 "total (15-59)",
                 "15-24",
                 "25-34",

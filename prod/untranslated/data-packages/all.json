@@ -9462,8 +9462,6 @@
                 "specialized secondary education",
                 "specialized high education, first stage (bachelor's Degree)",
                 "post-graduate education, second stage (master's Degree)",
-                "specialized high education, first stage (bachelor's degree)",
-                "post-graduate education, second stage (master's degree)",
                 ""
               ]
             }
@@ -9980,7 +9978,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total (15-49)",
                 "total (15-59)",
                 "15-24",
                 "25-34",
@@ -12476,7 +12473,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "millions of constant 2024 United States dollars",
+                "mill constant 2024 USD",
                 ""
               ]
             }

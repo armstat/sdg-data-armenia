@@ -30,7 +30,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "millions of constant 2024 United States dollars",
+                "mill constant 2024 USD",
                 ""
               ]
             }
