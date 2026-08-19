@@ -33,7 +33,7 @@
             "constraints": {
               "enum": [
                 "%",
-                "million m3/year",
+                "миллион м3/год",
                 ""
               ]
             },
