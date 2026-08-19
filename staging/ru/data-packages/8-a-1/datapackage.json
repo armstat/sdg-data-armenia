@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "millions of constant 2024 United States dollars",
+                "млн долларов США в постоянных ценах 2024 года",
                 ""
               ]
             },
