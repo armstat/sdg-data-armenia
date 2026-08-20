@@ -4985,7 +4985,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Armenia",
+                "Армения",
                 ""
               ]
             },
