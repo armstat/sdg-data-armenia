@@ -4587,7 +4587,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mln.USD",
+                "mln. USD",
                 ""
               ]
             }
