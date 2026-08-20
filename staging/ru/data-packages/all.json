@@ -7337,7 +7337,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "millions of 2023 United States dollars",
+                "миллион долларов США 2023 года",
                 ""
               ]
             },
