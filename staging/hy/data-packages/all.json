@@ -8300,7 +8300,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -8308,7 +8308,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "000 uninfected population",
+                "1,000 չվարակված բնակչի հաշվով",
                 ""
               ]
             },

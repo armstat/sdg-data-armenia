@@ -8300,7 +8300,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Год"
           },
           {
@@ -8308,7 +8308,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "000 uninfected population",
+                "на 1,000 неинфицированного населения",
                 ""
               ]
             },
