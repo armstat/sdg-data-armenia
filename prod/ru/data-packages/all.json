@@ -1832,7 +1832,7 @@
             "constraints": {
               "enum": [
                 "Сфера 1. Права мигрантов",
-                "Domain 2.Whole of government/Evidence based policies",
+                "Сфера 2. Правительственная/основанная на фактах политики",
                 "Сфера 3. Сотрудничество и партнёрство",
                 "Сфера 4. Социально-экономическое благополучие",
                 "Сфера 5. Мобильность в условиях кризисов",
@@ -2856,7 +2856,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "yes=1,no=0",
+                "да=1, нет=0",
                 ""
               ]
             },
@@ -4950,7 +4950,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mln.USD",
+                "млн. долл. США",
                 ""
               ]
             },
@@ -4985,7 +4985,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Armenia",
+                "Армения",
                 ""
               ]
             },
@@ -4996,7 +4996,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mln.USD",
+                "млн. долл. США",
                 ""
               ]
             },
@@ -7337,7 +7337,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "millions of 2023 United States dollars",
+                "миллион долларов США 2023 года",
                 ""
               ]
             },
