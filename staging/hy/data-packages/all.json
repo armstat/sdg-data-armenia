@@ -8174,12 +8174,22 @@
               "enum": [
                 "տղա",
                 "աղջիկ",
+                ""
+              ]
+            },
+            "title": "Սեռ"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "քաղաք",
                 "գյուղ",
                 ""
               ]
             },
-            "title": "Սեռ"
+            "title": "Գտնվելու վայրը"
           },
           {
             "name": "Value",
