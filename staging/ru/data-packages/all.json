@@ -7229,14 +7229,24 @@
             "title": "Год"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 ""
               ]
             },
-            "title": "Группа"
+            "title": "Ряды"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

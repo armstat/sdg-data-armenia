@@ -6636,7 +6636,16 @@
             "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
