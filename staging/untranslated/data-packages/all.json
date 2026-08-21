@@ -4533,9 +4533,10 @@
           },
           {
             "name": "Group",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Armenia",
                 ""
               ]
             }
