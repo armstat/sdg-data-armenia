@@ -1072,7 +1072,7 @@
             "constraints": {
               "enum": [
                 "Direct economic loss attributed to disasters in relation to GDP",
-                "Direct agricultural loss attributed to disasters",
+                "Direct economic loss attributed to disasters",
                 "Direct economic loss in the housing sector attributed to disasters",
                 "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters",
                 "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters",
@@ -2392,7 +2392,7 @@
             "constraints": {
               "enum": [
                 "Direct economic loss attributed to disasters in relation to GDP",
-                "Direct agricultural loss attributed to disasters",
+                "Direct economic loss attributed to disasters",
                 "Direct economic loss in the housing sector attributed to disasters",
                 "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters",
                 "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters",
