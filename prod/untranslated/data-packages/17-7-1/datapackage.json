@@ -12,13 +12,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "Amount of tracked exported Environmentally Sound Technologies",
                 ""
               ]
             }
@@ -28,13 +29,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "USD",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       }

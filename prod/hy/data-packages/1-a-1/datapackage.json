@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI) DC_ODA_POVLG",
+                "Աղքատության նվազեցմանն ուղղված պաշտոնական զարգացման օգնության (ՊԶՕ) դրամաշնորհներ՝ ըստ ստացող երկրների (ՀՆԱ -ի տոկոսով)",
                 ""
               ]
             },

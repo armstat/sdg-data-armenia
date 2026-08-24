@@ -1293,7 +1293,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI) DC_ODA_POVLG",
+                "Աղքատության նվազեցմանն ուղղված պաշտոնական զարգացման օգնության (ՊԶՕ) դրամաշնորհներ՝ ըստ ստացող երկրների (ՀՆԱ -ի տոկոսով)",
                 ""
               ]
             },
@@ -1584,7 +1584,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "POSTFIS_CON_INC",
+                "Նախաֆիսկալ սպառման եկամուտ",
                 "Հետֆիսկալ  տնօրինվող եկամուտ",
                 "Նախաֆիսկալ եկամուտ",
                 ""
@@ -4670,8 +4670,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mountain Green Cover Index",
-                "Proportion of degraded mountain land",
+                "Լեռնային կանաչ ծածկույթի ինդեքս",
+                "Լեռնային դեգրադացված հողերի համամասնությունը",
                 ""
               ]
             },
@@ -7225,7 +7225,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Տարի"
           },
           {
@@ -7233,6 +7233,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "էկոլոգիապես մաքուր տեխնոլոգիաների արտահանման ծավալը",
                 ""
               ]
             },
@@ -7243,6 +7244,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "ԱՄՆ դոլար",
                 ""
               ]
             },
@@ -7250,7 +7252,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
