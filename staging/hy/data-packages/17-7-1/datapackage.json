@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Amount of tracked exported Environmentally Sound Technologies",
+                "էկոլոգիապես մաքուր տեխնոլոգիաների արտահանման ծավալը",
                 ""
               ]
             },
