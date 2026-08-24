@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI) DC_ODA_POVLG",
+                "Гранты официальной помощи в целях развития (ОПР), направленные на сокращение бедности, по странам-получателям (в процентах от валового национального дохода — ВНД)",
                 ""
               ]
             },
