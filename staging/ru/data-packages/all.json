@@ -7233,7 +7233,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Amount of tracked exported Environmentally Sound Technologies",
+                "Объем отслеживаемых экспортируемых экологически чистых технологий",
                 ""
               ]
             },
