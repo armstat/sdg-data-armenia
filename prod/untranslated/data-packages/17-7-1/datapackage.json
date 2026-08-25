@@ -20,6 +20,10 @@
             "constraints": {
               "enum": [
                 "Amount of tracked exported Environmentally Sound Technologies",
+                "Amount of tracked imported Environmentally Sound Technologies",
+                "Amount of tracked re-exported Environmentally Sound Technologies",
+                "Amount of tracked re-imported Environmentally Sound Technologies",
+                "Total trade of tracked Environmentally Sound Technologies",
                 ""
               ]
             }
@@ -35,8 +39,26 @@
             }
           },
           {
+            "name": "Unnamed: 4",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 5",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
