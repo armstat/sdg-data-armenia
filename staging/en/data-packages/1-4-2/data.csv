@@ -49,7 +49,7 @@ Year,Tenure_TYPE,Sex,Units,Value
 2015,Gratuitous use,male,case,59
 2015,Use of the residential premises,male,case,5
 2015,Servitude,male,case,5
-2015,Right of constructor or unauthorised buidlings,male,case,1091
+2015,Right of constructor or unauthorized buidlings,male,case,1091
 2015,Use,male,case,14
 2015,Having the right to purchase immovable property under construction,male,case,93
 2016,Ownership,male,case,34508
@@ -61,7 +61,7 @@ Year,Tenure_TYPE,Sex,Units,Value
 2016,A right to land development,male,case,570
 2016,Gratuitous use,male,case,79
 2016,Servitude,male,case,5
-2016,Right of constructor or unauthorised buidlings,male,case,1037
+2016,Right of constructor or unauthorized buidlings,male,case,1037
 2016,Having the right to purchase immovable property under construction,male,case,21
 2016,Use,male,case,380
 2016,Use of the residential premises,male,case,1
@@ -75,10 +75,10 @@ Year,Tenure_TYPE,Sex,Units,Value
 2017,Gratuitous use,male,case,66
 2017,Servitude,male,case,8
 2017,Trust management,male,case,2
-2017,Right of constructor or unauthorised buidlings,male,case,1133
+2017,Right of constructor or unauthorized buidlings,male,case,1133
 2017,Use,male,case,9
 2017,Having the right to purchase immovable property under construction,male,case,530
-2017,Use of unauthorised,male,case,2
+2017,Use of unauthorized,male,case,2
 2017,Use of the residential premises,male,case,2
 2018,Ownership,male,case,46585
 2018,Common jointly ownership,male,case,12801
@@ -91,7 +91,7 @@ Year,Tenure_TYPE,Sex,Units,Value
 2018,Use of the residential premises,male,case,2
 2018,Servitude,male,case,8
 2018,Trust management,male,case,1
-2018,Right of constructor or unauthorised buidlings,male,case,1682
+2018,Right of constructor or unauthorized buidlings,male,case,1682
 2018,Use,male,case,10
 2018,Having the right to purchase immovable property under construction,male,case,1139
 2019,Ownership,male,case,57327
@@ -104,10 +104,10 @@ Year,Tenure_TYPE,Sex,Units,Value
 2019,Gratuitous use,male,case,93
 2019,Use of the residential premises,male,case,5
 2019,Servitude,male,case,33
-2019,Right of constructor or unauthorised buidlings,male,case,1917
+2019,Right of constructor or unauthorized buidlings,male,case,1917
 2019,Use,male,case,17
 2019,Having the right to purchase immovable property under construction,male,case,3352
-2019,Use of unauthorised,male,case,1
+2019,Use of unauthorized,male,case,1
 2019,Trust management,male,case,1
 2020,Ownership,male,case,55119
 2020,Common jointly ownership,male,case,22596
@@ -119,10 +119,10 @@ Year,Tenure_TYPE,Sex,Units,Value
 2020,Gratuitous use,male,case,88
 2020,Use of the residential premises,male,case,3
 2020,Servitude,male,case,26
-2020,Right of constructor or unauthorised buidlings,male,case,1871
+2020,Right of constructor or unauthorized buidlings,male,case,1871
 2020,Use,male,case,32
 2020,Having the right to purchase immovable property under construction,male,case,6061
-2020,Use of unauthorised,male,case,4
+2020,Use of unauthorized,male,case,4
 2020,Trust management,male,case,1
 2021,Ownership,male,case,67894
 2021,Common jointly ownership,male,case,20941
@@ -134,12 +134,12 @@ Year,Tenure_TYPE,Sex,Units,Value
 2021,Gratuitous use,male,case,80
 2021,Use of the residential premises,male,case,3
 2021,Servitude,male,case,26
-2021,Right of constructor or unauthorised buidlings,male,case,1861
+2021,Right of constructor or unauthorized buidlings,male,case,1861
 2021,Use,male,case,12
 2021,Having the right to purchase immovable property under construction,male,case,9725
 2021,Trust management,male,case,1
 2021,Leasing,male,case,1
-2021,Use of unauthorised,male,case,27
+2021,Use of unauthorized,male,case,27
 2022,Ownership,male,case,77057
 2022,Common jointly ownership,male,case,20368
 2022,Common shared ownership,male,case,42337
@@ -151,11 +151,11 @@ Year,Tenure_TYPE,Sex,Units,Value
 2022,Use of the residential premises,male,case,1
 2022,Servitude,male,case,47
 2022,Trust management,male,case,1
-2022,Right of constructor or unauthorised buidlings,male,case,3034
+2022,Right of constructor or unauthorized buidlings,male,case,3034
 2022,Use,male,case,51
 2022,Having the right to purchase immovable property under construction,male,case,16726
 2022,Leasing,male,case,2
-2022,Use of unauthorised,male,case,11742
+2022,Use of unauthorized,male,case,11742
 2023,Ownership,male,case,65981
 2023,Common jointly ownership,male,case,19670
 2023,Common shared ownership,male,case,43443
@@ -167,11 +167,11 @@ Year,Tenure_TYPE,Sex,Units,Value
 2023,Use of the residential premises,male,case,2
 2023,Servitude,male,case,65
 2023,Trust management,male,case,5
-2023,Right of constructor or unauthorised buidlings,male,case,2971
+2023,Right of constructor or unauthorized buidlings,male,case,2971
 2023,Use,male,case,12
 2023,Having the right to purchase immovable property under construction,male,case,14335
 2023,Leasing,male,case,1
-2023,Use of unauthorised,male,case,7783
+2023,Use of unauthorized,male,case,7783
 2024,Ownership,male,case,72972
 2024,Common jointly ownership,male,case,16058
 2024,Common shared ownership,male,case,52621
@@ -183,10 +183,10 @@ Year,Tenure_TYPE,Sex,Units,Value
 2024,Use of the residential premises,male,case,2
 2024,Servitude,male,case,36
 2024,Trust management,male,case,3
-2024,Right of constructor or unauthorised buidlings,male,case,2848
+2024,Right of constructor or unauthorized buidlings,male,case,2848
 2024,Use,male,case,11
 2024,Having the right to purchase immovable property under construction,male,case,19556
-2024,Use of unauthorised,male,case,1693
+2024,Use of unauthorized,male,case,1693
 2015,Ownership,female,case,9514
 2015,Common jointly ownership,female,case,5116
 2015,Common shared ownership,female,case,8355
@@ -197,7 +197,7 @@ Year,Tenure_TYPE,Sex,Units,Value
 2015,Gratuitous use,female,case,16
 2015,Use of the residential premises,female,case,3
 2015,Servitude,female,case,6
-2015,Right of constructor or unauthorised buidlings,female,case,250
+2015,Right of constructor or unauthorized buidlings,female,case,250
 2015,Use,female,case,4
 2015,Having the right to purchase immovable property under construction,female,case,1
 2016,Ownership,female,case,10144
@@ -210,10 +210,10 @@ Year,Tenure_TYPE,Sex,Units,Value
 2016,Gratuitous use,female,case,22
 2016,Use of the residential premises,female,case,2
 2016,Servitude,female,case,2
-2016,Right of constructor or unauthorised buidlings,female,case,296
+2016,Right of constructor or unauthorized buidlings,female,case,296
 2016,Use,female,case,1
 2016,Having the right to purchase immovable property under construction,female,case,109
-2016,Use of unauthorised,female,case,1
+2016,Use of unauthorized,female,case,1
 2017,Ownership,female,case,11435
 2017,Common jointly ownership,female,case,5837
 2017,Common shared ownership,female,case,9784
@@ -224,7 +224,7 @@ Year,Tenure_TYPE,Sex,Units,Value
 2017,Gratuitous use,female,case,31
 2017,Use of the residential premises,female,case,2
 2017,Servitude,female,case,6
-2017,Right of constructor or unauthorised buidlings,female,case,325
+2017,Right of constructor or unauthorized buidlings,female,case,325
 2017,Use,female,case,6
 2017,Having the right to purchase immovable property under construction,female,case,66
 2018,Ownership,female,case,13959
@@ -236,10 +236,10 @@ Year,Tenure_TYPE,Sex,Units,Value
 2018,A right to land development,female,case,170
 2018,Gratuitous use,female,case,24
 2018,Servitude,female,case,2
-2018,Right of constructor or unauthorised buidlings,female,case,482
+2018,Right of constructor or unauthorized buidlings,female,case,482
 2018,Use,female,case,3
 2018,Having the right to purchase immovable property under construction,female,case,265
-2018,Use of unauthorised,female,case,1
+2018,Use of unauthorized,female,case,1
 2019,Ownership,female,case,16206
 2019,Common jointly ownership,female,case,9784
 2019,Common shared ownership,female,case,14682
@@ -250,10 +250,10 @@ Year,Tenure_TYPE,Sex,Units,Value
 2019,Gratuitous use,female,case,25
 2019,Use of the residential premises,female,case,3
 2019,Servitude,female,case,3
-2019,Right of constructor or unauthorised buidlings,female,case,563
+2019,Right of constructor or unauthorized buidlings,female,case,563
 2019,Use,female,case,5
 2019,Having the right to purchase immovable property under construction,female,case,843
-2019,Use of unauthorised,female,case,3
+2019,Use of unauthorized,female,case,3
 2020,Ownership,female,case,14938
 2020,Common jointly ownership,female,case,10786
 2020,Common shared ownership,female,case,13450
@@ -264,7 +264,7 @@ Year,Tenure_TYPE,Sex,Units,Value
 2020,Gratuitous use,female,case,25
 2020,Use of the residential premises,female,case,1
 2020,Servitude,female,case,5
-2020,Right of constructor or unauthorised buidlings,female,case,498
+2020,Right of constructor or unauthorized buidlings,female,case,498
 2020,Use,female,case,27
 2020,Having the right to purchase immovable property under construction,female,case,1776
 2021,Ownership,female,case,20720
@@ -278,10 +278,10 @@ Year,Tenure_TYPE,Sex,Units,Value
 2021,Use of the residential premises,female,case,3
 2021,Servitude,female,case,11
 2021,Trust management,female,case,1
-2021,Right of constructor or unauthorised buidlings,female,case,550
+2021,Right of constructor or unauthorized buidlings,female,case,550
 2021,Use,female,case,6
 2021,Having the right to purchase immovable property under construction,female,case,4599
-2021,Use of unauthorised,female,case,6
+2021,Use of unauthorized,female,case,6
 2022,Ownership,female,case,23063
 2022,Common jointly ownership,female,case,7935
 2022,Common shared ownership,female,case,25159
@@ -292,10 +292,10 @@ Year,Tenure_TYPE,Sex,Units,Value
 2022,Gratuitous use,female,case,143
 2022,Use of the residential premises,female,case,3
 2022,Servitude,female,case,6
-2022,Right of constructor or unauthorised buidlings,female,case,814
+2022,Right of constructor or unauthorized buidlings,female,case,814
 2022,Use,female,case,17
 2022,Having the right to purchase immovable property under construction,female,case,7157
-2022,Use of unauthorised,female,case,4006
+2022,Use of unauthorized,female,case,4006
 2023,Ownership,female,case,23685
 2023,Common jointly ownership,female,case,10031
 2023,Common shared ownership,female,case,28183
@@ -306,10 +306,10 @@ Year,Tenure_TYPE,Sex,Units,Value
 2023,Gratuitous use,female,case,37
 2023,Use of the residential premises,female,case,1
 2023,Servitude,female,case,14
-2023,Right of constructor or unauthorised buidlings,female,case,978
+2023,Right of constructor or unauthorized buidlings,female,case,978
 2023,Use,female,case,6
 2023,Having the right to purchase immovable property under construction,female,case,8652
-2023,Use of unauthorised,female,case,2701
+2023,Use of unauthorized,female,case,2701
 2024,Ownership,female,case,27090
 2024,Common jointly ownership,female,case,9957
 2024,Common shared ownership,female,case,37603
@@ -321,10 +321,10 @@ Year,Tenure_TYPE,Sex,Units,Value
 2024,Use of the residential premises,female,case,2
 2024,Servitude,female,case,10
 2024,Trust management,female,case,1
-2024,Right of constructor or unauthorised buidlings,female,case,1011
+2024,Right of constructor or unauthorized buidlings,female,case,1011
 2024,Use,female,case,5
 2024,Having the right to purchase immovable property under construction,female,case,14105
-2024,Use of unauthorised,female,case,456
+2024,Use of unauthorized,female,case,456
 2015,Ownership,neutral,case,1
 2016,Ownership,neutral,case,1
 2017,Common shared ownership,neutral,case,1
