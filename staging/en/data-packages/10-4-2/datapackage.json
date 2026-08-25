@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "POSTFIS_CON_INC",
+                "PREFIS_CON_INC",
                 "POSTFIS_DIS_INC",
                 "PREFIS_INC",
                 ""
