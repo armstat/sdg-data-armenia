@@ -924,11 +924,11 @@
                 "Gratuitous use",
                 "Use of the residential premises",
                 "Servitude",
-                "Right of constructor or unauthorised buidlings",
+                "Right of constructor or unauthorized buidlings",
                 "Use",
                 "Having the right to purchase immovable property under construction",
                 "Trust management",
-                "Use of unauthorised",
+                "Use of unauthorized",
                 "Leasing",
                 ""
               ]
@@ -7579,6 +7579,15 @@
               "enum": [
                 "boy",
                 "girl",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "urban",
                 "rural",
                 ""
@@ -7634,6 +7643,15 @@
               "enum": [
                 "boy",
                 "girl",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "urban",
                 "rural",
                 ""
