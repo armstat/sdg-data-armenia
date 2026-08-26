@@ -7634,6 +7634,15 @@
               "enum": [
                 "boy",
                 "girl",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "urban",
                 "rural",
                 ""
