@@ -8259,12 +8259,22 @@
               "enum": [
                 "мальчик",
                 "девочка",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "город",
                 "село",
                 ""
               ]
             },
-            "title": "Пол"
+            "title": "Место нахождения"
           },
           {
             "name": "Value",

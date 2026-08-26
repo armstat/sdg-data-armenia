@@ -8259,12 +8259,22 @@
               "enum": [
                 "boy",
                 "girl",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "urban",
                 "rural",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Location"
           },
           {
             "name": "Value",
