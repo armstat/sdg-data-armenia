@@ -2275,14 +2275,9 @@
           },
           {
             "name": "Quintiles",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "I-ին քվինտիլ",
-                "II-րդ քվինտիլ",
-                "III-րդ քվինտիլ",
-                "IV-րդ քվինտիլ",
-                "V-րդ քվինտիլ",
                 ""
               ]
             },
