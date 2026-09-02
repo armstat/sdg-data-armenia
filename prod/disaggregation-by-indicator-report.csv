@@ -24,8 +24,7 @@ Indicator,Disaggregations,Number of disaggregations
 #10-7-2,Policy area,1
 #10-7-4,Country,1
 #10-a-1,Type of product,1
-#11-1-1,"Sex, Location, Age, Type, Poverty, Quintiles",6
-#11-1-1-a,"Sex, Location, Category, Poverty, Quintiles",5
+#11-1-1,"Sex, Location, Age, Type, Poverty",5
 #11-2-1,"Sex, Age, Type",3
 #11-5-1,Disaster type,1
 #11-5-1-a,Disaster type,1

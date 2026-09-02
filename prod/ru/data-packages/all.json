@@ -2101,104 +2101,6 @@
       "title": "Стоимость перевода в процентном отношении\nк переводимой сумме\n"
     },
     {
-      "path": "11-1-1-a/data.csv",
-      "name": "11-1-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Год"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "город",
-                "село",
-                ""
-              ]
-            },
-            "title": "Место нахождения"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "мужчина",
-                "женщина",
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
-            "name": "Poverty",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "не бедный",
-                "бедный",
-                "крайне бедный",
-                ""
-              ]
-            },
-            "title": "Бедность"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "инвалиды",
-                ""
-              ]
-            },
-            "title": "Категория"
-          },
-          {
-            "name": "Quintiles",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "I-й квинтиль",
-                "II-ой квинтиль",
-                "III-й квинтиль",
-                "IV-й квинтиль",
-                "V-й квинтиль",
-                ""
-              ]
-            },
-            "title": "Квинтили"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Процент людей, проживающих в городских домохозяйствах с неудовлетворительными жилищными условиями (домик, временное жилище, помещения совместного проживания, другое приспособленное строение)"
-    },
-    {
       "path": "11-1-1/data.csv",
       "name": "11-1-1",
       "profile": "tabular-data-resource",
@@ -2275,14 +2177,9 @@
           },
           {
             "name": "Quintiles",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "I-й квинтиль",
-                "II-ой квинтиль",
-                "III-й квинтиль",
-                "IV-й квинтиль",
-                "V-й квинтиль",
                 ""
               ]
             },
@@ -2293,7 +2190,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "6-17 лет",
+                "0-17 лет",
                 "18-64 лет",
                 "65 и более лет",
                 ""

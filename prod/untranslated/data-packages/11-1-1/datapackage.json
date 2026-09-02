@@ -71,14 +71,9 @@
           },
           {
             "name": "Quintiles",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "I quintile",
-                "II quintile",
-                "III quintile",
-                "IV quintile",
-                "V quintile",
                 ""
               ]
             }
@@ -88,7 +83,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "aged 6-17 years",
+                "aged 0-17 years",
                 "aged 18-64 years",
                 "aged 65 and older",
                 ""
