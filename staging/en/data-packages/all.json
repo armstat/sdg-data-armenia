@@ -10551,8 +10551,6 @@
             "constraints": {
               "enum": [
                 "total",
-                "urban",
-                "rural",
                 "male",
                 "female",
                 ""
@@ -10571,6 +10569,18 @@
               ]
             },
             "title": "Age"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Location"
           },
           {
             "name": "Value",
