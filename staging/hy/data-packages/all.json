@@ -2116,24 +2116,12 @@
             "title": "Տարի"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "100,000 բնակչի հաշվով",
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
                 "Երևան",
-                "other urban",
+                "Այլ քաղաքային բնակավայրեր",
                 ""
               ]
             },

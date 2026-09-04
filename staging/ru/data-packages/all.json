@@ -2116,24 +2116,12 @@
             "title": "Год"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "на 100,000 населения",
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
                 "Ереван",
-                "other urban",
+                "Другие городские населённые пункты",
                 ""
               ]
             },
