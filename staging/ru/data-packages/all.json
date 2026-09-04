@@ -11045,6 +11045,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "hours",
                 ""
               ]
             },
@@ -11055,6 +11056,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "all days",
+                "weekdays",
+                "weekends",
                 ""
               ]
             },
@@ -11065,6 +11069,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "15-24",
+                "25-34",
+                "35-49",
+                "50-64",
+                "65-80",
                 ""
               ]
             },
@@ -11075,6 +11084,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "всего",
+                "women",
+                "men",
                 ""
               ]
             },
@@ -11085,6 +11097,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Армения",
+                "Ереван",
+                "Other Urban",
+                "Rural",
                 ""
               ]
             },
@@ -11095,6 +11111,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Занятые",
+                "Unemployed",
+                "Population outside the labour force",
                 ""
               ]
             },
@@ -11102,7 +11121,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]

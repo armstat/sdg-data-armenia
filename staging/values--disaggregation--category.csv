@@ -36,6 +36,7 @@ domestic material consumption per GDP,2,2
 domestic material consumption,2,2
 education,1,1
 electricity,1,1
+Employed,9,1
 equal to or greater than 10 Mbit/s,1,1
 equal to or greater than 2 Mbit/s and less than 10 Mbit/s,1,1
 equal to or greater than 256 kbit/s and less than 2 Mbit/s,1,1
@@ -79,6 +80,7 @@ physical and/or sexual violence,5,1
 physical violence,5,1
 physicians,1,1
 Plant genetic resources accessions stored ex situ,1,1
+Population outside the labour force,9,1
 POSTFIS_DIS_INC,1,1
 PREFIS_CON_INC,1,1
 PREFIS_INC,1,1
@@ -104,6 +106,7 @@ total to children aged 0-17 years with disabilities,3,1
 total to the population of respective age,5,1
 total to the total number of children with disabilities (aged 0-17 years),5,1
 total,2,1
+Unemployed,9,1
 wasting,3,1
 water supply,1,1
 with disabilities,4,4

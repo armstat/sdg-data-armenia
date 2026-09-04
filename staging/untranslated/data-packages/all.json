@@ -10129,6 +10129,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "hours",
                 ""
               ]
             }
@@ -10138,6 +10139,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "all days",
+                "weekdays",
+                "weekends",
                 ""
               ]
             }
@@ -10147,6 +10151,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "15-24",
+                "25-34",
+                "35-49",
+                "50-64",
+                "65-80",
                 ""
               ]
             }
@@ -10156,6 +10165,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "total",
+                "women",
+                "men",
                 ""
               ]
             }
@@ -10165,6 +10177,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Armenia",
+                "Yerevan",
+                "Other Urban",
+                "Rural",
                 ""
               ]
             }
@@ -10174,13 +10190,16 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Employed",
+                "Unemployed",
+                "Population outside the labour force",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
