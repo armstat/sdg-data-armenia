@@ -30,8 +30,6 @@
             "constraints": {
               "enum": [
                 "total",
-                "urban",
-                "rural",
                 "male",
                 "female",
                 ""
@@ -45,6 +43,17 @@
               "enum": [
                 "15-24",
                 "15+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
                 ""
               ]
             }

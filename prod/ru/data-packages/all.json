@@ -2116,24 +2116,12 @@
             "title": "Год"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "на 100,000 населения",
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
                 "Ереван",
-                "other urban",
+                "Другие городские населённые пункты",
                 ""
               ]
             },
@@ -10551,8 +10539,6 @@
             "constraints": {
               "enum": [
                 "всего",
-                "город",
-                "село",
                 "мужчина",
                 "женщина",
                 ""
@@ -10571,6 +10557,18 @@
               ]
             },
             "title": "Возраст"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "город",
+                "село",
+                ""
+              ]
+            },
+            "title": "Место нахождения"
           },
           {
             "name": "Value",
@@ -11035,6 +11033,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "hours",
                 ""
               ]
             },
@@ -11045,6 +11044,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "all days",
+                "weekdays",
+                "weekends",
                 ""
               ]
             },
@@ -11055,6 +11057,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "15-24",
+                "25-34",
+                "35-49",
+                "50-64",
+                "65-80",
                 ""
               ]
             },
@@ -11065,6 +11072,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "всего",
+                "women",
+                "men",
                 ""
               ]
             },
@@ -11075,6 +11085,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Армения",
+                "Ереван",
+                "Other Urban",
+                "Rural",
                 ""
               ]
             },
@@ -11085,6 +11099,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Занятые",
+                "Unemployed",
+                "Population outside the labour force",
                 ""
               ]
             },
@@ -11092,7 +11109,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]

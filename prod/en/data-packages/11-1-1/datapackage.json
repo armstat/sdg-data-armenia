@@ -16,24 +16,12 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "per 100,000 population",
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
                 "Yerevan",
-                "other urban",
+                "Other urban",
                 ""
               ]
             },

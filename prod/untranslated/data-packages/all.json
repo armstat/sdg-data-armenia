@@ -1946,23 +1946,12 @@
             "type": "integer"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "per 100,000 population",
-                "%",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
                 "Yerevan",
-                "other urban",
+                "Other urban",
                 ""
               ]
             }
@@ -9676,8 +9665,6 @@
             "constraints": {
               "enum": [
                 "total",
-                "urban",
-                "rural",
                 "male",
                 "female",
                 ""
@@ -9691,6 +9678,17 @@
               "enum": [
                 "15-24",
                 "15+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
                 ""
               ]
             }
@@ -10120,6 +10118,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "hours",
                 ""
               ]
             }
@@ -10129,6 +10128,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "all days",
+                "weekdays",
+                "weekends",
                 ""
               ]
             }
@@ -10138,6 +10140,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "15-24",
+                "25-34",
+                "35-49",
+                "50-64",
+                "65-80",
                 ""
               ]
             }
@@ -10147,6 +10154,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "total",
+                "women",
+                "men",
                 ""
               ]
             }
@@ -10156,6 +10166,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Armenia",
+                "Yerevan",
+                "Other Urban",
+                "Rural",
                 ""
               ]
             }
@@ -10165,13 +10179,16 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Employed",
+                "Unemployed",
+                "Population outside the labour force",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },

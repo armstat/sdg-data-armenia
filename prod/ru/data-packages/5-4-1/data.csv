@@ -1,1 +1,118 @@
-Year,Value
+Year,Units,Дни,Возраст,Пол,Место нахождения,Категория,Value
+2023-2024,hours,all days,,всего,,,3.07
+2023-2024,hours,weekdays,,всего,,,2.9
+2023-2024,hours,weekends,,всего,,,3.6
+2023-2024,hours,all days,,women,,,4.68
+2023-2024,hours,weekdays,,women,,,4.55
+2023-2024,hours,weekends,,women,,,5.05
+2023-2024,hours,all days,,men,,,1.05
+2023-2024,hours,weekdays,,men,,,0.92
+2023-2024,hours,weekends,,men,,,1.52
+2023-2024,hours,all days,15-24,всего,,,1.13
+2023-2024,hours,all days,25-34,всего,,,4.25
+2023-2024,hours,all days,35-49,всего,,,3.68
+2023-2024,hours,all days,50-64,всего,,,2.83
+2023-2024,hours,all days,65-80,всего,,,3.07
+2023-2024,hours,all days,15-24,women,,,1.77
+2023-2024,hours,all days,25-34,women,,,7.0
+2023-2024,hours,all days,35-49,women,,,5.33
+2023-2024,hours,all days,50-64,women,,,4.27
+2023-2024,hours,all days,65-80,women,,,4.3
+2023-2024,hours,all days,15-24,men,,,0.62
+2023-2024,hours,all days,25-34,men,,,1.22
+2023-2024,hours,all days,35-49,men,,,1.02
+2023-2024,hours,all days,50-64,men,,,1.12
+2023-2024,hours,all days,65-80,men,,,1.3
+2023-2024,hours,weekdays,15-24,всего,,,0.87
+2023-2024,hours,weekdays,25-34,всего,,,4.22
+2023-2024,hours,weekdays,35-49,всего,,,3.48
+2023-2024,hours,weekdays,50-64,всего,,,2.57
+2023-2024,hours,weekdays,65-80,всего,,,3.07
+2023-2024,hours,weekdays,15-24,women,,,1.35
+2023-2024,hours,weekdays,25-34,women,,,7.32
+2023-2024,hours,weekdays,35-49,women,,,5.2
+2023-2024,hours,weekdays,50-64,women,,,4.03
+2023-2024,hours,weekdays,65-80,women,,,4.32
+2023-2024,hours,weekdays,15-24,men,,,0.5
+2023-2024,hours,weekdays,25-34,men,,,1.1
+2023-2024,hours,weekdays,35-49,men,,,0.98
+2023-2024,hours,weekdays,50-64,men,,,0.8
+2023-2024,hours,weekdays,65-80,men,,,1.25
+2023-2024,hours,weekends,15-24,всего,,,1.98
+2023-2024,hours,weekends,25-34,всего,,,4.37
+2023-2024,hours,weekends,35-49,всего,,,4.33
+2023-2024,hours,weekends,50-64,всего,,,3.65
+2023-2024,hours,weekends,65-80,всего,,,3.05
+2023-2024,hours,weekends,15-24,women,,,3.07
+2023-2024,hours,weekends,25-34,women,,,6.25
+2023-2024,hours,weekends,35-49,women,,,5.72
+2023-2024,hours,weekends,50-64,women,,,4.97
+2023-2024,hours,weekends,65-80,women,,,4.23
+2023-2024,hours,weekends,15-24,men,,,1.03
+2023-2024,hours,weekends,25-34,men,,,1.65
+2023-2024,hours,weekends,35-49,men,,,1.22
+2023-2024,hours,weekends,50-64,men,,,2.08
+2023-2024,hours,weekends,65-80,men,,,1.42
+2023-2024,hours,all days,,всего,Армения,,3.07
+2023-2024,hours,all days,,всего,Ереван,,3.03
+2023-2024,hours,all days,,всего,Other Urban,,3.43
+2023-2024,hours,all days,,всего,Rural,,2.97
+2023-2024,hours,all days,,women,Армения,,4.68
+2023-2024,hours,all days,,women,Ереван,,4.42
+2023-2024,hours,all days,,women,Other Urban,,4.93
+2023-2024,hours,all days,,women,Rural,,4.75
+2023-2024,hours,all days,,men,Армения,,1.05
+2023-2024,hours,all days,,men,Ереван,,1.18
+2023-2024,hours,all days,,men,Other Urban,,1.22
+2023-2024,hours,all days,,men,Rural,,0.92
+2023-2024,hours,weekdays,,всего,Армения,,2.9
+2023-2024,hours,weekdays,,всего,Ереван,,3.02
+2023-2024,hours,weekdays,,всего,Other Urban,,3.33
+2023-2024,hours,weekdays,,всего,Rural,,2.68
+2023-2024,hours,weekdays,,women,Армения,,4.55
+2023-2024,hours,weekdays,,women,Ереван,,4.42
+2023-2024,hours,weekdays,,women,Other Urban,,4.88
+2023-2024,hours,weekdays,,women,Rural,,4.5
+2023-2024,hours,weekdays,,men,Армения,,0.92
+2023-2024,hours,weekdays,,men,Ереван,,1.17
+2023-2024,hours,weekdays,,men,Other Urban,,1.02
+2023-2024,hours,weekdays,,men,Rural,,0.75
+2023-2024,hours,weekends,,всего,Армения,,3.6
+2023-2024,hours,weekends,,всего,Ереван,,3.05
+2023-2024,hours,weekends,,всего,Other Urban,,3.72
+2023-2024,hours,weekends,,всего,Rural,,4.03
+2023-2024,hours,weekends,,women,Армения,,5.05
+2023-2024,hours,weekends,,women,Ереван,,4.43
+2023-2024,hours,weekends,,women,Other Urban,,5.07
+2023-2024,hours,weekends,,women,Rural,,5.55
+2023-2024,hours,weekends,,men,Армения,,1.52
+2023-2024,hours,weekends,,men,Ереван,,1.23
+2023-2024,hours,weekends,,men,Other Urban,,1.72
+2023-2024,hours,weekends,,men,Rural,,1.68
+2023-2024,hours,all days,,всего,,Занятые,1.68
+2023-2024,hours,all days,,всего,,Unemployed,4.32
+2023-2024,hours,all days,,всего,,Population outside the labour force,4.25
+2023-2024,hours,all days,,women,,Занятые,3.07
+2023-2024,hours,all days,,women,,Population outside the labour force,6.28
+2023-2024,hours,all days,,women,,Unemployed,5.32
+2023-2024,hours,all days,,men,,Занятые,0.75
+2023-2024,hours,all days,,men,,Unemployed,2.1
+2023-2024,hours,all days,,men,,Population outside the labour force,1.28
+2023-2024,hours,weekdays,,всего,,Занятые,1.35
+2023-2024,hours,weekdays,,всего,,Unemployed,4.23
+2023-2024,hours,weekdays,,всего,,Population outside the labour force,4.3
+2023-2024,hours,weekdays,,women,,Занятые,2.58
+2023-2024,hours,weekdays,,women,,Unemployed,6.23
+2023-2024,hours,weekdays,,women,,Population outside the labour force,5.37
+2023-2024,hours,weekdays,,men,,Занятые,0.6
+2023-2024,hours,weekdays,,men,,Unemployed,1.98
+2023-2024,hours,weekdays,,men,,Population outside the labour force,1.25
+2023-2024,hours,weekends,,всего,,Занятые,2.8
+2023-2024,hours,weekends,,всего,,Unemployed,4.52
+2023-2024,hours,weekends,,всего,,Population outside the labour force,4.1
+2023-2024,hours,weekends,,women,,Занятые,4.45
+2023-2024,hours,weekends,,women,,Unemployed,6.4
+2023-2024,hours,weekends,,women,,Population outside the labour force,5.13
+2023-2024,hours,weekends,,men,,Занятые,1.37
+2023-2024,hours,weekends,,men,,Unemployed,2.38
+2023-2024,hours,weekends,,men,,Population outside the labour force,1.38
