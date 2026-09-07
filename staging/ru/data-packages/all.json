@@ -11033,7 +11033,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "hours",
+                "часы",
                 ""
               ]
             },
