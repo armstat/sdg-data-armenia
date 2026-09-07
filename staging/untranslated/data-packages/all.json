@@ -10155,8 +10155,8 @@
             "constraints": {
               "enum": [
                 "total",
-                "women",
-                "men",
+                "female",
+                "male",
                 ""
               ]
             }
