@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "hours",
+                "часы",
                 ""
               ]
             },
@@ -60,8 +60,8 @@
             "constraints": {
               "enum": [
                 "всего",
-                "women",
-                "men",
+                "женщина",
+                "мужчина",
                 ""
               ]
             },

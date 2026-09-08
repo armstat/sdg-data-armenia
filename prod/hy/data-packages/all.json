@@ -11033,7 +11033,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "hours",
+                "ժամեր",
                 ""
               ]
             },
@@ -11073,8 +11073,8 @@
             "constraints": {
               "enum": [
                 "ընդամենը",
-                "women",
-                "men",
+                "կին",
+                "տղամարդ",
                 ""
               ]
             },
