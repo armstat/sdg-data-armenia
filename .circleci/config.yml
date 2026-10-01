@@ -3,12 +3,14 @@ version: 2.1
 jobs:
   test:
     docker:
-      - image: circleci/python:3.10
+      - image: cimg/python:3.10
     working_directory: ~/repo
     steps:
       - checkout
       - restore_cache:
-          key: test-dependencies-v2-{{ checksum "scripts/requirements.txt" }}
+          keys:
+            - pip-dependencies-v2-{{ checksum "scripts/requirements.txt" }}
+            - pip-dependencies-v2-
       - run:
           name: Install Python dependencies
           command: |
@@ -16,9 +18,9 @@ jobs:
             . venv/bin/activate
             pip install -r scripts/requirements.txt
       - save_cache:
-          key: test-dependencies-v2-{{ checksum "scripts/requirements.txt" }}
+          key: pip-dependencies-v2-{{ checksum "scripts/requirements.txt" }}
           paths:
-            - ./venv
+            - ~/.cache/pip
       - run:
           name: Check user permissions
           command: |
