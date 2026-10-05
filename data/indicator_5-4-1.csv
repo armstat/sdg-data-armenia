@@ -55,40 +55,40 @@ Year,Units,Days,Age,Sex,Location,Category,Value
 2023-2024,hours,weekends,65-80,male,,,1.42
 2023-2024,hours,all days,,total,Armenia,,3.07
 2023-2024,hours,all days,,total,Yerevan,,3.03
-2023-2024,hours,all days,,total,Other Urban,,3.43
-2023-2024,hours,all days,,total,Rural,,2.97
+2023-2024,hours,all days,,total,Other уrban,,3.43
+2023-2024,hours,all days,,total,rural,,2.97
 2023-2024,hours,all days,,female,Armenia,,4.68
 2023-2024,hours,all days,,female,Yerevan,,4.42
-2023-2024,hours,all days,,female,Other Urban,,4.93
-2023-2024,hours,all days,,female,Rural,,4.75
+2023-2024,hours,all days,,female,Other urban,,4.93
+2023-2024,hours,all days,,female,rural,,4.75
 2023-2024,hours,all days,,male,Armenia,,1.05
 2023-2024,hours,all days,,male,Yerevan,,1.18
-2023-2024,hours,all days,,male,Other Urban,,1.22
-2023-2024,hours,all days,,male,Rural,,0.92
+2023-2024,hours,all days,,male,Other urban,,1.22
+2023-2024,hours,all days,,male,rural,,0.92
 2023-2024,hours,weekdays,,total,Armenia,,2.9
 2023-2024,hours,weekdays,,total,Yerevan,,3.02
-2023-2024,hours,weekdays,,total,Other Urban,,3.33
-2023-2024,hours,weekdays,,total,Rural,,2.68
+2023-2024,hours,weekdays,,total,Other urban,,3.33
+2023-2024,hours,weekdays,,total,rural,,2.68
 2023-2024,hours,weekdays,,female,Armenia,,4.55
 2023-2024,hours,weekdays,,female,Yerevan,,4.42
-2023-2024,hours,weekdays,,female,Other Urban,,4.88
-2023-2024,hours,weekdays,,female,Rural,,4.5
+2023-2024,hours,weekdays,,female,Other urban,,4.88
+2023-2024,hours,weekdays,,female,rural,,4.5
 2023-2024,hours,weekdays,,male,Armenia,,0.92
 2023-2024,hours,weekdays,,male,Yerevan,,1.17
-2023-2024,hours,weekdays,,male,Other Urban,,1.02
-2023-2024,hours,weekdays,,male,Rural,,0.75
+2023-2024,hours,weekdays,,male,Other urban,,1.02
+2023-2024,hours,weekdays,,male,rural,,0.75
 2023-2024,hours,weekends,,total,Armenia,,3.6
 2023-2024,hours,weekends,,total,Yerevan,,3.05
-2023-2024,hours,weekends,,total,Other Urban,,3.72
-2023-2024,hours,weekends,,total,Rural,,4.03
+2023-2024,hours,weekends,,total,Other urban,,3.72
+2023-2024,hours,weekends,,total,rural,,4.03
 2023-2024,hours,weekends,,female,Armenia,,5.05
 2023-2024,hours,weekends,,female,Yerevan,,4.43
-2023-2024,hours,weekends,,female,Other Urban,,5.07
-2023-2024,hours,weekends,,female,Rural,,5.55
+2023-2024,hours,weekends,,female,Other urban,,5.07
+2023-2024,hours,weekends,,female,rural,,5.55
 2023-2024,hours,weekends,,male,Armenia,,1.52
 2023-2024,hours,weekends,,male,Yerevan,,1.23
-2023-2024,hours,weekends,,male,Other Urban,,1.72
-2023-2024,hours,weekends,,male,Rural,,1.68
+2023-2024,hours,weekends,,male,Other urban,,1.72
+2023-2024,hours,weekends,,male,rural,,1.68
 2023-2024,hours,all days,,total,,Employed,1.68
 2023-2024,hours,all days,,total,,Unemployed,4.32
 2023-2024,hours,all days,,total,,Population outside the labour force,4.25
