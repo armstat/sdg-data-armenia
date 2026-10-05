@@ -11044,9 +11044,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "all days",
-                "weekdays",
-                "weekends",
+                "Բոլոր օրերը",
+                "Աշխատանքային օրեր",
+                "Հանգստյան օրեր",
                 ""
               ]
             },
@@ -11100,8 +11100,8 @@
             "constraints": {
               "enum": [
                 "Զբաղվածներ",
-                "Unemployed",
-                "Population outside the labour force",
+                "Գործազուրկ",
+                "Աշխատուժից դուրս գտնվող բնակչություն",
                 ""
               ]
             },
