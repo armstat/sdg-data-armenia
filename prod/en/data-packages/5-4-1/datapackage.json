@@ -74,8 +74,9 @@
               "enum": [
                 "Armenia",
                 "Yerevan",
-                "Other Urban",
-                "Rural",
+                "Other уrban",
+                "rural",
+                "Other urban",
                 ""
               ]
             },

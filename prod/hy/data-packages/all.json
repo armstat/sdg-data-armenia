@@ -11044,9 +11044,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "all days",
-                "weekdays",
-                "weekends",
+                "Բոլոր օրերը",
+                "Աշխատանքային օրեր",
+                "Հանգստյան օրեր",
                 ""
               ]
             },
@@ -11087,8 +11087,9 @@
               "enum": [
                 "Հայաստան",
                 "Երևան",
-                "Other Urban",
-                "Rural",
+                "Other уrban",
+                "գյուղ",
+                "Այլ քաղաքային բնակավայրեր",
                 ""
               ]
             },
@@ -11100,8 +11101,8 @@
             "constraints": {
               "enum": [
                 "Զբաղվածներ",
-                "Unemployed",
-                "Population outside the labour force",
+                "Գործազուրկ",
+                "Աշխատուժից դուրս գտնվող բնակչություն",
                 ""
               ]
             },

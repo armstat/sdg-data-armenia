@@ -11044,9 +11044,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "all days",
-                "weekdays",
-                "weekends",
+                "Все дни",
+                "рабочие дни",
+                "выходные дни",
                 ""
               ]
             },
@@ -11087,8 +11087,9 @@
               "enum": [
                 "Армения",
                 "Ереван",
-                "Other Urban",
-                "Rural",
+                "Other уrban",
+                "село",
+                "Другие городские населённые пункты",
                 ""
               ]
             },
@@ -11100,8 +11101,8 @@
             "constraints": {
               "enum": [
                 "Занятые",
-                "Unemployed",
-                "Population outside the labour force",
+                "Безработный",
+                "Население, не входящее в состав рабочей силы",
                 ""
               ]
             },
