@@ -21,7 +21,6 @@
             "constraints": {
               "enum": [
                 "Number of patients with leishmaniasis",
-                "Case of death from leishmaniosis",
                 ""
               ]
             },
@@ -33,7 +32,6 @@
             "constraints": {
               "enum": [
                 "person",
-                "case",
                 ""
               ]
             },
